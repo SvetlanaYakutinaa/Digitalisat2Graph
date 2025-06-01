@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <!--Titel muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <title/>
+        <!--Autor muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <author/>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <!--Date muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <date/>
+        <!--Ref muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <ref/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <!--Erscheinungsjahr muss definiert werden-->
+            <!--Seiten müssen definiert werden-->
+            <biblScope unit="issue"/>
+            <biblScope unit="page"/>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="973"/>
+        <p>973 3öebenslauf der am 17. Juli 1884 in Herrnhut ſelig entſchlaſenen verwitweten Schweſter Sophie Erneſtine Suhl geborenen Krüger An mir und meinem Leben Iſt nichts auf dieſer Erd Was Chriſtus mir gegeben Das iſt der Liebe wert Chriſti Blut und Gerechtigkeit Das iſt mein Schmud und Ehrenkleid ; Damit will ic vor Gott beſtehn Wenn ich in Himmel werd eingehen Dieſe Verſe enthalten den Ausdruck meiner Gefühle im Bli auf das Ende meines Glaubenslaufes. Lieber ſchwiege ich ganz in bezug auf die Erfahrungen meines Lebens; wenn ich es dennoch verſuche einiges daraus zuſammenzuſtellen fo erfülle ich damit einen dringenden Wunſch meiner Kinder und gedenke dabei des reichen Segens den mir das Leſen von Lebensläufen heimgegangener Geſchwiſter ausgetragen hat. In Bethanien auf St. Jan in Weſtindien wo meine Eltern: Ernſt Krüger und Marie geb. Thorſen im Miſſionsdienſt ſtanden wurde im am 9. Mai 1817 geboren und einige Tage darauf in der heiligen Taufe dem Heiland zum ewigen Eigentum übergeben. Als ih kaum 5 Monate alt war erkrankten meine lieben Eltern am gelben Fieber und ſtarben kurz hinter einander. Als eine hilfloſe Waiſe nahmen mich Geſchw. Hohe zu fih und pflegten mich mit</p>
+        <pb n="974"/>
+        <p>974 großer Treue und Liebe bis zu meinem 3. Lebensjahre. Geſchw. Sießen in Niesky bei welchen meine ſelige Mutter früher gedient hatte erboten ſich mich in ihr Haus aufzunehmen infolge deſſen ih) Ende Juni 1820 unter der Leitung des Miſſionar Glöckler als jüngſtes Glied der Reifegefelfchaft nach Europa gebracht wurde. Dieſe von ſchweren Erfahrungen begleitete Reiſe bildet ein wichtiges Ereignis in meinem Leben. Schw. Glöler erkrankte unterwegs am Fieber mit ihrer Tochter Anna und wurde im Alter von 41 Jahren auf eine liebliche Weiſe vollendet. Am 9. Aug. erreichten wir England und eine Woche ſpäter gelangten wir in die Nordſee. Unſer Schiff hatte das Unglüd in einer beſonders dunklen und ſtürmiſchen Nacht auf ein Felſenriff zu ſtoßen ſodaß die Reiſegeſellſchaft ſim eiligſt in das Rettungsboot flüchten mußte. Während die übrigen Kinder mit vieler Anſtrengung im Boot untergebracht worden waren hatte man mich das jüngſte in einer She des Schiffes zurücdgelaffen. Nur durch das Zählen der Köpfe der geretteten Paſſagiere wurde man auf mein Fehlen aufmerkſam: Der Kapitän fand mich ruhig auf einer Bank fißend obſchon das Waſſer bereits unter meinen Füßen ſtand. Ein Max troſe erfaßte mich und warf mich dem Br. Glödler in die Arme; kurze Zeit darauf verſank das Schiff in die Tiefe Am 17. Auguſt vormittags 11 Uhr erreichten wir glücklich nach 12 angſtvollen Stunden die holländiſche Küſte Ter Schelling. So fand der Lehrtext dieſes Tages? Es iſt vor eurem Vater im Himmel nicht der Wille daß je mand von dieſen Kleinen verloren werde&quot; feine buchftäbliche Erfüllung. Von Geſchw. Ziegen in Niesky wurde ich mit der herzlichſten Liebe aufgenommen als wäre ich ihr</p>
+        <pb n="975"/>
+        <p>975 eigenes Kind geweſen und blieb hier bis 1824 in welchem Jahr ich in die Anſtalt zu Kleinwelfe eins geführt wurde. Dafelbft verbrachte ich ſehr vergnügte und ich glaube hinzufügen zu können für mein inne res Leben recht förderliche Jahre. Das Lernen fiel mir ſchwerer als vielen anderen Kindern wodurch ich in einen kindlichen Gebetöumgang mit meinem Heiland getrieben wurde Zu beſonderem Segen für mein Herz gereichte mir die Feier des 100jährigen Kinderfeftes. Am 4. Juni 1830 kam ich in das Chor der größeren Mädchen und zog nun auf Ber: anlaſſung der Geſchw. Sießen wieder nach Niesky. Im Jahr 1832 wurde ich dur den ſel. Br. Levin Reichel confirmiert. Der Eindrud den der erſtmalige Genuß des heil. Abendmahls auf mich machte befriedigte mich nicht völlig da ich erwartet hatte einen viel nachhaltigeren Segen in meinem Herzen zu verſpüren. Vierzehn Tage nach meiner Konfirmation entſchlief zu meiner tiefen Betrübnis mein inniggeliebter Pflegevater Br. Tießen worauf ſeine Witwe mit mir nady Herrnhut überſiedelte Bei Gelegenheit meiner Aufnahme in die Gemeine 1834 und des Eintritts in das Schmwefterndhor weihete ih) mich aufs neue meinem Herrn und Heiland der mich bis daher ſo gnädiglich geleitet hatte. Leider aber meldete ſich bald der böſe Feind und ſuchte meine Herzenösgemeinſchaft mit meinem himmliſchen Freund zu ſtören doch Gott Lob daß Seine Gnadenhand mich wieder ſuchte zu ſich zog und fand. Meine Berufung als Mädchens vorgeſeßte im Alter von 20 Jahren gab mir im Blick auf meine Jugend und Unerfahrenheit viel Stoff zu ernſter Selbſtprüfung. Nur im feſten Vertrauen darauf daß Seine Kraft in meiner Schwachheit mächtig ſein werde nahm ich das mir angetragene Amt an. Er erhörte mein Flehen und führte mir in den</p>
+        <pb n="976"/>
+        <p>976 Schweſtern Eliſe Walder und Dorothea Graf zwei liebe Kolleginnen zu in deren Umgang ich reiche Anregung und Belehrung fand: Dabei blieben freilich mancherlei recht niederbeugende Erfahrungen nicht aus die mich immer wieder ins Gebet führten und dadurd für mein inneres Leben nicht fruchtlos waren. Einem im Jahr 1839 an mich ergangenen Ruf als Lehrerin in der Anſtalt in Neufalz einzutreten folgte ich mit Freuden da ich mir gerade dieſe Thätigkelt an der Jugend gewünſcht hakte und mir ausſprechen mußte daß ich die in damaliger Zeit ſehr beliebte Buntſtik kerei welche in Herrnhut meine ſpecielle Beſchäftigung bildete und nicht ſelten den Werluſt der Nachtruhe forderte auf die Dauer nicht würde aushalten können. Sch glaube daß dieſe anſtrengende Arbeit den Grund gelegt hat zu der großen Nervenſ&lt;wäche welche mir in meinem ſpäteren Leben ſo viel Schmerzen und Unruhe verurſacht hat; denn bis dahin hatte ich mich einer guten Geſundheit erfreuen dürfen. Im September des genannten Jahres in Neuſalz angekommen fand ich meine Thätigkeit alsbald auf der von 16 bis 19 jährigen Mädchen bewohnten erſten Stube. Da hatte ich Gelegenheit mich von meiner Untüchtigkeit ſo recht gründlich zu überzeugen; oft war ich der Verzweiflung nahe doch mein ſtarker Heiland richtete mich immer wieder auf und ließ mich in den erweklichen Reden des ſel. Br. Dober reichen Troſt und Erquikung finden. Das Seelen: heil der mir anvertrauten Kinder lag mir beſonders am Herzen um ſo trauriger ſtimmte mich die Wahr: nehmung daß die Mehrzahl der Kinder troß der vielen ihnen dargebotenen Anregungen fo wenig Empfänglichkeit für geiſtlichen Zufprudy zeigte. Die mir im allgemeinen ſo liebe Thätigkeit in Neuſalz wurde mir und anderen leider verbiktert und ſehr erſchwert durch</p>
+        <pb n="977"/>
+        <p>1 977 den ungünſtigen Einfluß den eine meiner Kolleginnen auf den Geiſt des Lehrerinnen Kreiſes ausübte Im November 1844 folgte ih nach Anleitung des Loſes einem Ruf des Herrn als Mitarbeiterin des Schmefterns Chores in Gnadenberg mußte aber bald erfahren daß dieſe Anſtellung nur als Mittel in der Hand meines Gottes dienen ſollte meinen Gehorſam in Seine Wege zu prüfenz denn kaum war ich in Gnadenberg angekommen und zu meinem neuen Amt eingefegnet worden ſo erhielt ich den ebenfalls durcch) das Los beſtätigten Antrag mit dem als Miſſionar nach Süd Afrika berufenen bisherigen Brüderpfleger in Neuſalz Br. Daniel Wilhelm Suhl in die Ehe zu treten Nach langem Ringen und Beten um Erleuchtung von Oben fand ich Freudigkeit Br. Suhl mein JaWort zu geben. Am 10 Januar 1845 wurden wir in Niesky verlobt während unſere Srauung infolge ſeines mehrmonatlichen Aufenthalts in England erſt am 22. Juni flatt: finden konnte: Wir verbanden uns gemeinſam in dem Entſchluß nur für den Herrn zu leben und auf dem neuen Arbeitsfeld Ihm treulich zu dienen. Nach einem ſehr ſchmerzlichen Abſchied von der 70jährigen Mutter meines lieben Mannes die fi) nur ſehr ſchwer in dieſe Berufung ihres Sohnes finden konnte meiner lieben Pflegemutter Tießen und ſo vieler treuer Freunde traten wir unſere Reiſe nah Süd: Afrika über England an. Hier brechen leider ſchreibt ihre hinterlaſſene Tochter die eigenhändigen Mitteilungen meiner teuren Mutter ab zu deren Vervollſtändigung ich nur folgendes Wenige beitragen kann. Am 3 Oktober 1845 glü&gt;lich) in der Kapſtadt angekommen reiſten meine ſeligen Eltern nach kurzem</p>
+        <pb n="978"/>
+        <p>978 Aufenthalt in Groenefloof wo der Vater feinen erſten holländiſchen Vortrag hielt in Begleitung der Gefchwifter Klinghardt nach Gnadenthal ihrem Beſtimmungsort und langten daſelbſt am 22. Oktober an. Zunächſt mußte es meine liebe Mutter als ihre Haupt: aufgabe anſehen den im Anfang feiner Thätigkeit an Geiſt und Körper ſehr gedrüdten Vater der das . Halten einer großen Mädchenſchule mit 170 Kindern interimiſtiſch übernommen hatte nad Möglichkeit auf: zuheitern und zu unterſtüßen. In den nun folgen: den Jahren durfte ſie mit inniger Freude erkennen welchen Segen der Herr auf die unermüdete Arbeit ihres Gatten legte nicht allein an der Gehilfenſchule deren Leitung ihm 1853 aufgetragen wurde ſondern audh an der Gnadenthaler Gemeine deren Wohl und Wehe er auf dem Herzen trug. Die 13jährige glüdliche Ehe meiner Eltern wurde durch die Geburt von 7 Kindern geſegnet von welchen der Herr ſecchs im zarteften Alter wieder zu Sich nahm Bei dieſen ſich wiederholenden ſchmerzlichen Erfahrungen und zahlreichen Krankheitönöten erbaten ſich die Eltern kindliche Ergebung in die oft dunkeln Wege Gottes. Um fo mehr waren ſie darauf bedacht mich das einzige ihnen übrig gebliebene Kind mit allem Ernſt in der Zucht und Vermahnung zum Herrn aufzuerziehen Eine ſtete Sorge meiner I. Mutter war die ſeit dem Jahr 1856 zunehmende Kränklichkeit des Vaters welche auch ein längerer Aufenthalt am Seeſtrand 1857 nicht zu beſſern vermochte. Am 30. April 1858 wurde er der mit ſo reichen Gaben ausgerüſtete Diener ſeines Herrn erſt 45 Jahr alt durch einen Herzſchlag ganz plößlich ſeiner geſegneten Thätigkeit entriſſen. Infolge dieſes ſo ſchmerzlichen Ereigniſſes ſah ſich die liebe Mutter genötigt mit mir ihrer einzigen Tochter 1859 nach Deutſchland</p>
+        <pb n="979"/>
+        <p>979 zurücdzufehren. Nachdem fie mich in der Kleinwelker Anſtalt abgegeben zog fie nad Herrnhut und durfte nun den Umgang mit alten Freundinnen ſowie ihrem geliebten Pflegebruder Guſtav Ziegen und deſſen Familie genießen. Seine treue Beratung iſt ihr bis an fein feliges Ende ein Gegenſtand beſonderen Dankes geweſen. Die Wiedervereinigung mit mir im Jahr 1863 und unſer ſo inniges Zuſammenleben bis zu meinem Eintritt als Lehrerin in die Neudietendorfer Anſtalt 1868 verſüßte ihr die Einſamkeit ihres Witwenſtandes. Ihr brieflicher Verkehr mit mir während meines Zjährigen Aufenthalts in jener Gemeine ließ mich immer neue Blicke thun in die Tiefen ihrer zu jedem Opfer bereiten Mutterliebe. Ich fühlte mich von ihren heißen Gebeten getragen und durfte den Segen ſolcher Fürbitte während meiner Thätigkeit das ſelbſt kräftig inne werden. Meine im Mai 1870 ſtattgefundene Verlobung wit Br. Alexander Burkhardt in Herrnhut bildete das wichtigſte Ereignis ihres ſtill verlaufenden Lebens; ſie ſah es als eine beſondere Freundlichkeit Gottes an daß fie ihr einziges Kind hier am Orte behalten durfte und kam ihrem Scchwiegerſohn von der erſten Stunde unſerer Verbindung an mit der ganzen JInnigkeit ihrer Liebe entgegen welche von ſeiner Seite mit dem gleichen Vertrauen erwidert wurde. Als tägliche Zeugin unſers durch Gottes Gnade ſo großen Eheglüks lebte fie wieder von neuem auf und nahm an allen Vorkommenheiten unſers Familienlebens den nächſten und herzlichſten Anteil In der Geburt ihrer Enkel melde ſie mit großmütterlicher Liebe umfaßte eröffnete ſich ihr ein neuer Wirkungskreis indem ſie es als eine Liebespflicht erkannte bei der Arbeit der Hausmutter und der Pflege der Kleinen oft über das Maß ihrer Kräfte hinaus hilfreiche Hand zu leiſten Bei</p>
+        <pb n="980"/>
+        <p>980 Gelegenheit des Heimgangs unſerer lieben kleinen Marie im Jahr 1873 gereichte uns ihr mütterlicher Zuſpruch zu großem Troſt. Eine ſchwere Glaubenöprüfung legte ihr der Herr auf durch die zunehmende Gebrechlichkeit ihres Körpers infolge deſſen ſie genötigt wurde auf ſo manchen geſelligen Genuß zu verzichten wonach ihr von Natur heiteres Gemüt oft verlangte; beſonders ſchwer war es ihr die Predigten und Abendverſammlungen nicht mehr regelmäßig beſuchen zu könnenz um ſo mehr lag es ihr an im Leſen der heil. Schrift und anderer Erbauungsbücher Troſt Stärkung und Belehrung für ihr inneres Leben zu ſuchen. Wenn wir ſie beſuchten und ihr unſer Mitleid ausſprachen erklärte fie mehrmals: O alles Leid und allen Schmerz will ich ja gern ertragen jelig nur ſelig das iſt die Hauptſache. Mit tiefer Wehmut mußten wir bemerken daß ihre Beſuche in den leßten 2 Jahren immer ſeltener wurden da zu den ſchon beſtehenden Leiden ſich eine große Schwäche in den Beinen geſellte die ihr das Gehen immer beſcchwerlicher machte. Die Notwendigkeit ſich nun ganz der Ruhe und Unthätigkeit hingeben zu müſſen koſtete ihr die in ihrem früheren Leben ſo viel und gern gearbeitet hatte manche heiße Thräne; doh blieb ihr und das erkannte ſie ſtets mit Dank die Regſamkeit ihres Geiſtes bewahrt Mit lebhaftem Intereſſe und teilnehmender Liebe verfolgte ſie alle Bewegungen im Reiche Gottes ganz ſpeciell aber unſerer Brüdergemeine welcher ſie mit ganzer Seele angehörte. Das letzte Halbjahr fügte alten Nöten und Beſchwerden neue hinzu ſodaß ihr um Troſt oft bange mar; doch der Freund ihrer Seele erhielt ihr in Gnaden das helle Slaubenslicht und ſchenkte ihr dazwiſchen auch wieder freundlichere Tage</p>
+        <pb n="981"/>
+        <p>981 an welchen fie von der Munterkeit ihres Geiſtes fort: geriſſen ihr Leiden ſcheinbar ganz vergeſſen und ſich in den Gegenſtand ihrer Unterhaltung mit ihren Kin: dern und Freunden vollkommen vertiefen konnte Als fie am vergangenen Sonntag zu ihrer großen Freude mit mir das heil. Abendmahl genoſſen hatte ſprach fie es dankbar aus: welch wohles Gefühl ihr Innerſtes durchgehe und kehrte neugeftärkt für den ferneren Kreuzesweg nach Haufe zurüd freilich nicht ahnend daß am darauf folgenden Sonntag ihr Ber gräbnis ſtattfinden würde. Am le&amp;ten Donnerätag den 17. Juli nachdem wir ſie beſucht und verſchiedene ihre nächſte Zukunft betreffende Fragen mit ihr beſprochen hatten wurde ſie in der dritten Nachmittagsſtunde von lieben Mitbewohnern des Herrſchaftöhauſes in bewußtloſem Zuſtand in ihrem Nebenzimmer angetroffen und durfte bald darauf ohne des Todes Bitterfeit zu ſcchmecken mit verklärtem Angefiht Einzug halten in das Reich der Geſunden im Alter von 67 Jahren 2 Monaten und 8 Tagen. Wohl ſind wir ihre Kinder aufs tiefſte er: ſchüttert und darniedergebeugt durch das ſo plökliche Abſcheiden unſerer geliebten Mutter welche durch ihren geraden offenen Charakter ihr einfaches ſchlichtes Weſen vor allem aber durch ihren im Ofen der Trübſal geläuterten Chriſtenglauben uns ein ſo ſchönes Vorbild hinterlaſſen hat Doh gönnen wir ihr von Herzen das ſelige Los beim Herrn daheim ausruhen zu dürfen und erbitten ihr einen reichen Gnadenlohn für alle uns und unſern Kindern erwieſene Liebe Er gebe Gnade daß auch wir bei Zeiten unſern Beruf und Erwählung feſtmachen damit wir einſt mit ihr wiedervereint an den Freuden des ewigen Lebens Teil erhalten. ) |) GEIE</p>
+      </div>
+    </body>
+  </text>
+</TEI>
