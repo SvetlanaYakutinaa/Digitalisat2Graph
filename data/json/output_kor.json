@@ -6,16 +6,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Johann Adolf Bonaß",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "geboren_am",
+        "prädikat": "gestorben_am",
         "objekt": "4 Januar 1893",
         "objekt_type": "date"
       },
       {
-        "subjekt": "Johann Adolf Bonaß",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "gestorben_in",
         "objekt": "Königsfeld",
         "objekt_type": "location"
       }
@@ -28,33 +28,69 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "geboren",
+        "prädikat": "geboren_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "am",
+        "prädikat": "Ehemann_von",
+        "objekt": "Johanna Dorothea Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johanna Dorothea Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Johann Gottlieb Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "geboren_am",
         "objekt": "29 September 1808",
         "objekt_type": "date"
       },
       {
-        "subjekt": "Johann Gottlieb Bonaß",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "gebürtig aus",
+        "prädikat": "geboren_in",
         "objekt": "Tangermünde",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Johanna Dorothea",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "geb. Koch",
+        "prädikat": "geboren_in",
         "objekt": "Spree bei Niesky",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johanna Dorothea Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "geboren_als",
+        "objekt": "Koch",
+        "objekt_type": "nicht spezifiziert"
+      },
+      {
+        "subjekt": "Johann Gottlieb Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johanna Dorothea Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Muter_von",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
       }
+
     ]
   },
   {
@@ -64,26 +100,34 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "sie",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "bekamen",
-        "objekt": "den Antrag",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Gemeine in Mamre (Groenekloof)",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "sie",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "zu helfen",
-        "objekt": "die Gemeine in Mamre, damals Groenekloof",
-        "objekt_type": "location"
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Gemeine in Mamre (Groenekloof)",
+        "objekt_type": "organisation"
       },
       {
-        "subjekt": "sie",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "bedienen",
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "1810",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johanna Dorothea Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_in/am",
         "objekt": "1810",
         "objekt_type": "date"
       }
+      
     ]
   },
   {
@@ -93,23 +137,30 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "meine Eltern",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "mußten",
-        "objekt": "zur Aushilfe wieder nach Gnadenthal",
-        "objekt_type": "location"
+        "prädikat": "war_als",
+        "objekt": "Aushilfe",
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "meine Eltern",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wieder nach",
+        "prädikat": "war_als",
+        "objekt": "Aushilfe",
+        "objekt_type": "tätigkeit"
+      },
+      {
+        "subjekt": "Aushilfe",
+        "subjekt_type": "tätigkeit",
+        "prädikat": "war_in",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
+        "objekt_type": "ort"
       },
       {
-        "subjekt": "meine Eltern",
-        "subjekt_type": "person",
-        "prädikat": "mußten",
+        "subjekt": "Aushilfe",
+        "subjekt_type": "tätigkeit",
+        "prädikat": "war_in/am",
         "objekt": "1814",
         "objekt_type": "date"
       }
@@ -122,18 +173,46 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Bruder Heinrich",
+        "subjekt": "Heinrich Bonatz",
         "subjekt_type": "person",
-        "prädikat": "heim",
-        "objekt": "",
-        "objekt_type": ""
+        "prädikat": "war_Kind_von",
+        "objekt": "Johanna Dorothea Bonatz",
+        "objekt_type": "person"
       },
       {
-        "subjekt": "Marianne",
+        "subjekt": "Heinrich Bonatz",
         "subjekt_type": "person",
-        "prädikat": "folgte ihm",
-        "objekt": "die ewige Heimat",
-        "objekt_type": "location"
+        "prädikat": "war_Kind_von",
+        "objekt": "Johann Gottlieb Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Marianne Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johanna Dorothea Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Marianne Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johann Gottlieb Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Marianne Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "gestorben",
+        "objekt":"nicht spezifiziert",
+        "objekt_type":"nicht spezifiziert"
+      }, 
+      {
+      "subjekt": "Heinrich Bonatz",
+      "subjekt_type": "person",
+      "prädikat": "gestorben",
+      "objekt":"nicht spezifiziert",
+      "objekt_type":"nicht spezifiziert"
       }
     ]
   },
@@ -144,23 +223,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Ignatius Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "besuch_in",
         "objekt": "Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Ignatius Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "zu einer Viſitation nach",
-        "objekt": "Afrika",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Ignatius Latrobe",
-        "subjekt_type": "person",
-        "prädikat": "im Jahre",
+        "prädikat": "besuch_in/am",
         "objekt": "1816",
         "objekt_type": "date"
       }
@@ -173,47 +245,32 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "aufgehalten",
-        "objekt": "Groenekloof und Gnadenthal",
+        "prädikat": "war_in",
+        "objekt": "Groenekloof",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "unternahm",
-        "objekt": "die langwierige Reise nach dem Unterland",
-        "objekt_type": "organization"
+        "prädikat": "war_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Christian Ignatius Latrobe",
+        "subjekt_type": "person",
+        "prädikat": "reiste_nach",
+        "objekt": "Unterland",
+        "objekt_type": "location"
       },
       {
         "subjekt": "Geſchw. Schmidt",
         "subjekt_type": "person",
-        "prädikat": "Begleitung",
-        "objekt": "Br. Latrobe",
+        "prädikat": "reiste_mit",
+        "objekt": "Christian Ignatius Latrobe",
         "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "(Durch die nweſenheit des Br. Latrobe wurden nicht mur viele Vorurteile des Gouverneurs gegen unſre Miſſionsarbeit beſeitigt, ſondern der Gonverneur wurde auch gegen Br. Latrobe, welcher Empfehlungsſchreiben von ſehr hochgeſtellten Per: jonen in England mitgebracht hatte, jo freundlich geftimmt, daß er ihm viele Aufmerkſamkeit erwies.)",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "Br. Latrobe",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Empfehlungsſchreiben von ſehr hochgeſtellten Per: jonen in England",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Br. Latrobe",
-        "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "Empfehlungsſchreiben von ſehr hochgeſtellten Per: jonen in England",
-        "objekt_type": "organisation"
       }
     ]
   },
@@ -224,54 +281,32 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br Latrobe's",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "nahm",
+        "prädikat": "reiste_nach",
         "objekt": "England",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br Latrobe's",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "nahm",
+        "prädikat": "reiste_nach",
         "objekt": "Deutſchland",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "beschloſſen",
-        "objekt_type": "prädikat"
-      },
-      {
-        "subjekt": "Br Latrobe's",
-        "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "reiste_am/in",
         "objekt": "Anfang September",
         "objekt_type": "date"
-      }
-    ]
-  },
-  {
-    "text": "Einige Tage vor der Anreiſe jedoch machte der Gouverneur dem Br. Latrobe das Anerbieten, ihm freie Paſſage an Bord einer engliſchen Fregatte, die einen Monat ſpäter ſegeln jollte und auf welcher auch sein Sohn mit nach England reifen würde, zu geben, wenn er ſich deſſelben auf der langen Seereiſe annehmen wolle.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "Br. Latrobe",
-        "subjekt_type": "person",
-        "prädikat": "angeboten",
-        "objekt": "freie Paſſage an Bord einer engliſchen Fregatte",
-        "objekt_type": "organisation"
       },
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "reisen",
-        "objekt": "England",
-        "objekt_type": "location"
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "date"
       }
     ]
   },
@@ -282,18 +317,11 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "ankamen",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "ankamen",
-        "objekt": "Dezember",
-        "objekt_type": "date"
       }
     ]
   },
@@ -304,76 +332,83 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Kapſtadt",
-        "objekt_type": "location"
+        "prädikat": "angekommen_in/am",
+        "objekt": "ca. Januar",
+        "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "Im Frühjahr 1817 reiſte dann Br. Latrobe mit mir über Holland noch Deutſchland.",
+    "text": "Im Frühjahr 1817 reiſte dann Br. Latrobe mit mir über Holland nach Deutſchland.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "mit mir",
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Adolf Bonatz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "mit Br. Latrobe",
+        "prädikat": "reiste_mit",
+        "objekt": "Christian Ignatius Latrobe",
         "objekt_type": "person"
       },
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "über",
+        "prädikat": "reiste_über",
         "objekt": "Holland",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "über",
-        "objekt": "mit Br. Latrobe über Holland",
-        "objekt_type": "location"
+        "prädikat": "reisete_mit",
+        "objekt": "Christian Ignatius Latrobe",
+        "objekt_type": "person"
       },
       {
-        "subjekt": "Br. Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "noch",
+        "prädikat": "reist_nach",
         "objekt": "Deutſchland",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "noch",
-        "objekt": "mit Br. Latrobe in Deutſchland",
+        "prädikat": "reiste_nach",
+        "objekt": "Deutſchland",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Frühjahr 1817",
-        "subjekt_type": "date",
-        "prädikat": "am",
-        "objekt": "welchem Zeitpunkt Br. Latrobe mit mir reiſte",
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reiste_am/in",
+        "objekt": "Frühjahr 1817",
         "objekt_type": "date"
-      }
+      },
+      {
+        "subjekt": "Christian Ignatius Latrobe",
+        "subjekt_type": "person",
+        "prädikat": "reiste_am/in",
+        "objekt": "Frühjahr 1817",
+        "objekt_type": "date"
+      }    
     ]
   },
   {
@@ -383,9 +418,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Der",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "aufenthalt",
+        "prädikat": "aufenthalt_in",
         "objekt": "Zeiſt",
         "objekt_type": "location"
       }
@@ -398,39 +433,18 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "übergab",
-        "objekt": "meine Verwandten, Geſchw. Raue",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "behaltelten",
-        "objekt": "sie (Geſchw. Raue)",
+        "prädikat": "traf_mit",
+        "objekt": "Geſchw. Raue",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "ließ",
-        "objekt": "mich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Geſchw. Raue",
-        "subjekt_type": "person",
-        "prädikat": "behaltelten",
-        "objekt": "mich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Herrnhut",
-        "subjekt_type": "location",
-        "prädikat": "kamen",
-        "objekt": "wir",
-        "objekt_type": "person"
+        "prädikat": "angekommen_in",
+        "objekt": "Herrnhut",
+        "objekt_type": "location"
       }
     ]
   },
@@ -441,17 +455,31 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "abgegeben",
+        "prädikat": "war_in",
         "objekt": "Niesky",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "erzogen",
-        "objekt": "Erziehungsanftalt",
+        "objekt": "Erziehungsanftalt für Miſſionskinder",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Erziehungsanftalt für Miſſionskinder",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
+        "objekt": "Herrnhut",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_in",
+        "objekt": "Erziehungsanftalt für Miſſionskinder",
         "objekt_type": "organisation"
       }
     ]
@@ -463,37 +491,30 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Er",
+        "subjekt": "Juſtine Bonatz",
         "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "mehrere Kinder andrer Miſſionare und meine einzige Schweſter Juſtine",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "Er",
-        "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "Juſtine",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johann Gottlieb Bonabtz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "Er",
+        "subjekt": "Juſtine Bonatz",
         "subjekt_type": "person",
-        "prädikat": "und",
-        "objekt": "mehrere Kinder andrer Miſſionare",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "Er",
-        "subjekt_type": "person",
-        "prädikat": "und",
-        "objekt": "Juſtine",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johanna Dorothea Bonatz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "Er",
+        "subjekt": "Juſtine Bonatz",
         "subjekt_type": "person",
-        "prädikat": "mit",
+        "prädikat": "war_in",
+        "objekt": "Miſſionsanſtalten",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Miſſionsanſtalten",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location"
       }
@@ -506,17 +527,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "kehrte",
+        "prädikat": "reisete_nach",
         "objekt": "Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "verbunden",
-        "objekt": "Schw. Friedrike Erdmann",
+        "prädikat": "Ehemann_von",
+        "objekt": "Friedrike Erdmann",
         "objekt_type": "person"
       }
     ]
@@ -528,30 +549,23 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "kam_nach",
         "objekt": "Niesky",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "Tiſchlerei des Brüderhaujes",
+        "prädikat": "Lehre_bei",
+        "objekt": "Tiſchlerei des Brüderhauses",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "Lehre",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "Lehre_in/am",
         "objekt": "1823",
         "objekt_type": "date"
       }
@@ -564,9 +578,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "konfirmiert",
+        "prädikat": "konfirmierte_in/am",
         "objekt": "1824",
         "objekt_type": "date"
       }
@@ -579,17 +593,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "meldete mich zur Aufnahme in die Gemeine",
-        "objekt": "die Gemeine",
+        "prädikat": "Aufnahme_in",
+        "objekt": "Gemeine",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "gelangte dazu",
-        "objekt": "am 13 November deſſelben Jahres",
+        "prädikat": "Aufnahme_in/am",
+        "objekt": "13 November 1824",
         "objekt_type": "date"
       }
     ]
@@ -601,26 +615,33 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br.Auguſt Freitag",
+        "subjekt": "Br. Auguſt Freitag",
         "subjekt_type": "person",
-        "prädikat": "Nebengefelle",
-        "objekt": "ich",
+        "prädikat": "Freund_von",
+        "objekt": "Johann Adolf Bonatz",
         "objekt_type": "person"
       }
     ]
   },
   {
-    "text": "Er befam aber noch in dieſem Jahre einen Ruf in die Tiſchlerei nach Herrnhut, welchen er auch annahm.",
+    "text": "Er bekam aber noch in dieſem Jahre einen Ruf in die Tiſchlerei nach Herrnhut, welchen er auch annahm.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Br. Auguſt Freitag",
         "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "Ruf in die Tiſchlerei nach Herrnhut",
+        "prädikat": "Lehre_bei",
+        "objekt": "Tiſchlerei",
         "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Tiſchlerei",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
+        "objekt": "Herrnhut",
+        "objekt_type": "location"
       }
     ]
   },
@@ -629,7 +650,21 @@
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": []
+    "graph": [
+      {
+      "subjekt": "Johann Adolf Bonatz",
+      "subjekt_type": "person",
+      "prädikat": "Lehre_bei",
+      "objekt": "Br. Wullſchlägel",
+      "objekt_type": "person"
+    },
+    {
+      "subjekt": "Johann Adolf Bonatz",
+      "subjekt_type": "person",
+      "prädikat": "Lehre_in/am",
+      "objekt": "Niesky",
+      "objekt_type": "location"
+    }]
   },
   {
     "text": "Im Jahre 1829 bekam derſelbe einen Ruf nach Ebersdorf.",
@@ -638,16 +673,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "derſelbe",
+        "subjekt": "Johann Adolf Bonat",
         "subjekt_type": "person",
-        "prädikat": "bekam einen Ruf nach",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Ebersdorf",
         "objekt_type": "location"
       },
       {
-        "subjekt": "derſelbe",
+        "subjekt": "Johann Adolf Bonat",
         "subjekt_type": "person",
-        "prädikat": "bekam einen Ruf",
+        "prädikat": "bekam_Ruf_in/am",
         "objekt": "1829",
         "objekt_type": "date"
       }
@@ -662,44 +697,44 @@
       {
         "subjekt": "Br. L. Reichel",
         "subjekt_type": "person",
-        "prädikat": "machte den Antrag",
-        "objekt": "mir",
-        "objekt_type": "person"
+        "prädikat": "war",
+        "objekt": "Prediger und Direktor",
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "Br. Wullſchlägel",
+        "subjekt": "Prediger und Direktor",
         "subjekt_type": "person",
-        "prädikat": "eingutreten",
-        "objekt": "an Stelle",
+        "prädikat": "war_tätig_bei",
+        "objekt": "Ortsanstalt",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "Br. L. Reichel",
+        "subjekt": "Ortsanstalt",
         "subjekt_type": "person",
-        "prädikat": "war Prediger und Direktor",
-        "objekt": "der Ortsanſtalt in Niesky",
-        "objekt_type": "organisation"
+        "prädikat": "war_in",
+        "objekt": "Niesky",
+        "objekt_type": "location"
       }
     ]
-  },
+  },  
   {
-    "text": "Ich begaun meinen Anſtaltsdienſt am Tage nach dem Kinder feſt 1829.",
+    "text": "Ich begaun meinen Anſtaltsdienſt am Tage nach dem Kinderfeſt 1829.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "begaun",
+        "prädikat": "war_tätig_bei",
         "objekt": "Anſtaltsdienſt",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "am Tage nach dem",
-        "objekt": "Kinder feſt",
+        "prädikat": "war_tätig_in/am",
+        "objekt": "1829",
         "objekt_type": "date"
       }
     ]
@@ -709,7 +744,22 @@
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": []
+    "graph": [
+      {
+        "subjekt": "Juſtine Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "gestorben_in",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location"
+        }, 
+        {
+          "subjekt": "Juſtine Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_am",
+          "objekt": "Ende 1930",
+          "objekt_type": "date"
+          }
+      ]
   },
   {
     "text": "Am 7 Juni 1831 erhielt ich ganz unerwartet einen Ruf zum Dienſt der Miſſion in Süd - Afrika.",
@@ -718,25 +768,25 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf zum Dienſt der Miſſion",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Süd - Afrika",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "am",
+        "prädikat": "bekam_Ruf_in/am",
         "objekt": "7 Juni 1831",
         "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_zum",
+        "objekt": "Dienſt der Miſſion",
+        "objekt_type": "tätigkeit"
       }
     ]
   },
@@ -749,9 +799,16 @@
       {
         "subjekt": "Br. Freytag",
         "subjekt_type": "person",
-        "prädikat": "hatte einen Ruf nach",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Labrador",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Br. Freytag",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "1831",
+        "objekt_type": "date"
       }
     ]
   },
@@ -762,45 +819,23 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatzir",
         "subjekt_type": "person",
-        "prädikat": "waren",
-        "objekt": "bei einander in Herrnhut",
-        "objekt_type": "location"
+        "prädikat": "war_tätig",
+        "objekt": "Missionar",
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Br. Freytag",
         "subjekt_type": "person",
-        "prädikat": "freuten uns",
-        "objekt": "",
-        "objekt_type": ""
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "ziehen witrden aus",
-        "objekt": "als Miſſionare",
-        "objekt_type": "organisation"
+        "prädikat": "war_tätig",
+        "objekt": "Missionar",
+        "objekt_type": "tätigkeit"
       }
     ]
   },
   {
-    "text": "Auch hatten wir rie Hoffnung, zus in London noch einmal zu treffen.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "London",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Im Berthelsdorf hatte ich die Weiſung bekommen, jo lange in meinem Berufe zu bleiben, bis Br. Schoppmany, der auch nach Afrifa berufen war, fommen würde; mit ihm follte ich dann zuerſt nah England reiſen, wo wir einige Monate bleiben ſollten, um die engliſche Sprache zu lernen.",
+    "text": "Im Berthelsdorf hatte ich die Weiſung bekommen, so lange in meinem Berufe zu bleiben, bis Br. Schoppmany, der auch nach Afrifa berufen war, kommen würde; mit ihm sollte ich dann zuerſt nah England reiſen, wo wir einige Monate bleiben ſollten, um die engliſche Sprache zu lernen.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
@@ -959,14 +994,14 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Br. Ignatius Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
         "prädikat": "kam",
         "objekt": "Ockbrook",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br. Ignatius Latrobe",
+        "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
         "prädikat": "hielt",
         "objekt": "eine Gemeinſtunde",
