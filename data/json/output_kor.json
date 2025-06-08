@@ -821,14 +821,14 @@
       {
         "subjekt": "Johann Adolf Bonatzir",
         "subjekt_type": "person",
-        "prädikat": "war_tätig",
+        "prädikat": "war_tätig_als",
         "objekt": "Missionar",
         "objekt_type": "tätigkeit"
       },
       {
         "subjekt": "Br. Freytag",
         "subjekt_type": "person",
-        "prädikat": "war_tätig",
+        "prädikat": "war_tätig_als",
         "objekt": "Missionar",
         "objekt_type": "tätigkeit"
       }
@@ -841,9 +841,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reisete_nach",
         "objekt": "England",
         "objekt_type": "location"
       },
@@ -855,39 +855,10 @@
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Br. Schoppmany",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reiste_nach",
         "objekt": "England",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Am Tage der Abreiſe begleiteten mich die Kinder mit ihren Lehrern noch ein Stück Wegs, und nachdem wir uns Lebewohl gesagt, ſette ich meine Wanderung nach Herrnhut fort, wo Br. Schoppmain meiner wartete.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "Kinder mit ihren Lehrern",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Br. Schoppmain",
-        "subjekt_type": "person",
-        "prädikat": "wartete",
-        "objekt": "mich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "setzte",
-        "objekt": "meine Wanderung nach Herrnhut fort",
         "objekt_type": "location"
       }
     ]
@@ -899,23 +870,30 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde angenommen",
-        "objekt": "lieben Brüder der U.-A.-C.",
+        "prädikat": "angenommen_zur",
+        "objekt": "Akoluthie",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde abgefertigt",
-        "objekt": "Reiſe nach Süd -Afrifa",
+        "prädikat": "teilname_an",
+        "objekt": "U.-A.-C.",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reisete_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "antrat",
+        "prädikat": "reisete_in/am",
         "objekt": "Anfang Mai",
         "objekt_type": "date"
       }
@@ -930,14 +908,21 @@
       {
         "subjekt": "Br. Freytag",
         "subjekt_type": "person",
-        "prädikat": "abgeſegelt",
-        "objekt": "Labradorſchiff",
-        "objekt_type": "organisation"
+        "prädikat": "reiste_nach",
+        "objekt": "Labrador",
+        "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erfuhren",
+        "prädikat": "ankam_in",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Br. Freytag",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
         "objekt": "London",
         "objekt_type": "location"
       }
@@ -952,22 +937,22 @@
       {
         "subjekt": "Geſchw. Genth",
         "subjekt_type": "person",
-        "prädikat": "werden",
-        "objekt": "Londen",
+        "prädikat": "ist_aus",
+        "objekt": "Suriname",
         "objekt_type": "location"
       },
       {
         "subjekt": "Geſchw. Genth",
         "subjekt_type": "person",
-        "prädikat": "erhalten",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Geſchw. Genth",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "sind",
-        "objekt": "Suriname",
+        "prädikat": "aufenthalt_in",
+        "objekt": "England",
         "objekt_type": "location"
       }
     ]
@@ -979,9 +964,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "die Brüder",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reiſen",
+        "prädikat": "reiste_in",
         "objekt": "Gemeine Ockbrook",
         "objekt_type": "organisation"
       }
@@ -996,52 +981,45 @@
       {
         "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "besuch",
         "objekt": "Ockbrook",
         "objekt_type": "location"
       },
       {
         "subjekt": "Christian Ignatius Latrobe",
         "subjekt_type": "person",
-        "prädikat": "hielt",
-        "objekt": "eine Gemeinſtunde",
-        "objekt_type": "organisation"
+        "prädikat": "besuch",
+        "objekt": "Anfang September",
+        "objekt_type": "date"
       },
       {
         "subjekt": "Geſchw. Genth",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "die Anfunft",
+        "prädikat": "kam_nach",
+        "objekt": "London",
         "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "Der Kapitän und die wenigen andern Paſſagiere waren ganz junge und unerfahrene Leute, jo daß wir mit recht ſchwerem Herzen gegen Mitte September unfere große Seereife antraten; und in der That war es feine leichte Reiſe. Im biskayiſchen Meer hatten wir einen ſehr heftigen Sturm und Gegenwind, der mit wenig Unterbrechung gegen 14 Tage anhielt.",
+    "text": "Der Kapitän und die wenigen andern Paſſagiere waren ganz junge und unerfahrene Leute, so daß wir mit recht ſchwerem Herzen gegen Mitte September unfere große Seereife antraten; und in der That war es feine leichte Reiſe.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Der Kapitän",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "trat an",
-        "objekt": "unfere große Seereife",
-        "objekt_type": "organization"
+        "prädikat": "reisete_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "traten an",
-        "objekt": "unfere große Seereife",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "Mitte September",
+        "subjekt": "Johann Adolf Bonatzr",
         "subjekt_type": "date",
-        "prädikat": "war",
-        "objekt": "der Zeitpunkt, an dem die Reise begann",
-        "objekt_type": "none"
+        "prädikat": "reisete_in/am",
+        "objekt": "Mitte September",
+        "objekt_type": "date"
       }
     ]
   },
@@ -1052,16 +1030,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "der Anker",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "fiel",
-        "objekt": "in der Tafelbay",
+        "prädikat": "ankam_in",
+        "objekt": "Tafelbay",
         "objekt_type": "location"
       },
       {
-        "subjekt": "der Anker",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "am",
+        "prädikat": "ankam_am",
         "objekt": "30 Dezember",
         "objekt_type": "date"
       }
@@ -1074,23 +1052,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "verließen",
-        "objekt": "die lieben Freunde",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reisete_nach",
         "objekt": "Groenekloof",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "verließen",
+        "prädikat": "ankam_in",
         "objekt": "Kapſtadt",
         "objekt_type": "location"
       }
@@ -1105,28 +1076,28 @@
       {
         "subjekt": "Br. Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "entschied",
+        "prädikat": "war_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
         "subjekt": "Br. Schoppmann",
         "subjekt_type": "person",
-        "prädikat": "bleiben",
+        "prädikat": "war_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
         "subjekt": "Geſchw. Genth",
         "subjekt_type": "person",
-        "prädikat": "gehen",
+        "prädikat": "reist_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "bekommen",
+        "prädikat": "reisen nach",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -1141,44 +1112,51 @@
       {
         "subjekt": "Br. Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "lud",
-        "objekt": "den Br. Genth und mich ein",
-        "objekt_type": "organization"
+        "prädikat": "besuchte",
+        "objekt": "Gemeine Elim",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Br. Gennth",
+        "subjekt_type": "person",
+        "prädikat": "besuchte",
+        "objekt": "Gemeine Elim",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "besuchte",
+        "objekt": "Gemeine Elim",
+        "objekt_type": "organisation"
       },
       {
         "subjekt": "Schw. Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "befand",
+        "prädikat": "war",
         "objekt": "am Meeresstrand bei Elim",
         "objekt_type": "location"
       },
       {
         "subjekt": "Br. Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "lud",
-        "objekt": "den Br. Genth und mich ein",
-        "objekt_type": "organization"
+        "prädikat": "reiste_mit",
+        "objekt": "Br. Genth",
+        "objekt_type": "person"
       },
       {
-        "subjekt": "Schw. Hallbeck",
+        "subjekt": "Br. Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "sich",
-        "objekt": "um das Seebad zu gebrauchen",
-        "objekt_type": "organization"
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
       },
       {
-        "subjekt": "Br. Genth",
-        "subjekt_type": "person",
-        "prädikat": "wurde eingeladen",
-        "objekt": "ihn zu Pferd nach Elim zu begleiten",
+        "subjekt": "Gemeine Elim",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
+        "objekt": "Elim",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "Schw. Hallbeck",
-        "subjekt_type": "person",
-        "prädikat": "lud",
-        "objekt": "den Br. Genth und mich ein",
-        "objekt_type": "organization"
       }
     ]
   },
@@ -1189,23 +1167,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "begab mich",
+        "prädikat": "reiste_mit",
         "objekt": "Geſchw. Genth",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "Geſchw. Genth",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "auf die lange Reiſe",
+        "prädikat": "reiste_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       }
@@ -1220,31 +1191,25 @@
       {
         "subjekt": "Br. Lommerz",
         "subjekt_type": "person",
-        "prädikat": "bewillkommten",
-        "objekt": "uns",
-        "objekt_type": "organisation"
+        "prädikat": "traf_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
       },
       {
         "subjekt": "Br. Lommerz",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "uns",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "organisation",
-        "prädikat": "wurden",
-        "objekt": "Br. Lommerz",
+        "prädikat": "traf_mit",
+        "objekt": "Geſchw. Genth",
         "objekt_type": "person"
       },
       {
-        "subjekt": "uns",
-        "subjekt_type": "organisation",
-        "prädikat": "näherten",
+        "subjekt": "Br. Lommerz",
+        "subjekt_type": "person",
+        "prädikat": "traf_bei",
         "objekt": "Enon",
         "objekt_type": "location"
       }
+      
     ]
   },
   {
@@ -1256,15 +1221,15 @@
       {
         "subjekt": "Geſchw. Fritſch",
         "subjekt_type": "person",
-        "prädikat": "sollte",
+        "prädikat": "reisete_nach",
         "objekt": "Port Eliſabeth",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "sollte",
-        "objekt": "Enon und Silo",
+        "prädikat": "reisen nach",
+        "objekt": "Silo",
         "objekt_type": "location"
       }
     ]
@@ -1276,16 +1241,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erblickten",
+        "prädikat": "ankam_in",
         "objekt": "Silo",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "ankam_in",
         "objekt": "1832",
         "objekt_type": "date"
       }
@@ -1300,29 +1265,15 @@
       {
         "subjekt": "Carl Stompjes",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "Ehemann_von",
         "objekt": "Wilhelmine",
         "objekt_type": "person"
       },
       {
-        "subjekt": "Carl Stompjes",
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "autrafen",
-        "objekt": "der Herde",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Carl Stompjes",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Wilhelmine",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Carl Stompjes",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "seine Frau",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Carl Stompjes",
         "objekt_type": "person"
       }
     ]
@@ -1334,53 +1285,25 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Wilhelmine",
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "war_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Geſchw. Küſter",
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Wilhelmine",
+        "prädikat": "war_tätig_bei",
+        "objekt": "Geſchw. Küſter",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Kindheit",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Wilhelmine",
-        "subjekt_type": "person",
-        "prädikat": "gab",
-        "objekt": "Ermahnung",
-        "objekt_type": "unknown"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "Abreiſe nach Europa",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Wilhelmine",
-        "subjekt_type": "person",
-        "prädikat": "ermahnte",
-        "objekt": "mich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wollte",
-        "objekt": "zurückkehren nach Afrika",
-        "objekt_type": "location"
+        "prädikat": "war_tätig_als",
+        "objekt": "Kindsmagd",
+        "objekt_type": "tätigkeit"
       }
     ]
   },
@@ -1393,7 +1316,7 @@
       {
         "subjekt": "Geſchw. Halter",
         "subjekt_type": "person",
-        "prädikat": "verließen",
+        "prädikat": "reist_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       }
@@ -1408,16 +1331,30 @@
       {
         "subjekt": "Geſchw. Fritſch",
         "subjekt_type": "person",
-        "prädikat": "geschwister_von",
-        "objekt": "ich",
-        "objekt_type": "person"
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine Silo",
+        "objekt_type": "organisation"
       },
       {
         "subjekt": "Geſchw. Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "geschwister_von",
-        "objekt": "ich",
-        "objekt_type": "person"
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine Silo",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "mitglied_von",
+        "objekt": "Silo",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Gemeine Silo",
+        "subjekt_type": "person",
+        "prädikat": "war_in",
+        "objekt": "Silo",
+        "objekt_type": "location"
       }
     ]
   },
@@ -1428,18 +1365,31 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Carl",
+        "subjekt": "Carl Stompjes",
         "subjekt_type": "person",
-        "prädikat": "wohnte",
-        "objekt": "Miſſionshaus",
-        "objekt_type": "location"
+        "prädikat": "war_tätig_als",
+        "objekt": "Aushilfe",
+        "objekt_type": "tätigkeit"
+      },
+      {"subjekt": "Carl Stompjes",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_in",
+        "objekt": "Gemeine Silo",
+        "objekt_type": "organisation"
       },
       {
         "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "wohnte",
-        "objekt": "Miſſionshaus",
-        "objekt_type": "location"
+        "prädikat": "war_tätig_als",
+        "objekt": "Aushilfe",
+        "objekt_type": "tätigkeit"
+      },
+      {
+        "subjekt": "Wilhelmine Stompjes",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_in",
+        "objekt": "Gemeine Silo",
+        "objekt_type": "organisation"
       }
     ]
   },
@@ -1450,11 +1400,11 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Wilhelmine",
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
-        "prädikat": "nüßlich",
+        "prädikat": "war_tätig_als",
         "objekt": "Dolmetſcherin",
-        "objekt_type": "organisation"
+        "objekt_type": "tätigkeit"
       }
     ]
   },
@@ -1465,18 +1415,18 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "die Kafferin",
+        "subjekt": "Wilhelmine Stompjes",
+        "subjekt_type": "person",
+        "prädikat": "war_geborene",
+        "objekt": "Kafferin",
+        "objekt_type": "nicht spezifiziert"
+      },
+      {
+        "subjekt": "Wilhelmine Stompjes",
         "subjekt_type": "person",
         "prädikat": "gewohnt",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "die Kafferin",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "ein Herz für den Heiland",
-        "objekt_type": "string"
       }
     ]
   },
@@ -1496,14 +1446,7 @@
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "lebte",
-        "objekt": "Süd -Afrika",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Dr. Lees",
-        "subjekt_type": "person",
-        "prädikat": "wohnte",
+        "prädikat": "ankam_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -1525,38 +1468,60 @@
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "wurde",
+        "prädikat": "wohnte_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "reiſte_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       },
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Schwetter Pauline Müller",
+        "prädikat": "reiste_mit",
+        "objekt": "Pauline Müller",
         "objekt_type": "person"
       },
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "verheiratet_mit",
-        "objekt": "Schwetter Pauline Müller",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Dr. Lees",
-        "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "reiſte_in",
         "objekt": "1836",
         "objekt_type": "date"
+      },
+      {
+        "subjekt": "Pauline Müller",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_in",
+        "objekt": "1836",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Pauline Müller",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_nach",
+        "objekt": "Enon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Pauline Müller",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_mit",
+        "objekt": "Dr. Lees",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Pauline Müller",
+        "subjekt_type": "person",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
       }
+      
     ]
   },
   {
@@ -1569,15 +1534,8 @@
         "subjekt": "Br. Hallbeck",
         "subjekt_type": "person",
         "prädikat": "besuchte",
-        "objekt": "alle Stationen",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "Br. Hallbeck",
-        "subjekt_type": "person",
-        "prädikat": "um mündlichen Bericht von der Synode zu bringen",
-        "objekt": "1836",
-        "objekt_type": "date"
       }
     ]
   },
@@ -1590,23 +1548,16 @@
       {
         "subjekt": "Br. Adolf Küſter",
         "subjekt_type": "person",
-        "prädikat": "kam mit ihm",
-        "objekt": "",
-        "objekt_type": ""
+        "prädikat": "besucht",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location"
       },
       {
         "subjekt": "Br. Adolf Küſter",
         "subjekt_type": "person",
-        "prädikat": "um sich auch ganz für die Erlernung der Kafferſprache herzugeben",
-        "objekt": "",
-        "objekt_type": ""
-      },
-      {
-        "subjekt": "Br. Adolf Küſter",
-        "subjekt_type": "person",
-        "prädikat": "übernahm zu dem Zweck bald die Sechnle der Tambuckifinder",
-        "objekt": "Tambuckifinder",
-        "objekt_type": "organisation"
+        "prädikat": "besucht_mit",
+        "objekt": "Br. Hallbeck",
+        "objekt_type": "person"
       }
     ]
   },
@@ -1619,31 +1570,9 @@
       {
         "subjekt": "Br. Küſter",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf nach der Zizikama",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Zizikama",
         "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Wir bedanerten dies ſehr: denn Br. Küſter hatte ſooben angefangen in der Kafferſprache Verſammlungen zu halten und ſich auch der Schule ſehr tronlich angenommen.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "Br. Küſter",
-        "subjekt_type": "person",
-        "prädikat": "hatte anfangen",
-        "objekt": "Verſammlungen",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Br. Küſter",
-        "subjekt_type": "person",
-        "prädikat": "sich auch der Schule angenommen",
-        "objekt": "Schule",
-        "objekt_type": "organisation"
       }
     ]
   },
@@ -1656,14 +1585,14 @@
       {
         "subjekt": "Schweſter Chriftiane Sophie Rudolf",
         "subjekt_type": "person",
-        "prädikat": "wurde mir zugeführt",
-        "objekt": "Lobensgefährtin",
+        "prädikat": "Braut_von",
+        "objekt": "Johann Adolf Bonatz",
         "objekt_type": "person"
       },
       {
         "subjekt": "Schweſter Chriftiane Sophie Rudolf",
         "subjekt_type": "person",
-        "prädikat": "wurde mir zugeführt",
+        "prädikat": "Braut_von",
         "objekt": "1839",
         "objekt_type": "date"
       }
@@ -1676,7 +1605,7 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "reiſte_nach",
         "objekt": "Enon",
@@ -1693,8 +1622,8 @@
       {
         "subjekt": "Br. Adolf Küſter",
         "subjekt_type": "person",
-        "prädikat": "trauete_mit",
-        "objekt": "seiner Braut",
+        "prädikat": "Ehemann_von",
+        "objekt": "Braut von Clarkson",
         "objekt_type": "person"
       },
       {
@@ -1720,23 +1649,23 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kehrte",
+        "prädikat": "reist_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wieder",
-        "objekt": "meine l. Frau",
+        "prädikat": "reiste_mit",
+        "objekt": "Chriftiane Sophie Rudolf",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Chriftiane Sophie Rudolf",
         "subjekt_type": "person",
-        "prädikat": "kehrte",
+        "prädikat": "reist_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -1749,24 +1678,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Chriftiane Sophie Rudolf",
         "subjekt_type": "person",
-        "prädikat": "verlor",
-        "objekt": "meine zweite L Gattin",
-        "objekt_type": "person"
+        "prädikat": "gestorben_am",
+        "objekt": "1841",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Chriftiane Sophie Rudolf",
         "subjekt_type": "person",
-        "prädikat": "verlor",
-        "objekt": "das uns geſchenkte Kindlein",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "meine Mutter",
-        "subjekt_type": "person",
-        "prädikat": "folgte",
-        "objekt": "jeiner Mutter nach",
+        "prädikat": "gestorben_in",
+        "objekt": "Silo",
         "objekt_type": "location"
       }
     ]
@@ -1798,77 +1720,119 @@
         "prädikat": "kamen",
         "objekt": "Silo",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "Geſchwiſter Lemmerz",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "Silo",
-        "objekt_type": "location"
       }
     ]
   },
   {
-    "text": "Zu Anfang des Jahres 1844 reiſte ich nach Enon und nach Port Eliſabeth, ging dann per Dampfer nach der Kapſtadt, beſuchte in Mamre und reiſte mit den von dort berufenen Geſchwiſtern Lehmann nach Gnadenthal, wo ich zum dritten mal in die Ehe trat und zwar mit der led. Schw. Eliſe Curie, welche mit den Geſchwiſtern Kühn und Br. Daniel Schärf von Europa gefommen war.",
+    "text": "Zu Anfang des Jahres 1844 reiſte ich nach Enon und nach Port Eliſabeth, ging dann per Dampfer nach der Kapſtadt, beſuchte in Mamre und reiſte mit den von dort berufenen Geſchwiſtern Lehmann nach Gnadenthal, wo ich zum dritten mal in die Ehe trat und zwar mit der led. Schw. Eliſe Curie, welche mit den Geſchwiſtern Kühn und Br. Daniel Schärf von Europa gekommen war.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "reiſte",
         "objekt": "Enon",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "reiſte",
         "objekt": "Port Eliſabeth",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "ging",
         "objekt": "Kapſtadt",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
+        "prädikat": "reist_nach",
         "objekt": "Mamre",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "reiſte_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
         "subjekt": "Geſchwiſtern Lehmann",
         "subjekt_type": "person",
-        "prädikat": "berufen",
+        "prädikat": "reist_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Ehe",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mit",
+        "prädikat": "Ehemann_von",
         "objekt": "Schw. Eliſe Curie",
         "objekt_type": "person"
+      },
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Eheschließung_mit",
+        "objekt": "Schw. Eliſe Curie",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "Eheschließung_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Eheschließung_in",
+        "objekt": "1844",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "Eheschließung_in",
+        "objekt": "1844",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "kam_mit",
+        "objekt": "Geſchwiſtern Kühn",
+        "objekt_type": "person"
+      }, 
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "kam_mit",
+        "objekt": "Daniel Schärf",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Schw. Eliſe Curie",
+        "subjekt_type": "person",
+        "prädikat": "kam_aus",
+        "objekt": "Europa",
+        "objekt_type": "location"
       }
     ]
   },
@@ -1879,10 +1843,24 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Letzterer",
+        "subjekt": "Geſchwiſtern Lehmann",
         "subjekt_type": "person",
-        "prädikat": "verheiratet_mit",
+        "prädikat": "Eheschließung_mit",
         "objekt": "Schw. Guſtava Hallbeck",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Geſchwiſtern Lehmann",
+        "subjekt_type": "person",
+        "prädikat": "Ehemann_von",
+        "objekt": "Schw. Guſtava Hallbeck",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Schw. Guſtava Hallbeck",
+        "subjekt_type": "person",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Geſchwiſtern Lehmann",
         "objekt_type": "person"
       }
     ]
@@ -1894,16 +1872,72 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Dieſe Geſchwiſter",
+        "subjekt": "Schw. Guſtava Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſte_über",
         "objekt": "Clarkſon",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Dieſe Geſchwiſter",
+        "subjekt": "Schw. Guſtava Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "nach",
+        "prädikat": "reisete_nach",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſtern Lehmann",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_über",
+        "objekt": "Clarkſon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſtern Lehmann",
+        "subjekt_type": "person",
+        "prädikat": "reisete_nach",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_über",
+        "objekt": "Clarkſon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reisete_nach",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reiſte_über",
+        "objekt": "Clarkſon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reisete_nach",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Schw. Guſtava Hallbeck",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſtern Lehmann",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -1918,30 +1952,23 @@
       {
         "subjekt": "Geſchw. Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verließen",
-        "objekt": "uns",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Geſchw. Lemmerz",
-        "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reiste_nach",
         "objekt": "Europa",
         "objekt_type": "location"
       },
       {
         "subjekt": "Geſchw. Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "mit",
+        "prädikat": "reiste_mit",
         "objekt": "Kinderſchor",
-        "objekt_type": "organisation"
+        "objekt_type": "nicht spezifiziert"
       },
       {
-        "subjekt": "Jahr 1845",
-        "subjekt_type": "date",
-        "prädikat": "verließen",
-        "objekt": "uns",
-        "objekt_type": "organisation"
+        "subjekt": "Geſchw. Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "reiste_in",
+        "objekt": "1845",
+        "objekt_type": "date"
       }
     ]
   },
@@ -1955,20 +1982,27 @@
         "subjekt": "Geſchw. Teutſch",
         "subjekt_type": "person",
         "prädikat": "besuchte",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchw. Teutſch",
+        "subjekt_type": "person",
+        "prädikat": "kam_aus",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Geſchw. Teutſch",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "eine große Aufmunterung",
-        "objekt_type": "other"
+        "prädikat": "besuchte_in",
+        "objekt": "Juli 1845",
+        "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "Zu Weihnachten kamen Geſchw. Gysin vom Oberland, um die Leitung derſelben zu über- nehmen.",
+    "text": "Zu Weihnachten kamen Geſchw. Gysin vom Oberland, um die Leitung derſelben zu übernehmen.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
@@ -1976,9 +2010,23 @@
       {
         "subjekt": "Geſchw. Gysin",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "kam_aus",
         "objekt": "Oberland",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchw. Gysin",
+        "subjekt_type": "person",
+        "prädikat": "besucht",
+        "objekt": "Silo",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchw. Gysin",
+        "subjekt_type": "person",
+        "prädikat": "besucht",
+        "objekt": "zu Weihnachten 1845",
+        "objekt_type": "date"
       }
     ]
   },
@@ -1989,66 +2037,37 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "ankam_in",
         "objekt": "Colesberg",
         "objekt_type": "location"
       },
       {
         "subjekt": "Kaufmann Ortlepp",
         "subjekt_type": "person",
-        "prädikat": "gewährte",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Adolf Bonatz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "Ende Februar",
-        "subjekt_type": "date",
-        "prädikat": "",
-        "objekt": "",
-        "objekt_type": ""
-      }
-    ]
-  },
-  {
-    "text": "Der Magiſtrat des Städtchens bewilligte under Leuten mit den Herden einen Aufenthaltsort, eine Stunde von Colesberg entfernt, auf einer großen Fläche, wo ſie ſich Hütten bauten; ein kleines Haus, einem Engländer gehörig, durfte von einer Miſſionsfamilie bezogen werden, um die Leute zu beaufsichtigen.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "Der Magiſtrat des Städtchens",
+        "subjekt": "Kaufmann Ortlepp",
         "subjekt_type": "person",
-        "prädikat": "bewilligte",
-        "objekt": "einen Aufenthaltsort",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Der Magiſtrat des Städtchens",
-        "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "Leuten",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "Die Miſſionsfamilie",
-        "subjekt_type": "person",
-        "prädikat": "bezogen",
-        "objekt": "ein kleines Haus",
-        "objekt_type": "location"
+        "prädikat": "traf_am",
+        "objekt": "Ende Februar 1846",
+        "objekt_type": "date"
       },
       {
         "subjekt": "Colesberg",
-        "subjekt_type": "location",
-        "prädikat": "",
-        "objekt": "",
-        "objekt_type": ""
+        "subjekt_type": "person",
+        "prädikat": "liegt_bei",
+        "objekt": "Orangefluß",
+        "objekt_type": "location"
       }
     ]
   },
   {
-    "text": "Daß Silo zum Teil ein Raub der Flam men geworden, hatten wir ſchon in Kamoestowne, einer engliſchen Miſſionsfration gehört.",
+    "text": "Daß Silo zum Teil ein Raub der Flammen geworden, hatten wir ſchon in Kamoestowne, einer engliſchen Miſſionsfration gehört.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
@@ -2056,15 +2075,8 @@
       {
         "subjekt": "Silo",
         "subjekt_type": "location",
-        "prädikat": "geworden",
-        "objekt": "Raub der Flammen",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "ſchon in Kamoestowne",
+        "prädikat": "gehört_zu",
+        "objekt": "Kamoestowne",
         "objekt_type": "location"
       }
     ]
@@ -2078,43 +2090,7 @@
       {
         "subjekt": "Mapaſa",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Silo",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Mapaſa",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Whitlesen",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Kommandant Tylden ließ uns davon in Kenntnis jeßen und wünſchte, daß einer der Miſſionare nach Silo kommen möchte, um das wenige noch gerettete Miſſionseigentum in Empfang zu nehmen.",
-    "datei": "1893_Bonatz_J_A.xml",
-    "autor": "Johann Adolf Bonatz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
-    "graph": [
-      {
-        "subjekt": "Kommandant Tylden",
-        "subjekt_type": "person",
-        "prädikat": "wünſchte",
-        "objekt": "einer der Miſſionare",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Kommandant Tylden",
-        "subjekt_type": "person",
-        "prädikat": "ließ",
-        "objekt": "uns davon in Kenntnis jeßen",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "einer der Miſſionare",
-        "subjekt_type": "person",
-        "prädikat": "kommen möchte",
+        "prädikat": "war_in",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -2127,9 +2103,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "nahten",
+        "prädikat": "kam_nach",
         "objekt": "Whitleſea",
         "objekt_type": "location"
       }
@@ -2144,21 +2120,14 @@
       {
         "subjekt": "Mr. Tylkden",
         "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "uns",
-        "objekt_type": "organisation"
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
       },
       {
         "subjekt": "Mr. Tylkden",
         "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "sich",
-        "objekt_type": "self"
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "organisation",
-        "prädikat": "nach",
+        "prädikat": "reist_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       }
@@ -2173,17 +2142,52 @@
       {
         "subjekt": "Geſchw. Schärf",
         "subjekt_type": "person",
-        "prädikat": "reisen nach",
+        "prädikat": "reiste_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       },
       {
         "subjekt": "Geſchw. Schärf",
         "subjekt_type": "person",
-        "prädikat": "werden berufen nach",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
-      }
+      },
+      {
+        "subjekt": "Geſchw. Schärf",
+        "subjekt_type": "person",
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Adolf Bonatz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reiste_nach",
+        "objekt": "Enon",
+        "objekt_type": "location"
+      },
+      {
+      "subjekt": "Geſchw. Schärf",
+      "subjekt_type": "person",
+      "prädikat": "reiste_nach",
+      "objekt": "Enon",
+      "objekt_type": "location"
+    },
+    {
+      "subjekt": "Geſchw. Schärf",
+      "subjekt_type": "person",
+      "prädikat": "reiste_am/in",
+      "objekt": "Ende dieſes Jahres (1846)",
+      "objekt_type": "date"
+    },
+    {
+      "subjekt": "Johann Adolf Bonatz",
+      "subjekt_type": "person",
+      "prädikat": "reiste_am/in",
+      "objekt": "Ende dieſes Jahres (1846)",
+      "objekt_type": "date"
+    }
     ]
   },
   {
@@ -2210,30 +2214,51 @@
       {
         "subjekt": "Br. Breutel",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "kam_aus",
         "objekt": "Europa",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Br. Breutel",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Januar 1854",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Br. Breutel",
+        "subjekt_type": "person",
+        "prädikat": "ankam_nach",
+        "objekt": "Silo",
         "objekt_type": "location"
       },
       {
         "subjekt": "Br. Kölbing",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "kam_aus",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br. Breutel",
+        "subjekt": "Br. Kölbing",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "ankam_in",
+        "objekt": "Januar 1854",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Br. Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "ankam_nach",
         "objekt": "Silo",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Br. Breutel",
+        "subjekt": " junge Tochte von J.A. Bonatz",
         "subjekt_type": "person",
-        "prädikat": "verlor",
-        "objekt": "Tochterchen",
-        "objekt_type": "person"
+        "prädikat": "gestorben_in",
+        "objekt": "Silo",
+        "objekt_type": "location"
       }
     ]
   },
@@ -2244,24 +2269,24 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "brachten",
+        "prädikat": "brachte",
         "objekt": "12 Miſſionskindern",
-        "objekt_type": "organization"
+        "objekt_type": "person"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "nach",
+        "prädikat": "brachte_nach",
         "objekt": "Europa",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "zu",
-        "objekt": "Jahr 1855",
+        "prädikat": "brachte_in",
+        "objekt": "1855",
         "objekt_type": "date"
       }
     ]
@@ -2273,25 +2298,25 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "landeten",
-        "objekt": "Holland",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "underfuhren",
+        "prädikat": "ankam_in",
         "objekt": "Zeiſt",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "Ende Oktober",
-        "objekt": "date",
+        "prädikat": "ankam_am",
+        "objekt": "Ende Oktober",
         "objekt_type": "date"
+      },
+      {
+        "subjekt": "Zeiſt",
+        "subjekt_type": "location",
+        "prädikat": "liegt_in",
+        "objekt": "Holland",
+        "objekt_type": "location"
       }
     ]
   },
