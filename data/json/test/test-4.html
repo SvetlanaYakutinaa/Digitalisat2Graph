@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Interaktives Netzwerk</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f3f3f8;
+    }
+
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+
+    #network {
+      flex: 1;
+    }
+
+    #details {
+      width: 0;
+      overflow: hidden;
+      transition: width 0.3s ease;
+      background: #f3f3f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #details.visible {
+      width: 35%;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      max-width: 90%;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+
+    #details.visible .card {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .card img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.5em;
+      color: #333;
+    }
+
+    .card p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="network"></div>
+    <div id="details">
+      <div class="card" id="card" style="display: none;">
+        <h2 id="name"></h2>
+        <img id="photo" src="" alt="" />
+        <p id="description"></p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Diese Funktion erstellt aus der JSON-Datenstruktur die Knoten und Kanten
+    function createNetworkData(jsonData) {
+      let nodes = new vis.DataSet([]);
+      let edges = new vis.DataSet([]);
+      let details = {};
+      let nodeMap = {}; // Ein Objekt, um bereits erstellte Knoten zu verfolgen
+
+      jsonData.forEach((entry) => {
+        entry.graph.forEach((relation) => {
+          // Falls das Subjekt oder Objekt "nicht spezifiziert" ist, überspringen
+          if (relation.subjekt === "nicht spezifiziert" || relation.objekt === "nicht spezifiziert") {
+            return; // Knoten überspringen
+          }
+
+          // Subjekt-Knoten erstellen oder wiederverwenden
+          let fromNode = nodeMap[relation.subjekt];
+          if (!fromNode) {
+            fromNode = nodes.length + 1;
+            nodes.add({ id: fromNode, label: relation.subjekt });
+            nodeMap[relation.subjekt] = fromNode;
+          }
+
+          // Objekt-Knoten erstellen oder wiederverwenden
+          let toNode = nodeMap[relation.objekt];
+          if (!toNode) {
+            toNode = nodes.length + 1;
+            nodes.add({ id: toNode, label: relation.objekt });
+            nodeMap[relation.objekt] = toNode;
+          }
+
+          // Kante basierend auf dem Prädikat
+          edges.add({
+            from: fromNode,
+            to: toNode,
+            label: relation.prädikat // Das Prädikat als Kantenlabel
+          });
+
+          // Details speichern (Autor und Text)
+          details[fromNode] = {
+            name: relation.subjekt,
+            description: entry.text,
+            image: "https://via.placeholder.com/300x200?text=" + encodeURIComponent(relation.subjekt)
+          };
+
+          details[toNode] = {
+            name: relation.objekt,
+            description: entry.text,
+            image: "https://via.placeholder.com/300x200?text=" + encodeURIComponent(relation.objekt)
+          };
+        });
+      });
+
+      return { nodes, edges, details };
+    }
+
+    // JSON-Datei laden
+    fetch('test.json') // Den richtigen Pfad zu deiner JSON-Datei hier angeben
+      .then(response => response.json())
+      .then(jsonData => {
+        const { nodes, edges, details } = createNetworkData(jsonData);
+
+        // Vis.js Netzwerk erstellen
+        const container = document.getElementById("network");
+        const data = { nodes, edges };
+        const options = {
+          nodes: {
+            shape: 'dot',
+            size: 16,
+            font: { size: 14 }
+          },
+          edges: {
+            smooth: true,
+            color: '#555'
+          },
+          physics: {
+            stabilization: true
+          }
+        };
+        const network = new vis.Network(container, data, options);
+
+        const detailsPanel = document.getElementById("details");
+        const card = document.getElementById("card");
+
+        network.on("selectNode", function (params) {
+          const id = params.nodes[0];
+          const info = details[id];
+
+          document.getElementById("name").innerText = info.name;
+          document.getElementById("description").innerText = info.description;
+          document.getElementById("photo").src = info.image;
+
+          detailsPanel.classList.add("visible");
+          card.style.display = "block";
+        });
+
+        network.on("deselectNode", function () {
+          detailsPanel.classList.remove("visible");
+          card.style.display = "none";
+        });
+      })
+      .catch(error => {
+        console.error('Fehler beim Laden der JSON-Datei:', error);
+      });
+  </script>
+</body>
+</html>

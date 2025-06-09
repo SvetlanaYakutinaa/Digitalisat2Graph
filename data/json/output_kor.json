@@ -494,7 +494,7 @@
         "subjekt": "Juſtine Bonatz",
         "subjekt_type": "person",
         "prädikat": "war_Kind_von",
-        "objekt": "Johann Gottlieb Bonabtz",
+        "objekt": "Johann Gottlieb Bonatz",
         "objekt_type": "person"
       },
       {
@@ -673,14 +673,14 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Johann Adolf Bonat",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "bekam_Ruf_nach",
         "objekt": "Ebersdorf",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Johann Adolf Bonat",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "bekam_Ruf_in/am",
         "objekt": "1829",
@@ -819,7 +819,7 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "Johann Adolf Bonatzir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "war_tätig_als",
         "objekt": "Missionar",
@@ -1015,7 +1015,7 @@
         "objekt_type": "location"
       },
       {
-        "subjekt": "Johann Adolf Bonatzr",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "date",
         "prädikat": "reisete_in/am",
         "objekt": "Mitte September",
@@ -2321,29 +2321,29 @@
     ]
   },
   {
-    "text": "Ende November kamen wir in Kleinwelfe an, nachdem die Reiſe von Silo aus über 8 Monate gedauert hatte.",
+    "text": "Ende November kamen wir in Kleinwelke an, nachdem die Reiſe von Silo aus über 8 Monate gedauert hatte.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Kleinwelfe",
+        "prädikat": "angekommen_in",
+        "objekt": "Kleinwelke",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "waren",
+        "prädikat": "kam_aus",
         "objekt": "Silo",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reisten",
+        "prädikat": "angekommen_in/am",
         "objekt": "Ende November",
         "objekt_type": "date"
       }
@@ -2356,23 +2356,9 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wohnen sollte",
-        "objekt": "Synodus",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "beiwohnen",
-        "objekt": "1857",
-        "objekt_type": "date"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "währte",
+        "prädikat": "aufenthalt_in",
         "objekt": "Europa",
         "objekt_type": "location"
       }
@@ -2385,10 +2371,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kehrten",
+        "prädikat": "reisete_nach",
         "objekt": "Süd-Afrika",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reisete_in/am",
+        "objekt": "Herbst dieses Jahr (1857*)",
         "objekt_type": "location"
       }
     ]
@@ -2400,23 +2393,23 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "unser",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurden",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "nach Clarkſon",
         "objekt_type": "location"
       },
       {
-        "subjekt": "unser",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "begaben",
-        "objekt": "silo",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Silo",
         "objekt_type": "location"
       },
       {
-        "subjekt": "unser",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurden",
+        "prädikat": "bekam_Ruf_in/am",
         "objekt": "1859",
         "objekt_type": "date"
       }
@@ -2429,47 +2422,47 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "meine l. Eltern",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnten_in",
         "objekt": "Clarkson",
         "objekt_type": "location"
       },
       {
-        "subjekt": "meine l. Eltern",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "bedienten",
+        "prädikat": "war_tätig_in",
+        "objekt": "Fingu-Gemeine",
+        "objekt_type": "organisation"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "wohnten_in",
+        "objekt": "Clarkson",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_in",
         "objekt": "Fingu-Gemeine",
         "objekt_type": "organisation"
       }
     ]
   },
   {
-    "text": "Im Jahre 1860 traten sie die Rückreiſe au nach ſchwerem Abſchied von dem Arbeitsfeld, wo unſer l. Vater mit großer Vorliebe, treuer Angelegenheit und unter des Herrn Segen 29 Jahre Lang thätig geweſen war.",
+    "text": "Im Jahre 1860 traten sie die Rückreiſe nach ſchwerem Abſchied von dem Arbeitsfeld, wo unſer l. Vater mit großer Vorliebe, treuer Angelegenheit und unter des Herrn Segen 29 Jahre Lang thätig geweſen war.",
     "datei": "1893_Bonatz_J_A.xml",
     "autor": "Johann Adolf Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "unser l. Vater",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Arbeitsfeld",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "unser l. Vater",
-        "subjekt_type": "person",
-        "prädikat": "thätig geweſen",
-        "objekt": "Arbeitsfeld",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "unser l. Vater",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "unter des Herrn Segen",
-        "objekt_type": "location"
+        "prädikat": "Ruhestand",
+        "objekt": "1860",
+        "objekt_type": "date"
       }
     ]
   },
@@ -2480,18 +2473,46 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "sie",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "nahmen ihren Aufenthalt",
+        "prädikat": "aufenthalt_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location"
       },
       {
-        "subjekt": "sie",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "landeten",
+        "prädikat": "ankam_nach",
         "objekt": "Europa",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "gegen Ende des Jahres (1860*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "wohnhaft_in",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_nach",
+        "objekt": "Europa",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Eliſe Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "gegen Ende des Jahres (1860*)",
+        "objekt_type": "date"
       }
     ]
   },
@@ -2502,18 +2523,31 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "unser l. Vater",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde gerufen",
-        "objekt": "als Diaſpora- Arbeiter für Schaffhauſen und den Kanton Aargau",
-        "objekt_type": "organisation"
+        "prädikat": "war_tätig_als",
+        "objekt": "Diaſpora-Arbeiter für Schaffhauſen und den Kanton Aargau",
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "unser l. Vater",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
-        "prädikat": "follte",
+        "prädikat": "war_tätig_in/am",
         "objekt": "Oſtern des Jahres 1862",
         "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_in",
+        "objekt": "Schaffhauſen",
+        "objekt_type": "location"
+      },{
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_in",
+        "objekt": "Kanton Aargau",
+        "objekt_type": "tätigkeit"
       }
     ]
   },
@@ -2524,7 +2558,7 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Kanton Aargau",
@@ -2539,18 +2573,11 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Adolf Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Königsfeld",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "verbrachte_den_Winter_in",
-        "objekt": "Brüdergemeine",
-        "objekt_type": "organisation"
       }
     ]
   },
@@ -2561,16 +2588,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "Johannes Lemmerz",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "heimgegangen",
+        "prädikat": "gestorben_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Johannes Lemmerz",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "gestorben",
+        "prädikat": "gestorben_am",
         "objekt": "6 Mai 1855",
         "objekt_type": "date"
       }
@@ -2583,23 +2610,23 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
         "prädikat": "geboren_am",
         "objekt": "6. August 1784",
         "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "geboren_in",
         "objekt": "Alzey",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "subjekt": "Alzey",
+        "subjekt_type": "location",
+        "prädikat": "liegt_in",
         "objekt": "Unterpfalz",
         "objekt_type": "location"
       }
@@ -2612,25 +2639,18 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "confirmirt",
-        "objekt_type": "prädikat"
+        "prädikat": "confirmiert",
+        "objekt": "(1797*)",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "genaß",
-        "objekt": "das heilige Abendmahl",
-        "objekt_type": "prädikat"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "Furcht und Zittern",
-        "objekt_type": "prädikat"
+        "prädikat": "heil.Abendmal_in/am/zu",
+        "objekt": "Pfingsten",
+        "objekt_type": "date"
       }
     ]
   },
@@ -2641,17 +2661,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "Lehre_als",
         "objekt": "Strumpfwirker-Meister",
-        "objekt_type": "organisation"
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "in die Lehre",
-        "objekt": "-1799",
+        "prädikat": "Lehre_in/am",
+        "objekt": "1799",
         "objekt_type": "date"
       }
     ]
@@ -2663,25 +2683,25 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "beschäftigt_sich_mit",
-        "objekt": "heilige Abendmahl",
-        "objekt_type": "none"
+        "prädikat": "ALehre_Abschluss",
+        "objekt": "1802",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "gegangen_zu",
         "objekt": "Wanderſchaft",
-        "objekt_type": "none"
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wollte",
-        "objekt": "noch einmal das heilige Abendmahl genießen",
-        "objekt_type": "none"
+        "prädikat": "gegangen_in/am",
+        "objekt": "1802",
+        "objekt_type": "date"
       }
     ]
   },
@@ -2694,35 +2714,28 @@
       {
         "subjekt": "Manhardt",
         "subjekt_type": "person",
-        "prädikat": "auf",
-        "objekt": "Hanerau in Holſtein",
-        "objekt_type": "location"
+        "prädikat": "Schwiegerson_von",
+        "objekt": "Herrn van der Smiſſen",
+        "objekt_type": "person"
       },
       {
-        "subjekt": "Herrn van der Smiſſen",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "an",
-        "objekt": "Altona",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "arbeitete",
+        "prädikat": "war_tätig_in",
         "objekt": "Heidelberg",
         "objekt_type": "location"
       },
       {
         "subjekt": "Manhardt",
         "subjekt_type": "person",
-        "prädikat": "auf",
-        "objekt": "Hanerau in Holſtein",
+        "prädikat": "wohnhaft_in",
+        "objekt": "Holſtein",
         "objekt_type": "location"
       },
       {
         "subjekt": "Herrn van der Smiſſen",
         "subjekt_type": "person",
-        "prädikat": "in",
+        "prädikat": "wohnhaft_in",
         "objekt": "Altona",
         "objekt_type": "location"
       }
@@ -2735,11 +2748,18 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "war_tätig_in",
         "objekt": "Gnadau",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "war_tätig_als",
+        "objekt": "Strumpfwirker*",
+        "objekt_type": "tätigkeit"
       }
     ]
   },
@@ -2750,23 +2770,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wollte",
-        "objekt": "Gnadau",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "begab",
+        "prädikat": "reist_nach",
         "objekt": "Herrnhut",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "reisete_in/am",
         "objekt": "März 1807",
         "objekt_type": "date"
       }
@@ -2779,24 +2792,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "die gewünſchte Erlaubniß zur Gemeine",
+        "prädikat": "Aufnahme_in",
+        "objekt": "Brüderbund",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "in den Brüderbund aufgenommen",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "die Erlaubniß",
+        "prädikat": "Aufnahme_in/am",
+        "objekt": "27sten September (1807*)",
         "objekt_type": "date"
       }
     ]
@@ -2808,17 +2814,17 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verließ",
-        "objekt": "mein bisheriges Geſchäft",
-        "objekt_type": "organisation"
+        "prädikat": "war_tätig_als",
+        "objekt": "Strumpfwirker*",
+        "objekt_type": "tätigkeit"
       },
       {
-        "subjekt": "der Herr",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "beigeſtanden",
-        "objekt": "bei dem",
+        "prädikat": "war_tätig_in/am",
+        "objekt": "Januar 1809",
         "objekt_type": "location"
       }
     ]
@@ -16574,20 +16580,20 @@
     ]
   },
   {
-    "text": "Lebenslauf des am 16ten December 1827 in Gnadenthal in SüdAfrika ſelig entschlafenen verheiratheten Bruders Johann Gottlieb Bonabtz.",
+    "text": "Lebenslauf des am 16ten December 1827 in Gnadenthal in SüdAfrika ſelig entschlafenen verheiratheten Bruders Johann Gottlieb Bobatz.",
     "datei": "1830_Bonatz_J_G.xml",
     "autor": "Johann Gottlieb Bonatz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
     "graph": [
       {
-        "subjekt": "Johann Gottlieb Bonabtz",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "geboren_am",
         "objekt": "16ten December 1827",
         "objekt_type": "date"
       },
       {
-        "subjekt": "Johann Gottlieb Bonabtz",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Gnadenthal",
