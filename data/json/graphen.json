@@ -4923,87 +4923,63 @@
     "text": "Hier ward mein jüngſter Bruder Jmmanuel Benjamin geboren; ſein Schöpfer nahm ihn aber bald wieder zu ſich.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Jmmanuel Benjamin",
+        "subjekt": "Jmmanuel Benjamin Küſter",
         "subjekt_type": "person",
-        "prädikat": "geboren",
-        "objekt": "",
-        "objekt_type": "",
+        "prädikat": "geboren_in",
+        "objekt": "Torgau",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Jmmanuel Benjamin Küſter",
+        "subjekt_type": "person",
+        "prädikat": "Bruder_von",
+        "objekt": "Johann Adolph Küſter",
+        "objekt_type": "person",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Jmmanuel Benjamin Küſter",
+        "subjekt_type": "person",
+        "prädikat": "gestorben_in",
+        "objekt": "Torgau",
+        "objekt_type": "location",
         "zeit": ""
       }
     ]
   },
   {
-    "text": "Um mir und meinem Bruder Wilhelm eine beſſere Pflege und Erziehung zu verſchaffen, hielt er bei der Kriegs Canzlei um Erlaubniß an uns in das Erziehungs Inſticut für Soldatenknaben nach Annaburg bringen zu dürfen; und nachdem ihm ſeine Bitte bewilligt worden brachte er uns im Jahr 1786 dahin.",
+    "text": "Um mir und meinem Bruder Wilhelm eine beſſere Pflege und Erziehung zu verſchaffen, hielt er bei der Kriegs Canzlei um Erlaubniß an uns in das Erziehungs Inſtitut für Soldatenknaben nach Annaburg bringen zu dürfen; und nachdem ihm ſeine Bitte bewilligt worden brachte er uns im Jahr 1786 dahin.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Wilhelm Küſter",
         "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "uns",
-        "objekt_type": "organisation",
-        "zeit": "1786"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "Annaburg",
-        "objekt_type": "location",
-        "zeit": "1786"
-      }
-    ]
-  },
-  {
-    "text": "In Düben wurde ich von meinem Meiſter und deſſen Frau liebreich empfangen: die Profeſſion gefiel mir ich hatte Luſt zu derſelben und lernte leicht das Band weben befam aber ſo wenig zu eſſen daß ich mich oft hungrig zu Bett legen mußte. Eines Tages nach dem Mittageſſen war ich noc fo hungrig daß ich in den Garten ging und rohe Bohnen zu eſſen verſuchte. Als dies eine arme Frau welche im Hintergebäude wohnte bemerkte rief ſie mich liebreich zu ſich und gab mir in ihrer Wohnung die fehlende Nahrung ſo daß ich mich einmal wieder ſatt eſſen konnte. Werſchiedenemal hatte ich meinen Lehrherrn erſucht mich nach Annaburg zus rüczuſenden aber immer vergebens und ſeine Frau hatte mir ſogar die Kleider weggenommen und ſie verſtet damit ich nicht entlaufen ſollte.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde empfangen",
-        "objekt": "Meiſter und deſſen Frau",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Garten",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "arme Frau",
-        "subjekt_type": "person",
-        "prädikat": "rief und gab",
-        "objekt": "ihrer Wohnung",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Lehrherrn",
-        "subjekt_type": "person",
-        "prädikat": "ersuchte mich",
-        "objekt": "Annaburg",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Meiſter und deſſen Frau",
-        "subjekt_type": "organization",
-        "prädikat": "nahm Kleider weg",
-        "objekt": "mir",
+        "prädikat": "Bruder_von",
+        "objekt": "Johann Adolph Küſter",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Wilhelm Küſter",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Erziehungs Inſtitut für Soldatenknaben",
+        "objekt_type": "organisation",
+        "zeit": "seit 1786"
+      },
+      {
+        "subjekt": "Erziehungs Inſtitut für Soldatenknaben",
+        "subjekt_type": "person",
+        "prädikat": "war_in",
+        "objekt": "Annaburg",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -5011,23 +4987,15 @@
     "text": "Deswegen war ich erfreut als anderthalb Jahre darnach mein Vater mich beſuchte und mir eine Anſtellung bei dem Stadt-Syndikus in Torgau antrug die ich dann gern annahm.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
-        "objekt": "Vater",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Anstellung bei dem Stadt-Syndikus in Torgau",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "aufenthalt_in",
+        "objekt": "Stadt-Syndikus in Torgau",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -5035,85 +5003,15 @@
     "text": "Bei unſerer Ankunft in Torgau vernahmen wir daß der Syndikus mit ſeiner Frau und Kindern zu einem Familienbeſuch nach Dresden gereiſt ſei.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "der Syndikus",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "gereist nach",
-        "objekt": "Dresden",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "der Syndikus",
-        "subjekt_type": "person",
-        "prädikat": "war mit seiner Frau und Kindern",
-        "objekt": "bei einem Familienbesuch",
-        "objekt_type": "string"
-      }
-    ]
-  },
-  {
-    "text": "Deshalb entſchloß ſich mein Vater auch mit mir einen Familienbefuch in Oederan meinem Geburtsorte zu machen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "mein Vater",
-        "subjekt_type": "person",
-        "prädikat": "entſchloß",
-        "objekt": "einen Familienbefuch",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "mein Vater",
-        "subjekt_type": "person",
-        "prädikat": "mit mir",
-        "objekt": "einen Familienbefuch",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "Geburtsorte",
-        "objekt": "Oederan",
+        "prädikat": "reise_nach",
+        "objekt": "Torgau",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Ich erklärte wenn ich eine Anſtellung als Schreiber erhalten könnte wolle ich bleiben; da nun dieſes nicht geſchehen konnte ſo ließen ſie mir durch meinen Vater vorſtellen ich möchte ein Kattun und Zißweber werden welche Profeſſion ſich damals in ihrer ſchönſten Blüthe befand.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wolle ich bleiben",
-        "objekt": "Anſtellung als Schreiber",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Vater",
-        "subjekt_type": "person",
-        "prädikat": "vorstellen",
-        "objekt": "ich möchte ein Kattun und Zißweber werden",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "lassen",
-        "objekt": "mir durch meinen Vater vorstellen",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit":""
       }
     ]
   },
@@ -5121,28 +5019,23 @@
     "text": "Nachdem ich meine Profession ausgelernt hatte ging ich über Etzdorf zu meinen Eltern nach Torgau um meine Stiefmutter kennen zu lernen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "ging",
+        "prädikat": "reise_über",
         "objekt": "Etzdorf",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "um",
-        "objekt": "meine Eltern",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "nach",
+        "prädikat": "reisen_nach",
         "objekt": "Torgau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -5150,14 +5043,15 @@
     "text": "Ich hielt nun ſchrifilich um Erlaubniß zur Gemeine in Kleinwelfe an und bald nach der Abſendung dieſes Briefes reiſte ich dahin ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſte ich dahin ab",
-        "objekt": "Kleinwelfe",
-        "objekt_type": "location"
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine in Kleinwelke",
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
@@ -5165,23 +5059,15 @@
     "text": "Mit dem Pachter des Pfarrgutes der auch ein Kind Gottes war trat ich nun 1796 die Reiſe an und als wir Kleinwelke erblickten kam ein ſanfter Gottesfriede in mein Herz.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "die Reise an",
-        "objekt_type": "date",
-        "zeit": "1796"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erblickten",
+        "prädikat": "reise_nach",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1796"
       }
     ]
   },
@@ -5192,28 +5078,28 @@
     "autor": "Johann Adolph Küſter.",
     "graph": [
       {
-        "subjekt": "Kaltofen",
+        "subjekt": "Br. Kaltofen",
         "subjekt_type": "person",
-        "prädikat": "wollte besuchen",
-        "objekt": "Niesky",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Kaltofen",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Miſſionar",
-        "objekt_type": "organization",
-        "zeit": "Jahr 1822"
-      },
-      {
-        "subjekt": "Kaltofen",
-        "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "gestorben_in",
         "objekt": "St.Kitts",
         "objekt_type": "location",
-        "zeit": "Jahr 1822"
+        "zeit": "1822"
+      },
+      {
+        "subjekt": "Br. Kaltofen",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Miſſionar",
+        "objekt_type": "tätigkeit",
+        "zeit": "1822"
+      },
+      {
+        "subjekt": "Kaltofen",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "St.Kitts",
+        "objekt_type": "location",
+        "zeit": "1822"
       }
     ]
   },
@@ -5221,42 +5107,55 @@
     "text": "Dieſer Beſuch gereichte mir zum bleibenden Segen: denn ich machte daſelbſt eine mir ſehr angenehme Bekanntſchaft mit zwei Brüdern: dem Br.Chriſtian Friedrich Richter welcher viele Jahre lang ein treuer und geſegneter Diener unſers Herrn auf Antigua geweſen iſt und mit dem Br. Joh. Heinrich Schmitt welcher ebenfalls als Miſſionar zuerſt in Labrador und dann in SüdAfrika dem Heiland mit Treue gedient hat.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſte",
         "subjekt_type": "person",
-        "prädikat": "bekanntschaft_mit",
+        "prädikat": "traf",
         "objekt": "Chriſtian Friedrich Richter",
-        "objekt_type": "person"
+        "objekt_type": "person",
+        "zeit":"1822"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſte",
         "subjekt_type": "person",
-        "prädikat": "bekanntschaft_mit",
+        "prädikat": "traf",
         "objekt": "Joh. Heinrich Schmitt",
-        "objekt_type": "person"
+        "objekt_type": "person",
+        "zeit":"1822"
       },
       {
         "subjekt": "Chriſtian Friedrich Richter",
         "subjekt_type": "person",
-        "prädikat": "war_eingeschult",
+        "prädikat": "tätig_in",
         "objekt": "Antigua",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Joh. Heinrich Schmitt",
         "subjekt_type": "person",
-        "prädikat": "wirkte_in",
+        "prädikat": "tätig_in",
         "objekt": "Labrador",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Joh. Heinrich Schmitt",
         "subjekt_type": "person",
-        "prädikat": "wirkte_in",
-        "objekt": "SüdAfrika",
-        "objekt_type": "location"
+        "prädikat": "tätig_in",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Joh. Heinrich Schmitt",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Missionar",
+        "objekt_type": "tätigkeit",
+        "zeit":""
       }
     ]
   },
@@ -5264,23 +5163,15 @@
     "text": "Hier in Niesky wurde mir zu meiner großen Freude angezeigt daß ich am 14. März deſſelben Jahres (1796) Erlaubniß zur Gemeine in Kleinwelke erhalten habe worauf ich denn dahin zurückkehrte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "angezeigt",
-        "objekt": "Erlaubniß zur Gemeine in Kleinwelke",
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine in Kleinwelke",
         "objekt_type": "organisation",
-        "zeit": "1796"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "zurückkehrte",
-        "objekt": "Kleinwelke",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit": "14. März 1796"
       }
     ]
   },
@@ -5288,23 +5179,23 @@
     "text": "Da die Weberſtühle im Brüdechauſe alle beſeßt waren, ſo konnte ich auf meiner Profeſſion nicht ankommen und mußte mich deswegen zum Holzmachen bequemen, wobei ich aber nur einen Tag blieb weil man bald bemerkte daß ich dazu zu ſchwach ſeil.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "mußte mich deswegen zum Holzmachen bequemen",
+        "prädikat": "tätig_als",
         "objekt": "Holzmachen",
-        "objekt_type": "activity",
-        "zeit": null
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "blieb",
-        "objekt": "Holzmachen",
-        "objekt_type": "activity",
-        "zeit": null
+        "prädikat": "lehre_als",
+        "objekt": "Leinwandweber",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -5312,60 +5203,23 @@
     "text": "Man wies mir deshalb Arbeit in der Küche an; aber auch da blieb ich nicht lange: denn es war ein Stuhl in der Weberei leer geworden auf den ich mich nun feßte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wies mir Arbeit in der Küche an",
+        "prädikat": "tätig_in",
         "objekt": "Küche",
-        "objekt_type": "location"
+        "objekt_type": "tätigkeit",
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "blieb nicht lange",
-        "objekt": null,
-        "objekt_type": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war ein Stuhl in der Weberei leer geworden auf den ich mich nun feßte",
+        "prädikat": "tätig_in",
         "objekt": "Weberei",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Da ich aber nur die Kattunweberei nicht aber das Leinwandweben gelernt hatte wurde es mir im Anfang nicht leicht mir mein Brod zu verdienen; ich erfuhr aber auch hier daß der Heiland mit Seiner Hülfe nicht fern war.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Kattunweberei",
         "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "lernt",
-        "objekt": "Leinwandweben",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "der Heiland",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Seiner Hülfe",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit":""
       }
     ]
   },
@@ -5373,22 +5227,22 @@
     "text": "Am 7. Auguſt 1796 wurde ich in die Gemeine aufgenommen und am 13. April 1797 gelangte ich zum erfimaligen Genuß des heiligen Abendmahls mit der Gemeine wobei ſich mir der Heiland in Seiner Liebe auf eine herzhinnehmende Weiſe offenbarte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgenommen",
-        "objekt": "die Gemeine",
+        "prädikat": "aufgenommen_in",
+        "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "7. August 1796"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "langte zum erfimaligen Genuß des heiligen Abendmahls",
-        "objekt": "dem heiligen Abendmahl",
-        "objekt_type": "none",
+        "prädikat": "teilnahme_an",
+        "objekt": "heiligen Abendmahl",
+        "objekt_type": "",
         "zeit": "13. April 1797"
       }
     ]
@@ -5400,36 +5254,20 @@
     "autor": "Johann Adolph Küſter.",
     "graph": [
       {
-        "subjekt": "Bauer",
+        "subjekt": "Br. Bauer",
         "subjekt_type": "person",
-        "prädikat": "operirt wurde",
-        "objekt": "den Bruder",
-        "objekt_type": "person",
-        "zeit": "November 1797"
-      }
-    ]
-  },
-  {
-    "text": "Meine größten Wohlthäterinnen in dieſer Zeit waren die Gräfin von Hohenthal und die verwitwete Gräfin von Wartensleben.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "Gräfin von Hohenthal",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Meine größten Wohlthäterinnen",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Arzt",
+        "objekt_type": "tätigkeit",
+        "zeit": "1797"
       },
       {
-        "subjekt": "Gräfin von Wartensleben",
+        "subjekt": "Br. Bauer",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Meine größten Wohlthäterinnen",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "tätig_in",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location",
+        "zeit": "1797"
       }
     ]
   },
