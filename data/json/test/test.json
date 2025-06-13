@@ -1,0 +1,2323 @@
+[
+    {
+      "text": "Lebenslauf des am 4 Januar 1893 in Königsfeld entſchlafenen verwitweten Bruders Johann Adolf Bonaß.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_am",
+          "objekt": "4 Januar 1893",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_in",
+          "objekt": "Königsfeld",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Ich bin am 29 September 1808 in Gnadenthal auf dem Vorgebirge der guten Hoffnung geboren, wo meine Eltern, Johann Gottlieb Bonaß, gebürtig aus Tangermünde, und Johanna Dorothea geb. Koch aus Spree bei Niesky, dem Heiland unter den Hottentotten und Freiſchwarzen dienten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "geboren_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Johanna Dorothea Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Ehefrau_von",
+          "objekt": "Johann Gottlieb Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "geboren_am",
+          "objekt": "29 September 1808",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "geboren_in",
+          "objekt": "Tangermünde",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "geboren_in",
+          "objekt": "Spree bei Niesky",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "geboren_als",
+          "objekt": "Koch",
+          "objekt_type": "nicht spezifiziert"
+        },
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Vater_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Muter_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        }
+  
+      ]
+    },
+    {
+      "text": "Im Jahre 1810 bekamen sie den Antrag, die Gemeine in Mamre, damals Groenekloof, bedienen zu helfen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Gemeine in Mamre (Groenekloof)",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Gemeine in Mamre (Groenekloof)",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_in/am",
+          "objekt": "1810",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_in/am",
+          "objekt": "1810",
+          "objekt_type": "date"
+        }
+        
+      ]
+    },
+    {
+      "text": "Im Jahr 1814 mußten meine Eltern zur Aushilfe wieder nach Gnadenthal.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johanna Dorothea Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_als",
+          "objekt": "Aushilfe",
+          "objekt_type": "tätigkeit"
+        },
+        {
+          "subjekt": "Johann Gottlieb Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_als",
+          "objekt": "Aushilfe",
+          "objekt_type": "tätigkeit"
+        },
+        {
+          "subjekt": "Aushilfe",
+          "subjekt_type": "tätigkeit",
+          "prädikat": "war_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "ort"
+        },
+        {
+          "subjekt": "Aushilfe",
+          "subjekt_type": "tätigkeit",
+          "prädikat": "war_in/am",
+          "objekt": "1814",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Altern Anſchein nach hatte daſſelbe auch eine übfe Wirkung auf meine Geſchwiſter ; denn noch in derſelben Nacht gegen Morgen ging mein Bruder Heinrich heim und zu Mittag um 12 Uhr folgte ihm meine ältere Schweſter Marianne in die ewige Heimat nach.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Heinrich Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johanna Dorothea Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Heinrich Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johann Gottlieb Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Marianne Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johanna Dorothea Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Marianne Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johann Gottlieb Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Marianne Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben",
+          "objekt":"nicht spezifiziert",
+          "objekt_type":"nicht spezifiziert"
+        }, 
+        {
+        "subjekt": "Heinrich Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "gestorben",
+        "objekt":"nicht spezifiziert",
+        "objekt_type":"nicht spezifiziert"
+        }
+      ]
+    },
+    {
+      "text": "Im Jahre 1816 kam Ignatius Latrobe zu einer Viſitation nach Afrika.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "besuch_in",
+          "objekt": "Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "besuch_in/am",
+          "objekt": "1816",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Nachdem Br. Latrobe ſich einige Zeit in Groenekloof und Gnadenthal aufgehalten hatte, unternahm er in Begleitung von Geſchw. Schmidt die langwierige Reiſe nach dem Unterland, um die von der „Regierung angebotenen Pläße zu sefichtigen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Groenekloof",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Unterland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Schmidt",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Christian Ignatius Latrobe",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Br Latrobe's Rückreiſe war auf den Anfang September deſſelben Jahres mit dem Schiff Brillant feſtgeſeßt, und da ich das gehörige Alter hatte, wurde beſchloſſen, daß er mich mit nach England und dann später nach Deutſchland nähme.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "England",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Deutſchland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_am/in",
+          "objekt": "Anfang September",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Es mochte wohl anfangs Dezember ſein, als wir in London ankamen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "angekommen_in",
+          "objekt": "London",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Br. Latrobe, der einen Monat ſpäter von der Kapſtadt abgefegelt war, kam einen Tag vor uns in London an.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "angekommen_in",
+          "objekt": "London",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "angekommen_in/am",
+          "objekt": "ca. Januar",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Im Frühjahr 1817 reiſte dann Br. Latrobe mit mir über Holland nach Deutſchland.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Christian Ignatius Latrobe",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_über",
+          "objekt": "Holland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_mit",
+          "objekt": "Christian Ignatius Latrobe",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Deutſchland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Deutſchland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_am/in",
+          "objekt": "Frühjahr 1817",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reiste_am/in",
+          "objekt": "Frühjahr 1817",
+          "objekt_type": "date"
+        }    
+      ]
+    },
+    {
+      "text": "Der Aufenthalt in Zeiſt iſt mir immer in lieblichem Andeufen geblieben.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "aufenthalt_in",
+          "objekt": "Zeiſt",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Als wir nach Herrnhut kamen, übergab er mich meinen Verwandten, Geſchw. Raue die mich wie ihr eigen Kind behandelten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "traf_mit",
+          "objekt": "Geſchw. Raue",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "angekommen_in",
+          "objekt": "Herrnhut",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Nach einigen Wochen wurde ich nach Niesky in die Erziehungsanftalt abgegeben, wo damals noch sämtliche Miſſionskinder erzogen wurden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Niesky",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "erzogen",
+          "objekt": "Erziehungsanftalt für Miſſionskinder",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Erziehungsanftalt für Miſſionskinder",
+          "subjekt_type": "organisation",
+          "prädikat": "war_in",
+          "objekt": "Herrnhut",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Erziehungsanftalt für Miſſionskinder",
+          "objekt_type": "organisation"
+        }
+      ]
+    },
+    {
+      "text": "Er brachte mehrere Kinder andrer Miſſionare und meine einzige Schweſter Juſtine mit, welche alle in Kleinwelke in die Miſſionsanſtalten abgegeben wurden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Juſtine Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johann Gottlieb Bonabtz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Juſtine Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_Kind_von",
+          "objekt": "Johanna Dorothea Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Juſtine Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Miſſionsanſtalten",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Miſſionsanſtalten",
+          "subjekt_type": "organisation",
+          "prädikat": "war_in",
+          "objekt": "Kleinwelke",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Noch in demſelben Jahre kehrte er, nachdem er mit Schw. Friedrike Erdmann ehelich verbunden worden war, nach Afrika zurück.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Friedrike Erdmann",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Im Jahre 1823 kam ich nach Niesky in die Tiſchlerei des Brüderhaujes in die Lehre.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "kam_nach",
+          "objekt": "Niesky",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Lehre_bei",
+          "objekt": "Tiſchlerei des Brüderhauses",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Lehre_in/am",
+          "objekt": "1823",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Meine Konfirmation im Jahre 1824 fiel in jene erſte Zeit der Lehre, und dies ſchmälerte mir gar ſehr den Segen, den ich bei einer tnehr gefaßten Gemütsſtunmung hätte haben können.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "konfirmierte_in/am",
+          "objekt": "1824",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Ich meldete mich zur Aufnahme in die Gemeine, wie es früher noch Sitte war, und gelangte dazu am 13 November deſſelben Jahres.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Aufnahme_in",
+          "objekt": "Gemeine",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Aufnahme_in/am",
+          "objekt": "13 November 1824",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Außerdem hatte ich einen treuen Freund an Br.Auguſt Freitag, der auch noch einige Jahre mit mir gelernt hatte und nun mein Nebengefelle war.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Auguſt Freitag",
+          "subjekt_type": "person",
+          "prädikat": "Freund_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Er bekam aber noch in dieſem Jahre einen Ruf in die Tiſchlerei nach Herrnhut, welchen er auch annahm.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Auguſt Freitag",
+          "subjekt_type": "person",
+          "prädikat": "Lehre_bei",
+          "objekt": "Tiſchlerei",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Tiſchlerei",
+          "subjekt_type": "organisation",
+          "prädikat": "war_in",
+          "objekt": "Herrnhut",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Ich ging daher zu Br. Wullſchlägel, welcher damals Lehrer an der Ortsanſtalt in Niesky war, und erſuchte ihn, mir einige lateiniſche Bücher zu leihen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Lehre_bei",
+        "objekt": "Br. Wullſchlägel",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "Lehre_in/am",
+        "objekt": "Niesky",
+        "objekt_type": "location"
+      }]
+    },
+    {
+      "text": "Im Jahre 1829 bekam derſelbe einen Ruf nach Ebersdorf.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonat",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Ebersdorf",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonat",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_in/am",
+          "objekt": "1829",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Ich hatte daran nie gedacht und nahm es als Scherz; aber es war ihm damit völliger Ernſt, und ſchon nach 8 Tagen wurde mir von Br. L. Reichel, Prediger und Direktor der Ortsanſtalt in Niesky, der Antrag gemacht, an Stelle des Br. Wullſchlägel einzutreten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. L. Reichel",
+          "subjekt_type": "person",
+          "prädikat": "war",
+          "objekt": "Prediger und Direktor",
+          "objekt_type": "tätigkeit"
+        },
+        {
+          "subjekt": "Prediger und Direktor",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_bei",
+          "objekt": "Ortsanstalt",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Ortsanstalt",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Niesky",
+          "objekt_type": "location"
+        }
+      ]
+    },  
+    {
+      "text": "Ich begaun meinen Anſtaltsdienſt am Tage nach dem Kinderfeſt 1829.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_bei",
+          "objekt": "Anſtaltsdienſt",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_in/am",
+          "objekt": "1829",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Gegen Ende 1830 ging meine Schweſter Juſtine in Kleinwelke an der Auszehrung heim.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Juſtine Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_in",
+          "objekt": "Kleinwelke",
+          "objekt_type": "location"
+          }, 
+          {
+            "subjekt": "Juſtine Bonatz",
+            "subjekt_type": "person",
+            "prädikat": "gestorben_am",
+            "objekt": "Ende 1930",
+            "objekt_type": "date"
+            }
+        ]
+    },
+    {
+      "text": "Am 7 Juni 1831 erhielt ich ganz unerwartet einen Ruf zum Dienſt der Miſſion in Süd - Afrika.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_in/am",
+          "objekt": "7 Juni 1831",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_zum",
+          "objekt": "Dienſt der Miſſion",
+          "objekt_type": "tätigkeit"
+        }
+      ]
+    },
+    {
+      "text": "Mein Freund Br. Freytag hatte auch zu gleicher Zeit einen Ruf nach Labrador erhalten und angenommen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Freytag",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Labrador",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Freytag",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_in/am",
+          "objekt": "1831",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Wir waren nun viel bei einander in Herrnhut und freuten uns, daß wir zu gleicher Zeit als Miſſionare ausziehen witrden, freilich in entgegengefehter Richtung, jedoch in ein und demselben Beruf.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatzir",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Missionar",
+          "objekt_type": "tätigkeit"
+        },
+        {
+          "subjekt": "Br. Freytag",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Missionar",
+          "objekt_type": "tätigkeit"
+        }
+      ]
+    },
+    {
+      "text": "Im Berthelsdorf hatte ich die Weiſung bekommen, so lange in meinem Berufe zu bleiben, bis Br. Schoppmany, der auch nach Afrifa berufen war, kommen würde; mit ihm sollte ich dann zuerſt nah England reiſen, wo wir einige Monate bleiben ſollten, um die engliſche Sprache zu lernen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "England",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Schoppmany",
+          "subjekt_type": "person",
+          "prädikat": "berufen",
+          "objekt": "Afrifa",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Schoppmany",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "England",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Mit ihm wurde ich dann bald im Kreis der lieben Brüder der U.-A.-C. in Berthelsdorf feierlich zur Akoluthie angenommen und zur Reiſe nach Süd -Afrifa abgefertigt, welche wir Anfang Mai antraten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "angenommen_zur",
+          "objekt": "Akoluthie",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "teilname_an",
+          "objekt": "U.-A.-C.",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_in/am",
+          "objekt": "Anfang Mai",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "In London angelangt, erfuhren wir Leider bald, daß das Labradorſchiff, und auf demſelben mein Freund Br. Freytag, vor einigen Tagen abgeſegelt ſei.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Freytag",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Labrador",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "London",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Freytag",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "London",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Auch erfuhren wir hier, daß wir noch einige Monate in England verweilen müßten, bis Geſchw. Genth von Suriname, die inzwiſchen einen Ruf nach Süd-Afrika erhalten hatten, auch in Londen eintreffen würden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Genth",
+          "subjekt_type": "person",
+          "prädikat": "ist_aus",
+          "objekt": "Suriname",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Genth",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "aufenthalt_in",
+          "objekt": "England",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "So entſchieden ſich die Brüder dafür, daß wir nach der Gemeine Ockbrook reiſen ſollten, um dort, ſoviel als möglich, noch die engliſche Sprache zu erkernet.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_in",
+          "objekt": "Gemeine Ockbrook",
+          "objekt_type": "organisation"
+        }
+      ]
+    },
+    {
+      "text": "Anfang September kam Br. Ignatius Latrobe zu einem Beſuch nach Ockbrook, und da nun auch die Nachricht von der Anfunft der Geſchw. Genth angefangt war und wir nach London zurücfehren ſollten, jo hielt Br. Latrobe noch an dem letzen Abend eine Gemeinſtunde über den Tert: Wie das Teil derjenigen, die in den Streit hinabgezogen find, jo soll auch das Zeil derjenigen jein, die beim Gerät geblieben ſind.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "besuch",
+          "objekt": "Ockbrook",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Christian Ignatius Latrobe",
+          "subjekt_type": "person",
+          "prädikat": "besuch",
+          "objekt": "Anfang September",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Geſchw. Genth",
+          "subjekt_type": "person",
+          "prädikat": "kam_nach",
+          "objekt": "London",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Der Kapitän und die wenigen andern Paſſagiere waren ganz junge und unerfahrene Leute, so daß wir mit recht ſchwerem Herzen gegen Mitte September unfere große Seereife antraten; und in der That war es feine leichte Reiſe.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatzr",
+          "subjekt_type": "date",
+          "prädikat": "reisete_in/am",
+          "objekt": "Mitte September",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Am 30 Dezember gegen Abend fiel der Anker in der Tafelbay.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Tafelbay",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_am",
+          "objekt": "30 Dezember",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Froh und dankbar für alles, was der Herr während der langen Seereiſe von 15 Wochen und auch hier an ums gethan hatte, verließen wir die lieben Freunde in der Kapſtadt und reiſten nach Groenekloof.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Groenekloof",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Kapſtadt",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "In Gnadenthal entſchied Br. Hallbeck und die ſüd-afrikaniſche Helferkonferenz, daß Br. Schoppmann daſelbſt bleiben, Geſchw. Genth nach Enon und ich meine Beſtimmung nach Silo bekommen ſollte.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Schoppmann",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Genth",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisen nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Da Schw. Hallbeck sich am Meeresstrand bei Elim befand, um das Seebad zu gebrauchen, so lud Br. Hallbeck den Br. Genth und mich ein, ihn zu Pferd nach Elim zu begleiten, um, ehe wir die lange Reise ins Unterland anträten, and noch dieſe Gemeine kennen zu lernen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "besuchte",
+          "objekt": "Gemeine Elim",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Br. Gennth",
+          "subjekt_type": "person",
+          "prädikat": "besuchte",
+          "objekt": "Gemeine Elim",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "besuchte",
+          "objekt": "Gemeine Elim",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Schw. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "war",
+          "objekt": "am Meeresstrand bei Elim",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Br. Genth",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Br. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Gemeine Elim",
+          "subjekt_type": "organisation",
+          "prädikat": "war_in",
+          "objekt": "Elim",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Nicht lange darauf begab ich mich mit Geſchw. Genth auf die lange Reiſe nach Enon, nach einem herzlichen Abſchied von den zurübleibeuden Geſchwiſtern.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Geſchw. Genth",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Als wir uns Enon näherten, kam uns Br. Lommerz mit einigen Hottentotten einige Stunden weit entgegengeritten und bewillkommten uns aufs herzlichſte.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Lommerz",
+          "subjekt_type": "person",
+          "prädikat": "traf_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Br. Lommerz",
+          "subjekt_type": "person",
+          "prädikat": "traf_mit",
+          "objekt": "Geſchw. Genth",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Br. Lommerz",
+          "subjekt_type": "person",
+          "prädikat": "traf_bei",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        }
+        
+      ]
+    },
+    {
+      "text": "Die Weiterreiſe nach Silo konnte nicht ſogleich erfolgen , weil die dorthin berufenen Geſchw. Fritſch, mit welchen ich dieſe Reiſe machen ſollte, zuerſt nach Port Eliſabeth zu reiſen hatten, um Einkäufe für Enon und Silo zu machen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Fritſch",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Port Eliſabeth",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisen nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Es war am großen Sabbath 1832 als wir endlich Silo erblickten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "1832",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Carl Stompjes Mann der Wilhelmine, der mich als Kind gekannt hatte, war der erſte, den wir im Feld bei der Herde autrafen, ſowie auch ſpäter ſeine Frau.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Carl Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Wilhelmine",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "Ehefrau_von",
+          "objekt": "Carl Stompjes",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Wilhelmine war auch zur Zeit meiner Kindheit in Gnadenthal eine treue Kindsmagd bei Geſchw. Küſter geweſen und hatte mir dei meiner Abreiſe nach Europa die Ermahnung mitgegeben, fleißig zu lernen, dem Heiland treu zu bleiben, um damn wieder einmal als Miſſionar nach Afrika zurückzukehren.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_bei",
+          "objekt": "Geſchw. Küſter",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Kindsmagd",
+          "objekt_type": "tätigkeit"
+        }
+      ]
+    },
+    {
+      "text": "14 Tage nach unſrer Ankunft verließen uns Geſchw. Halter, um nach Enon zurückzukehren.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Halter",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Unſre Hausfamilie beſtand nun aus den Geſchw. Fritſch, Geſchw. Hoffmann und mir.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Fritſch",
+          "subjekt_type": "person",
+          "prädikat": "mitglied_von",
+          "objekt": "Gemeine Silo",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Geſchw. Hoffmann",
+          "subjekt_type": "person",
+          "prädikat": "mitglied_von",
+          "objekt": "Gemeine Silo",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "mitglied_von",
+          "objekt": "Silo",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Gemeine Silo",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Als Gehilfen hatten wir, auch im Miſſionshaus wohnend, Carl und Wilhelmine Stompjes, die als tren bewährte Diener bei der äußeren und inneren Arbeit uns zur Seite ſtanden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Carl Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Aushilfe",
+          "objekt_type": "tätigkeit"
+        },
+        {"subjekt": "Carl Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_in",
+          "objekt": "Gemeine Silo",
+          "objekt_type": "organisation"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Aushilfe",
+          "objekt_type": "tätigkeit"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_in",
+          "objekt": "Gemeine Silo",
+          "objekt_type": "organisation"
+        }
+      ]
+    },
+    {
+      "text": "Beſonders war uns Wilhelmine als Dolmetſcherin nüßlich.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_tätig_als",
+          "objekt": "Dolmetſcherin",
+          "objekt_type": "tätigkeit"
+        }
+      ]
+    },
+    {
+      "text": "Sie ſprach, als geborne Kafferin, obgleich sie viele Jahre in Gnadenthal gewohnt hatte, ohne Kafferiſch zu hören, ihre Mutterſprache gut und richtig, und was das beſte war, sie hatte ein ganzes Herz für den Heiland, und die Bekehrung ihres Volkes lag ihr ſehr am Herzen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "war_geborene",
+          "objekt": "Kafferin",
+          "objekt_type": "nicht spezifiziert"
+        },
+        {
+          "subjekt": "Wilhelmine Stompjes",
+          "subjekt_type": "person",
+          "prädikat": "gewohnt",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Um diefe Zeit kam Dr. Lees, ein engliſcher Bruder, der ſeiner Geſundheit wegen nach Süd -Afrika gekommen war und in Gnadenthal wohnte, nach Silo.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "wohnte",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "ankam_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Da Dr. Lees um dieſe Zeit abermals von England zurückgefehrt war, um in Gnadenthal zu wohnen, und mit dieler Gelegenheit die led.Schwetter Pauline Müller als meine Braut mitgekommen war, ſo reiſte ich im Jahr 1836 nach Enon, um dort mit der mir vom Herrn zugeführten Lebensgefährtin verehelicht zu werden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "war",
+          "objekt": "England",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "wohnte_in",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Pauline Müller",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Dr. Lees",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_in",
+          "objekt": "1836",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Pauline Müller",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_in",
+          "objekt": "1836",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Pauline Müller",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Pauline Müller",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_mit",
+          "objekt": "Dr. Lees",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Pauline Müller",
+          "subjekt_type": "person",
+          "prädikat": "Ehefrau_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        }
+        
+      ]
+    },
+    {
+      "text": "— Nach der Synode 1836 beſuchte Br. Hallbeck alle Stationen, um mündlichen Bericht von der Synode zu bringen, all in Angenſchein zu nehmen und den Geſchwiſtern Rat zu erteilen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "besuchte",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Br. Adolf Küſter kam mit ihm, um ſich auch ganz für die Erlernung der Kafferſprache herzugeben, und übernahm zu dem Zweck bald die Sechnle der Tambuckifinder.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Adolf Küſter",
+          "subjekt_type": "person",
+          "prädikat": "besucht",
+          "objekt": "Süd-Afrika",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Adolf Küſter",
+          "subjekt_type": "person",
+          "prädikat": "besucht_mit",
+          "objekt": "Br. Hallbeck",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Doch war dieſe Hilfe nicht von langer Dauer, da Br. Küſter leidex nach 2 Jahren einen Ruf nach der Zizikama erhielt, wo eine Station für die Fingu auf Wunſch des Gouverneurs angelegt worden war.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Küſter",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Zizikama",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Im Jahre 1839 wurde mir in der ledigen Schweſter Chriftiane Sophie Rudolf eine neue Lobensgefährtin zugeführt.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Schweſter Chriftiane Sophie Rudolf",
+          "subjekt_type": "person",
+          "prädikat": "Braut_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Schweſter Chriftiane Sophie Rudolf",
+          "subjekt_type": "person",
+          "prädikat": "Braut_von",
+          "objekt": "1839",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Ich reiſte nun nach Enon, um dieſe meine l. Braut abzuholen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Unſere Trauung daſelbſt fand mit der des led, Br. Adolf Küſter zuſammen ſtatt, welcher mit ſeiner Braut von Clarkson nach Enon gekommen war.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Adolf Küſter",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Braut von Clarkson",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Br. Adolf Küſter",
+          "subjekt_type": "person",
+          "prädikat": "kam_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "seiner Braut",
+          "subjekt_type": "person",
+          "prädikat": "kam_von",
+          "objekt": "Clarkson",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Während meines Aufenthaltes daselbſt wurde ich von den an diesem Orte grassierenden Maſern befallen: nachdem ich mit Gottes Hilfe diefe Krankheit glücklich überstanden hatte, kehrte ich im Juli mit meiner l. Frau wieder nach Silo zurück.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Chriftiane Sophie Rudolf",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Chriftiane Sophie Rudolf",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Aber ſchon gegen Ende 1841 hatte ich wieder nach des Herrn unerforſichlichem Willen den unbeſchreiblichen Schmerz, auch diefe meine zweite L Gattin infolge einer Erkältung nach glücklich überſtandenen Wochen zu verlieren, und much das uns geſchenkte Kindlein folgte jeiner Mutter nach 3 Monaten in die Ewigkeit nach.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Chriftiane Sophie Rudolf",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_am",
+          "objekt": "1841",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Chriftiane Sophie Rudolf",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_in",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Auch Br. Kütfter verließ bald darauf wieder Silo, jo daß wir mit der Bitte um ein neues Geſchwiſterpaar einfommen mußten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Kütfter",
+          "subjekt_type": "person",
+          "prädikat": "verließ",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Geſchwiſter Lemmerz, die hier den Anfang gemacht hatten, kamen also zum zweiten mal nach Silo zur Aushilfe Dies thaten ſie auch ſehr gern, da Silo, welche sie hatten gründen helfen, ihnen ſehr am Herzen lag.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchwiſter Lemmerz",
+          "subjekt_type": "person",
+          "prädikat": "kamen",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Zu Anfang des Jahres 1844 reiſte ich nach Enon und nach Port Eliſabeth, ging dann per Dampfer nach der Kapſtadt, beſuchte in Mamre und reiſte mit den von dort berufenen Geſchwiſtern Lehmann nach Gnadenthal, wo ich zum dritten mal in die Ehe trat und zwar mit der led. Schw. Eliſe Curie, welche mit den Geſchwiſtern Kühn und Br. Daniel Schärf von Europa gekommen war.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte",
+          "objekt": "Port Eliſabeth",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ging",
+          "objekt": "Kapſtadt",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Mamre",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_nach",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Schw. Eliſe Curie",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "Ehefrau_von",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Eheschließung_mit",
+          "objekt": "Schw. Eliſe Curie",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "Eheschließung_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "Eheschließung_in",
+          "objekt": "1844",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "Eheschließung_in",
+          "objekt": "1844",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "kam_mit",
+          "objekt": "Geſchwiſtern Kühn",
+          "objekt_type": "person"
+        }, 
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "kam_mit",
+          "objekt": "Daniel Schärf",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Schw. Eliſe Curie",
+          "subjekt_type": "person",
+          "prädikat": "kam_aus",
+          "objekt": "Europa",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Letzterer wurde ſodanu mit Schw. Guſtava Hallbeck zur heil. Ehe verbunden.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "Eheschließung_mit",
+          "objekt": "Schw. Guſtava Hallbeck",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "Ehemann_von",
+          "objekt": "Schw. Guſtava Hallbeck",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Schw. Guſtava Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "Ehefrau_von",
+          "objekt": "Geſchwiſtern Lehmann",
+          "objekt_type": "person"
+        }
+      ]
+    },
+    {
+      "text": "Dieſe Geſchwiſter reiſten nun mit uns über Clarkſon nach Silo, wohin ſie berufen worden waren.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Schw. Guſtava Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_über",
+          "objekt": "Clarkſon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Schw. Guſtava Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_über",
+          "objekt": "Clarkſon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Eliſe Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_über",
+          "objekt": "Clarkſon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Eliſe Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiſte_über",
+          "objekt": "Clarkſon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reisete_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Schw. Guſtava Hallbeck",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchwiſtern Lehmann",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Im Jahr 1845 verließen uns Geſchw. Lemmerz wieder, um mit einer Kinderſchor nach Europa zu reiſen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Lemmerz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Europa",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Lemmerz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Kinderſchor",
+          "objekt_type": "nicht spezifiziert"
+        },
+        {
+          "subjekt": "Geſchw. Lemmerz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_in",
+          "objekt": "1845",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Im Juli desſeiben Jahres kamen Geſchw. Teutſch von Gnadenthal zum Beſuch, was nach der langen Kriegszeit eine große Aufmunterung für uns war.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Teutſch",
+          "subjekt_type": "person",
+          "prädikat": "besuchte",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Teutſch",
+          "subjekt_type": "person",
+          "prädikat": "kam_aus",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Teutſch",
+          "subjekt_type": "person",
+          "prädikat": "besuchte_in",
+          "objekt": "Juli 1845",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Zu Weihnachten kamen Geſchw. Gysin vom Oberland, um die Leitung derſelben zu übernehmen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Gysin",
+          "subjekt_type": "person",
+          "prädikat": "kam_aus",
+          "objekt": "Oberland",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Gysin",
+          "subjekt_type": "person",
+          "prädikat": "besucht",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Gysin",
+          "subjekt_type": "person",
+          "prädikat": "besucht",
+          "objekt": "zu Weihnachten 1845",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Ende Februar kamen wir in Colesberg, einer kleinen Stadt nicht weit vom Orangefluß an, wo Kaufmann Ortlepp uns freundliche Aufnahme gewährte.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Colesberg",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Kaufmann Ortlepp",
+          "subjekt_type": "person",
+          "prädikat": "traf",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Kaufmann Ortlepp",
+          "subjekt_type": "person",
+          "prädikat": "traf_am",
+          "objekt": "Ende Februar 1846",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Colesberg",
+          "subjekt_type": "person",
+          "prädikat": "liegt_bei",
+          "objekt": "Orangefluß",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Daß Silo zum Teil ein Raub der Flammen geworden, hatten wir ſchon in Kamoestowne, einer engliſchen Miſſionsfration gehört.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Silo",
+          "subjekt_type": "location",
+          "prädikat": "gehört_zu",
+          "objekt": "Kamoestowne",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Mapaſa war gleich nach unſerm Wegzug mit seinen Tambuckis in Silo eingerückt, um mit unſern Leuten gemeinſame Sache zu machen, und es waren viele Gefechte zwiſchen Silo und Whitlesen vorgefallen, wobei auch manche unſrer Leute getötet wurden, ohne daß jedoch eine Entſcheidung herbeigeführt worden wäre, bis endlich die ver alle in einer Nacht ins Katredierſich flüchteten, da sie gehört hatten, die Engländer ließen eine Kanone kommen, welche ihnen noch unbekannte Waffe große Furcht einſlößte.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Mapaſa",
+          "subjekt_type": "person",
+          "prädikat": "war_in",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "In 4 Tagen erreichten wir Whitleſea, welchem Ort wir uns nach allem dem Vorgefallenen mit ſchwerem Herzen nahten.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "kam_nach",
+          "objekt": "Whitleſea",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Indeſſen kam uns Mr. Tylkden mit großer Freundlichfeit entgegen, Tier gleich zwei ſeiner jeigenen Pferde ſatteln anſtelle unſerer von dem langen Ritt ermüdeten Tiere und begleitete uns ſelbſt nach Silo.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Mr. Tylkden",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Mr. Tylkden",
+          "subjekt_type": "person",
+          "prädikat": "reist_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Zu Ende dieſes Jahres machten wir eine Reiſe nach Enon mit Geſchw. Schärf, welche nach Gnadenthal berufen waren.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Schärf",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Schärf",
+          "subjekt_type": "person",
+          "prädikat": "bekam_Ruf_nach",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Geſchw. Schärf",
+          "subjekt_type": "person",
+          "prädikat": "reiste_mit",
+          "objekt": "Johann Adolf Bonatz",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Enon",
+          "objekt_type": "location"
+        },
+        {
+        "subjekt": "Geſchw. Schärf",
+        "subjekt_type": "person",
+        "prädikat": "reiste_nach",
+        "objekt": "Enon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchw. Schärf",
+        "subjekt_type": "person",
+        "prädikat": "reiste_am/in",
+        "objekt": "Ende dieſes Jahres (1846)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johann Adolf Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reiste_am/in",
+        "objekt": "Ende dieſes Jahres (1846)",
+        "objekt_type": "date"
+      }
+      ]
+    },
+    {
+      "text": "Mit dieſen reiſte dann unſre älteſte Tochter weiter, um mit Geſchw. Luttringshauſen nach Europa zu reiſen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Geſchw. Luttringshauſen",
+          "subjekt_type": "person",
+          "prädikat": "reiste_nach",
+          "objekt": "Europa",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Im Januar 1854 kam Br. Breutel von Europa mit Br. Kölbing von Gnadenthal zu einer Viſitation nach Silo, und die Wochen, welche wir mit dieſen l. Brüdern verbrachten, waren reich geſegnete, obgleich meine l. Frau. und ich den Schmerz hatten, unſer jüngſtes, erſt 3 Wochen altes Tochterchen in den erſten Tagen nach Ankunft dieſer Brüder zu verlieren.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Br. Breutel",
+          "subjekt_type": "person",
+          "prädikat": "kam_aus",
+          "objekt": "Europa",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Breutel",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Januar 1854",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Br. Breutel",
+          "subjekt_type": "person",
+          "prädikat": "ankam_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Kölbing",
+          "subjekt_type": "person",
+          "prädikat": "kam_aus",
+          "objekt": "Gnadenthal",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Br. Kölbing",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Januar 1854",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Br. Kölbing",
+          "subjekt_type": "person",
+          "prädikat": "ankam_nach",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": " junge Tochte von J.A. Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "gestorben_in",
+          "objekt": "Silo",
+          "objekt_type": "location"
+        }
+      ]
+    },
+    {
+      "text": "Im Jahr 1855 elten wir den Auftrag, eine Schar von 12 Miſſionskindern nach Europa zu bringen.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "brachte",
+          "objekt": "12 Miſſionskindern",
+          "objekt_type": "person"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "brachte_nach",
+          "objekt": "Europa",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "brachte_in",
+          "objekt": "1855",
+          "objekt_type": "date"
+        }
+      ]
+    },
+    {
+      "text": "Nach einer fehr ſtürmiſchen und langen Reiſe landeten wir, dem Herrn ſei Dank glückich und wohlbehalten mit dieſen Kindern Ende Oktober in Holland underfuhren in Zeiſt viel Liebe und Freundlichkeit von den dortigen Geſchwiſtern.",
+      "datei": "1893_Bonatz_J_A.xml",
+      "autor": "Johann Adolf Bonatz",
+      "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/55633/rec/240",
+      "graph": [
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_in",
+          "objekt": "Zeiſt",
+          "objekt_type": "location"
+        },
+        {
+          "subjekt": "Johann Adolf Bonatz",
+          "subjekt_type": "person",
+          "prädikat": "ankam_am",
+          "objekt": "Ende Oktober",
+          "objekt_type": "date"
+        },
+        {
+          "subjekt": "Zeiſt",
+          "subjekt_type": "location",
+          "prädikat": "liegt_in",
+          "objekt": "Holland",
+          "objekt_type": "location"
+        }
+      ]
+    }
+]

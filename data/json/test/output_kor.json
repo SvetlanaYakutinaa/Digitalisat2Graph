@@ -2836,24 +2836,24 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "mußte",
-        "objekt": "Pflegebefohlenen",
+        "prädikat": "war_tätig_als",
+        "objekt": "Meiſterſtelle",
+        "objekt_type": "tätigkeit"
+      },
+      {
+        "subjekt": "Meiſterſtelle",
+        "subjekt_type": "tätigkeit",
+        "prädikat": "war_in/bei",
+        "objekt": "Strumpfwirkerei",
         "objekt_type": "organization"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verlassen",
-        "objekt": "Pflegebefohlenen",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "lebt",
-        "objekt": "siegeln Seiten",
+        "prädikat": "war_tätig_in/am",
+        "objekt": "September 1810",
         "objekt_type": "date"
       }
     ]
@@ -2865,32 +2865,32 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "gerufen",
-        "objekt": "Herrn",
-        "objekt_type": "organisation"
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "6 April 1815",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "zu dienen",
-        "objekt": "Miſſion unter den Hottentotten",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "in",
+        "prädikat": "bekam_Ruf_nach",
         "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "am",
-        "objekt": "6 April 1815",
-        "objekt_type": "date"
+        "prädikat": "war_tätig_als",
+        "objekt": "Missionar",
+        "objekt_type": "tätigkeit"
+      },
+      {
+        "subjekt": "Messionar",
+        "subjekt_type": "person",
+        "prädikat": "bei",
+        "objekt": "Miſſion unter den Hottentotten",
+        "objekt_type": "nicht spezifiziert"
       }
     ]
   },
@@ -2901,25 +2901,46 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "Clemens",
+        "subjekt": "Geſchwiſter Clemens",
         "subjekt_type": "person",
-        "prädikat": "hatten einen Ruf nach",
-        "objekt": "SüdAfrika",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Thomſen",
+        "subjekt": "Geſchwiſter Thomſen",
         "subjekt_type": "person",
-        "prädikat": "hatten einen Ruf nach",
-        "objekt": "SüdAfrika",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
       },
       {
-        "subjekt": "Stein",
+        "subjekt": "Geſchwiſter Stein",
         "subjekt_type": "person",
-        "prädikat": "hatte einen Ruf nach",
-        "objekt": "SüdAfrika",
+        "prädikat": "bekam_Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Clemens",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "1815*",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "1815*",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein",
+        "subjekt_type": "person",
+        "prädikat": "bekam_Ruf_in/am",
+        "objekt": "1815*",
+        "objekt_type": "date"
       }
     ]
   },
@@ -2928,7 +2949,64 @@
     "datei": "1856_Lemmerz_J.xml",
     "autor": "Johannes Lemmerz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
-    "graph": []
+    "graph": [
+      {
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "kam_nach",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "kam_nach",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "kam_nach",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+      "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "kam_nach",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "12 Auguſt (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "12 Auguſt (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "12 Auguſt (1815*)",
+        "objekt_type": "date"
+      },
+      {
+      "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "12 Auguſt (1815*)",
+        "objekt_type": "date"
+      }
+    ]
   },
   {
     "text": "Da das Schiff, mit welchem wir hatten reiſen ſollen, ſchon abgeſegelt war, ſo mußten wir noch ſieben Wochen uns in London aufhalten, bis ſich wieder eine Schiffsgelegenheit nach dem Cap fand.",
@@ -2937,23 +3015,86 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchwiſter Clemens*",
         "subjekt_type": "person",
-        "prädikat": "mußten",
-        "objekt": "uns",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufhalten",
+        "prädikat": "aufenthalt_in",
         "objekt": "London",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchwiſter Thomſen*",
         "subjekt_type": "person",
-        "prädikat": "finden",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+      "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_bis",
+        "objekt": "30. September 1815*",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_bis",
+        "objekt": "30. September 1815*",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_bis",
+        "objekt": "30. September 1815*",
+        "objekt_type": "date"
+      },
+      {
+      "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_bis",
+        "objekt": "30. September 1815*",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "reist_nach",
+        "objekt": "Cap",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "reist_nach",
+        "objekt": "Cap",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "reist_nach",
+        "objekt": "Cap",
+        "objekt_type": "location"
+      },
+      {
+      "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "reist_nach",
         "objekt": "Cap",
         "objekt_type": "location"
       }
@@ -2968,74 +3109,46 @@
       {
         "subjekt": "Bruder Chriſtian Ignatius La Trobe",
         "subjekt_type": "person",
-        "prädikat": "reiſte mit uns",
-        "objekt": "uns",
-        "objekt_type": "organisation"
+        "prädikat": "reist_nach",
+        "objekt": "Cap",
+        "objekt_type": "location"
       },
       {
         "subjekt": "Bruder Chriſtian Ignatius La Trobe",
         "subjekt_type": "person",
-        "prädikat": "hat den Auftrag zu einer Viſitation der ſüd-afrikaniſchen-Gemeinen erhalten",
-        "objekt": "den Auftrag",
+        "prädikat": "reiste_am/in",
+        "objekt": "30. September 1815*",
         "objekt_type": "date"
       },
       {
-        "subjekt": "uns",
-        "subjekt_type": "organisation",
-        "prädikat": "bestand aus",
-        "objekt": "5 Brüdern und - 2 Schweſtern",
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe",
+        "subjekt_type": "person",
+        "prädikat": "reiste_mit",
+        "objekt": "Geſchwiſter Clemens*",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe",
+        "subjekt_type": "person",
+        "prädikat": "reiste_mit",
+        "objekt": "Geſchwiſter Thomſen*",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe",
+        "subjekt_type": "person",
+        "prädikat": "reiste_mit",
+        "objekt": "Geſchwiſter Stein*",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe",
+        "subjekt_type": "person",
+        "prädikat": "reist_mit",
+        "objekt": "Johannes Lemmerz",
         "objekt_type": "person"
       }
-    ]
-  },
-  {
-    "text": "Am 30. September verließen wir London , und hatten, ſo lange wir im Canal ſegelten, heftige Stürme zu beſtehen, dann aber meiſt günſtige Witterung und eine angenehme Fahrt.",
-    "datei": "1856_Lemmerz_J.xml",
-    "autor": "Johannes Lemmerz",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "verließen",
-        "objekt": "London",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "heftige Stürme",
-        "objekt_type": "other"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "segelten",
-        "objekt": "Canal",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "meiſt günſtige Witterung",
-        "objekt_type": "other"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "eine angenehme Fahrt",
-        "objekt_type": "other"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "waren",
-        "objekt": "30. September",
-        "objekt_type": "date"
-      }
+      
     ]
   },
   {
@@ -3045,25 +3158,70 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe*",
         "subjekt_type": "person",
-        "prädikat": "langten",
+        "prädikat": "ankam_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location"
+      },{
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location"
+      },{
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location"
+      },{
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location"
+      },{
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
         "objekt": "Capſtadt",
         "objekt_type": "location"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe*",
         "subjekt_type": "person",
-        "prädikat": "hatten erreichen laſſen",
-        "objekt": "das Ziel unſrer Reiſe",
-        "objekt_type": "organization"
+        "prädikat": "ankam_am",
+        "objekt": "24 December (1815*)",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Geſchwiſter Clemens*",
         "subjekt_type": "person",
-        "prädikat": "dank",
-        "objekt": "den Herrn",
-        "objekt_type": "person"
+        "prädikat": "ankam_am",
+        "objekt": "24 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "24 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "24 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "24 December (1815*)",
+        "objekt_type": "date"
       }
     ]
   },
@@ -3074,73 +3232,115 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "ankamen",
+        "subjekt": "Hottentotten⸗Gemeine",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
         "objekt": "Grönekloof",
         "objekt_type": "location"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe*",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Hottentotten⸗Gemeine",
-        "objekt_type": "organisation"
+        "prädikat": "ankam_in",
+        "objekt": "Grönekloof",
+        "objekt_type": "location"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Geſchwiſter Clemens*",
         "subjekt_type": "person",
-        "prädikat": "ankamen",
-        "objekt": "30 Decembers",
+        "prädikat": "ankam_in",
+        "objekt": "Grönekloof",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Grönekloof",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Grönekloof",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "Grönekloof",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Bruder Chriſtian Ignatius La Trobe*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "30 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Clemens*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "30 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "30 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Geſchwiſter Stein*",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "30 December (1815*)",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_am",
+        "objekt": "30 December (1815*)",
         "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "Nachdem wir mit der Hottentotten-Gemeine das Neujahrs- und Heidenfeſt 1816 gefeiert hatten verließen wir Grönekloof und langten nach einer fünftägigen Reife in Gnadenthal , dem nunmehrigen Ort meiner Beſtimmung, an, woſelbſt ich mich | bald einheimiſch fühlte.",
+    "text": "Nachdem wir mit der Hottentotten-Gemeine das Neujahrs- und Heidenfeſt 1816 gefeiert hatten verließen wir Grönekloof und langten nach einer fünftägigen Reife in Gnadenthal , dem nunmehrigen Ort meiner Beſtimmung, an, woſelbſt ich mich bald einheimiſch fühlte.",
     "datei": "1856_Lemmerz_J.xml",
     "autor": "Johannes Lemmerz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "langte nach",
+        "prädikat": "reist_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verließen",
+        "prädikat": "verließ",
         "objekt": "Grönekloof",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Hottentotten-Gemeine",
-        "objekt_type": "organisation"
+        "prädikat": "verließ_in/an",
+        "objekt": "1816",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "fühlte",
-        "objekt": "sich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "feierte",
-        "objekt": "Neujahrs- und Heidenfeſt",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
+        "prädikat": "reisete_in/am",
         "objekt": "1816",
         "objekt_type": "date"
       }
@@ -3153,32 +3353,32 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
+        "prädikat": "verheiratet_mit",
         "objekt": "Agnes Jenke",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "getraut",
+        "prädikat": "verheiratet_am",
+        "objekt": "26 März (1816*)",
         "objekt_type": "event"
       },
       {
-        "subjekt": "Agnes Jenke",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "ich",
+        "prädikat": "Ehefrau_von",
+        "objekt": "Johannes Lemmerz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "getraut am",
-        "objekt_type": "date"
+        "prädikat": "Ehemann_von",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person"
       }
     ]
   },
@@ -3189,25 +3389,39 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Söhnlein (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "wurden erfreut",
-        "objekt": "Söhnlein",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johannes Lemmerz",
         "objekt_type": "person"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Söhnlein (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "schenkte uns",
-        "objekt": "der Herr",
-        "objekt_type": "organization"
+        "prädikat": "geboren_am",
+        "objekt": "9 Februar 1817",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Söhnlein (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "erfreut",
-        "objekt": "Geburt eines Söhnleins",
-        "objekt_type": "date"
+        "prädikat": "war_Kind_von",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "zwei Töchter (Lemmerz)",
+        "subjekt_type": "person",
+        "prädikat": "war_Kind_von",
+        "objekt": "Johannes Lemmerz",
+        "objekt_type": "person"
+      },
+      {
+        "subjekt": "zwei Töchter (Lemmerz)",
+        "subjekt_type": "person",
+        "prädikat": "war_Kind_von",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person"
       }
     ]
   },
@@ -3218,82 +3432,75 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "langten",
+        "prädikat": "reist_nach",
         "objekt": "Enon",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "am",
+        "prädikat": "reisete_in/am",
+        "objekt": "8. Mai",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Agnes Lemmerz*",
+        "subjekt_type": "person",
+        "prädikat": "reist_nach",
+        "objekt": "Enon",
+        "objekt_type": "location"
+      },
+      {
+        "subjekt": "Agnes Lemmerz*",
+        "subjekt_type": "person",
+        "prädikat": "reisete_in/am",
         "objekt": "8. Mai",
         "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "Am 20 Januar 1822 wurde mir in einer Verſammlung ‘des Hausgemeinleins eine vom Biſchof Gottlob Martin Schneider ausgefertigte ſchriftliche Ordination zu einem Diakonus der Brüderkircht mit den herzlichſten Segenswünſchen überreicht bei welcher Gelegenheit ich mich dem Heiland aufs Neue zu Seinem Dienſt weihte, und Ihn bat, alles dasjenige an mir in Erfüllung gehen - zu laſſen , was mir in - dem Ordinationsſchreiben ans gewünſ dht wurde.",
+    "text": "Am 20 Januar 1822 wurde mir in einer Verſammlung des Hausgemeinleins eine vom Biſchof Gottlob Martin Schneider ausgefertigte ſchriftliche Ordination zu einem Diakonus der Brüderkircht mit den herzlichſten Segenswünſchen überreicht bei welcher Gelegenheit ich mich dem Heiland aufs Neue zu Seinem Dienſt weihte, und Ihn bat, alles dasjenige an mir in Erfüllung gehen - zu laſſen , was mir in - dem Ordinationsſchreiben ans gewünſ dht wurde.",
     "datei": "1856_Lemmerz_J.xml",
     "autor": "Johannes Lemmerz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "Biſchof Gottlob Martin Schneider",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "ausgefertigte",
-        "objekt": "Ordination",
+        "prädikat": "teilname_an",
+        "objekt": "Verſammlung des Hausgemeinleins",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Verſammlung des Hausgemeinleins",
         "subjekt_type": "person",
-        "prädikat": "weihte",
-        "objekt": "dem Heiland",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Biſchof Gottlob Martin Schneider",
-        "subjekt_type": "person",
-        "prädikat": "ausgefertigte",
-        "objekt": "schriftliche Ordination",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "bat",
-        "objekt": "den Heiland",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "20 Januar 1822",
-        "subjekt_type": "date",
-        "prädikat": "wurde",
-        "objekt": "mir",
-        "objekt_type": "person"
+        "prädikat": "war_am",
+        "objekt": "20 Januar 1822",
+        "objekt_type": "date"
       }
     ]
   },
   {
-    "text": "In dieſer Zeit erhielt ich von der Helfer - Conferenz in Gnadenthal den Auftrag, unſre 2 Töchter nebſt noch 7 Kindern anderer Miſſionsgeſchwiſter und die verwitwete Schweſter Beinbrecht nah Europa zu begleiten.",
+    "text": "In dieſer Zeit erhielt ich von der Helfer - Conferenz in Gnadenthal den Auftrag, unſre 2 Töchter nebſt noch 7 Kindern anderer Miſſionsgeſchwiſter und die verwitwete Schweſter Beinbrecht nach Europa zu begleiten.",
     "datei": "1856_Lemmerz_J.xml",
     "autor": "Johannes Lemmerz",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "den Auftrag",
+        "prädikat": "Auftrag_von",
+        "objekt": "Helfer - Conferenz",
         "objekt_type": "organisation"
       },
       {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "Europa",
+        "subjekt": "Helfer - Conferenz",
+        "subjekt_type": "organisation",
+        "prädikat": "war_in",
+        "objekt": "Gnadenthal",
         "objekt_type": "location"
       },
       {
@@ -3302,27 +3509,6 @@
         "prädikat": "begleitete",
         "objekt": "2 Töchter",
         "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "7 Kindern anderer Miſſionsgeſchwiſter",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "die verwitwete Schweſter Beinbrecht",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Helfer - Conferenz in Gnadenthal",
-        "subjekt_type": "organisation",
-        "prädikat": "erteilte",
-        "objekt": "den Auftrag",
-        "objekt_type": "action"
       }
     ]
   },
@@ -3333,32 +3519,46 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/68219/rec/191",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verließen",
+        "prädikat": "verließ",
         "objekt": "Capſtadt",
         "objekt_type": "location"
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "sich sehr viel beſchäftigte",
-        "objekt": "Einfalt und das Vertrauen unſrer Kinderſchaar",
-        "objekt_type": "string"
+        "prädikat": "verließ",
+        "objekt": "Anfangs Februar 1825",
+        "objekt_type": "date"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "langten",
+        "prädikat": "ankam_nach",
         "objekt": "London",
         "objekt_type": "location"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "eintrafen",
+        "prädikat": "ankam_am",
+        "objekt": "17 April 1825",
+        "objekt_type": "date"
+      },
+      {
+        "subjekt": "Johannes Friedrich Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location"
+      },
+      {
+        "subjekt": "Johannes Friedrich Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "ankam_in",
+        "objekt": "20 mai 1825",
+        "objekt_type": "date"
       }
     ]
   },

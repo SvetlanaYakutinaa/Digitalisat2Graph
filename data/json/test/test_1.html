@@ -25,7 +25,7 @@
       width: 0;
       overflow: hidden;
       transition: width 0.3s ease;
-      background: #eee8d2;
+      background: #f3f3f8;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -103,7 +103,7 @@
           if (relation.subjekt === "nicht spezifiziert" || relation.objekt === "nicht spezifiziert") {
             return; // Knoten überspringen
           }
-    
+
           // Subjekt-Knoten erstellen oder wiederverwenden
           let fromNode = nodeMap[relation.subjekt];
           if (!fromNode) {
@@ -112,7 +112,7 @@
             nodes.add({ id: fromNode, label: relation.subjekt, color: color });
             nodeMap[relation.subjekt] = fromNode;
           }
-    
+
           // Objekt-Knoten erstellen oder wiederverwenden
           let toNode = nodeMap[relation.objekt];
           if (!toNode) {
@@ -121,7 +121,7 @@
             nodes.add({ id: toNode, label: relation.objekt, color: color });
             nodeMap[relation.objekt] = toNode;
           }
-    
+
           // Kante basierend auf dem Prädikat
           edges.add({
             from: fromNode,
@@ -146,7 +146,6 @@
     
       return { nodes, edges, details };
     }
-    
 
     // JSON-Datei laden
     fetch('test.json') // Den richtigen Pfad zu deiner JSON-Datei hier angeben
@@ -176,10 +175,19 @@
         const detailsPanel = document.getElementById("details");
         const card = document.getElementById("card");
 
+        // Knoten auswählen und Kanten rot färben
         network.on("selectNode", function (params) {
           const id = params.nodes[0];
-          const info = details[id];
 
+          // Holen der verbundenen Kanten
+          const connectedEdges = network.getConnectedEdges(id);
+
+          // Alle verbundenen Kanten rot färben
+          connectedEdges.forEach(edgeId => {
+            edges.update({ id: edgeId, color: { color: 'red' } });
+          });
+
+          const info = details[id];
           document.getElementById("name").innerText = info.name;
           document.getElementById("description").innerText = info.description;
           document.getElementById("photo").src = info.image;
@@ -188,7 +196,12 @@
           card.style.display = "block";
         });
 
+        // Knoten abwählen und Kanten zurücksetzen
         network.on("deselectNode", function () {
+          edges.forEach(edge => {
+            edges.update({ id: edge.id, color: { color: '#555' } }); // Zurück zur Standardfarbe
+          });
+
           detailsPanel.classList.remove("visible");
           card.style.display = "none";
         });

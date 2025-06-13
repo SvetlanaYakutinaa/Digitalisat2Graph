@@ -19,6 +19,7 @@
 
     #network {
       flex: 1;
+      position: relative;
     }
 
     #details {
@@ -66,6 +67,41 @@
     .card p {
       color: #555;
     }
+
+    /* Stil für die Legende */
+    #legend {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      font-size: 14px;
+      width: 250px;
+    }
+
+    #legend h3 {
+      margin-top: 0;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 8px;
+      cursor: pointer; /* Zeigt an, dass es interaktiv ist */
+    }
+
+    .legend-color {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+
+    .legend-text {
+      color: #333;
+    }
   </style>
 </head>
 <body>
@@ -77,6 +113,31 @@
         <img id="photo" src="" alt="" />
         <p id="description"></p>
       </div>
+    </div>
+  </div>
+
+  <!-- Interaktive Legende -->
+  <div id="legend">
+    <h3>Legende</h3>
+    <div class="legend-item" id="personLegend">
+      <div class="legend-color" style="background-color: #652d2b;"></div>
+      <div class="legend-text">Person</div>
+    </div>
+    <div class="legend-item" id="locationLegend">
+      <div class="legend-color" style="background-color: #231f20;"></div>
+      <div class="legend-text">Ort</div>
+    </div>
+    <div class="legend-item" id="organisationLegend">
+      <div class="legend-color" style="background-color: #cabea8;"></div>
+      <div class="legend-text">Organisation</div>
+    </div>
+    <div class="legend-item" id="dateLegend">
+      <div class="legend-color" style="background-color: #a69f8d;"></div>
+      <div class="legend-text">Datum</div>
+    </div>
+    <div class="legend-item" id="activityLegend">
+      <div class="legend-color" style="background-color: orange;"></div>
+      <div class="legend-text">Tätigkeit</div>
     </div>
   </div>
 
@@ -103,7 +164,7 @@
           if (relation.subjekt === "nicht spezifiziert" || relation.objekt === "nicht spezifiziert") {
             return; // Knoten überspringen
           }
-    
+
           // Subjekt-Knoten erstellen oder wiederverwenden
           let fromNode = nodeMap[relation.subjekt];
           if (!fromNode) {
@@ -112,7 +173,7 @@
             nodes.add({ id: fromNode, label: relation.subjekt, color: color });
             nodeMap[relation.subjekt] = fromNode;
           }
-    
+
           // Objekt-Knoten erstellen oder wiederverwenden
           let toNode = nodeMap[relation.objekt];
           if (!toNode) {
@@ -121,7 +182,7 @@
             nodes.add({ id: toNode, label: relation.objekt, color: color });
             nodeMap[relation.objekt] = toNode;
           }
-    
+
           // Kante basierend auf dem Prädikat
           edges.add({
             from: fromNode,
@@ -146,7 +207,6 @@
     
       return { nodes, edges, details };
     }
-    
 
     // JSON-Datei laden
     fetch('test.json') // Den richtigen Pfad zu deiner JSON-Datei hier angeben
@@ -176,10 +236,11 @@
         const detailsPanel = document.getElementById("details");
         const card = document.getElementById("card");
 
+        // Knoten auswählen
         network.on("selectNode", function (params) {
           const id = params.nodes[0];
-          const info = details[id];
 
+          const info = details[id];
           document.getElementById("name").innerText = info.name;
           document.getElementById("description").innerText = info.description;
           document.getElementById("photo").src = info.image;
@@ -188,10 +249,47 @@
           card.style.display = "block";
         });
 
+        // Knoten abwählen
         network.on("deselectNode", function () {
           detailsPanel.classList.remove("visible");
           card.style.display = "none";
         });
+
+        // Interaktive Legende: Klicken auf Legendenitems zeigt nur die entsprechenden Knoten
+        document.getElementById("personLegend").addEventListener("click", function() {
+          toggleNodeVisibility("person");
+        });
+        document.getElementById("locationLegend").addEventListener("click", function() {
+          toggleNodeVisibility("location");
+        });
+        document.getElementById("organisationLegend").addEventListener("click", function() {
+          toggleNodeVisibility("organisation");
+        });
+        document.getElementById("dateLegend").addEventListener("click", function() {
+          toggleNodeVisibility("date");
+        });
+        document.getElementById("activityLegend").addEventListener("click", function() {
+          toggleNodeVisibility("tätigkeit");
+        });
+
+        // Funktion, um die Sichtbarkeit von Knoten je nach Typ zu steuern
+        function toggleNodeVisibility(type) {
+          let visibility = {};
+          let nodesToToggle = [];
+
+          // Überprüfe alle Knoten und speichere die zugehörigen Knoten
+          nodes.forEach(node => {
+            if (node.color && node.color.color === typeColors[type]) {
+              nodesToToggle.push(node.id);
+            }
+          });
+
+          // Sichtbarkeit umschalten
+          nodesToToggle.forEach(nodeId => {
+            let node = nodes.get(nodeId);
+            nodes.update({ id: nodeId, hidden: !node.hidden });
+          });
+        }
       })
       .catch(error => {
         console.error('Fehler beim Laden der JSON-Datei:', error);
