@@ -5275,31 +5275,23 @@
     "text": "Im Jahr 1798 wurde ich in der Kleinwelker Knäbcenanſtalt bei den kleinſten Kindern als Lehrer angeſtellt bei welchem Geſchäft ich manche Freuden aber auch manche Leiden zu erfahren hatte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "angeſtellt",
+        "prädikat": "tätig_in",
         "objekt": "Kleinwelker Knäbcenanſtalt",
         "objekt_type": "organisation",
         "zeit": "1798"
-      }
-    ]
-  },
-  {
-    "text": "Im September 1801 erhielt ich einen Ruf als Chorarbeiter der ledigen Brüder in Berlin und Rixdorf und als Schulhalter in Berlin.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
+      },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Chorarbeiter der ledigen Brüder in Berlin und Rixdorf und als Schulhalter in Berlin",
-        "objekt_type": "organisation",
-        "zeit": "September 1801"
+        "prädikat": "tätig_als",
+        "objekt": "Lehrer",
+        "objekt_type": "tätigkeit",
+        "zeit": "1798"
       }
     ]
   },
@@ -5307,49 +5299,23 @@
     "text": "Nachdem ich von Seiten der Unitäts Aelteſten Conferenz abgefertigt und zur Akoluthie angenommen worden war reiſte ich nach Berlin ab und wurde am 6.December den daſigen ledigen Brüdern als ihr Chorarbeiter vorgeſtellt und zu meinem Amte eingeſegnet.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſte nach",
+        "prädikat": "reise_nach",
         "objekt": "Berlin",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1801"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurde vorgeſtellt und eingeſegnet",
-        "objekt": "ledigen Brüdern",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde angenommen",
-        "objekt": "Aeltesten Conferenz",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde abgefertigt",
-        "objekt": "Unitäts Aelteſten Conferenz",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde vorgeſtellt",
+        "prädikat": "tätig_als",
         "objekt": "Chorarbeiter",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "6. Dezember",
-        "subjekt_type": "date",
-        "prädikat": null,
-        "objekt": null,
-        "objekt_type": null
+        "objekt_type": "tätigkeit",
+        "zeit":"6. December 1801"
       }
     ]
   },
@@ -5357,14 +5323,22 @@
     "text": "Mein daſiger Aufenthalt war aber von kurzer Dauer: denn ſchon im September 1802 erhielt ich einen Ruf als Pfleger der ledigen Brüder in Chriſtiansfeld welchen ich im Vertrauen auf die Durchhülfe des Heilandes auch annahm.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurde_rufen",
+        "prädikat": "tätig_als",
         "objekt": "Pfleger der ledigen Brüder",
-        "objekt_type": "organisation",
+        "objekt_type": "tätigkeit",
+        "zeit": "September 1802"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "Chriſtiansfeld",
+        "objekt_type": "location",
         "zeit": "September 1802"
       }
     ]
@@ -5373,14 +5347,14 @@
     "text": "Im Mai 1806 erhielt ich einen Ruf als Helfer ins Ganze und Vorſteher der Miſſion in Südafrika.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Helfer ins Ganze und Vorſteher der Miſſion in Südafrika",
-        "objekt_type": "organisation",
+        "prädikat": "Ruf_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
         "zeit": "Mai 1806"
       }
     ]
@@ -5389,23 +5363,23 @@
     "text": "Nachdem ich mich darüber mit dem Heiland unterhalten und Freudigkeit bekommen hatte den Ruf anzunehmen reiſie ich im Auguſt nach Herrnhut wo ich am 9. September mit der ledigen Schweſier Juſtina Magdalena Schlegel zur heiligen Ehe verbunden wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſie",
+        "prädikat": "reise_nach",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": "August"
+        "zeit": "August 1806"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "verbunden wurde",
-        "objekt": "Juſtina Magdalena Schlegel",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Juſtina Magdalena Küſter (Schlegel)",
         "objekt_type": "person",
-        "zeit": "9. September"
+        "zeit": "9. September 1806"
       }
     ]
   },
@@ -5413,29 +5387,39 @@
     "text": "Nachdem wir am 16.September unſere Abfertigung in der Unitäts AelteſtenConferenz erhalten und ich des Abenos die Ordination zu einem Diaconus der Brüderkirche durch den Biſchof Liebiſch empfangen hatte reiſten wir von dem lieben Herrnhut ab wo wir nach Seel und Leib viel Gutes genoſſen hatten und trafen am 9. October in Altona ein.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Liebiſch",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "Herrnhut",
-        "objekt_type": "location"
+        "prädikat": "tätig_als",
+        "objekt": "Biſchof",
+        "objekt_type": "tätigkeit",
+        "zeit":""
       },
       {
         "subjekt": "Biſchof Liebiſch",
         "subjekt_type": "person",
         "prädikat": "empfangen",
-        "objekt": "Ordination",
-        "objekt_type": "organisation"
+        "objekt": "Diaconus der Brüderkirche",
+        "objekt_type": "tätigkeit",
+        "zeit":"16. September 1806"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "trafen",
+        "prädikat": "angekommen_in",
         "objekt": "Altona",
         "objekt_type": "location",
-        "zeit": "9. October"
+        "zeit": "9. October 1806"
+      }, 
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Altona",
+        "objekt_type": "location",
+        "zeit": "9. October 1806"
       }
     ]
   },
@@ -5443,15 +5427,39 @@
     "text": "Jndeſſen genas ſie und am 6. December reiſten wir nach Huſum ab von wo aus wir eine Schiffsgelegenheit nach der Inſel Helgoland ſuchten wo eben das leßte engliſche Packetboot ſegelfertig lag.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Inſel Helgoland",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "location",
-        "prädikat": "sich suchen",
-        "objekt": "das leßte engliſche Packetboot",
-        "objekt_type": "organization",
-        "zeit": "6. December"
+        "prädikat": "reise_nach",
+        "objekt": "Huſum",
+        "objekt_type": "location",
+        "zeit": "6. December 1806"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "location",
+        "prädikat": "reise_nach",
+        "objekt": "Inſel Helgoland",
+        "objekt_type": "location",
+        "zeit": "December 1806"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "location",
+        "prädikat": "reise_nach",
+        "objekt": "Huſum",
+        "objekt_type": "location",
+        "zeit": "6. December 1806"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "location",
+        "prädikat": "reise_nach",
+        "objekt": "Inſel Helgoland",
+        "objekt_type": "location",
+        "zeit": "December 1806"
       }
     ]
   },
@@ -5459,23 +5467,39 @@
     "text": "Glücklich gelangten wir nach Helgoland und von da zum Paderboot mit welchem wir dann abfuhren.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
-        "objekt": "Paderboot",
+        "objekt": "Inſel Helgoland",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "December 1806"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "abfuhren",
+        "prädikat": "reise_nach",
         "objekt": "Paderboot",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "December 1806"
+      },
+      {
+        "subjekt": "JJuſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Inſel Helgoland",
+        "objekt_type": "location",
+        "zeit": "December 1806"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Paderboot",
+        "objekt_type": "location",
+        "zeit": "December 1806"
       }
     ]
   },
@@ -5483,36 +5507,31 @@
     "text": "Dreimal hob die See es in die Höhe und dreimal fanf es auf die Sandbank; dann aber ſendete uns der Herr einen Landwind der uns wieder in gutes Fahrwaſſer brachte; und ſo kamen wir denn am leßten Tage dieſes Jahres glücklich in London an wo wir den Bruder Johann Heinrich Schmitt aus Labrador vorfanden welcher nebſt ſeiner Frau mit uns weiter reiſen ſollte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "angekommen_in",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"December 1806"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
         "subjekt_type": "person",
-        "prädikat": "fanden",
-        "objekt": "Johann Heinrich Schmitt",
-        "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "Von unſerm Aufenthalt in London iſt uns vornehmlich die Bekanntſchaft mit vielen Kindern Gottes in angenehmer Erinnerung geblieben.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "Aufenthalt",
+        "prädikat": "angekommen_in",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"December 1806"
+      },
+      {
+        "subjekt": "Johann Heinrich Schmitt",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Johann Heinrich Schmitt",
+        "objekt_type": "person",
+        "zeit":"December 1806"
       }
     ]
   },
@@ -5520,31 +5539,31 @@
     "text": "Auch will ich des Beſuches gedenken welchen Bruder Schmitt and ich in Begleitung des damaligen Gemeinarbeiters in London des ſeligen Br. Jan Swertner bei dem Herrn Lancaſter machte welscher durch ſein Lehrſyſtem berühmt geworden iſt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
         "subjekt": "Bruder Schmitt",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
-        "objekt": "Lancaſter",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Herr Lancaſter",
+        "objekt_type": "person",
+        "zeit": "1807"
       },
       {
         "subjekt": "Br. Jan Swertner",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "traf",
         "objekt": "Herrn Lancaſter",
-        "objekt_type": "location",
-        "zeit": null
+        "objekt_type": "person",
+        "zeit": "1807"
       },
       {
-        "subjekt": "Bruder Schmitt und ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
         "prädikat": "besuchte",
-        "objekt": "Jan Swertner",
+        "objekt": "Br. Jan Swertner",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "1807"
       }
     ]
   },
@@ -5552,21 +5571,21 @@
     "text": "Im Juni 1807 reiſten wir dann mit einer Brigg nach dem Vorgebirge der guten Hoffnung ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "Brigg",
-        "objekt_type": "organisation",
+        "prädikat": "verließ",
+        "objekt": "London",
+        "objekt_type": "location",
         "zeit": "Juni 1807"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "Vorgebirge der guten Hoffnung",
+        "prädikat": "verließ",
+        "objekt": "London",
         "objekt_type": "location",
         "zeit": "Juni 1807"
       }
@@ -5576,23 +5595,39 @@
     "text": "Bei Madeira hatten wir das Vergnügen dem nach Suriname ſegelnden Schiffe zu begegnen auf welschem ſich die Geſchwiſter Bork nebſt den Bräuten für die Brüder Hans Wied und Langballe befanden und mit denſelben zu ſprechen: denn der Capitän dieſes Schiffes ließ gleich dem unſrigen die Anfer fallen um friſches Waſſer einzunehmen Hier erfuhren wir die gnadenvolle Aufſicht unſers lieben Herrn auf eine anbetungswürdige Weiſe.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "begegnet",
-        "objekt": "den Geſchwiſtern Bork nebſt den Bräuten für die Brüder Hans Wied und Langballe",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "besucht_in",
+        "objekt": "Suriname",
+        "objekt_type": "location",
+        "zeit": "1807"
       },
       {
-        "subjekt": "Wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "sprechen",
-        "objekt": "mit denſelben",
+        "prädikat": "traf",
+        "objekt": "Geſchwiſter Bork",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Br. Hans Wied",
+        "objekt_type": "person",
+        "zeit": "1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschw. Langballe",
+        "objekt_type": "person",
+        "zeit": "1807"
       }
     ]
   },
@@ -5600,15 +5635,23 @@
     "text": "Wir machten hierauf dem Herrn Fisfkal Rhyneveld und dem Gouverneur Lord Caledon die Aufwartung.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Herrn Fisfkal Rhyneveld",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "die Aufwartung",
-        "objekt": "Lord Caledon",
+        "prädikat": "traf",
+        "objekt": "Herrn Fisfkal Rhyneveld",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Gouverneur Lord Caledon",
+        "objekt_type": "person",
+        "zeit": "1807"
       }
     ]
   },
@@ -5616,39 +5659,15 @@
     "text": "Am 12. Oct. kamen die Geſchwiſter Schwinn aus Gnadenthal um uns dahin abzuholen; da ich aber erkrankte ſo konnten wir erſt am 18ten abreiſen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
         "subjekt": "Schwinn",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "von",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "Schwinn",
-        "subjekt_type": "person",
-        "prädikat": "abholen",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "abreiſen",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "18ten"
+        "zeit": "12. October 1807"
       }
     ]
   },
@@ -5656,31 +5675,63 @@
     "text": "In Gnadenthal wo wir am 26ſten eintrafen wurden wir von den damaligen Miſſionaren den Geſchwiſtern Marsveld Schwinn Kühnel Kohrhammer und Bonatz in herzlicher Liebe aufgenommen und des Abends der Gemeine vorgeſtellt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "die damaligen Miſſionaren",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "26. October 1807"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
         "subjekt_type": "person",
-        "prädikat": "vorgeſtellt",
-        "objekt": "der Gemeine",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "26. October 1807"
       },
       {
-        "subjekt": "Marsveld Schwinn Kühnel Kohrhammer und Bonatz",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "wir",
+        "prädikat": "traf",
+        "objekt": "Geschw. Marsveld",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "26. October 1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschw. Schwinn",
+        "objekt_type": "person",
+        "zeit": "26. October 1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschw. Kühnel",
+        "objekt_type": "person",
+        "zeit": "26. October 1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschw. Kohrhammer",
+        "objekt_type": "person",
+        "zeit": "26. October 1807"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschw. Bonatz",
+        "objekt_type": "person",
+        "zeit": "26. October 1807"
       }
     ]
   },
@@ -5688,13 +5739,13 @@
     "text": "Schon im nächſten Jahr (1808) erhielten wir von Seiten der Regierung eine liebreiche Aufforderung einen neuen Miſſionspoſten zu Grünekloof anzulegen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "anzulegen",
-        "objekt": "Miſſionspoſten",
+        "prädikat": "gründung",
+        "objekt": "Miſſionspoſten zu Grünekloof",
         "objekt_type": "organization",
         "zeit": "1808"
       }
@@ -5704,85 +5755,47 @@
     "text": "Dies veranlaßte mich und den Bruder Bonatz in Auftrag der Miſſions Conferenz in die Kapſtadt zu reiſen um mit den Mitgliedern der Regierung darüber zu ſprechen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſen",
+        "prädikat": "reise_nach",
         "objekt": "Kapſtadt",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Bonatz",
-        "subjekt_type": "person",
-        "prädikat": "reiſen",
-        "objekt": "Kapſtadt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1808"
       }
     ]
   },
   {
-    "text": "Nach unſerer Rückkehr nach Gnadenthal wurde dann eine Miſſions Conferenz gehalten und nach Anweiſung des Heilandes erhielten die Geſchwiſter Kohrhammer und Schmitt den Auftrag den dafigen Miffionspoften anzufan« gen wohin wir fie begleiteten.",
+    "text": "Nach unſerer Rückkehr nach Gnadenthal wurde dann eine Miſſions Conferenz gehalten und nach Anweiſung des Heilandes erhielten die Geſchwiſter Kohrhammer und Schmitt den Auftrag den dasigen Miffionspoften anzufangen wohin wir fie begleiteten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Kohrhammer",
+        "subjekt": "Geſchwiſter Kohrhammer",
         "subjekt_type": "person",
-        "prädikat": "erhielten den Auftrag",
-        "objekt": "den dafigen Miffionspoften",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Kohrhammer",
-        "subjekt_type": "person",
-        "prädikat": "wurde begleitet",
-        "objekt": "wir",
+        "prädikat": "traf",
+        "objekt": "Johann Adolph Küſter",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Schmitt",
+        "subjekt": "Geſchwiſter Schmitt",
         "subjekt_type": "person",
-        "prädikat": "erhielten den Auftrag",
-        "objekt": "den dafigen Miffionspoften",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Schmitt",
-        "subjekt_type": "person",
-        "prädikat": "wurde begleitet",
-        "objekt": "wir",
+        "prädikat": "traf",
+        "objekt": "Johann Adolph Küſter",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "unsere",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurden zurückkehrt",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Dies geſchah im Marz 1808.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "",
-        "subjekt_type": "date",
-        "prädikat": "geschehen_am",
-        "objekt": "Marz 1808",
-        "objekt_type": "date",
-        "zeit": "Marz 1808"
+        "zeit": ""
       }
     ]
   },
@@ -5790,45 +5803,31 @@
     "text": "Als unſere drei Kinder zwei Söhne und eine Tochter ſo weit herangewachſen waren daß ich beſorgte ſie möchten bei längerem Aufenthalt in Afrika Leibesund Seelenſchaden leiden ſo fühlte ich mich verpflichtet ſie nach Europa in Erziehungs Anſtalten zu bringen und mit Genehmigung unſers lieben Herrn entſchloß ich mich dazu.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "beschloss_sich_dazu",
-        "objekt": "Europa",
-        "objekt_type": "location"
+        "prädikat": "Vater_von",
+        "objekt": "zwei Söhne und eine Tochter",
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "unseren drei Kindern",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "bringen_zu_erziehen",
-        "objekt": "Europa",
-        "objekt_type": "location"
+        "prädikat": "reise_mit",
+        "objekt": "zwei Söhne und eine Tochter",
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "Afrika",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "location",
-        "prädikat": "aufenthalt_in",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Den Beſchluß unſers Miſſionsdienſtes in Südafrika machten wir am Tage unſerer Abreiſe den 28. Juli 1815.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "machten wir",
-        "objekt": "den Beſchluß unſers Miſſionsdienſtes",
-        "objekt_type": "organisation",
-        "zeit": "28. Juli 1815"
+        "prädikat": "reise_nach",
+        "objekt": "Europa",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -5836,31 +5835,23 @@
     "text": "In der Kapſtadt wurden wir von unſern daſigen Freunden mit vieler Liebe aufgenommen worauf wir am 25.Auguſt unter Segel gingen und am 19.Nov bei Gravegend ankamen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "unſern daſigen Freunden",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Kapstadt",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "25 August 1815"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "unter Segel gingen",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "25.Auguſt"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "ankamen",
+        "prädikat": "angekommen_in",
         "objekt": "Gravegend",
         "objekt_type": "location",
-        "zeit": "19.Nov"
+        "zeit": "19.Nov 1815"
       }
     ]
   },
@@ -5868,20 +5859,20 @@
     "text": "Im Januar 1846 reiſten wir nach Holland und trafen am 2 Februar in Zeiſt ein.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Holland",
         "objekt_type": "location",
         "zeit": "Januar 1846"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "trafen",
+        "prädikat": "angekommen_in",
         "objekt": "Zeiſt",
         "objekt_type": "location",
         "zeit": "2 Februar 1846"
@@ -5892,63 +5883,31 @@
     "text": "Unſer Onkel Br. Schlegel und deſſen Frau machten uns dann das Vergnügen mit uns einen großen Theil von Holland zu bereiſen und wir hatten Gelegenheit viel Kinder Gottes kennen zu lernenz auch wurde mir in Haarlem die Gnade in holländiſcher Sprache ein Zeugniß von dem Verdienſte Jeſu Chriſti ablegen zu können.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Unser Onkel Br. Schlegel",
+        "subjekt": "Br. Schlegel",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "uns",
+        "prädikat": "verwand_mit",
+        "objekt": "Johann Adolph Küſter",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "begraben",
+        "prädikat": "aufenthalt_in",
         "objekt": "Holland",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1846"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "hatten",
-        "objekt": "Gelegenheit",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "kennen",
-        "objekt": "Kinder Gottes",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "die Gnade",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "könnte",
-        "objekt": "ein Zeugniß von dem Verdienſte Jeſu Chriſti ablegen",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "in Haarlem die Gnade in holländiſcher Sprache ein Zeugniß von dem Verdienſte Jeſu Chriſti ablegen",
-        "objekt_type": "thing",
-        "zeit": null
+        "prädikat": "besucht_in",
+        "objekt": "Haarlem",
+        "objekt_type": "organisation",
+        "zeit": "1846"
       }
     ]
   },
@@ -5956,31 +5915,55 @@
     "text": "Zufolge einer erhaltenen Weisung reiſten wir dann im Mai über Neuwied und Ebersdorf nach Herrnhut wo wir von den Eltern meiner Frau und andern Geſchwiſtern herzlich ber willfomme wurden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": "Mai"
+        "zeit": "Mai 1846"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_über",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
-        "zeit": "Mai"
+        "zeit": "Mai 1846"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_über",
         "objekt": "Neuwied",
         "objekt_type": "location",
-        "zeit": "Mai"
+        "zeit": "Mai 1846"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit": "Mai 1846"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Ebersdorf",
+        "objekt_type": "location",
+        "zeit": "Mai 1846"
+      },
+      {
+        "subjekt": "Juſtina Magdalena Küſter (Schlegel)",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
+        "zeit": "Mai 1846"
       }
     ]
   },
@@ -5988,14 +5971,22 @@
     "text": "Jm Mai des Jahres 1817 begaben wir uns nach Zeiſt wo wir einem erhaltenen Ruf zufolge das Pflegeramt beim Ehechor übernahmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "begaben uns nach",
+        "prädikat": "reise_nach",
         "objekt": "Zeiſt",
         "objekt_type": "location",
+        "zeit": "Mai des Jahres 1817"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "Pflegeramt beim Ehechor",
+        "objekt_type": "organisation",
         "zeit": "Mai des Jahres 1817"
       }
     ]
@@ -6004,12 +5995,20 @@
     "text": "Nachdem ich mich wieder erholt hatte reiſten wir der erhaltenen Weiſung gemäß nach Neudietendorf wo wir im April 1849 ankamen und von den Geſchwiſtern in Liebe aufgenommen wurden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "reiste nach",
+        "prädikat": "reise_nach",
+        "objekt": "Neudietendorf",
+        "objekt_type": "location",
+        "zeit": "April 1849"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
         "objekt": "Neudietendorf",
         "objekt_type": "location",
         "zeit": "April 1849"
@@ -6020,71 +6019,47 @@
     "text": "Während unſers Aufenthaltes in Herrnhut war uns im Januar 1817 ein Sohn dann in Neuwied im Januar 1819 eine Tochter geboren worden und in Meudierendorf wurden wir abermals durch die Geburt eines Sohnes und einer Tochter erfreut.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "aufenthalt_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "Januar 1817"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Neuwied",
-        "objekt_type": "location",
+        "prädikat": "Vater_von",
+        "objekt": "Sohn (Herrnhut)",
+        "objekt_type": "person",
+        "zeit": "Januar 1817"
+      },
+      {
+        "subjekt": "Johann Adolph Küſter",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Tochter (Neuwied)",
+        "objekt_type": "person",
         "zeit": "Januar 1819"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurden erfreut durch die Geburt eines Sohnes und einer Tochter",
-        "objekt": "Meudierendorf",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "Vater_von",
+        "objekt": "Sohn (Meudierendorf)",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "wurden erfreut durch die Geburt eines Sohnes und einer Tochter",
-        "objekt": "Sohn",
+        "prädikat": "Vater_von",
+        "objekt": "Tochte (Meudierendorf)",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "wurden erfreut durch die Geburt eines Sohnes und einer Tochter",
-        "objekt": "Tochter",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Von den zehn Kindern mit welchen ünſere Ehe geſegnet wurde ſind noch ſechs Leben und befinden ſich in der Gemeine.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
-    "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
-    "graph": [
-      {
-        "subjekt": "die Ehe",
-        "subjekt_type": "person",
-        "prädikat": "hat geſegnet",
-        "objekt": "zehn Kindern",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "die zehn Kindern",
-        "subjekt_type": "person",
-        "prädikat": "sind noch ſechs Leben und befinden ſich",
-        "objekt": "in der Gemeine",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -6092,14 +6067,14 @@
     "text": "Er entſchlief um überzugehen zum Genuß ewiger Herrlichkeit am 27. Dec. 1833 Nacchhmittags in der fünften Stunde in einem Alter von 58 Jahren und 7 Monaten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/19859/rec/104",
     "datei": "1836_Küster_Johann_Adolph.xml",
-    "autor": "Johann Adolph Küſter.",
+    "autor": "Johann Adolph Küſter",
     "graph": [
       {
-        "subjekt": "Er",
+        "subjekt": "Johann Adolph Küſter",
         "subjekt_type": "person",
-        "prädikat": "entſchlief",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "27. Dec. 1833"
       }
     ]
@@ -6113,23 +6088,15 @@
       {
         "subjekt": "Johannes Fritsch",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location",
-        "zeit": "12 Juli 1856"
-      },
-      {
-        "subjekt": "Johannes Fritsch",
-        "subjekt_type": "person",
         "prädikat": "gestorben_in",
-        "objekt": "Süd-Afrika",
+        "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "12 Juli 1856"
       }
     ]
   },
   {
-    "text": "Unſer lieber am 12 Juli 1856 ſelig vollendeter Bruder Johannes Fritſch hat von ſeiner beinahe 79jährigen Wallfahrt durch diefes Leben zwar keinen vollſtändigen eigenhändigen Lebenslauf hinter laſſen, aber doch einen ausführlichen Aufſaß über den Gang ſeines inneren Lebens, ſeit er zur Germeine gekommen, bis zu feiner Berufung zum Miſsionsdienft, und ein ſehr genau geführtes Tagebuch über feine Reiſe von Gnadenfrei nach der Cap während der Continental-Sperre.",
+    "text": "Unſer lieber am 12 Juli 1856 ſelig vollendeter Bruder Johannes Fritſch hat von ſeiner beinahe 79jährigen Wallfahrt durch diefes Leben zwar keinen vollſtändigen eigenhändigen Lebenslauf hinter laſſen, aber doch einen ausführlichen Aufſaß über den Gang ſeines inneren Lebens, ſeit er zur Germeine gekommen, bis zu feiner Berufung zum Miſsionsdienft, und ein ſehr genau geführtes Tagebuch über seine Reiſe von Gnadenfrei nach der Cap während der Continental-Sperre.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -6137,26 +6104,10 @@
       {
         "subjekt": "Johannes Fritsch",
         "subjekt_type": "person",
-        "prädikat": "hat von",
-        "objekt": "Wallfahrt",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "Johannes Fritsch",
-        "subjekt_type": "person",
-        "prädikat": "lebte_in",
-        "objekt": "Germeine",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Johannes Fritsch",
-        "subjekt_type": "person",
-        "prädikat": "reiste_nach",
-        "objekt": "Cap",
-        "objekt_type": "location",
-        "zeit": "12 Juli 1856"
+        "prädikat": "tätig_als",
+        "objekt": "Missionar",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -6167,12 +6118,20 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Zauchtenthal",
         "objekt_type": "location",
         "zeit": "25 Juli 1777"
+      },
+      {
+        "subjekt": "Zauchtenthal",
+        "subjekt_type": "location",
+        "prädikat": "liegt_in",
+        "objekt": "Mähren",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
