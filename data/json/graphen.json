@@ -6136,97 +6136,17 @@
     ]
   },
   {
-    "text": "Meine Mutter war mit der Familie der Nitſchmänner verwandt; mein Großvater war Knecht bei Zeisberger geweſen, als dieſer auswanterte, und ging ein Stück Weges mit, um den kleinen David Zeisberger, den nachmaligen Apoſtel der Indianer, zu tragen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "mein Großvater",
-        "subjekt_type": "person",
-        "prädikat": "war Knecht bei",
-        "objekt": "Zeisberger",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "mein Großvater",
-        "subjekt_type": "person",
-        "prädikat": "ging ein Stück Weges mit",
-        "objekt": "David Zeisberger",
-        "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "Mein Vater kannte die ſlaviſche Sprache und wurde, wenn Leute aus anderen Dörfern kamen, um Obſt und andere Handeleartifel zu verkaufen, herbeigerufen, um als Dolmetſcher zu dienen. Dies gefiel mir ſchr gut, und ich wünſchte ebenfalls dieſe Sprache zu erlernen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Mein Vater",
-        "subjekt_type": "person",
-        "prädikat": "kannte",
-        "objekt": "ſlaviſche Sprache",
-        "objekt_type": "thing"
-      },
-      {
-        "subjekt": "Mein Vater",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Dolmetſcher",
-        "objekt_type": "job"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wünſchte",
-        "objekt": "dieſe Sprache zu erlernen",
-        "objekt_type": "thing"
-      }
-    ]
-  },
-  {
-    "text": "Um dieſen meinen Wunſch zu erfüllen, gab mid mein Vater zu einem ihm bekannten Tuchmacher in Settin, einem Städtchen 4 Meilen ſüdlich von Zauchtenthat gelegen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Settin",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wirkte_in",
-        "objekt": "Tuchmacher",
-        "objekt_type": "organisation"
-      }
-    ]
-  },
-  {
     "text": "Als ich etwas über ein Jahr in Settin war, kam mein Vater um mich abzuholen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "wohnte_in",
         "objekt": "Settin",
         "objekt_type": "location"
-      },
-      {
-        "subjekt": "Vater",
-        "subjekt_type": "person",
-        "prädikat": "kam_um_mich_abzuholen",
-        "objekt": "mich",
-        "objekt_type": "person"
       }
     ]
   },
@@ -6237,92 +6157,36 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "die Confirmation",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "das heilige Abendmahl",
-        "objekt_type": "organization",
+        "prädikat": "confirmirt",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "Oster"
       }
     ]
   },
   {
-    "text": "Der Pfarrer ſeßte den lateiniſchen Unterricht mit mir fort, und verwandte fih für mich um Aufnahme auf dem Alumneum (der hohen Schule) in Neuſohl in Ungarn, wo er früher als Rector angeftellt geweſen war.",
+    "text": "Im Auguſt machte ſich mein Vater mit mir auf die Reiſe nach Neuſohl; wir kamen wohlbehalten daſelbſt an, und ich wurde im Alumneum angenommen und in die für mich paſſende Claſſe eingeführt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Der Pfarrer",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "verwandte sich für mich um Aufnahme auf dem Alumneum",
-        "objekt": "Alumneum (der hohen Schule) in Neuſohl",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Der Pfarrer",
-        "subjekt_type": "person",
-        "prädikat": "war Rector",
-        "objekt": "Neuſohl in Ungarn",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Im Auguſt machte ſich mein Water mit mir auf die Reiſe nach Neuſohl;wir kamen wohlbehalten daſelbſt an, und ich wurde im Alumneum angenommen und in die für mich paſſende Claſſe eingeführt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "machte sich auf die Reise nach",
+        "prädikat": "reise_nach",
         "objekt": "Neuſohl",
         "objekt_type": "location",
         "zeit": "Auguſt"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "wurde angenommen und in die für mich passende Klasse eingeführt",
+        "prädikat": "lehre_bei",
         "objekt": "Alumneum",
         "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 1 Februar 1793 um Mitternacht beteitete ich mich zur Flucht; ich zog über meine Kleis der meines Vaters alten geflickten Rock, und ging, von meinem Vater begleitet, auf die Troppauer Straße.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "beteitete mich zur Flucht",
-        "objekt": "Flucht",
-        "objekt_type": "event",
-        "zeit": "1 Februar 1793"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Troppauer Straße",
-        "objekt_type": "location",
-        "zeit": "1 Februar 1793"
-      },
-      {
-        "subjekt": "Vater",
-        "subjekt_type": "person",
-        "prädikat": "begleitet",
-        "objekt": "ich",
-        "objekt_type": "person",
-        "zeit": "1 Februar 1793"
+        "zeit": ""
       }
     ]
   },
@@ -6333,12 +6197,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "mein Varter",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "hat mir gesagt",
-        "objekt": "dass ich Markt in Troppau sein würde",
+        "prädikat": "reise_nach",
+        "objekt": "Troppau",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -6349,12 +6213,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "Guabdenfeld",
         "objekt_type": "location",
-        "zeit": "2ten Februar"
+        "zeit": "2ten Februar 1793"
       }
     ]
   },
@@ -6365,113 +6229,90 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "wurde als Meiſter in ber Brüderhaus-Weberei angeſtellt",
+        "prädikat": "tätig_bei",
         "objekt": "Brüderhaus-Weberei",
         "objekt_type": "organisation",
-        "zeit": "25 Jahre"
+        "zeit": "1801"
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Meiſter",
+        "objekt_type": "tätigkeit",
+        "zeit": "1801"
       }
     ]
   },
   {
-    "text": "Als ich nun die Nachrichten von den drei Brüdern in Bavianökloof (ſeit 1806 Gnadenthalgenannt) vorlesen hörte, wurde ich für dieſe Miſſion ſo eingenommen, daß ich im Geiſte den größten Theil meiner Zeit hinter dem Webſtuhl in Süd-Afrika war und mit den drei Brüdern Marsveld, Schwin und Kühnel verkehrte und die mir bekannt gewordenen Pläße und Georg Schmidts Birnbaum beſuchte.",
+    "text": "Als ich nun die Nachrichten von den drei Brüdern in Bavianökloof (ſeit 1806 Gnadenthal genannt) vorlesen hörte, wurde ich für dieſe Miſſion ſo eingenommen, daß ich im Geiſte den größten Theil meiner Zeit hinter dem Webſtuhl in Süd-Afrika war und mit den drei Brüdern Marsveld, Schwin und Kühnel verkehrte und die mir bekannt gewordenen Pläße und Georg Schmidts Birnbaum beſuchte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "verkehrte",
-        "objekt": "den drei Brüdern Marsveld, Schwin und Kühnel",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_mit",
+        "objekt": "Brüder Kühnel",
+        "objekt_type": "person",
+        "zeit": ""
+      },{
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "tätig_mit",
+        "objekt": "Brüder Marsveld",
+        "objekt_type": "person",
+        "zeit": ""
+      },{
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "tätig_mit",
+        "objekt": "Brüder Schwin",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "besuchte",
-        "objekt": "die mir bekannt gewordenen Pläße und Georg Schmidts Birnbaum",
-        "objekt_type": "location",
-        "zeit": null
+        "objekt": "Br. Georg Schmidts Birnbaum",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "im Geiſte den größten Theil meiner Zeit hinter dem Webſtuhl in Süd-Afrika",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "besuchte",
+        "objekt": "Br. Pläße",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "die drei Brüdern",
-        "subjekt_type": "organisation",
-        "prädikat": "wurden",
-        "objekt": "in Bavianökloof (ſeit 1806 Gnadenthal genannt)",
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "wohnhaft_in",
+        "objekt": "Bavianökloof (Gnadenthal)",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Bruder Foreſtier desgleichen ſchrieb ic an einen Freund in Gnadenfeld, daß derfelbe meine Verwandten dorthin beſtellen möchte, und fing an, einen Bruder in meine Geſchäfte einzuleiten.",
+    "text": "Am 14 Februar reiſte ich nach Gnadenfeld, dort gelang es mir, den oberwähnten Bruder, der mich zu ſeinem Schwiegersohne und seinem Geſchäftsnachfolger gewünſcht hatte, und der nun meinte, man habe mir dieſen Autrag vorenthalten und mir ſtatt deſſen ſchnell jenen Ruf nach Afrika geſendet, durch eine ruhige und offene Darlegung, wie dieſe Angelegenheiten verlaufen ſeien, zu beruhigen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bruder Foreſtier",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "schrieb ic an einen Freund",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenfeld",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 14 Februar reiſte ich nach Gnadenfeld, dort gelang es mir, den oberwähnten Bruder, der mich zu ſeinem Schwiegerfohne und seinem Geſchäftsnachfolger gewünſcht hatte, und der nun meinte, man habe mir dieſen Autrag vorenthalten und mir ſtatt deſſen ſchnell jenen Ruf nach Afrika geſendet, durch eine ruhige und offene Darlegung, wie dieſe Angelegenheiten verlaufen ſeien, zu beruhigen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "Gnadenfeld",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "seliger Bruder",
-        "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "Geſchäftsnachfolger",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "rief",
-        "objekt": "Afrika",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Am 17 Februar kam mein Bruder mit seinem Sohne nach Gnadenfeld.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "mein Bruder",
-        "subjekt_type": "person",
-        "prädikat": "kam mit seinem Sohne nach",
-        "objekt": "Gnadenfeld",
-        "objekt_type": "location",
-        "zeit": "17 Februar"
+        "zeit":"14 Februar"
       }
     ]
   },
@@ -6482,7 +6323,7 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "reiste_nach",
         "objekt": "Gnadenfrei",
@@ -6498,62 +6339,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Gnadenfrei",
         "objekt_type": "location",
         "zeit": "26 ten"
-      }
-    ]
-  },
-  {
-    "text": "In den nächſten zwei Tagen thauke es vollends auf, und ich ging bald auf Eis, bald im Waſſer, bald auf trodenen Rändern, bald im Koth, und lief an den Bächen und Gräben hin und her, bis ich eine Stelle fand, wo ich hinüber fonnte; in einem Dorf aber mußte ich den Sutzen erfu- hen, mir zwei Pferde ſatteln zu laſſen, damit ich nebſt einem Knecht, der die Pferde wieder zurück: führte durch das angeſchwollene Waſſer hindurch- reiten könnte.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Eis",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Waſſer",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "lief",
-        "objekt": "Bächen und Gräben",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Stelle",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mußte",
-        "objekt": "Sutzen",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "satteln",
-        "objekt": "Pferde",
-        "objekt_type": "location"
       }
     ]
   },
@@ -6564,28 +6355,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "hielt auf",
+        "prädikat": "aufenthalt_in",
         "objekt": "Gnadenberg",
         "objekt_type": "location",
         "zeit": "Den 1 März"
-      },
-      {
-        "subjekt": "die Geſchwiſter",
-        "subjekt_type": "person",
-        "prädikat": "bezeugten ihre Freude",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": null
-      },
-      {
-        "subjekt": "ein Bruder aus den ſchleſiſchen Gemeinen",
-        "subjekt_type": "person",
-        "prädikat": "ginge zu den Hottentotten",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": null
       }
     ]
   },
@@ -6596,41 +6371,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Gnadenberg",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "gelangte",
-        "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": "2 März"
-      }
-    ]
-  },
-  {
-    "text": "In der Buſchſchenke, einem Wirthshaus im Walde, etwa eine halbe Stunde von Berthelsdorf gelegen, kehrte ich ein und erkundigte mich nach dem Wege.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kehrte ein und erkundigte sich nach dem Wege",
-        "objekt": "Buſchſchenke",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erkundigte sich nach dem Wege",
-        "objekt": "Berthelsdorf",
-        "objekt_type": "location"
+        "zeit":"2 März"
       }
     ]
   },
@@ -6641,28 +6387,28 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bruder",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "kannte",
-        "objekt": "ich",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Br. Hocker",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Dienerſtube",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Br. Hocker",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Ruf nach Jamaika",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "Ruf_nach",
+        "objekt": "Jamaika",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Br. Hocker",
+        "subjekt_type": "person",
+        "prädikat": "von",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -6676,33 +6422,17 @@
         "subjekt": "Bruder Hocker",
         "subjekt_type": "person",
         "prädikat": "besuchte",
-        "objekt": "den Bruder von Foreſtier",
+        "objekt": "Bruder von Foreſtier",
         "objekt_type": "person",
         "zeit": "4 März"
       },
       {
-        "subjekt": "Bruder Hocker",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "besuchte",
-        "objekt": "den Bruder von Foreſtier",
+        "objekt": "Bruder von Foreſtier",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder von Foreſtier",
-        "subjekt_type": "person",
-        "prädikat": "mittheilte",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Herrn Tiedemann",
-        "subjekt_type": "person",
-        "prädikat": "ausgegeben",
-        "objekt": "die Nachricht",
-        "objekt_type": "date",
-        "zeit": null
+        "zeit": "4 März"
       }
     ]
   },
@@ -6715,50 +6445,26 @@
       {
         "subjekt": "Bruder Kaltofen",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf nach Barbadoes",
+        "prädikat": "Ruf_nach",
+        "objekt": "Barbadoes",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Bruder Kaltofen",
         "subjekt_type": "person",
-        "prädikat": "fand sich",
-        "objekt": "sich",
+        "prädikat": "von",
+        "objekt": "Niesky",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Bruder Hocker und ich",
+        "subjekt": "Bruder Hocker",
         "subjekt_type": "person",
-        "prädikat": "wurden angenommen",
+        "prädikat": "lehre_bei",
         "objekt": "Akoluthie",
         "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Kaltofen und Bruder Hocker und ich",
-        "subjekt_type": "person",
-        "prädikat": "wurden abgefertigt",
-        "objekt": "Unitäts = Aelteſten - Conferenz",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 7 März erhielten wir unfere SInstructionen vom Miſſious - Departement.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "erhielten",
-        "objekt": "SInstructionen",
-        "objekt_type": "organisation",
-        "zeit": "7 März"
+        "zeit": ""
       }
     ]
   },
@@ -6769,18 +6475,28 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Nisky",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "wohnhaft_in",
+        "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -6791,9 +6507,9 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Sie",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Gnadau",
         "objekt_type": "location",
         "zeit": "17 März"
@@ -6801,15 +6517,31 @@
       {
         "subjekt": "Bruder Kaltofen",
         "subjekt_type": "person",
-        "prädikat": "antrafen",
-        "objekt": "Sie",
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Sie",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Bruder Kaltofen",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
         "objekt": "Bremen",
         "objekt_type": "location",
         "zeit": "22ſten"
@@ -6817,30 +6549,15 @@
       {
         "subjekt": "Bruder Schulz",
         "subjekt_type": "person",
-        "prädikat": "von Zeiſt zu ihnen ſtoßen ſollte",
-        "objekt": "Sie",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "Ruf_nach",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Auf der Kanzelei erhielten ſie die Päſſe nach Varel viſirt (Varel ein Marktflecken im Großherzogthum Oldenburg, unweit der Jahde mündung am Vareler Siel [Meerbuſen] gelegen).",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Vareler Siel",
-        "subjekt_type": "location",
-        "prädikat": "gelegen",
-        "objekt": "Meerbuſen",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Da Bruder Schulz erſt ſpäter von Zeiſt abreiſte, befamen wir Zeit, nach und nach ans der Stadt zu ſchleichen, Bruder von der Lippe aus Delmenhorſt wollte uns den erſten Tag beherbergen.",
+    "text": "Da Bruder Schulz erſt ſpäter von Zeiſt abreiſte, bekamen wir Zeit, nach und nach ans der Stadt zu ſchleichen, Bruder von der Lippe aus Delmenhorſt wollte uns den erſten Tag beherbergen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -6848,50 +6565,10 @@
       {
         "subjekt": "Bruder Schulz",
         "subjekt_type": "person",
-        "prädikat": "wollte uns den erſten Tag beherbergen",
-        "objekt": "Bruder von der Lippe aus Delmenhorſt",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Schulz",
-        "subjekt_type": "person",
-        "prädikat": "befamen wir Zeit, nach und nach ans der Stadt zu ſchleichen",
+        "prädikat": "verließ",
         "objekt": "Zeiſt",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder von der Lippe",
-        "subjekt_type": "person",
-        "prädikat": "wollte uns den erſten Tag beherbergen",
-        "objekt": "Bruder Schulz",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Tages darauf kam ein Societäts - Bruder aus leßtgenanntem Ort und holte uns, Bruder Kaltofen und mich, ab.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Bruder Kaltofen",
-        "subjekt_type": "person",
-        "prädikat": "holte ab",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "wurden geholt",
-        "objekt": "Bruder Kaltofen",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -6902,35 +6579,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bruder Schulz",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "fuhr als",
+        "prädikat": "reise_nach",
         "objekt": "Oldenburg",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Dort hörten wir, daß die Brüder Hocker und Kaltofen in das Jeverſche abgereiſt jeien.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Brüder Hocker",
-        "subjekt_type": "person",
-        "prädikat": "abgereiſt",
-        "objekt": "Jeverſche",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Brüder Kaltofen",
-        "subjekt_type": "person",
-        "prädikat": "abgereiſt",
-        "objekt": "Jeverſche",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit":""
       }
     ]
   },
@@ -6941,12 +6595,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "angekommen_in",
         "objekt": "Jever",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -6957,65 +6611,97 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Früh",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "nahm uns auf",
-        "objekt": "Poſtkutſche",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Früh",
-        "subjekt_type": "person",
-        "prädikat": "kamen um",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location",
         "zeit": "6 Uhr Abends"
       },
       {
-        "subjekt": "Jemand",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "fand sich",
+        "prädikat": "traf",
         "objekt": "Bruder Wollin",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Jemand",
-        "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "Bruder Wollin",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Am 16 September ging Bruder Fritſch mit Geſchwiſter Leitner und Bruder Schulz an Bord, fie legten am 19 October bei Madeira an, um friſchen Proviant einzunehmen, und langten den 26 December glücklich in der Capstadt an.",
+    "text": "Am 16 September ging Bruder Fritſch mit Geſchwiſter Leitner und Bruder Schulz an Bord, sie legten am 19 October bei Madeira an, um friſchen Proviant einzunehmen, und langten den 26 December glücklich in der Capstadt an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bruder Fritſch",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "ging an Bord",
-        "objekt": "",
-        "objekt_type": "",
+        "prädikat": "verließ",
+        "objekt": "London",
+        "objekt_type": "location",
         "zeit": "16 September"
       },
       {
-        "subjekt": "Bruder Fritſch",
+        "subjekt": "Geſchwiſter Leitner",
         "subjekt_type": "person",
-        "prädikat": "legte an",
+        "prädikat": "verließ",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "16 September"
+      },
+      {
+        "subjekt": "Bruder Schulz",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "16 September"
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
         "objekt": "Madeira",
         "objekt_type": "location",
         "zeit": "19 October"
       },
       {
-        "subjekt": "Bruder Fritſch",
+        "subjekt": "Geſchwiſter Leitner",
         "subjekt_type": "person",
-        "prädikat": "langte an",
+        "prädikat": "angekommen_in",
+        "objekt": "Madeira",
+        "objekt_type": "location",
+        "zeit": "19 October"
+      },
+      {
+        "subjekt": "Bruder Schulz",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Madeira",
+        "objekt_type": "location",
+        "zeit": "19 October"
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "26 December"
+      },
+      {
+        "subjekt": "Geſchwiſter Leitner",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "26 December"
+      },
+      {
+        "subjekt": "Bruder Schulz",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
         "objekt": "Capstadt",
         "objekt_type": "location",
         "zeit": "26 December"
@@ -7031,41 +6717,18 @@
       {
         "subjekt": "Geſchwiſter Schmitt",
         "subjekt_type": "person",
-        "prädikat": "traten bei uns ein",
-        "objekt": "uns",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "Geſchwiſter Schmitt",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "machten ung mit ihnen auf die Reise nach",
+        "prädikat": "angekommen_in",
         "objekt": "Groenekloof",
         "objekt_type": "location",
         "zeit": "29ſten"
-      }
-    ]
-  },
-  {
-    "text": "Am 30ten früh, wurde bei einer Quelle auögefpannt, und unſre Ankunft durch einen Boten in Groenekloof gemeldet, Nach einiger Raſt fuhren wir weiter.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "unſre",
-        "subjekt_type": "person",
-        "prädikat": "ankunft_meldet",
-        "objekt": "Groenekloof",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "unſre",
-        "subjekt_type": "person",
-        "prädikat": "fährt_weiter",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "30ten früh"
       }
     ]
   },
@@ -7076,25 +6739,17 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Geſchwiſter Bonaß",
+        "subjekt": "Geſchwiſter Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Gefolge von Hottentotten-Brüdern und Schweſtern",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Gefolge von Hottentotten-Brüdern und Schweſtern",
-        "subjekt_type": "organisation",
-        "prädikat": "kamen",
-        "objekt": "Geſchwiſter Bonaß",
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Da Bruder Schulz und ih nach Gnadenthal beſtimmt waren, ſo brachte uns Bruder Bonaßt wieder nach der Capſtadt zurück, von wo uns Br. Küſter und Swin abholten.",
+    "text": "Da Bruder Schulz und ich nach Gnadenthal beſtimmt waren, ſo brachte uns Bruder Bonaßt wieder nach der Capſtadt zurück, von wo uns Br. Küſter und Swin abholten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -7102,37 +6757,50 @@
       {
         "subjekt": "Bruder Schulz",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location"
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Br. Bonaßt",
         "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "person",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Bruder Schulz",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Capſtadt",
-        "objekt_type": "location"
+        "prädikat": "traf",
+        "objekt": "Br. Swin",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Br. Küſter",
         "subjekt_type": "person",
-        "prädikat": "abholten",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Swin",
         "subjekt_type": "person",
-        "prädikat": "abholten",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -7145,26 +6813,10 @@
       {
         "subjekt": "Bruder Kühnel",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "uns",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Kühnel",
-        "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "vielen Hottentotten",
-        "objekt_type": "personen",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Kühnel",
-        "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "mehrten sich die Zahl der Entgegenkommenden",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -7177,26 +6829,26 @@
       {
         "subjekt": "Bruder Schulz",
         "subjekt_type": "person",
-        "prädikat": "hat gemeldet",
-        "objekt": "Bruder Wollin",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Schmidt",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "als Pastor eingeſchrieben ſei",
-        "objekt": "Paſſe",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Pastor",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "Bruder Schulz",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "als Schmidt",
+        "prädikat": "traf",
         "objekt": "Bruder Wollin",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -7207,36 +6859,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bruder Küſter",
+        "subjekt": "Johannes Fritsch",
         "subjekt_type": "person",
-        "prädikat": "trug",
-        "objekt": "mir",
-        "objekt_type": "person",
-        "zeit": "24 April 1811"
-      }
-    ]
-  },
-  {
-    "text": "Als ich im holländiſch Leſen und Schreiben so weit gekommen war, daß ich zur Noth durchkam, wurde ich, nach dem Heimgang des ſeligen Bruder Kohrhammer, als Schullehrer bei den Knaben angeſtellt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde als Schullehrer bei den Knaben angestellt",
-        "objekt": "Knaben",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Kohrhammer",
-        "subjekt_type": "person",
-        "prädikat": "Heimgang",
-        "objekt": "",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Leiter der ersten Kinderstunde",
+        "objekt_type": "tätigkeit",
+        "zeit": "24. April 1811"
       }
     ]
   },
@@ -7247,27 +6875,11 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "übergab",
-        "objekt": "Br. Marsveld",
-        "objekt_type": "person",
-        "zeit": "Januar 1812"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sann",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "Januar 1812"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mahlen",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "tätig_bei",
+        "objekt": "Mühle",
+        "objekt_type": "organisation",
         "zeit": "Januar 1812"
       }
     ]
@@ -7279,20 +6891,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſchch",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Antrag",
-        "objekt_type": "none",
-        "zeit": "30 Juli"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "geht",
+        "prädikat": "Ruf_nach",
         "objekt": "Groenekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "30 Juli"
       }
     ]
   },
@@ -7303,7 +6907,7 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "aufgehalten_in",
         "objekt": "Gnadenthal",
@@ -7313,18 +6917,18 @@
       {
         "subjekt": "Bruder Swin",
         "subjekt_type": "person",
-        "prädikat": "helfen",
-        "objekt": "im Garten und bei der Weinleſe",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit": "20 März 1815"
       },
       {
-        "subjekt": "Geſchwiſter Beinbrecht",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "mit den beiden led",
-        "objekt": "kommen",
-        "objekt_type": "action",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Garten und bei der Weinleſe",
+        "objekt_type": "tätigkeit",
+        "zeit": "20 März 1815"
       }
     ]
   },
@@ -7337,17 +6941,33 @@
       {
         "subjekt": "Schweſtern Wirth",
         "subjekt_type": "person",
-        "prädikat": "gelandet ſeien",
+        "prädikat": "angekommen_in",
         "objekt": "Capſtadt",
         "objekt_type": "location",
         "zeit": "14ten"
       },
       {
-        "subjekt": "Jänke",
+        "subjekt": "Schweſtern Jänke",
         "subjekt_type": "person",
-        "prädikat": "gelandet ſeien",
+        "prädikat": "angekommen_in",
         "objekt": "Capſtadt",
         "objekt_type": "location",
+        "zeit": "14ten"
+      },
+      {
+        "subjekt": "Schweſtern Wirth",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
+        "zeit": "14ten"
+      },
+      {
+        "subjekt": "Schweſtern Jänke",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
         "zeit": "14ten"
       }
     ]
@@ -7359,39 +6979,34 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "reise_nach",
         "objekt": "Groenekloof",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "Ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "verlobt",
-        "objekt": "Johanne Eleonore Wirth",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Ich",
-        "subjekt_type": "person",
-        "prädikat": "traut",
-        "objekt": "Bruder Bonaß",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Ich",
-        "subjekt_type": "person",
-        "prädikat": "verlobt",
-        "objekt": "Johanne Eleonore Wirth",
+        "prädikat": "traf",
+        "objekt": "Johanne Eleonore Fritſch (Wirth)",
         "objekt_type": "person",
-        "zeit": "24 März"
+        "zeit":"24 März"
       },
       {
-        "subjekt": "Ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "traut",
-        "objekt": "Bruder Bonaß",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Johanne Eleonore Fritſch (Wirth)",
+        "objekt_type": "person",
+        "zeit":"14 April"
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Bruder Bonatz",
         "objekt_type": "person",
         "zeit": "14 April"
       }
@@ -7404,11 +7019,20 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
         "prädikat": "wohnhalt_in",
         "objekt": "Groenekloof",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"bis 1818"
+      },
+      {
+        "subjekt": "Johanne Eleonore Fritſch (Wirth)",
+        "subjekt_type": "person",
+        "prädikat": "wohnhalt_in",
+        "objekt": "Groenekloof",
+        "objekt_type": "location",
+        "zeit":"bis 1818"
       }
     ]
   },
@@ -7421,17 +7045,9 @@
       {
         "subjekt": "Bruder Hermann Richter",
         "subjekt_type": "person",
-        "prädikat": "hat ausgefertigt",
-        "objekt": "Ordination",
-        "objekt_type": "organisation",
-        "zeit": "2 October 1817"
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "wurde überreicht",
-        "objekt": "Ordination",
-        "objekt_type": "organisation",
+        "prädikat": "traf",
+        "objekt": "Johannes Fritſch",
+        "objekt_type": "person",
         "zeit": "2 October 1817"
       }
     ]
@@ -7443,41 +7059,49 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "Jahr 1818"
+        "zeit": "31 Juni 1818"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "übernimmt",
+        "prädikat": "tätig_bei",
         "objekt": "Mädchenſchule",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "1818"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "übernimmt",
+        "prädikat": "tätig_bei",
         "objekt": "Mühle",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "1818"
+      },
+      {
+        "subjekt": "Johanne Eleonore Fritſch (Wirth)",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "31 Juni 1818"
       }
     ]
   },
   {
-    "text": "Im Jahr 1820 wurde er von der Unitäts- Aelteſten » Gonferenz zu einem Mitglied der Helfer-Conferenz ernannt.",
+    "text": "Im Jahr 1820 wurde er von der Unitäts-Aelteſten-Conferenz zu einem Mitglied der Helfer-Conferenz ernannt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "ernannt",
+        "prädikat": "tätig_als",
         "objekt": "Mitglied der Helfer-Conferenz",
         "objekt_type": "organisation",
         "zeit": "1820"
@@ -7493,7 +7117,7 @@
       {
         "subjekt": "Geſchwiſter Fritsch",
         "subjekt_type": "person",
-        "prädikat": "berufen",
+        "prädikat": "Ruf_nach",
         "objekt": "Enon",
         "objekt_type": "location",
         "zeit": "Jahr 1826"
@@ -7501,68 +7125,15 @@
       {
         "subjekt": "Gefchwiſter Schmidt",
         "subjekt_type": "person",
-        "prädikat": "Vorſteher",
+        "prädikat": "aufenthalt_in",
         "objekt": "Enon",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Dieſer Miſſions- Plaß war 1818 angefangen worden, aber ſchon 1819 im Kaffernkrieg wieder zerſtört worden.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Dieſer Miſſions- Plaß",
-        "subjekt_type": "location",
-        "prädikat": "angefangen",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": "1818"
-      },
-      {
-        "subjekt": "Dieſer Miſſions- Plaß",
-        "subjekt_type": "location",
-        "prädikat": "zerstört",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": "1819"
-      }
-    ]
-  },
-  {
-    "text": "Als Geſchwiſter Fritſch nach Enon kamen, zählte die Gemeine daſelbſt 450 Einwohner, von denen 107 Communicanten waren.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Geſchwiſter Fritſch",
-        "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Enon",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "die Gemeine",
-        "subjekt_type": "organisation",
-        "prädikat": "zählte",
-        "objekt": "450 Einwohner",
-        "objekt_type": "date"
-      },
-      {
-        "subjekt": "die Gemeine",
-        "subjekt_type": "organisation",
-        "prädikat": "zählte",
-        "objekt": "107 Communicanten",
-        "objekt_type": "date"
-      }
-    ]
-  },
-  {
-    "text": "Da im Jahr 1827 Bowana, Capitän der Tambukki, auf Rath des Landdroſtes von Sommerſet, des Herrn Maekay, bei der Regierung um Miſſionare gebeten hatte, wurde der ſelige Bruder Hallbeck von der Regierung zu einer Unterſuchungsreife aufgefordert.",
+    "text": "Da im Jahr 1827 Bowana, Capitän der Tambukki, auf Rath des Landdroſtes von Sommerſet, des Herrn Maekay, bei der Regierung um Miſſionare gebeten hatte, wurde der ſelige Bruder Hallbeck von der Regierung zu einer Unterſuchungsreise aufgefordert.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -7570,58 +7141,26 @@
       {
         "subjekt": "Bowana",
         "subjekt_type": "person",
-        "prädikat": "hat gebeten",
-        "objekt": "um Miſſionare",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1827"
+        "prädikat": "tätig_als",
+        "objekt": "Capitän der Tambukki",
+        "objekt_type": "tätigkeit",
+        "zeit": "1827"
       },
       {
         "subjekt": "Bruder Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgefordert",
-        "objekt": "zu einer Unterſuchungsreife",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Capitän der Tambukki",
-        "subjekt_type": "person",
-        "prädikat": "hat gebeten",
-        "objekt": "um Miſſionare",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Untersuchungsreisender der Regierung",
+        "objekt_type": "tätigkeit",
+        "zeit": "1827"
       },
       {
         "subjekt": "Herrn Maekay",
         "subjekt_type": "person",
-        "prädikat": "hat geraten",
-        "objekt": "Bowana",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Auf dieſe nahm er den ſeligen Bruder Fritsch zur Begleitung mit, um ſich feines Rathes bei Aufſuchung reines Plaßes für eine Miſſions-Niederlaſſung zu bedienen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "nahm den seligen Bruder Fritsch zur Begleitung mit",
-        "objekt": "Bruder Fritsch",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "um sich feines Rathes bei Aufsuchung reines Plaßes für eine Mißions-Niederlassung zu bedienen",
-        "objekt": "reines Plaßes",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Regierung",
+        "objekt_type": "organisation",
+        "zeit": "1827"
       }
     ]
   },
@@ -7634,18 +7173,10 @@
       {
         "subjekt": "Bruder Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "ritt mit",
-        "objekt": "Landdroſt",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Hallbeck",
-        "subjekt_type": "person",
-        "prädikat": "ritt voraus zu",
+        "prädikat": "reise_nach",
         "objekt": "Bowana",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -7656,36 +7187,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Herr Maekay",
+        "subjekt": "Bruder Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "empfahl",
-        "objekt": "Tambuktki-Capitän",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Br. Halbeck",
-        "subjekt_type": "person",
-        "prädikat": "stellte",
-        "objekt": "den Plaß",
+        "prädikat": "besucht",
+        "objekt": "Platz für Missionsniederlassung",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Dann kehrte Bruder Halbeck zu ſeiner Reiſegeſellſchaft zurück.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Bruder Halbeck",
-        "subjekt_type": "person",
-        "prädikat": "kehrte zurück",
-        "objekt": "Reiſegeſellſchaft",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -7696,12 +7203,12 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bowana's Kraul",
-        "subjekt_type": "location",
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
         "prädikat": "angekommen_in",
-        "objekt": "Ochsenwagen und den begleitenden Hoktentotten",
-        "objekt_type": "organization",
-        "zeit": "1 Juli"
+        "objekt": "Bowana's Kraul",
+        "objekt_type": "location",
+        "zeit": "1. Juli"
       }
     ]
   },
@@ -7712,17 +7219,25 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "Bowana",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "geführt",
-        "objekt": "in die grasreiche Ebene zwiſchen dem Oxkraal und Klipplat",
+        "prädikat": "reise_nach",
+        "objekt": "Oxkraal",
+        "objekt_type": "location",
+        "zeit": "2 Juli"
+      },
+      {
+        "subjekt": "Johannes Fritſch",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Klipplat",
         "objekt_type": "location",
         "zeit": "2 Juli"
       }
     ]
   },
   {
-    "text": "Zur Anlegung des neuen Miſſionöplaßes kamen Geſchwiſter Fritsch und Lemmerz in Vorſchlag, wobei die Leßteren genehmigt wurden.",
+    "text": "Zur Anlegung des neuen Miſſionsplaßes kamen Geſchwiſter Fritsch und Lemmerz in Vorſchlag, wobei die Leßteren genehmigt wurden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -7730,23 +7245,15 @@
       {
         "subjekt": "Geſchwiſter Fritsch",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "in Vorſchlag",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Geſchwiſter Lemmerz",
-        "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "in Vorſchlag",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Geſchwiſter Lemmerz",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Da aber im Jahr 1832 der Vorſchlag, daß Geſchwiſter Fritſch obgenannte Geſchwiſter in Silo ablöſen solten, dur unſern lieben Herrn approbirt wurde, fo wurde ihnen der Antrag gemacht, nach Silo zu gehen, den fie im Vertrauen auf die Durchhülfe des Heilandes annahmen.",
+    "text": "Da aber im Jahr 1832 der Vorſchlag, daß Geſchwiſter Fritſch obgenannte Geſchwiſter in Silo ablöſen solten, dur unſern lieben Herrn approbirt wurde, so wurde ihnen der Antrag gemacht, nach Silo zu gehen, den fie im Vertrauen auf die Durchhülfe des Heilandes annahmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -7754,26 +7261,10 @@
       {
         "subjekt": "Geſchwiſter Fritſch",
         "subjekt_type": "person",
-        "prädikat": "nahmen",
+        "prädikat": "eingezogen_in",
         "objekt": "Silo",
         "objekt_type": "location",
         "zeit": "Jahr 1832"
-      }
-    ]
-  },
-  {
-    "text": "Im Jahr 1835 brach ein Kaffernfrieg aus, in welchem Silo ſehr in Gefahr kam.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "Silo",
-        "subjekt_type": "location",
-        "prädikat": "kam in Gefahr",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "1835"
       }
     ]
   },
@@ -7786,15 +7277,15 @@
       {
         "subjekt": "van Wyk",
         "subjekt_type": "person",
-        "prädikat": "rieth zur Flucht",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Commandant der Landmiliz",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Während des Dienſtes des Bruders Fritſch in Silo von 1832 bis 1838 wurde unter ſeiner Leitung unter anderem die Kirche und Mühle gebaut, eine große Waſſerleitung angelegt, durd welche ein Stüd-Land nutßbar gemacht wurde, wie dies bei der ſich mehrenden Zahl der Einwohner nothwendig wurde.",
+    "text": "Während des Dienſtes des Bruders Fritſch in Silo von 1832 bis 1838 wurde unter ſeiner Leitung unter anderem die Kirche und Mühle gebaut, eine große Waſſerleitung angelegt, durd welche ein Süd-Land nutßbar gemacht wurde, wie dies bei der ſich mehrenden Zahl der Einwohner nothwendig wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
     "datei": "1859_Fritsch_Johannes.xml",
     "autor": "Johannes Fritſch",
@@ -7804,29 +7295,8 @@
         "subjekt_type": "person",
         "prädikat": "lebte_in",
         "objekt": "Silo",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Bruders Fritsch",
-        "subjekt_type": "person",
-        "prädikat": "war_tätig_als",
-        "objekt": "Kirche und Mühle",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Bruders Fritsch",
-        "subjekt_type": "person",
-        "prädikat": "war_tätig_als",
-        "objekt": "Waſſerleitung",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Bruders Fritsch",
-        "subjekt_type": "person",
-        "prädikat": "lebte_in",
-        "objekt": "Silo",
         "objekt_type": "location",
-        "zeit": "von 1832 bis 1838"
+        "zeit":"von 1832 bis 1838"
       }
     ]
   },
@@ -7837,20 +7307,20 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "wurde berufen",
+        "prädikat": "berufen_nach",
         "objekt": "Hemelen Aarde",
         "objekt_type": "location",
         "zeit": "1838"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johanne Eleonore Fritſch (Wirth)",
         "subjekt_type": "person",
-        "prädikat": "sorgte für",
-        "objekt": "Lazaruskranken",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "berufen",
+        "objekt": "Hemelen Aarde",
+        "objekt_type": "location",
+        "zeit": "1838"
       }
     ]
   },
@@ -7861,43 +7331,11 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "meine l. Frau",
+        "subjekt": "Johanne Eleonore Fritſch (Wirth)",
         "subjekt_type": "person",
-        "prädikat": "kränkeln an",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "wurde durch gichtische Leiden ganz gelähmt",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "endlich an das Bett gefeſſelt",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "erholte sich indeſſen ſo weit",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "wurde am 19 September 1838 sanft und ſelig vollendet",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "19 September 1838"
       }
     ]
@@ -7909,19 +7347,27 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "verbunden",
+        "prädikat": "verheiratet_mit",
         "objekt": "Johanna Chriſtiane Hallbeck",
         "objekt_type": "person",
         "zeit": "9 Januar 1844"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "berufen",
-        "objekt": "Elim",
-        "objekt_type": "location",
+        "prädikat": "berufen_nach",
+        "objekt": "Gemeine in Elim",
+        "objekt_type": "organisation",
+        "zeit": "9 Januar 1844"
+      },
+      {
+        "subjekt": "Johanna Chriſtiane Fritſch (Hallbeck)",
+        "subjekt_type": "person",
+        "prädikat": "berufen_nach",
+        "objekt": "Gemeine in Elim",
+        "objekt_type": "organisation",
         "zeit": "9 Januar 1844"
       }
     ]
@@ -7933,77 +7379,20 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "berufen",
+        "prädikat": "berufen_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "1851"
       },
       {
-        "subjekt": "ſeiner geliebten Frau",
+        "subjekt": "Johanna Chriſtiane Fritſch (Hallbeck)",
         "subjekt_type": "person",
-        "prädikat": "gestorben",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "10 November 1850"
-      }
-    ]
-  },
-  {
-    "text": "Hätte ih das früher ſagen wollen, fo wäre 8 Heuchelei geweſen, denn ich wollte gern noch länger leben; nun aber ſehe ich, daß ih nicht mehr nüßlich fein kann.'“ Auf die Frage, wie er denn mit dem Heiland ſtehe, und was er beim Rückblick auf ſein Leben und auf ſein nahes Ende fühle, ſagte er: ,,A< da finde ich nichts als Augenluſt, Fleiſches!luſt und hoffähr- tiges Leben, aber der Heiland wolle Alles mit Seinem Berdienſt zudecken und mir vergeben, was ich verdorben habe! ’’.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/51042/rec/194",
-    "datei": "1859_Fritsch_Johannes.xml",
-    "autor": "Johannes Fritſch",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sagen",
-        "objekt": "früher",
-        "objekt_type": "date"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wollen",
-        "objekt": "länger leben",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sehen",
-        "objekt": "nicht mehr nüßlich fein kann",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "finden",
-        "objekt": "Augenluſt, Fleiſches!luſt und hoffähr-tiges Leben",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "fühlen",
-        "objekt": "nahes Ende",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "sagen",
-        "objekt": "Augenluſt, Fleiſches!luſt und hoffähr-tiges Leben",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "fühlen",
-        "objekt": "Heiland",
-        "objekt_type": "person"
       }
     ]
   },
@@ -8014,65 +7403,41 @@
     "autor": "Johannes Fritſch",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Fritſch",
         "subjekt_type": "person",
-        "prädikat": "ankam",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "1810"
       },
       {
-        "subjekt": "Marsveld",
+        "subjekt": "Br. Marsveld",
         "subjekt_type": "person",
-        "prädikat": "war_tätig",
+        "prädikat": "tätig_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1810"
       },
       {
-        "subjekt": "Swin",
+        "subjekt": "Br. Swin",
         "subjekt_type": "person",
-        "prädikat": "war_tätig",
+        "prädikat": "tätig_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1810"
       },
       {
-        "subjekt": "Kühnel",
+        "subjekt": "Br. Kühnel",
         "subjekt_type": "person",
-        "prädikat": "war_tätig",
+        "prädikat": "tätig_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Grönefloof",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "die Brüder Marsveld, Swin und Kühnel",
-        "subjekt_type": "person",
-        "prädikat": "hatten_anfangen",
-        "objekt": "Miſſion von Neuem",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "sah",
-        "objekt": "Robben - Seland",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit": "1810"
       }
     ]
   },
   {
-    "text": "Lebenslauf ves verheitatheten Bruders Friedrich Wilhelm Kölbing, Mitgliedes der Unität Aelteſten = Conferenz im Helfer und Erziehungs - Departement, heimgegangen am 24 Mai 1850 in Berthelsdorf.",
+    "text": "Lebenslauf des verheitatheten Bruders Friedrich Wilhelm Kölbing, Mitgliedes der Unität Aelteſten = Conferenz im Helfer und Erziehungs - Departement, heimgegangen am 24 Mai 1850 in Berthelsdorf.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
     "datei": "1851_Kölbing_Friedrich.xml",
     "autor": "Friedrich Wilhelm Kölbing",
@@ -8080,7 +7445,7 @@
       {
         "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "heimgegangen",
+        "prädikat": "gestorben_in",
         "objekt": "Berthelsdorf",
         "objekt_type": "location",
         "zeit": "24 Mai 1850"
@@ -8091,7 +7456,7 @@
         "prädikat": "mitglied_von",
         "objekt": "Unität Aelteſten = Conferenz",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Friedrich Wilhelm Kölbing",
@@ -8099,18 +7464,18 @@
         "prädikat": "tätig_in",
         "objekt": "Helfer und Erziehungs - Departement",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Er war geboren den 4 September 1803 in Neuwied , wo fein Vater, Friedrich Ludwig Kölebing, Inſpector der dortigen Knaben-Anſtalt war. Als dieſer einen Ruf nach Nisfy als Inſpector der dort combinirten Unitäts - Anſtalten im Jahr 1808 erhielt, begleitete er ſeine Eltern dorthin, wobei er unterwegs heftig an der Ruhr erkrankte.",
+    "text": "Er war geboren den 4 September 1803 in Neuwied , wo fein Vater, Friedrich Ludwig Kölebing, Inſpector der dortigen Knaben-Anſtalt war.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
     "datei": "1851_Kölbing_Friedrich.xml",
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "Er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Neuwied",
@@ -8120,27 +7485,51 @@
       {
         "subjekt": "Friedrich Ludwig Kölebing",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "tätig_als",
         "objekt": "Inſpector der dortigen Knaben-Anſtalt",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "Er",
+        "subjekt": "Friedrich Ludwig Kölebing",
         "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "seine Eltern",
+        "prädikat": "Vater_von",
+        "objekt": "Friedrich Wilhelm Kölbing",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
+      }
+    ]
+  },
+  {
+    "text":"Als dieſer einen Ruf nach Nisky als Inſpector der dort combinirten Unitäts - Anſtalten im Jahr 1808 erhielt, begleitete er ſeine Eltern dorthin, wobei er unterwegs heftig an der Ruhr erkrankte.",
+    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
+    "datei": "1851_Kölbing_Friedrich.xml",
+    "autor": "Friedrich Wilhelm Kölbing",
+    "graph":[
+      {
+        "subjekt": "Friedrich Ludwig Kölebing",
+        "subjekt_type": "person",
+        "prädikat": "berufen_nach",
+        "objekt": "Nisky",
+        "objekt_type": "location",
+        "zeit": "1808"
       },
       {
-        "subjekt": "Er",
-        "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": "an der Ruhr",
-        "objekt_type": "location",
-        "zeit": null
-      }
+      "subjekt": "Friedrich Ludwig Kölebing",
+      "subjekt_type": "person",
+      "prädikat": "tätig_als",
+      "objekt": "Inſpector der dort combinirten Unitäts - Anſtalten",
+      "objekt_type": "tätigkeit",
+      "zeit": "1808"
+    },
+    {
+      "subjekt": "Friedrich Wilhelm Kölbing",
+      "subjekt_type": "person",
+      "prädikat": "angekommen_in",
+      "objekt": "Nisky",
+      "objekt_type": "location",
+      "zeit": "1808"
+    }
     ]
   },
   {
@@ -8150,25 +7539,25 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "war_in",
+        "prädikat": "lehre_bei",
         "objekt": "Auſtalt",
-        "objekt_type": "location",
+        "objekt_type": "organisation",
         "zeit": "Auguſt 1808"
       }
     ]
   },
   {
-    "text": "Es kam ihm dabei eine natürliche Schüchternheit des Charakters, eine angeborne Nüchternheit und Verſtändigkeit und ein Hang zum Maßhalten in Allem zu Hülfe, ſo daß von gröbern Ausbrüchen kindlicher Unart hier eben fo wenig im Ganzen zu ſpüren war, als nachher, da er im Jahr 1816 ins Pädagogium verfeßt war, von denen eines jugendlichen Ueber- muths.",
+    "text": "Es kam ihm dabei eine natürliche Schüchternheit des Charakters, eine angeborne Nüchternheit und Verſtändigkeit und ein Hang zum Maßhalten in Allem zu Hülfe, ſo daß von gröbern Ausbrüchen kindlicher Unart hier eben fo wenig im Ganzen zu ſpüren war, als nachher, da er im Jahr 1816 ins Pädagogium verseßt war, von denen eines jugendlichen Uebermuths.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
     "datei": "1851_Kölbing_Friedrich.xml",
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "Daniel Wilhelm Suhl",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "hat",
+        "prädikat": "lehre_bei",
         "objekt": "Pädagogium",
         "objekt_type": "organisation",
         "zeit": "1816"
@@ -8182,25 +7571,9 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "hat neue Treue zu",
-        "objekt": "dem Heiland",
-        "objekt_type": "person",
-        "zeit": "September 1816"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat Seine Hülfe und Kraft zu",
-        "objekt": "dem Heiland",
-        "objekt_type": "person",
-        "zeit": "September 1816"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sagte bei meiner Aufnahme ins Knabenchor",
+        "prädikat": "lehre_bei",
         "objekt": "Knabenchor",
         "objekt_type": "organisation",
         "zeit": "September 1816"
@@ -8214,17 +7587,9 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "lernte mich selbst mehr als je zuvor kennen",
-        "objekt": "selbst",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde aufgenommen in die Gemeine",
+        "prädikat": "mitglied_von",
         "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "7 April 1817"
@@ -8238,36 +7603,20 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
         "prädikat": "wurde",
         "objekt": "Abendmabls-Candidat",
-        "objekt_type": "organisation",
+        "objekt_type": "tätigkeit",
         "zeit": "13 August"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "langte",
-        "objekt": "zu",
-        "objekt_type": "location",
+        "prädikat": "teilnahme_an",
+        "objekt": "Abendmahls",
+        "objekt_type": "tätigkeit",
         "zeit": "13 November"
-      }
-    ]
-  },
-  {
-    "text": "Auch daß meine Eltern um dieſe Zeit, im Herbſt 1818, von hier wegkamen, erkannte ich als eine zwar ſchmerzliche aber gnädige Führung des Herrn, da ich dadurch abermals mehr darauf geführt wurde, nur mit Ihm allein meinen Gang zu gehen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
-    "datei": "1851_Kölbing_Friedrich.xml",
-    "autor": "Friedrich Wilhelm Kölbing",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erkennt",
-        "objekt": "die Führung des Herrn",
-        "objekt_type": "organisation",
-        "zeit": "Herbst 1818"
       }
     ]
   },
@@ -8278,19 +7627,43 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johannes Plitt",
         "subjekt_type": "person",
-        "prädikat": "hat sich angeschlossen",
-        "objekt": "Johannes Plitt",
+        "prädikat": "Schwiegervater_von",
+        "objekt": "Friedrich Wilhelm Kölbing",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "lehre_bei",
         "objekt": "Seminarium",
         "objekt_type": "organisation",
+        "zeit": "1822"
+      },
+      {
+        "subjekt": "Friedrich Wilhelm Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "lehre_in",
+        "objekt": "Gnadenfeld",
+        "objekt_type": "location",
+        "zeit": "1822"
+      },
+      {
+        "subjekt": "Johannes Plitt",
+        "subjekt_type": "person",
+        "prädikat": "tätig_bei",
+        "objekt": "Seminarium",
+        "objekt_type": "organisation",
+        "zeit": "1822"
+      },
+      {
+        "subjekt": "Johannes Plitt",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Seminariums-Inſpector",
+        "objekt_type": "tätigkeit",
         "zeit": "1822"
       }
     ]
@@ -8302,27 +7675,35 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "tätig_bei",
         "objekt": "Niskoſche-Anſtalt",
         "objekt_type": "organisation",
         "zeit": "1824"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "tätig_bei",
         "objekt": "Pädagogium",
         "objekt_type": "organisation",
         "zeit": "1825"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurde berufen",
+        "prädikat": "tätig_bei",
         "objekt": "Seminarium",
         "objekt_type": "organisation",
+        "zeit": "1832"
+      },
+      {
+        "subjekt": "Friedrich Wilhelm Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Lehrer",
+        "objekt_type": "tätigkeit",
         "zeit": "1832"
       }
     ]
@@ -8334,42 +7715,50 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "übernahm",
+        "prädikat": "tätig_als",
         "objekt": "Pflege des ledigen Brüderchores",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wirkte",
+        "prädikat": "tätig_bei",
         "objekt": "Seminariun in Gnadenfeld",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Friedrich Wilhelm Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "tätig_bei",
+        "objekt": "Gemeine auf dem Saal",
+        "objekt_type": "organisation",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Er wurde im Jahr 1838 zum Inſpector des Seminariums berufen, und indem mit diefem Ruf seine Verheirathung zuſammen hing, ſo trat er am 14 Juni in die Ehe mit der ledigen Schweſter Auguſte Plitt, feiner nunmehr hinterlaſſenen Wirtwe.",
+    "text": "Er wurde im Jahr 1838 zum Inſpector des Seminariums berufen, und indem mit diefem Ruf seine Verheirathung zuſammen hing, ſo trat er am 14 Juni in die Ehe mit der ledigen Schweſter Auguſte Plitt, seiner nunmehr hinterlaſſenen Wirtwe.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
     "datei": "1851_Kölbing_Friedrich.xml",
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "Er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat in die Ehe mit",
-        "objekt": "Auguſte Plitt",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Auguſte Kölbing (Plitt)",
         "objekt_type": "person",
-        "zeit": "14 Juni"
+        "zeit": "14 Juni 1838"
       },
       {
-        "subjekt": "Er",
+        "subjekt": "Friedrich Wilhelm Kölbingr",
         "subjekt_type": "person",
-        "prädikat": "wurde berufen zum Inſpector des Seminariums",
-        "objekt": "Seminariums",
+        "prädikat": "tätig_als",
+        "objekt": "Inſpector des Seminariums",
         "objekt_type": "organisation",
         "zeit": "1838"
       }
@@ -8382,28 +7771,36 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "Paul",
+        "subjekt": "Paul Kölbing",
         "subjekt_type": "person",
-        "prädikat": "geboren",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "geboren_am",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "21 October 1843"
       },
       {
-        "subjekt": "Wilhelm",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "geboren",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "21 October 1843"
+        "prädikat": "Vater_von",
+        "objekt": "Wilhelm Kölbing",
+        "objekt_type": "",
+        "zeit": ""
       },
       {
-        "subjekt": "Gerhard",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "geboren",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "21 October 1843"
+        "prädikat": "Vater_von",
+        "objekt": "Gerhard Kölbing",
+        "objekt_type": "",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Friedrich Wilhelm Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Paul Kölbing",
+        "objekt_type": "",
+        "zeit": ""
       }
     ]
   },
@@ -8414,52 +7811,44 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "hatte Erweckung",
+        "prädikat": "tätig_bei",
         "objekt": "Pädagogium",
         "objekt_type": "organisation",
         "zeit": "1841"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "war krank",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "1844"
       }
     ]
   },
   {
-    "text": "Nun wurde ihm auch das Zeugen von dem Herrn immer mehr ein theurer Beruf; es erſchloſſen ſich ihm selbſt bei der Auslegung des Gortes Wortes immer mehr die Schäke der götrlichen Wahrheit ; und er nahm daber, ſo Lieb ihm auch ſeine bisherige Thärigkeit am Seminarium gewefen war, doch mit Freuden den Ruf an, der ihn im Jahr 1846 von da nach Kleinwelke abries zu Bedienung der dortigen Gemeine als ihr Gemeinhelfer und Prediger.",
+    "text": "Nun wurde ihm auch das Zeugen von dem Herrn immer mehr ein theurer Beruf; es erſchloſſen ſich ihm selbſt bei der Auslegung des Gortes Wortes immer mehr die Schäke der götrlichen Wahrheit ; und er nahm daber, ſo Lieb ihm auch ſeine bisherige Thätigkeit am Seminarium gewefen war, doch mit Freuden den Ruf an, der ihn im Jahr 1846 von da nach Kleinwelke abries zu Bedienung der dortigen Gemeine als ihr Gemeinhelfer und Prediger.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73981/rec/186",
     "datei": "1851_Kölbing_Friedrich.xml",
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "nahm daber",
-        "objekt": "Ruf an",
+        "prädikat": "Ruf_nach",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location",
+        "zeit": "1846"
+      },
+      {
+        "subjekt": "Friedrich Wilhelm Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "tätig_bei",
+        "objekt": "Gemeine in Kleinwelke",
         "objekt_type": "organization",
         "zeit": "1846"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Gemeine",
+        "prädikat": "tätig_als",
+        "objekt": "Gemeinhelfer und Prediger",
         "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Seminarium",
-        "objekt_type": "organization",
-        "zeit": null
+        "zeit": "1846"
       }
     ]
   },
@@ -8470,20 +7859,12 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "gewählt",
-        "objekt": "Mitglied der Unitäts-Aelteſten-Conferenz im Helfer- und Erziehungs-Departement",
+        "prädikat": "mitglied_von",
+        "objekt": "Unitäts-Aelteſten-Conferenz im Helfer- und Erziehungs-Departement",
         "objekt_type": "organisation",
         "zeit": "1848"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "besetzt",
-        "objekt": "Herrn",
-        "objekt_type": "person",
-        "zeit": null
       }
     ]
   },
@@ -8494,27 +7875,12 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Berthelsdorf",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "lebte_in",
-        "objekt": "Berthelsdorf",
         "objekt_type": "location",
-        "zeit": "Herbſt 1848"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "lebte_in",
-        "objekt": "Berthelsdorf",
-        "objekt_type": "location",
-        "zeit": "Anderthalb Jahre"
+        "zeit":"Herbſt 1848"
       }
     ]
   },
@@ -8525,49 +7891,28 @@
     "autor": "Friedrich Wilhelm Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Friedrich Wilhelm Kölbing",
         "subjekt_type": "person",
-        "prädikat": "war_aushelfend_bedient",
-        "objekt": "Gemeine",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "kränkelnd_zurückgekehrt",
-        "objekt": null,
-        "objekt_type": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "erkrankt_an",
-        "objekt": "rheumatisches Fieber",
-        "objekt_type": "thing"
+        "prädikat": "tätig_bei",
+        "objekt": "Gemeine in Kleinwelke",
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Lebenslauf der am 29. December. 1860 in Kleinwelke ſelig entſchlafenen verwitweten“ Schweſter Juliane Barbara Schulh, geb. Mackh.",
+    "text": "Lebenslauf der am 29. December. 1860 in Kleinwelke ſelig entſchlafenen verwitweten“ Schweſter Juliane Barbara Schultz, geb. Mackh.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "Juliane Barbara Schulh",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
         "zeit": "29. December. 1860"
-      },
-      {
-        "subjekt": "Juliane Barbara Schulh",
-        "subjekt_type": "person",
-        "prädikat": "geboren_am",
-        "objekt": "Mackh",
-        "objekt_type": "person",
-        "zeit": null
       }
     ]
   },
@@ -8575,13 +7920,13 @@
     "text": "ich bin den 28. October 1781 in Brenz bei Heidenheim im Würtembergiſchen geboren.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Brenz",
+        "objekt": "Brenz bei Heidenheim Würtembergiſchen",
         "objekt_type": "location",
         "zeit": "28. October 1781"
       }
@@ -8591,31 +7936,23 @@
     "text": "Mein Vater, Matthäus Johann Mackh, und meine Mutter, Walburga geb. Dörner, übergaben mich bald nach meiner Geburt in der heil. Taufe meinem Schöpfer und Erlöſer zum ewigen Eigenthum.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "übergab",
-        "objekt": "meinem Schöpfer und Erlöſer",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
       {
         "subjekt": "Matthäus Johann Mackh",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Vater",
+        "prädikat": "Vater_von",
+        "objekt": "Juliane Barbara Schultz (Mackh)",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Walburga",
+        "subjekt": "Walburga Mackh (Dörner)",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Mutter",
+        "prädikat": "Mutter_von",
+        "objekt": "Juliane Barbara Schultz (Mackh)",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -8623,23 +7960,15 @@
     "text": "Unſer Lehrer, Herr Präceptor Bäumer, ein frommer, um das - Seelenheil ſeiner Schüler treu beſorgter Mann, welcher den Heiland von „Herzen, liebte, unterließ es nicht, die ihm anvertrauten Kinder täglich auf das Einige Rothwendige aufmerkſam zu machen",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
         "subjekt": "Herr Präceptor Bäumer",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Seelenheil seiner Schüler",
-        "objekt_type": "concept",
-        "zeit": null
-      },
-      {
-        "subjekt": "Herr Präceptor Bäumer",
-        "subjekt_type": "person",
-        "prädikat": "lebte",
-        "objekt": "Rothwendige",
-        "objekt_type": "concept",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Lehrer",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -8647,23 +7976,15 @@
     "text": "In meinem 14ten Jahre genoß ich einen ſorgfältigen Unterricht zu meiner Confirmation.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "genoß",
-        "objekt": "Unterricht",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "Confirmation",
-        "objekt": "Confirmation",
-        "objekt_type": "event",
-        "zeit": null
+        "prädikat": "confirmirt",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "1794"
       }
     ]
   },
@@ -8671,15 +7992,23 @@
     "text": "Im Jahr 1795 kam ich nach Nürnberg zu meinem Onkel und verbrachte daſelbſt anderthalb Jahre.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "angekommen_in",
         "objekt": "Nürnberg",
         "objekt_type": "location",
         "zeit": "1795"
+      },
+      {
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Nürnberg",
+        "objekt_type": "location",
+        "zeit": "von 1795 bis 1796 (1797)"
       }
     ]
   },
@@ -8687,20 +8016,28 @@
     "text": "Im Jahr 1801 kam ich nach Heidenheim zu -- Herrn Kaufmann Brindeau in Dienſt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "tätig_bei",
         "objekt": "Herrn Kaufmann Brindeau",
         "objekt_type": "person",
         "zeit": "1801"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "tätig_in",
+        "objekt": "Heidenheim",
+        "objekt_type": "location",
+        "zeit": "1801"
+      },
+      {
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
         "objekt": "Heidenheim",
         "objekt_type": "location",
         "zeit": "1801"
@@ -8711,12 +8048,12 @@
     "text": "1806 zog meine liebe Herrſchaft nach Ebersdorf, um ſich der Gemeine anzuſchließen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "meine liebe Herrſchaft",
+        "subjekt": "Herrn Kaufmann Brindeau",
         "subjekt_type": "person",
-        "prädikat": "zog",
+        "prädikat": "eingezogen_in",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
         "zeit": "1806"
@@ -8727,36 +8064,36 @@
     "text": "Herr Plouequet übernahm nun die Handlung meiner Herrſchaft, und da er noch unverheirathet war, beſorgte ich ſeine Wirthſchaft als Haushälterin.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "Plouequet",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "übernahm",
-        "objekt": "die Handlung meiner Herrſchaft",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Herr Plouequet",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "besorgte",
-        "objekt": "seine Wirthſchaft als Haushälterin",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
+        "prädikat": "tätig_als",
+        "objekt": "Haushälterin",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
+      }  
     ]
   },
   {
     "text": "Im Jahr 1807 verheirathete ſich Herr Ploucquet.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "Ploucquet",
+        "subjekt": "Herr Ploucquet",
         "subjekt_type": "person",
-        "prädikat": "verheirathete sich",
+        "prädikat": "verheiratet_mit",
         "objekt": "",
         "objekt_type": "",
         "zeit": "1807"
@@ -8767,12 +8104,12 @@
     "text": "Am 25. April 1808 reiſte ich von Heidenheim ab",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Heidenheim",
         "objekt_type": "location",
         "zeit": "25. April 1808"
@@ -8783,15 +8120,15 @@
     "text": "Am 2. Mai kam ich in Ebersdorf an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "kam_in",
+        "prädikat": "angekommen_in",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
-        "zeit": "2. Mai"
+        "zeit": "2. Mai 1808"
       }
     ]
   },
@@ -8799,23 +8136,23 @@
     "text": "Den 11. Mai 1809 reiſte ich voll Lob und Dank, von Ebersdorf ab und kam den 18ten in Heidenheim an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
         "zeit": "11. Mai 1809"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "Heidenheim an",
+        "prädikat": "angekommen_in",
+        "objekt": "Heidenheim",
         "objekt_type": "location",
-        "zeit": "18ten"
+        "zeit": "18ten 1809"
       }
     ]
   },
@@ -8823,15 +8160,15 @@
     "text": "Den 7. Juli kam ich in Königsfeld an; es war erſt ein Haus gebaut, und ich fand nur eine ledige Schweſter daſelbſt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "angekommen_in",
         "objekt": "Königsfeld",
         "objekt_type": "location",
-        "zeit": "7. Juli"
+        "zeit": "7. Juli 1809"
       }
     ]
   },
@@ -8839,12 +8176,12 @@
     "text": "Den 15 October 1809 wurde ich in die Gemeine aufgenommen, die Loſung, hieß: „Ich bin der Herr, Dein Arzt“.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgenommen",
+        "prädikat": "mitglied_von",
         "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "15 October 1809"
@@ -8855,14 +8192,14 @@
     "text": "Am 15. December 1821 erhielt ich einen Ruf zum Miſſionsdienſt nach Süd-Afrika.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf zum Miſſionsdienſt",
-        "objekt_type": "organisation",
+        "prädikat": "Ruf_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
         "zeit": "15. December 1821"
       }
     ]
@@ -8871,12 +8208,12 @@
     "text": "Schon am 29 December muste ich mein theures Königsfeld verlaſſen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "musste ich verlassen",
+        "prädikat": "verließ",
         "objekt": "Königsfeld",
         "objekt_type": "location",
         "zeit": "29 December"
@@ -8887,21 +8224,39 @@
     "text": "In Neuwied fänd ich Geſchw. Halter, welche auch mit nach Afrika berufen waren.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
         "subjekt": "Geſchw. Halter",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Neuwied",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Geſchw. Halter",
         "subjekt_type": "person",
-        "prädikat": "wirkte_in",
+        "prädikat": "Ruf_nach",
         "objekt": "Afrika",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geſchw. Halter",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -8909,21 +8264,47 @@
     "text": "Nun reiſten wir nach Zeiſt, wo ſich Geſchw. Tietze, die ebenfalls dorthin berufen waren, an uns anſchloſſen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchw. Halter",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Zeiſt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1822"
+      },
+      {
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Zeiſt",
+        "objekt_type": "location",
+        "zeit":"1822"
       },
       {
         "subjekt": "Geſchw. Tietze",
         "subjekt_type": "person",
-        "prädikat": "anschloſſen",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Juliane Barbara Schultz (Mackh)",
+        "objekt_type": "person",
+        "zeit":"1822"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Juliane Barbara Schultz (Mackh)",
+        "objekt_type": "person",
+        "zeit":"1822"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Zeiſt",
+        "objekt_type": "location",
+        "zeit":"1822"
       }
     ]
   },
@@ -8931,10 +8312,10 @@
     "text": "Nach einem Aufenthalt von 3 Wochen in Zeiſt, reiſten wir nach London, wo wir 5 Wochen verweilten, und traten Anfang März 1822 unsre Seéreiſe an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
         "objekt": "Zeiſt",
@@ -8942,7 +8323,7 @@
         "zeit": "3 Wochen"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
         "prädikat": "reisen_nach",
         "objekt": "London",
@@ -8950,19 +8331,83 @@
         "zeit": null
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "verweilten_in",
+        "prädikat": "aufenthalt_in",
         "objekt": "London",
         "objekt_type": "location",
         "zeit": "5 Wochen"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "traten_an",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "reise_nach",
+        "objekt": "Afrika",
+        "objekt_type": "location",
+        "zeit": "Anfang März 1822"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Zeiſt",
+        "objekt_type": "location",
+        "zeit": "3 Wochen"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "reisen_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": null
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "5 Wochen"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Afrika",
+        "objekt_type": "location",
+        "zeit": "Anfang März 1822"
+      },
+      {
+        "subjekt": "Geſchw. Tietze",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Zeiſt",
+        "objekt_type": "location",
+        "zeit": "3 Wochen"
+      },
+      {
+        "subjekt": "Geſchw. Tietze",
+        "subjekt_type": "person",
+        "prädikat": "reisen_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": null
+      },
+      {
+        "subjekt": "Geſchw. Tietze",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "5 Wochen"
+      },
+      {
+        "subjekt": "Geſchw. Tietze",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Afrika",
+        "objekt_type": "location",
         "zeit": "Anfang März 1822"
       }
     ]
@@ -8971,23 +8416,31 @@
     "text": "Um so dankbarer waren wir, als wir glücklich bei der Capſtadt landeten, nachdem wir 16 Wochen auf dem Schiffe verbracht hatten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schultz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "landeten",
+        "prädikat": "angekommen_in",
         "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "Jini-Juli 1822"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchw. Tietze",
         "subjekt_type": "person",
-        "prädikat": "verbracht",
-        "objekt": "Schiffe",
+        "prädikat": "angekommen_in",
+        "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": "16 Wochen"
+        "zeit": "Jini-Juli 1822"
+      },
+      {
+        "subjekt": "Geſchw. Halter",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location",
+        "zeit": "Jini-Juli 1822"
       }
     ]
   },
@@ -8995,15 +8448,15 @@
     "text": "Am 8. Juli trafen wir in Groenekloof (Mamre) ein.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schultz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "trafen",
+        "prädikat": "angekommen_in",
         "objekt": "Groenekloof (Mamre)",
         "objekt_type": "location",
-        "zeit": "8. Juli"
+        "zeit": "8. Juli 1822"
       }
     ]
   },
@@ -9011,15 +8464,15 @@
     "text": "Den Tag nach unſrer Ankunft wurde ich mit meinem lieben ſel. Manne, Bruder Johann Gottlieb Schult, zur heil. Ehe verlobt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "verlobt",
+        "prädikat": "verlob_mit",
         "objekt": "Bruder Johann Gottlieb Schult",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "9. Juli 1822"
       }
     ]
   },
@@ -9027,15 +8480,15 @@
     "text": "Der 18. Auguſt war der Tag unſrer Trauung.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "unsere",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "trauung",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": "18. August"
+        "prädikat": "verheiratet_mit",
+        "objekt": "Bruder Johann Gottlieb Schult",
+        "objekt_type": "person",
+        "zeit": "18. August 1822"
       }
     ]
   },
@@ -9043,23 +8496,23 @@
     "text": "Am 10. November 1825 wurden wir durch die Geburt einer Tochter erfreut, die wir in der Taufe dem Herrn zum ewigen Eigenthum weihten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Johann Gottlieb Schulz",
         "subjekt_type": "person",
-        "prädikat": "wurden erfreut",
-        "objekt": "Tochter",
+        "prädikat": "Vater_von",
+        "objekt": "Amalie Schulz",
         "objekt_type": "person",
         "zeit": "10. November 1825"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "weihten",
-        "objekt": "Herrn",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "Mutter_von",
+        "objekt": "Amalie Schulz",
+        "objekt_type": "person",
+        "zeit": "10. November 1825"
       }
     ]
   },
@@ -9067,31 +8520,47 @@
     "text": "Im folgenden Jahre erhielten wir einen Ruf nach Gnadenthal und reiſten dem zu Folge im April von Groenekloof ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "berufen_nach",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "April"
+      },
+      {
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
         "objekt": "Groenekloof",
         "objekt_type": "location",
         "zeit": "April"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Johann Gottlieb Schulz",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "berufen_nach",
         "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "April"
+      },
+      {
+        "subjekt": "Bruder Johann Gottlieb Schulz",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Groenekloof",
         "objekt_type": "location",
         "zeit": "April"
       }
     ]
   },
   {
-    "text": "Anfang Februar 1831 mußte ich meine einzige Tochter Amalie abgeben, welche die nach Eu- ropa zurückkehrenden Geſchwiſter Thomſen und Voigt nebſt mehreren anderen Kindern mitnahmen.",
+    "text": "Anfang Februar 1831 mußte ich meine einzige Tochter Amalie abgeben, welche die nach Europa zurückkehrenden Geſchwiſter Thomſen und Voigt nebſt mehreren anderen Kindern mitnahmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "ich",
@@ -9115,7 +8584,7 @@
     "text": "Da meine Geſundheit fortwährend leidend war, rieth man mir im Jahr 1834, in Geſellſchaft des Herrn Dr. Lees nach Europa zu reiſen und die dahin beſtimmten Kinder mitzunehmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "Herrn Dr. Lees",
@@ -9131,7 +8600,7 @@
     "text": "Von den Segenswünſchen Aller begleitet, reiſten wir, Dr. Lees und ih und 9 Kinder, Mitte Februar 1834 von Gnadenthal ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "Dr. Lees",
@@ -9155,7 +8624,7 @@
     "text": "In Groenekloof hielten wir uns 6 Wochen auf, da unſer Schiff erſt ſpäter abſegelte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "wir",
@@ -9171,7 +8640,7 @@
     "text": "Mitte April gingen wir von der Capſtadt aus zu Schiff.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "wir",
@@ -9187,7 +8656,7 @@
     "text": "Ende Juni trafen wir in London ein und reiſten von da über Altona nach Gnadau.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "wir",
@@ -9219,7 +8688,7 @@
     "text": "Hier erkrankte Dr. Lees ernſtlich; dadurch wurde unſer Aufenthalt daſelbſt verlängert, so daß wir erſt Ende Juli in Kleinwelke eintrafen voll Lob und Dank für alle erfahrene Durchhülfe unſers treuen Herrn.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "Dr. Lees",
@@ -9235,7 +8704,7 @@
     "text": "Im Jahr 1838 machte sie mit mir eine Reiſe in ihre Heimath, um ihre einzige noch lebende Schweſter in dieſeim Leben noch einmal zu ſehen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Shulß",
+    "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
         "subjekt": "sie",
