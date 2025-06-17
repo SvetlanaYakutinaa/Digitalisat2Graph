@@ -8563,17 +8563,25 @@
     "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Amalie Schulz",
         "subjekt_type": "person",
-        "prädikat": "mußte abgeben",
+        "prädikat": "reise_nach",
+        "objekt": "Europa",
+        "objekt_type": "location",
+        "zeit": "Anfang Februar 1831"
+      },
+      {
+        "subjekt": "Geſchwiſter Thomſen",
+        "subjekt_type": "person",
+        "prädikat": "reise_mit",
         "objekt": "Amalie",
         "objekt_type": "person",
         "zeit": "Anfang Februar 1831"
       },
       {
-        "subjekt": "Geſchwiſter Thomſen und Voigt",
+        "subjekt": "Geſchwiſter Voigt",
         "subjekt_type": "person",
-        "prädikat": "nahmen mit",
+        "prädikat": "reise_mit",
         "objekt": "Amalie",
         "objekt_type": "person",
         "zeit": "Anfang Februar 1831"
@@ -8587,17 +8595,25 @@
     "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "Herrn Dr. Lees",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "rieth mir",
+        "prädikat": "reise_nach",
         "objekt": "Europa",
         "objekt_type": "location",
+        "zeit": "1834"
+      },
+      {
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "D. Lee",
+        "objekt_type": "person",
         "zeit": "1834"
       }
     ]
   },
   {
-    "text": "Von den Segenswünſchen Aller begleitet, reiſten wir, Dr. Lees und ih und 9 Kinder, Mitte Februar 1834 von Gnadenthal ab.",
+    "text": "Von den Segenswünſchen Aller begleitet, reiſten wir, Dr. Lees und ich und 9 Kinder, Mitte Februar 1834 von Gnadenthal ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
     "datei": "1862_Schulz_J_B.xml",
     "autor": "Juliane Barbara Schulz (Mackh)",
@@ -8605,7 +8621,7 @@
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "verließ",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "Mitte Februar 1834"
@@ -8613,9 +8629,17 @@
       {
         "subjekt": "Dr. Lees",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "9 Kinder",
+        "prädikat": "reise_mit",
+        "objekt": "Juliane Barbara Schulz (Mackh)",
         "objekt_type": "person",
+        "zeit": "Mitte Februar 1834"
+      },
+      {
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
         "zeit": "Mitte Februar 1834"
       }
     ]
@@ -8627,12 +8651,20 @@
     "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "hielten uns auf",
+        "prädikat": "aufenthalt_in",
         "objekt": "Groenekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "von Mitte Februar 1834 bis Mitte April 1834"
+      },
+      {
+        "subjekt": "Dr. Lees",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Groenekloof",
+        "objekt_type": "location",
+        "zeit": "von Mitte Februar 1834 bis Mitte April 1834"
       }
     ]
   },
@@ -8643,12 +8675,20 @@
     "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "gingen von",
+        "prädikat": "verließ",
         "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": "Mitte April"
+        "zeit": "Mitte April 1834"
+      },
+      {
+        "subjekt": "Dr. Lee",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Capſtadt",
+        "objekt_type": "location",
+        "zeit": "Mitte April 1834"
       }
     ]
   },
@@ -8659,28 +8699,52 @@
     "autor": "Juliane Barbara Schulz (Mackh)",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Gnadau",
         "objekt_type": "location",
-        "zeit": "Ende Juni"
+        "zeit": "Juni-Juli 1834"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_über",
         "objekt": "Altona",
         "objekt_type": "location",
-        "zeit": "nicht genannt"
+        "zeit": "Juni-Juli 1834"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Juliane Barbara Schulz (Mackh)",
         "subjekt_type": "person",
-        "prädikat": "traten ein",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "Ende Juni"
+        "zeit": "Ende Juni 1834"
+      },
+      {
+        "subjekt": "Dr. Lee",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Gnadau",
+        "objekt_type": "location",
+        "zeit": "Juni-Juli 1834"
+      },
+      {
+        "subjekt": "Dr. Lee",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Altona",
+        "objekt_type": "location",
+        "zeit": "Juni-Juli 1834"
+      },
+      {
+        "subjekt": "Dr. Lee",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "Ende Juni 1834"
       }
     ]
   },
@@ -8696,31 +8760,7 @@
         "prädikat": "aufenthalt_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": "Ende Juli"
-      }
-    ]
-  },
-  {
-    "text": "Im Jahr 1838 machte sie mit mir eine Reiſe in ihre Heimath, um ihre einzige noch lebende Schweſter in dieſeim Leben noch einmal zu ſehen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73619/rec/197",
-    "datei": "1862_Schulz_J_B.xml",
-    "autor": "Juliane Barbara Schulz (Mackh)",
-    "graph": [
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "machte eine Reise",
-        "objekt": "ihrer Heimath",
-        "objekt_type": "location",
-        "zeit": "1838"
-      },
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "saw",
-        "objekt": "ihre einzige noch lebende Schwester",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": "Ende Juli 1834"
       }
     ]
   },
@@ -8731,9 +8771,9 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt": "Maria Elisabeth Hoffmann (Richter)",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
         "zeit": "29 Juni 1852"
@@ -8747,34 +8787,12 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "Ich",
+        "subjekt": "Maria Elisabeth Hoffmann (Richter)",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Nieder-Kunewalde bei Baußzen",
+        "objekt": "Nieder-Kunewalde bei Bautzen",
         "objekt_type": "location",
         "zeit": "24 Juli 1790"
-      }
-    ]
-  },
-  {
-    "text": "Da meine Eltern ſich zur Diaſpora hielten, so nahmen fie mich und meine Geſchwiſter öfters mit nach Kleinwelke, und der Wunſch wurde dann rege in mir, an einem ſo ſtillen Ort wohnen zu können, wozu ich aber vorerſt keine Ausſicht hatte, weil der Vater mich bei ſeinem Geſchäft brauchte.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "Kleinwelke",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "meine Eltern",
-        "subjekt_type": "person",
-        "prädikat": "hielten",
-        "objekt": "Diaſpora",
-        "objekt_type": "organisation"
       }
     ]
   },
@@ -8785,12 +8803,12 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "hatte_zu_ziehen",
+        "prädikat": "zog_nach",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -8801,36 +8819,36 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "hatte Erlanbniß zur Gemeine an",
-        "objekt": "Gemeine",
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine in Nisky",
         "objekt_type": "organisation",
         "zeit": "1812"
       }
     ]
   },
   {
-    "text": "Nach einem kurzen Beſuch bei meinen Eltern, wobei ich einen rührenden Abſchied mit ihnen machte, mit der frohen Hoffnung, daß wir uns in der ſeligen Ewigekeit wiederfinden werden, trat ich am 9 Juli 1820 mit andern nah Afrika berufenen Geſchwiſtern die Reiſe nach Hamburg an.",
+    "text": "Nach einem kurzen Beſuch bei meinen Eltern, wobei ich einen rührenden Abſchied mit ihnen machte, mit der frohen Hoffnung, daß wir uns in der ſeligen Ewigekeit wiederfinden werden, trat ich am 9 Juli 1820 mit andern nach Afrika berufenen Geſchwiſtern die Reiſe nach Hamburg an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
     "datei": "1855_Hoffmann_M_E.xml",
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "die Reise nach Hamburg an",
+        "prädikat": "reise_nach",
+        "objekt": "Hamburg",
         "objekt_type": "location",
         "zeit": "9 Juli 1820"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "rührenden Abschied mit meinen Eltern",
-        "objekt_type": "event",
-        "zeit": null
+        "prädikat": "Ruf_nach",
+        "objekt": "Afrika",
+        "objekt_type": "location",
+        "zeit": "9 Juli 1820"
       }
     ]
   },
@@ -8841,18 +8859,20 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "geboren_am",
-        "objekt": "24 Juli",
-        "objekt_type": "date"
+        "prädikat": "reise_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit":"24 Juli 1820"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
+        "prädikat": "angekommen_in",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"August 1820"
       }
     ]
   },
@@ -8863,11 +8883,20 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "langten nach",
+        "prädikat": "reise_nach",
         "objekt": "Capſtadt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"September 1820"
+      },
+      {
+        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit":"von August bis September 1820"
       }
     ]
   },
@@ -8878,7 +8907,7 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "aufgehalten_in",
         "objekt": "Gnadenthal",
@@ -8886,12 +8915,12 @@
         "zeit": "vier Monate"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "gereist_nach",
         "objekt": "Enon",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -8902,28 +8931,28 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "angekommen",
-        "objekt": "hier",
+        "prädikat": "angekommen_in",
+        "objekt": "Enon",
         "objekt_type": "location",
         "zeit": "27 April 1821"
       },
       {
         "subjekt": "Bruder Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "getraut",
-        "objekt": "ich",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Maria Elisabeth Hoffmann",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Geſchwiſter Lommerz",
         "subjekt_type": "person",
-        "prädikat": "angeschlossen",
-        "objekt": "ich",
+        "prädikat": "reise_mit",
+        "objekt": "Maria Elisabeth Hoffmann",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -8933,21 +8962,22 @@
     "datei": "1855_Hoffmann_M_E.xml",
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
+      
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "erhielten",
-        "objekt": "den Antrag",
+        "prädikat": "berufen_nach",
+        "objekt": "die Hottentotten - Gemeine in Grönekloof",
         "objekt_type": "organisation",
         "zeit": "1823"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "zu vedienen",
+        "prädikat": "berufen_nach",
         "objekt": "die Hottentotten - Gemeine in Grönekloof",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "1823"
       }
     ]
   },
@@ -8960,9 +8990,18 @@
       {
         "subjekt": "Geſchwiſtern Lommerz",
         "subjekt_type": "person",
-        "prädikat": "reiſen",
+        "prädikat": "reise_nach",
         "objekt": "Tambukkiland",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Geſchwiſtern Lommerz",
+        "subjekt_type": "person",
+        "prädikat": "reise_mit",
+        "objekt": "Maria Elisabeth Hoffmann",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -8977,7 +9016,8 @@
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Capstadt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Geſchwiſter Lemmerz",
@@ -8990,7 +9030,31 @@
       {
         "subjekt": "Geſchwiſter Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "trat_ab",
+        "prädikat": "verließ",
+        "objekt": "Grönekloof",
+        "objekt_type": "location",
+        "zeit": "Januar 1828"
+      },
+      {
+        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "besucht",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "reiste_nach",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "Januar 1828"
+      },
+      {
+        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
         "objekt": "Grönekloof",
         "objekt_type": "location",
         "zeit": "Januar 1828"
@@ -9006,17 +9070,9 @@
       {
         "subjekt": "Bruders Fritsch",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "mit uns zu ziehen",
-        "objekt_type": "organisation",
-        "zeit": "15 Aprit"
-      },
-      {
-        "subjekt": "Hottentotten",
-        "subjekt_type": "person",
-        "prädikat": "sich freiwillig erboten",
-        "objekt": "mit uns zu ziehen",
-        "objekt_type": "organisation",
+        "prädikat": "traf",
+        "objekt": "Maria Elisabeth Hoffmann",
+        "objekt_type": "person",
         "zeit": "15 Aprit"
       }
     ]
@@ -9028,47 +9084,33 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "eingezogen_in",
-        "objekt": "Land",
+        "objekt": "Silo",
         "objekt_type": "location",
         "zeit": "20 Mai 1829"
       }
     ]
   },
   {
-    "text": "Mein Wunſch war, immer in Silo bleiben zu können; aber mein lieber Heiland hatte es ganz anders beſchloſſen.",
+    "text": "Dieſe und manche andere Erfahrungen gaben oft zur gelogenen Zeit Anlaß beſonders mit den Frauen zu einem gottvertraulichen Geſpräch, und machten mich an Silo ſehr anhanglich, ſo daß es mir recht ſchwer wurde, 1838 einem Ruf nach Enon zu folgen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
     "datei": "1855_Hoffmann_M_E.xml",
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "wünschte",
+        "prädikat": "verließ",
         "objekt": "Silo",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Dieſe und mance andere Erfahrungen gaben oft zur gelogenen Zeit Anlaß beſonders mit den Frauen zu einem gottvertraulichen Geſpräch, und machten mich an Silo ſehr anhanglich, ſo daß es mir recht ſchwer wurde, 1838 einem Ruf nach Enon zu folgen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war anhanglich",
-        "objekt": "Silo",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1838"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgefordert",
+        "prädikat": "berufen_nach",
         "objekt": "Enon",
         "objekt_type": "location",
         "zeit": "1838"
@@ -9082,10 +9124,18 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "an",
+        "prädikat": "verließ",
+        "objekt": "Silo",
+        "objekt_type": "location",
+        "zeit": "2ten Januar 1839"
+      },
+      {
+        "subjekt": "Maria Elisabeth Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Enon",
         "objekt_type": "location",
         "zeit": "2ten Januar 1839"
       }
@@ -9098,62 +9148,17 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Enon",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "wurden",
-        "objekt": "Hottentotten-Gemeine",
-        "objekt_type": "organisation"
-      }
-    ]
-  },
-  {
-    "text": "Zwanzig Perſonen gingen bei der Gelegenheit in die ewige Ruhe ein, und zwar die brauchbarſten.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "Zwanzig Perſonen",
-        "subjekt_type": "person",
-        "prädikat": "eingegangen_in_die_ewige_Ruhe",
-        "objekt": "die ewige Ruhe",
+        "prädikat": "angekommen_in",
+        "objekt": "Hottentotten-Gemeine in Enon",
         "objekt_type": "location",
-        "zeit": null
+        "zeit":"10 Januar 1839"
       }
     ]
   },
   {
-    "text": "Nachdem ich auf den Wunſch meines Mannes die Miſſions - Geſchwiſter herbeis gerufen hatte, um ihm den Segen des Herrn zu ſeiner Heimfahrt zu ertheilen, änderte ſich ſein Zuſtand unerwartet dergeſtalt, daß er noch einige Wochen faſt beſtändig ſchlummernd verbrachte, bis am 3 Juli 1841 der ſelige Moment erſchien, da ſeine Seele Erlaubniß dekam, einzugehen in die Wohnungen des Friedens nach einer Wallfahrt hienieden von 58 Jahren.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat herbeigerufen",
-        "objekt": "Miſſions - Geſchwiſter",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "ist gestorben",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "3 Juli 1841"
-      }
-    ]
-  },
-  {
-    "text": "Ich betam mm bald die Anweiſung, nebst der verwitweten Schweſter Halter nach Gnadenthal zu kommen, und von da aus 6 Kinder der Miſſionare nach Europa mitzunehmen.",
+    "text": "Ich bekam bald die Anweiſung, nebst der verwitweten Schweſter Halter nach Gnadenthal zu kommen, und von da aus 6 Kinder der Miſſionare nach Europa mitzunehmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
     "datei": "1855_Hoffmann_M_E.xml",
     "autor": "Maria Elisabeth Hoffmann",
@@ -9161,60 +9166,18 @@
       {
         "subjekt": "Schweſter Halter",
         "subjekt_type": "person",
-        "prädikat": "kam nach",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Schweſter Halter",
-        "subjekt_type": "person",
-        "prädikat": "nahm mit",
-        "objekt": "6 Kinder der Miſſionare",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "Schweſter Halter",
-        "subjekt_type": "person",
-        "prädikat": "nahm nach",
-        "objekt": "Europa",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "So gern ich auch in meiner Thätigkeit in Enon verblieben wäre, ſo ergab ich mich doch bald darein, und bat den Heiland, mich von Allem los und Ihm kindlich ergeben zu machen, welche Bitte Er auch gnädig erhört hat.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "bat",
-        "objekt": "den Heiland",
-        "objekt_type": "person"
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Schweſter Halter",
         "subjekt_type": "person",
-        "prädikat": "ergeben",
-        "objekt": "Ihm",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "den Heiland",
-        "subjekt_type": "person",
-        "prädikat": "erhört",
-        "objekt": "mich",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "verblieben",
-        "objekt": "in Enon",
-        "objekt_type": "location"
+        "prädikat": "reise_mit",
+        "objekt": "Maria Elisabeth Hoffmann",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -9225,18 +9188,12 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erlebt_habe",
-        "objekt": "Afrika",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -9247,89 +9204,37 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "besuchten",
+        "prädikat": "aufenthalt_in",
         "objekt": "Elim",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"8 Wochen 1842"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "kehrten",
+        "prädikat": "aufenthalt_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reisenden",
-        "objekt": "Schweſter Halter und mir",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "empfohlen wurden",
-        "objekt": "dem Schuß des Herrn",
-        "objekt_type": "none"
+        "zeit": "drei Monate 1842"
       }
+      
     ]
   },
   {
-    "text": "Auf die Nachricht, daß unſer Schiff zur Ab-fahrt bereit liege, verabſchiedeten wir uns von unfern theuern Geſchwiſtern in Grönekloof und dem geliebten Afrika, reiſten am 30 April 1842 nach der Capstadt, und gingen Tages darauf zu Schiffe.",
+    "text": "Auf die Nachricht, daß unſer Schiff zur Abfahrt bereit liege, verabſchiedeten wir uns von unfern theuern Geſchwiſtern in Grönekloof und dem geliebten Afrika, reiſten am 30 April 1842 nach der Capstadt, und gingen Tages darauf zu Schiffe.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
     "datei": "1855_Hoffmann_M_E.xml",
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "verabschiedeten",
-        "objekt": "unsere Geschwister in Grönekloof",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reisten",
-        "objekt": "nach der Capstadt",
+        "prädikat": "reise_nach",
+        "objekt": "Capstadt",
         "objekt_type": "location",
         "zeit": "30 April 1842"
-      }
-    ]
-  },
-  {
-    "text": "Ins Ganze ging unſre Reife, obgleich langſam, doch gut von Statten, bis mir in den Canal von England kamen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "unſre",
-        "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Reife",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "unſre",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Statten",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "unſre",
-        "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "Canal von England",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
@@ -9340,28 +9245,12 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "konnten auch wir an der Feier deſſelben Theil nehmen",
-        "objekt": "heilige Abendmahl",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "konnten auch wir an der Feier deſſelben Theil nehmen",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "konnten auch wir an der Feier deſſelben Theil nehmen",
-        "objekt": "24 Juli",
-        "objekt_type": "date",
-        "zeit": null
+        "zeit": "24 Juli 1842"
       }
     ]
   },
@@ -9372,56 +9261,28 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
-        "objekt": "Altena",
-        "objekt_type": "location"
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit":"von 24 Juli 1842 bis 29 Juli 1842"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
         "prädikat": "reiſten_über",
-        "objekt": "London",
-        "objekt_type": "location"
+        "objekt": "Altena",
+        "objekt_type": "location",
+        "zeit":"Juli 1842"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "kamen_an",
+        "prädikat": "angekommen_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": "20 August"
-      }
-    ]
-  },
-  {
-    "text": "Nachdem wir die Kinder in die Erziehungsanſtalten abgegeben, eilte ich, meine noch lebende Mutter in Kunewalde zu beſuchen, und als fie ſpäterhin erkrankte, war es mir ungemein wichtig, ſie noch bis zu ihrer baldigen feligen Vollendung verpflegen zu können.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/65386/rec/190",
-    "datei": "1855_Hoffmann_M_E.xml",
-    "autor": "Maria Elisabeth Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besucht",
-        "objekt": "Kunewalde",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "meine noch lebende Mutter",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "meine noch lebende Mutter",
-        "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
+        "zeit": "20 August 1842"
       }
     ]
   },
@@ -9432,11 +9293,11 @@
     "autor": "Maria Elisabeth Hoffmann",
     "graph": [
       {
-        "subjekt": "die theuer erkaufte Seele",
+        "subjekt": "Maria Elisabeth Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "gestorben",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
         "zeit": "29 Juni 1852"
       }
     ]
@@ -9448,9 +9309,9 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "Agnes Lemmerz",
+        "subjekt": "Agnes Lemmerz (Jenk)",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
         "zeit": "11 Februar 1851"
@@ -9464,43 +9325,20 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Thräna",
-        "objekt_type": "location"
+        "objekt": "Thräna in Uhnst",
+        "objekt_type": "location",
+        "zeit":"18 April 1777"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "getauft_am",
+        "prädikat": "Taufe",
         "objekt": "Unst",
         "objekt_type": "location",
         "zeit": "19 April 1777"
-      }
-    ]
-  },
-  {
-    "text": "standen mit der Brüdergemeine in Kleinwilke in Verbindung, wo ich als Kind mit ihnen oft zum Segen für mein Herz beſuchhte.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
-    "datei": "1862_Lemmerz_A.xml",
-    "autor": "Agnes Lemmerz",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besuchhte",
-        "objekt": "Brüdergemeine",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besuchhte",
-        "objekt": "Kleinwilke",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
@@ -9511,11 +9349,11 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "teilnahme_an",
+        "objekt": "heiligen Abendmahl",
+        "objekt_type": "",
         "zeit": "1790"
       }
     ]
@@ -9527,32 +9365,18 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "ging",
+        "prädikat": "reise_nach",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1795"
       },
       {
-        "subjekt": "mein Vater mit mir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "ging",
-        "objekt": "Kleinwelke",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "die Erlanbniß",
-        "objekt_type": "other",
-        "zeit": "14 Oktober 1798"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "die Gemeine",
+        "prädikat": "erhielt_Erlaubnis",
+        "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "14 Oktober 1798"
       }
@@ -9565,19 +9389,19 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgenommen",
-        "objekt": "die Gemeine",
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "18 April 1797"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "langte zum Genus des heil. Abendsmahls",
-        "objekt": "des heil. Abendsmahls",
-        "objekt_type": "organisation",
+        "prädikat": "teilnahme_an",
+        "objekt": "heil. Abendsmahls",
+        "objekt_type": "",
         "zeit": "13 August 1797"
       }
     ]
@@ -9589,10 +9413,10 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Dienſt",
+        "prädikat": "tätig_bei",
+        "objekt": "Erziehungsanſtalt in Uhyſt",
         "objekt_type": "organisation",
         "zeit": "1802"
       }
@@ -9605,44 +9429,28 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "zog",
-        "objekt": "dahin",
-        "objekt_type": "location",
-        "zeit": "Oktober deſſelben Jahres"
+        "prädikat": "tätig_bei",
+        "objekt": "Erziehungsanſtalt in Großhennersdorf",
+        "objekt_type": "organisation",
+        "zeit": "Oktober 1802"
       }
     ]
   },
   {
-    "text": "In dieſem Dienst blieb ich, bin ich in April 1814 einen Ruf erhielt dem Heiland in ſeis nem ſchönen Weinberg in Süd - Afrifa zu dienen.",
+    "text": "In dieſem Dienst blieb ich, bin ich in April 1814 einen Ruf erhielt dem Heiland in ſeinem ſchönen Weinberg in Süd - Afrifa zu dienen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf",
-        "objekt_type": "none",
-        "zeit": "April 1814"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wird",
-        "objekt": "dienen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Heiland",
-        "subjekt_type": "person",
-        "prädikat": "zu dienen",
-        "objekt": "Süd - Afrifa",
+        "prädikat": "Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "April 1814"
       }
     ]
   },
@@ -9653,27 +9461,28 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "London",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufhielten",
+        "prädikat": "reise_nach",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "5 Wochen"
+        "zeit":" August 1814"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verweilen",
+        "prädikat": "aufenthalt_in",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "5 Wochen 1814"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
         "objekt": "Inſel Wight",
         "objekt_type": "location",
-        "zeit": "7 Wochen"
+        "zeit": "7 Wochen 1814"
       }
     ]
   },
@@ -9686,7 +9495,7 @@
       {
         "subjekt": "Geſchwiſtern Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "verließ",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "März 1815"
@@ -9694,16 +9503,40 @@
       {
         "subjekt": "Geſchwiſtern Bonatz",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Grünekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "März 1815"
       },
       {
-        "subjekt": "Geſchwiſtern Bonatz",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "ankommen",
+        "prädikat": "angekommen_in",
         "objekt": "Kapſtadt",
+        "objekt_type": "location",
+        "zeit": "März 1815"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "reise_mit",
+        "objekt": "Geſchwiſtern Bonatz",
+        "objekt_type": "person",
+        "zeit": "März 1815"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "März 1815"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Grünekloof",
         "objekt_type": "location",
         "zeit": "März 1815"
       }
@@ -9718,9 +9551,9 @@
       {
         "subjekt": "Johannes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "bittet um Ehe",
-        "objekt": "Ehe",
-        "objekt_type": "organisation",
+        "prädikat": "verlob_mit",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person",
         "zeit": "Anfang März 1816"
       }
     ]
@@ -9732,10 +9565,10 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "traut",
-        "objekt": "seliger Bruder",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Johannes Lemmerz",
         "objekt_type": "person",
         "zeit": "26. März"
       }
@@ -9748,11 +9581,27 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "Carl Auguſt",
+        "subjekt": "Carl Auguſt Lemmerz",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "",
         "objekt_type": "",
+        "zeit": "Februar 1817"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "Carl Auguſt Lemmerz",
+        "objekt_type": "person",
+        "zeit": "Februar 1817"
+      },
+      {
+        "subjekt": "Johannes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Carl Auguſt Lemmerz",
+        "objekt_type": "person",
         "zeit": "Februar 1817"
       }
     ]
@@ -9764,20 +9613,20 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "gedient",
+        "prädikat": "tätig_in",
         "objekt": "Gemeine Gnadenthal",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "1820"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "werden berufen",
+        "prädikat": "berufen_nach",
         "objekt": "Enon",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1820"
       }
     ]
   },
