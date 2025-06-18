@@ -9631,38 +9631,42 @@
     ]
   },
   {
-    "text": "Zu Ende deſſelben Jahres hatten wir den Schmerz unſern Auguſt abgeben zu müſſen, indem die Geſchwiſter Hallbeck, die uns beſuchten, denſelben mit nah Gnadenthal nahmen, von wo er dann mit Br. Bonatz nach Deutſchland reiſte.",
+    "text": "Zu Ende deſſelben Jahres hatten wir den Schmerz unſern Auguſt abgeben zu müſſen, indem die Geſchwiſter Hallbeck, die uns beſuchten, denſelben mit nach Gnadenthal nahmen, von wo er dann mit Br. Bonatz nach Deutſchland reiſte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "Auguſt",
+        "subjekt": "Auguſt Lemmerz",
         "subjekt_type": "person",
         "prädikat": "reiste_nach",
         "objekt": "Deutſchland",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "Auguſt",
+        "subjekt": "Auguſt Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "nahm_mit",
+        "prädikat": "reise_mit",
         "objekt": "Br. Bonatz",
-        "objekt_type": "person"
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Geſchwiſter Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "nahmen_mit",
-        "objekt": "Auguſt",
-        "objekt_type": "person"
+        "prädikat": "reise_mit",
+        "objekt": "Auguſt Lemmerz",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Geſchwiſter Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "nahmen_nach",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -9673,9 +9677,9 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Enon",
         "objekt_type": "location",
         "zeit": "8 November 1824"
@@ -9689,54 +9693,31 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "mein Mann",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Kapſtadt",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Nachdem ſich hier die ganze Reiſe 5, Geſellſchaft, die aus 12 Perſonen beſtand, verſammelt hatte, und unſer Schiff ſegelfertig war, empfahlen wir uns dem Schutz des Herrn und gingen an Bord des Schiffes, welches am 6 Februar 1825 die Tafelbai verließ.",
+    "text": "Nachdem ſich hier die ganze Reiſe Geſellſchaft, die aus 12 Perſonen beſtand, verſammelt hatte, und unſer Schiff ſegelfertig war, empfahlen wir uns dem Schutz des Herrn und gingen an Bord des Schiffes, welches am 6 Februar 1825 die Tafelbai verließ.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "gingen",
-        "objekt": "an Bord des Schiffes",
-        "objekt_type": "location",
-        "zeit": "6 Februar 1825"
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "empfahlen",
-        "objekt": "dem Schutz des Herrn",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "waren",
-        "objekt": "unser Schiff",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "verließ",
         "objekt": "Tafelbai",
@@ -9752,28 +9733,28 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "17 April"
+        "zeit": "17 April 1825"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "traten_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": "26 Mai"
+        "zeit": "26 Mai 1825"
       },
       {
-        "subjekt": "Auguſt",
+        "subjekt": "Auguſt Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wieder_zu_sehen",
-        "objekt": "Kleinwelke",
+        "prädikat": "traf",
+        "objekt": "Agnes Lemmerz",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "26 Mai 1825"
       }
     ]
   },
@@ -9784,32 +9765,37 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reisten_von",
+        "prädikat": "aufenthalt_in",
         "objekt": "Herrnhut",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1825"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "reiſten_nach",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1825"
+
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten_durch",
+        "prädikat": "reiſe_über",
         "objekt": "Neuwied",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1825"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten_durch",
+        "prädikat": "reiſe_über",
         "objekt": "Zeiſt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1825"
       }
     ]
   },
@@ -9822,10 +9808,18 @@
       {
         "subjekt": "Geſchw. Sondermann",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reise_nach",
         "objekt": "Süd-Afrika",
         "objekt_type": "location",
-        "zeit": "November"
+        "zeit": "Novembe 1825"
+      },
+      {
+        "subjekt": "Geſchw. Sondermann",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person",
+        "zeit": "November 1825"
       }
     ]
   },
@@ -9836,15 +9830,23 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "1826"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "latten",
-        "objekt": "Gnadenthal",
+        "objekt": "Kapſtadt",
         "objekt_type": "location",
         "zeit": "26. Februar 1826"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchw. Sondermann",
         "subjekt_type": "person",
         "prädikat": "latten",
         "objekt": "Kapſtadt",
@@ -9854,16 +9856,16 @@
     ]
   },
   {
-    "text": "Aber ſhon zu Ende des Jahres 1827 erhielten wit den Ruf, eine Miſſion unter den Tambukkis im Kaffernlande anzufangen.",
+    "text": "Aber ſchon zu Ende des Jahres 1827 erhielten wir den Ruf, eine Miſſion unter den Tambukkis im Kaffernlande anzufangen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wit",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielten den Ruf",
-        "objekt": "Miſſion unter den Tambukkis",
+        "prädikat": "berufen_nach",
+        "objekt": "Miſſion unter den Tambukkis im Kaffernlande",
         "objekt_type": "organisation",
         "zeit": "Ende des Jahres 1827"
       }
@@ -9878,7 +9880,7 @@
       {
         "subjekt": "Geſchwiſter Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "verließ",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "Anfang Februar (1828)"
@@ -9886,31 +9888,39 @@
       {
         "subjekt": "Geſchwiſter Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Enon",
         "objekt_type": "location",
-        "zeit": "23 tägigen Fahrt"
+        "zeit": "Februar-März 1828"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "Anfang Februar (1828)"
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Enon",
+        "objekt_type": "location",
+        "zeit": "Februar-März 1828"
       }
     ]
   },
   {
-    "text": "Einigen derſelben that der Herr das Herz auf, und am 6. Januar 1830 wurde uns die Freude zu Theil, daß eine Baſutu⸗ Frau, als Erſtling dieſer Miſſion, die heil. Taufe empfing",
+    "text": "Einigen derſelben that der Herr das Herz auf, und am 6. Januar 1830 wurde uns die Freude zu Theil, daß eine Baſutu⸗Frau, als Erſtling dieſer Miſſion, die heil. Taufe empfing",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "die Baſutu⸗ Frau",
+        "subjekt": "Baſutu⸗Frau",
         "subjekt_type": "person",
-        "prädikat": "hatte das Herz auf",
-        "objekt": "Herr",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "wurde die Freude zu Theil",
+        "prädikat": "hat",
         "objekt": "die heil. Taufe",
         "objekt_type": "event",
         "zeit": "6. Januar 1830"
@@ -9926,23 +9936,18 @@
       {
         "subjekt": "Geſchwiſter Halter",
         "subjekt_type": "person",
-        "prädikat": "verließen",
+        "prädikat": "verließ",
         "objekt": "Silo",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"August 1830"
       },
       {
         "subjekt": "Geſchwiſter Halter",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "von",
         "objekt": "Enon",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "unsere l. Herrn",
-        "subjekt_type": "person",
-        "prädikat": "bewahrt",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -9953,12 +9958,12 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "erhielten",
-        "objekt": "Ruf nach Grünekloof",
+        "prädikat": "berufen_nach",
+        "objekt": "Grünekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -9969,9 +9974,9 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "folgten",
+        "prädikat": "berufen",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "Juni 1839"
@@ -9979,56 +9984,42 @@
       {
         "subjekt": "wir",
         "subjekt_type": "person",
-        "prädikat": "wohnten",
+        "prädikat": "wohnhaft_in",
         "objekt": "Grünekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "7 Jahre (1832-1839)"
       }
     ]
   },
   {
-    "text": "Unſer Dienſt in daſiger Gemeine‘ war aber diesmal nur ſehr kurz, denn ſchon nach einigen Monaten folgten wir einem Ruf nach Enon.",
+    "text": "Unſer Dienſt in daſiger Gemeine war aber diesmal nur ſehr kurz, denn ſchon nach einigen Monaten folgten wir einem Ruf nach Enon.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "Unser Dienst",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Gemeine",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "folgten",
+        "prädikat": "berufen_nach",
         "objekt": "Enon",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Wir hofften ` nun, in dieſer Gemeine unſern Dienſt beſchließen zu - können; aber im Jahr 1842 erhielten wir abermals einen Ruf nach Silo, und im Juni kamen wir daſelbſt an.",
+    "text": "Wir hofften nun, in dieſer Gemeine unſern Dienſt beſchließen zu - können; aber im Jahr 1842 erhielten wir abermals einen Ruf nach Silo, und im Juni kamen wir daſelbſt an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73097/rec/197",
     "datei": "1862_Lemmerz_A.xml",
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "beschließen zu können",
-        "objekt": "unsere Dienst",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "kommen",
+        "prädikat": "berufen_nach",
         "objekt": "Silo",
         "objekt_type": "location",
-        "zeit": "Juni"
+        "zeit": "Juni 1845"
       }
     ]
   },
@@ -10039,9 +10030,9 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "verlassen",
+        "prädikat": "verließ",
         "objekt": "Silo",
         "objekt_type": "location",
         "zeit": "Januar 1846"
@@ -10055,20 +10046,20 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "langten",
+        "prädikat": "angekommen_in",
         "objekt": "Kapſtadt",
         "objekt_type": "location",
         "zeit": "15. Mai"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "segelten",
+        "prädikat": "reise_nach",
         "objekt": "Tafelbai",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10079,7 +10070,7 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "London",
@@ -10087,12 +10078,12 @@
         "zeit": "14. Juli"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "reiſten_zu_erst_nach",
+        "prädikat": "reiſe_nach",
         "objekt": "Gnadau",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10103,12 +10094,28 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "Auguſt",
+        "subjekt": "Auguſt Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "wieder zu sehen",
-        "objekt": "unsere Familie",
+        "prädikat": "traf",
+        "objekt": "Agnes Lemmerz",
+        "objekt_type": "person",
+        "zeit": ""
+      }, 
+      {
+        "subjekt": "Auguſt Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Kleinwelke",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Agnes Lemmerz",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Kleinwelke",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -10119,20 +10126,12 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "umarmen",
-        "objekt": "2 Töchter",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "wohnen",
+        "prädikat": "aufenthalt_in",
         "objekt": "Bautzen",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10143,18 +10142,20 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Herrnhut",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Agnes Lemmerz",
         "subjekt_type": "person",
-        "prädikat": "kehrte zurück",
+        "prädikat": "wohnhaft_in",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -10165,10 +10166,10 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "unser Sohn",
+        "subjekt": "Sohn (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf zum Missionsdienst nach Süd-Afrika",
+        "prädikat": "Ruf_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "organisation",
         "zeit": "Juni 1847"
       }
@@ -10181,20 +10182,20 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Sohn (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "traut",
+        "prädikat": "verheiratet_mit",
         "objekt": "Roſalie Bauer",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Sohn (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "verbrachte",
+        "prädikat": "aufenthalt_in",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10205,29 +10206,29 @@
     "autor": "Agnes Lemmerz",
     "graph": [
       {
-        "subjekt": "unſre jüngſte Tochter",
+        "subjekt": "jüngſte Tochter (Lemmerz)",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Pflegerin der led. Schwn.",
-        "objekt_type": "organisation",
+        "prädikat": "Ruf_nach",
+        "objekt": "Berlin",
+        "objekt_type": "location",
+        "zeit": "November 1848"
+      },
+      {
+        "subjekt": "jüngſte Tochter (Lemmerz)",
+        "subjekt_type": "person",
+        "prädikat": "tätig_als",
+        "objekt": "Pflegerin der led. Schwn.",
+        "objekt_type": "tätigkeit",
         "zeit": "November 1848"
       }
     ]
   },
   {
-    "text": "Lebenstauf des am 14 Juni 1882 in Herrnhut ſelig entſchlafenen verheirateten Bruders Johann Friedrich Wedemann.",
+    "text": "Lebenslauf des am 14 Juni 1882 in Herrnhut ſelig entſchlafenen verheirateten Bruders Johann Friedrich Wedemann.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
-      {
-        "subjekt": "Johann Friedrich Wedemann",
-        "subjekt_type": "person",
-        "prädikat": "geboren_in",
-        "objekt": "Herrnhut",
-        "objekt_type": "location",
-        "zeit": "14 Juni 1882"
-      },
       {
         "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
@@ -10245,12 +10246,20 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Rockhausen",
         "objekt_type": "location",
         "zeit": "11 Juli 1802"
+      },
+      {
+        "subjekt": "Rockhausen",
+        "subjekt_type": "location",
+        "prädikat": "liegt_in",
+        "objekt": "Erfurt",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -10261,12 +10270,20 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Paſtor Axtmann",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
-        "objekt": "Paſtor Axtmann",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Konfirmanden-Unterricht",
+        "objekt_type": "",
+        "zeit": "1815"
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "teilnahme_an",
+        "objekt": "Konfirmanden-Unterricht",
+        "objekt_type": "",
+        "zeit": "1815"
       }
     ]
   },
@@ -10277,33 +10294,33 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Derfelbe",
+        "subjekt": "Paſtor Axtmann",
         "subjekt_type": "person",
-        "prädikat": "stand in naher Verbindung",
+        "prädikat": "tätig_mit",
         "objekt": "Br. Trautevetter",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Derfelbe",
+        "subjekt": "Paſtor Axtmann",
         "subjekt_type": "person",
-        "prädikat": "war ein beſonderer Freund",
-        "objekt": "Brüdergemeine",
+        "prädikat": "tätig_in",
+        "objekt": "Brüdergemeine in Neudietendorf",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Am 8 Sonntag nach Trinitatis wurde ich konfirmiert.",
+    "text": "Am 8 Sonntag nach Trinitatis wurde ich konformiert.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "konfirmiert",
+        "prädikat": "konfrmiert",
         "objekt": "8 Sonntag nach Trinitatis",
         "objekt_type": "date",
         "zeit": "8 Sonntag nach Trinitatis"
