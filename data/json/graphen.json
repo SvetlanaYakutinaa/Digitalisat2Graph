@@ -9466,7 +9466,7 @@
         "prädikat": "reise_nach",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit":" August 1814"
+        "zeit":"August 1814"
       },
       {
         "subjekt": "Agnes Lemmerz",
@@ -10328,90 +10328,26 @@
     ]
   },
   {
-    "text": "Als ich zum erſtenmal den dortigen Gemeinſaal betrat, erhielt ich einen beſonders lieblichen Eindruck und wurde in den Verſammlungen reich geſegnet. Es gereichte mir daher zu großer Freude, als mir 4821 erlaubt wurde, das Chorfeſt der ledigen Brüder mitfeiern zu dürfen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "beſonders lieblichen Eindruck",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Verſammlungen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "4821",
-        "objekt_type": "date",
-        "zeit": "4821"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "durfte",
-        "objekt": "Chorfeſt der ledigen Brüder",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
     "text": "Bei einem Befuch in Neudietendorf ſprach ich mit dem Brüderpfleger, Bruder Eichenberger darüber.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "sprach",
+        "prädikat": "traf",
         "objekt": "Bruder Eichenberger",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "mit",
-        "objekt": "Brüderpfleger",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "über",
+        "prädikat": "besucht_in",
         "objekt": "Neudietendorf",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Endlich einmal ſagte mir der Brüdervorsteher, Bruder Luther: „Wenn du Luſt haſt, das Schuhmacherhandwerk zu erlernen, dann könnteſt du herkommen , sonft aber können wir dir keine andere Arbeit geben.“",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "Bruder Luther",
-        "subjekt_type": "person",
-        "prädikat": "hat gesagt",
-        "objekt": "sonft",
-        "objekt_type": "date",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10422,20 +10358,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "verließ",
-        "objekt": "elterliche Haus",
-        "objekt_type": "location",
-        "zeit": "7 März 1822"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ziehe",
+        "prädikat": "wohnhaft_in",
         "objekt": "Neudietendorf",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "7 März 1822"
       }
     ]
   },
@@ -10446,12 +10374,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "wurde empfangen",
+        "prädikat": "traf",
         "objekt": "Bruder Mayer",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10486,36 +10414,36 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "die Gemeine",
+        "prädikat": "aufgenommen_in",
+        "objekt": "Gemeine",
         "objekt_type": "organisation",
         "zeit": "13 November"
       }
     ]
   },
   {
-    "text": "Noch vor Ablauf des Jahres verlor ih meinen Lehrmeiſter; Bruder Plättner trat an ſeine Stelle.",
+    "text": "Noch vor Ablauf des Jahres verlor ich meinen Lehrmeiſter; Bruder Plättner trat an ſeine Stelle.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Bruder Plättner",
         "subjekt_type": "person",
-        "prädikat": "verlor",
+        "prädikat": "tätig_als",
         "objekt": "Lehrmeister",
-        "objekt_type": "person",
+        "objekt_type": "tätigkeit",
         "zeit": "vor Ablauf des Jahres"
       },
       {
-        "subjekt": "Bruder Plättner",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "trat an",
-        "objekt": "Stelle",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Bruder Plättner",
+        "objekt_type": "person",
+        "zeit": "vor Ablauf des Jahres"
       }
     ]
   },
@@ -10526,20 +10454,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "vor Ablauf des Jahres",
         "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "mit mir",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "mit mir",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "teilnahme_an",
+        "objekt": "heil. Abendsmahl",
+        "objekt_type": "",
+        "zeit": "13 Auguſt"
       }
     ]
   },
@@ -10550,11 +10470,11 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Meiſter",
+        "subjekt": "Bruder Plättner",
         "subjekt_type": "person",
-        "prädikat": "erhielt einen Ruf zum Miſſionsdienſt",
-        "objekt": "Däniſch - Weſtindien",
-        "objekt_type": "location",
+        "prädikat": "tätig_bei",
+        "objekt": "Miſſionsdienſt Däniſch - Weſtindien",
+        "objekt_type": "organisation",
         "zeit": "Jahr 1825"
       }
     ]
@@ -10568,50 +10488,42 @@
       {
         "subjekt": "Bruder Wullſchlägel",
         "subjekt_type": "person",
-        "prädikat": "übers reicht",
-        "objekt": "Antrag",
-        "objekt_type": "",
-        "zeit": null
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "der Antrag",
-        "objekt_type": "",
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
         "zeit": "20 April 1836"
       },
       {
-        "subjekt": "Herrn",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "zu dienen",
-        "objekt": "dem Herrn auf der Miſſion in Däniſch- Weſtindien",
-        "objekt_type": "",
-        "zeit": null
+        "prädikat": "Ruf_nach",
+        "objekt": "Miſſion in Däniſch- Weſtindien",
+        "objekt_type": "organisation",
+        "zeit": "20 April 1836"
       }
     ]
   },
   {
-    "text": "Und Lob und Dank ſei ihm! ich habe bis heute, nah mehr als 41 Jahren, keine Veranlaſſung gehabt, seine Leitung zu bereuen, nach welcher er mir die ledige Schweſter Marie Kieſchnick in Gnadenberg zugeführt hat.",
+    "text": "Und Lob und Dank ſei ihm! ich habe bis heute, nach mehr als 41 Jahren, keine Veranlaſſung gehabt, seine Leitung zu bereuen, nach welcher er mir die ledige Schweſter Marie Kieſchnick in Gnadenberg zugeführt hat.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "hat zugeführt",
+        "prädikat": "verheiratet_mit",
         "objekt": "Marie Kieschnick",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "lebt in",
+        "prädikat": "wohnhaft_in",
         "objekt": "Gnadenberg",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -10622,9 +10534,9 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "reise_nach",
         "objekt": "Neudietendorf",
         "objekt_type": "location",
         "zeit": "9 Mai"
@@ -10638,44 +10550,20 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "angekommen_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "11 Mai"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "feierte das Gemeinfeſt",
-        "objekt": "Herrnhut",
-        "objekt_type": "location",
-        "zeit": "12"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kam an",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenbera",
         "objekt_type": "location",
-        "zeit": "16"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hatte Gelegenheit, meine Braut zu ſehenz",
-        "objekt": "Gnadenbera",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war meine Verlobung",
-        "objekt": "Gnadenbera",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit": "16 Mai"
       }
     ]
   },
@@ -10686,74 +10574,36 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "reifte",
+        "prädikat": "reise_nach",
         "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Gnadenberg",
+        "objekt_type": "location",
+        "zeit": "3 Wochen"
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Gnadenfrei",
         "objekt_type": "location",
         "zeit": "19 Juni"
       },
       {
         "subjekt": "Bruder Schneider",
         "subjekt_type": "person",
-        "prädikat": "durchführen",
-        "objekt": "unsre Trauung",
-        "objekt_type": "event",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Schon am folgenden Nachmittag, den 20 Juni, traten wir unſre Abreiſe an mit dem Fuhrwerk des Bruders Hauſchild in Gnadau, der ſchon manche Missionsgeschwister bis nach Gnadau gebracht, und der zur Zeit gerade in Herrnhut anweſend war.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "Bruders Hauſchild",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Fuhrwerk",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruders Hauſchild",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "in Herrnhut",
-        "objekt_type": "location",
-        "zeit": "zur Zeit"
-      },
-      {
-        "subjekt": "unsere Abreiſe",
-        "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "an",
-        "objekt_type": "date",
-        "zeit": "20 Juni"
-      }
-    ]
-  },
-  {
-    "text": "Von Kleinwelke aus beſuchten wir bei den Eltern meiner lieben Frau, die mich freundlich empfingen, und von Erfurt aus machten wir uoch einen Beſuch bei meinen lieben Eltern.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besucht",
-        "objekt": "Eltern meiner lieben Frau",
-        "objekt_type": "organization"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besucht",
-        "objekt": "meine lieben Eltern",
-        "objekt_type": "organization"
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -10764,11 +10614,11 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Inſel Guadeloupe",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "location",
-        "prädikat": "angeschaut",
-        "objekt": "",
-        "objekt_type": "",
+        "prädikat": "angekommen_in",
+        "objekt": "Inſel Guadeloupe",
+        "objekt_type": "location",
         "zeit": "15 August"
       }
     ]
@@ -10780,12 +10630,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "von St. Thomas",
         "objekt_type": "location",
-        "zeit": "16"
+        "zeit": "16 August"
       }
     ]
   },
@@ -10798,10 +10648,10 @@
       {
         "subjekt": "Herrn Niſſen",
         "subjekt_type": "person",
-        "prädikat": "nahm die neu ankommenden Geſchwiſter an",
-        "objekt": "die neu ankommenden Geſchwiſter",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -10812,40 +10662,43 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "ankommen",
+        "prädikat": "angekommen_in",
         "objekt": "Neuherrnhut",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Brüder Wied",
         "subjekt_type": "person",
-        "prädikat": "kommen",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
         "subjekt": "Brüder Damus",
         "subjekt_type": "person",
-        "prädikat": "kommen",
-        "objekt": "uns",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Im Februar 1837 hielt ich meine erſte Predigt, bei welder mir der Herr in Gnaden beiſtand.",
+    "text": "Im Februar 1837 hielt ich meine erſte Predigt, bei welcher mir der Herr in Gnaden beiſtand.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "hielt",
-        "objekt": "Predigt",
-        "objekt_type": "none",
+        "prädikat": "tätig_als",
+        "objekt": "Predigter",
+        "objekt_type": "tätigkeit",
         "zeit": "Februar 1837"
       }
     ]
@@ -10857,11 +10710,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "ziehen",
+        "prädikat": "Ruf_nach",
         "objekt": "Emmaus",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"November 1837"
       }
     ]
   },
@@ -10872,44 +10726,44 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "schentke",
-        "objekt": "unser erstes Töchterchen",
+        "prädikat": "Vater_von",
+        "objekt": "erstes Töchterchen (Wedemann)",
         "objekt_type": "person",
         "zeit": "24 August"
       }
     ]
   },
   {
-    "text": "Leider ſollte aber auß hier unſers Bleibens nicht lange sein; wir erhielten abermals einen Ruf, und zwar nach Friedensfeld auf St. Croix, woſelbſt im nach meinem ehemaligen Meiſter Br. Plättner, die Schuhmacherei übernehmen ſollte.",
+    "text": "Leider ſollte aber auß hier unſers Bleibens nicht lange sein; wir erhielten abermals einen Ruf, und zwar nach Friedensfeld auf St. Croix, woſelbſt ich nach meinem ehemaligen Meiſter Br. Plättner, die Schuhmacherei übernehmen ſollte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "erhielten",
-        "objekt": "Ruf",
-        "objekt_type": "none",
-        "zeit": null
+        "prädikat": "Ruf_nach",
+        "objekt": "Friedensfeld",
+        "objekt_type": "location",
+        "zeit": ""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Friedensfeld",
         "subjekt_type": "person",
-        "prädikat": "sollte",
-        "objekt": "Friedensfeld auf St. Croix",
+        "prädikat": "liegt_in",
+        "objekt": "St. Croix",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Br. Plättner",
         "subjekt_type": "person",
-        "prädikat": "die Schuhmacherei übernehmen sollte",
-        "objekt": "unsers Bleibens",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_bei",
+        "objekt": "Schuhmacherei",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -10920,9 +10774,9 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "verlassen",
+        "prädikat": "verließ",
         "objekt": "Emmaus",
         "objekt_type": "location",
         "zeit": "Mitte November"
@@ -10936,25 +10790,28 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "begaben uns nach",
+        "prädikat": "angekommen_in",
         "objekt": "St. Croix",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Geſchwiſter Staude",
         "subjekt_type": "person",
-        "prädikat": "empfangen wurden",
-        "objekt": "wir",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
-        "subjekt": "Plättner",
+        "subjekt": "Br. Plättner",
         "subjekt_type": "person",
-        "prädikat": "empfangen wurden",
-        "objekt": "wir",
-        "objekt_type": "person"
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -10965,49 +10822,41 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "Söhnchen",
+        "prädikat": "Vater_von",
+        "objekt": "Söhnchen (Wedemann)",
         "objekt_type": "person",
         "zeit": "Februar 1839"
       },
       {
         "subjekt": "Bruder Wied",
         "subjekt_type": "person",
-        "prädikat": "ausfertigt",
-        "objekt": "Ordination",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kann",
-        "objekt": "Taufhandlang",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Ordination zu einem Diakonus der Brüderkirhe",
+        "objekt_type": "tätigkeit",
+        "zeit": "Februar 1839"
       }
     ]
   },
   {
-    "text": "Im Jahr 1840 hatten wir die Freude, die tieben Geſchwiſter Breutel, welche einen Viſitations-beſuch in Weſtindien machten, bei uns zu ſehen.",
+    "text": "Im Jahr 1840 hatten wir die Freude, die lieben Geſchwiſter Breutel, welche einen Viſitations-beſuch in Weſtindien machten, bei uns zu ſehen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "hatten die Freude, die tieben Geſchwiſter Breutel bei uns zu ſehen",
+        "prädikat": "traf",
         "objekt": "Geſchwiſter Breutel",
         "objekt_type": "person",
         "zeit": "Jahr 1840"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Geſchwiſter Breutel",
         "subjekt_type": "person",
-        "prädikat": "hatten die Freude, die tieben Geſchwiſter Breutel bei uns zu ſehen",
+        "prädikat": "besuch",
         "objekt": "Weſtindien",
         "objekt_type": "location",
         "zeit": "Jahr 1840"
@@ -11023,47 +10872,47 @@
       {
         "subjekt": "Br. Ziock",
         "subjekt_type": "person",
-        "prädikat": "übernahm",
+        "prädikat": "tätig_bei",
         "objekt": "Schuhmacherei",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Geſchwiſter Staude",
         "subjekt_type": "person",
-        "prädikat": "wurde",
+        "prädikat": "berufen_nach",
         "objekt": "Niesky",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Geſchwiſter Staude",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "St. Thomas",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Leitung der Station (Westindien)",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Um fo fchwerer wurde es uns, einem Ruf nach Bethanien auf St. Jan zu folgen, der 1844 an uns erging.",
+    "text": "Um so fchwerer wurde es uns, einem Ruf nach Bethanien auf St. Jan zu folgen, der 1844 an uns erging.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "folgen",
-        "objekt": "Ruf nach Bethanien auf St. Jan",
+        "prädikat": "Ruf_nach",
+        "objekt": "Bethanien auf St. Jan",
         "objekt_type": "location",
         "zeit": "1844"
       }
     ]
   },
   {
-    "text": "Am 11 Juli 1844 verließen wir St. Croix und kamen glücklich in Bethanien an, Br. Gruht von Emmaus empfing uns dort, da unſre Vorgänger, Geſchwiſter Blitt, fhon nach Deutſchland abgereiſt waren.",
+    "text": "Am 11 Juli 1844 verließen wir St. Croix und kamen glücklich in Bethanien an, Br. Gruht von Emmaus empfing uns dort, da unſre Vorgänger, Geſchwiſter Blitt, schon nach Deutſchland abgereiſt waren.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
@@ -11071,31 +10920,39 @@
       {
         "subjekt": "Br. Gruht",
         "subjekt_type": "person",
-        "prädikat": "empfing",
-        "objekt": "uns",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "von",
+        "objekt": "Emmaus",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Br. Gruht",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit": "Juli 1844"
       },
       {
         "subjekt": "Geſchwiſter Blitt",
         "subjekt_type": "person",
-        "prädikat": "abgereiſt",
+        "prädikat": "reise_nach",
         "objekt": "Deutſchland",
         "objekt_type": "location",
-        "zeit": "11 Juli 1844"
+        "zeit": "Juli 1844"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "organization",
-        "prädikat": "kamen",
+        "prädikat": "angekommen_in",
         "objekt": "Bethanien",
         "objekt_type": "location",
-        "zeit": "11 Juli 1844"
+        "zeit": "Juli 1844"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "organization",
-        "prädikat": "verließen",
+        "prädikat": "verließ",
         "objekt": "St. Croix",
         "objekt_type": "location",
         "zeit": "11 Juli 1844"
@@ -11111,26 +10968,10 @@
       {
         "subjekt": "Geſchwiſter Geißler",
         "subjekt_type": "person",
-        "prädikat": "traten ein",
-        "objekt": "hier",
-        "objekt_type": "location",
-        "zeit": "Acht Tage nach uns"
-      }
-    ]
-  },
-  {
-    "text": "Dieſelbe wurde uns gewährt, und wir machten uns in den erſten Monaten des Jahres 1849 reiſefertig.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "machten sich reiſefertig",
-        "objekt": "uns",
+        "prädikat": "tätig_bei",
+        "objekt": "Gemeine in Wesindien",
         "objekt_type": "organisation",
-        "zeit": "1849"
+        "zeit": ""
       }
     ]
   },
@@ -11141,11 +10982,11 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "hielt",
+        "prädikat": "hat",
         "objekt": "Abſchiedspredigt",
-        "objekt_type": "organisation",
+        "objekt_type": "tätigkeit",
         "zeit": "15 April"
       }
     ]
@@ -11159,44 +11000,34 @@
       {
         "subjekt": "Geſchwiſter Voß",
         "subjekt_type": "person",
-        "prädikat": "begaben sich nach",
-        "objekt": "St. Jan und St. Thomas",
-        "objekt_type": "location"
+        "prädikat": "verließ",
+        "objekt": "Westindien",
+        "objekt_type": "location",
+        "zeit":"20 April"
       },
       {
         "subjekt": "Geſchwiſter Voß",
         "subjekt_type": "person",
-        "prädikat": "hatte Kinder",
-        "objekt": "2 leßten in Bethanien geboren waren",
-        "objekt_type": "location"
+        "prädikat": "reise_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit":"20 April"
       },
       {
-        "subjekt": "Geſchwiſter Voß",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "waren an Bord des Hamburger Schiffes Hever",
-        "objekt": "Hamburger Schiffes Hever",
-        "objekt_type": "organisation"
+        "prädikat": "reise_nach",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit":"20 April"
       },
       {
-        "subjekt": "Geſchwiſter Voß",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "waren in Gesellschaft",
-        "objekt": "lieben Geſchwiſter Voß und ihrer Kinder",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Geſchwiſter Voß",
-        "subjekt_type": "person",
-        "prädikat": "waren an Bord des Hamburger Schiffes Hever",
-        "objekt": "3 jüngſten Kindern",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "Geſchwiſter Voß",
-        "subjekt_type": "person",
-        "prädikat": "waren an Bord des Hamburger Schiffes Hever",
-        "objekt": "20 April",
-        "objekt_type": "date"
+        "prädikat": "verließ",
+        "objekt": "Westindien",
+        "objekt_type": "location",
+        "zeit":"20 April"
       }
     ]
   },
@@ -11207,33 +11038,20 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "Hafen Falmouth",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Hafen Falmouth",
         "subjekt_type": "person",
-        "prädikat": "angekommen_in",
+        "prädikat": "liegt_in",
         "objekt": "England",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Wir mußten daher mit einem Postdampfshiff nach London fahren",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "fuhren",
-        "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11244,25 +11062,36 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
-        "objekt": "Hamburg",
-        "objekt_type": "location"
+        "objekt": "london",
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
+        "prädikat": "reise_über",
         "objekt": "Berlin",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
+        "prädikat": "reise_über",
+        "objekt": "Hamburg",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11275,10 +11104,10 @@
       {
         "subjekt": "Geſchw. Müller",
         "subjekt_type": "person",
-        "prädikat": "wir fanden freundliche Aufnahme bei",
-        "objekt": "Diasporahauſe",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -11289,20 +11118,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "meine liebe Frau",
-        "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": "an einem heftigen Nervenfieber",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "besuchte",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -11313,84 +11134,63 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reise_nach",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "besuchen",
         "objekt": "Neudietendorf",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "besuchen",
-        "objekt": "Mutter",
-        "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "So erhielten wir denn eine Berufung nach Süd-Afrika, um an dem Krankenhospital auf Robben- Island zu dienen, welchen Ruf wir mit Freudigkeit annahmen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "erhielten",
-        "objekt": "Berufung",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "nahmen",
-        "objekt": "Ruf",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "annahmen",
-        "objekt": "Berufung",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "dienen",
-        "objekt": "Krankenhospital",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "sind",
-        "objekt": "Ruf",
-        "objekt_type": "thing",
-        "zeit": null
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Am 7 Auguſt 1850 verließen wir Kleinwelke reiſten no einmal in meine Heimat und nahmen den leßten Abſchied für dieſes Leben von meiner lieben Mutter.",
+    "text": "So erhielten wir denn eine Berufung nach Süd-Afrika, um an dem Krankenhospital auf Robben-Island zu dienen, welchen Ruf wir mit Freudigkeit annahmen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "berufen_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "tätig_bei",
+        "objekt": "Krankenhospital",
+        "objekt_type": "organisation",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Krankenhospital",
+        "subjekt_type": "person",
+        "prädikat": "war",
+        "objekt": "Robben-Island",
+        "objekt_type": "location",
+        "zeit": ""
+      }
+    ]
+  },
+  {
+    "text": "Am 7 Auguſt 1850 verließen wir Kleinwelke reiſten so einmal in meine Heimat und nahmen den leßten Abſchied für dieſes Leben von meiner lieben Mutter.",
+    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
+    "datei": "1889_Wedemann_J_F.xml",
+    "autor": "Johann Friedrich Wedemann",
+    "graph": [
+      {
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "verließ",
         "objekt": "Kleinwelke",
@@ -11408,9 +11208,18 @@
       {
         "subjekt": "Luiſe Stein",
         "subjekt_type": "person",
-        "prädikat": "trafen",
+        "prädikat": "traf",
+        "objekt": "Johann Friedrich Wedemann",
+        "objekt_type": "person",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
         "objekt": "Gnadau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11421,11 +11230,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "gingen zur See",
+        "prädikat": "angekommen_in",
         "objekt": "Bremen",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11436,28 +11246,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "empfahlen uns",
-        "objekt": "dem Schuß und der Leitung unſers lieben Herrn",
-        "objekt_type": "organisation",
+        "prädikat": "verließ",
+        "objekt": "Bremen",
+        "objekt_type": "location",
         "zeit": "24 August"
-      }
-    ]
-  },
-  {
-    "text": "Er hat und auf der drei Monate langen Seereiſe gnädig behütet und bewahrt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "gnädig behütet und bewahrt",
-        "objekt": "Seereise",
-        "objekt_type": "event",
-        "zeit": "drei Monate"
       }
     ]
   },
@@ -11468,11 +11262,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen_in",
+        "prädikat": "angekommen_in",
         "objekt": "Kapſtadt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11483,25 +11278,28 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Mamre",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Robben-Island",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "suchten",
+        "prädikat": "reise_nach",
         "objekt": "Elim",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11512,17 +11310,17 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſe_über",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "6 März 1851"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſe_nach",
         "objekt": "Elim",
         "objekt_type": "location",
         "zeit": "6 März 1851"
@@ -11530,24 +11328,34 @@
     ]
   },
   {
-    "text": "Unfer Aufenthalt in Elim ſollte jedod nur von kurzer Dauer sein, ſchon nad einem halben Jahre übernahmen wir, wie es von Anfang an be ſtimmt war, den Dienſt bei den Lazaruskranken auf Robben-Island.",
+    "text": "Unfer Aufenthalt in Elim ſollte jedoch nur von kurzer Dauer sein, ſchon nach einem halben Jahre übernahmen wir, wie es von Anfang an beſtimmt war, den Dienſt bei den Lazaruskranken auf Robben-Island.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Unser",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
         "objekt": "Elim",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"September 1851"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
+        "prädikat": "reise_nach",
         "objekt": "Robben-Island",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"September 1851"
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "tätig_bei",
+        "objekt": "Lazaruskranken auf Robben-Island",
+        "objekt_type": "organisation",
+        "zeit":"1851"
       }
     ]
   },
