@@ -11368,26 +11368,26 @@
       {
         "subjekt": "Schweſter Suhl",
         "subjekt_type": "person",
-        "prädikat": "begab sich mit",
-        "objekt": "uns anvertrauten Kindern",
-        "objekt_type": "organization",
-        "zeit": "21 Mai"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "verabſchiedeten",
-        "objekt": "lieben Kranken und allen unſern Freunden",
-        "objekt_type": "organization",
-        "zeit": "April 1859"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "begaben sich",
-        "objekt": "Inſel und in der Kapſtadt",
+        "prädikat": "reise_nach",
+        "objekt": "Holland",
         "objekt_type": "location",
-        "zeit": "April 1859"
+        "zeit": "21 Mai 1859"
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Rotterdam",
+        "objekt_type": "location",
+        "zeit": "21 Mai 1859"
+      },
+      {
+        "subjekt": "Johann Friedrich Wedemann",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Kapſtadt",
+        "objekt_type": "location",
+        "zeit": "21 Mai 1859"
       }
     ]
   },
@@ -11398,28 +11398,28 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
         "prädikat": "aufgehalten_in",
         "objekt": "Zeiſt",
         "objekt_type": "location",
-        "zeit": "Ende Juli"
+        "zeit": "Juli-August 1859"
       },
       {
         "subjekt": "wir",
         "subjekt_type": "person",
-        "prädikat": "fuhren_von_dort_nach",
+        "prädikat": "angekommen_in",
         "objekt": "Zeiſt",
         "objekt_type": "location",
-        "zeit": "Ende Juli"
+        "zeit": "Juli 1859"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "aufgehalten_in",
+        "prädikat": "angekommen_in",
         "objekt": "Rotterdam",
         "objekt_type": "location",
-        "zeit": "Ende Juli"
+        "zeit": "Ende Juli 1859"
       }
     ]
   },
@@ -11430,28 +11430,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "angekommen_in",
         "objekt": "Kleinwelke",
         "objekt_type": "location",
         "zeit": "Ende August"
-      }
-    ]
-  },
-  {
-    "text": "Wir freuten uns von Herzen, hier in Kleinwelke unſre Kinder alle geſund wiederzufinden, und dankten dem Herrn für alle uns erwieſene Gnade.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "Wir",
-        "subjekt_type": "person",
-        "prädikat": "sich freuen",
-        "objekt": "Kleinwelke",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
@@ -11462,36 +11446,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "zogen",
+        "prädikat": "zog",
         "objekt": "Berthelsdorf",
         "objekt_type": "location",
         "zeit": "21 Oktober 1859"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "wurden vorgeflelt",
-        "objekt": "Geſchwiſtern",
-        "objekt_type": "person",
-        "zeit": "23"
-      }
-    ]
-  },
-  {
-    "text": "Br. Buch (wein Vorgänger) nahm sich unſer treulich an und degleitete uns bei den Beſuchen der Geſchwiſter im Dorfe.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
-    "datei": "1889_Wedemann_J_F.xml",
-    "autor": "Johann Friedrich Wedemann",
-    "graph": [
-      {
-        "subjekt": "Br. Buch",
-        "subjekt_type": "person",
-        "prädikat": "nahm sich unſer treulich an",
-        "objekt": "unsere treuen Brüder im Dorfe",
-        "objekt_type": "organisation",
-        "zeit": null
       }
     ]
   },
@@ -11502,20 +11462,12 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Wir",
+        "subjekt": "Johann Friedrich Wedemann",
         "subjekt_type": "person",
-        "prädikat": "konnten uns annehmen",
-        "objekt": "die befuchenden Diasporageſchwiſter",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Wir",
-        "subjekt_type": "person",
-        "prädikat": "zogen nun",
-        "objekt": "Herruhut",
+        "prädikat": "wohnhaft_in",
+        "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -11526,28 +11478,28 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Luiſe",
+        "subjekt": "Luiſe Wedemann (Tochte)",
         "subjekt_type": "person",
-        "prädikat": "Gattin des",
+        "prädikat": "Ehefrau_von",
         "objekt": "Bruders Heinrich Hauber",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Luiſe",
+        "subjekt": "Luiſe Wedemann",
         "subjekt_type": "person",
-        "prädikat": "nach",
+        "prädikat": "berufen_nach",
         "objekt": "Jamaika",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Guſtav",
+        "subjekt": "Guſtav Wedemann (jüngster Sohn)",
         "subjekt_type": "person",
-        "prädikat": "folgte einem Ruf nach",
+        "prädikat": "berufen_nach",
         "objekt": "Süd-Afrika",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -11560,10 +11512,10 @@
       {
         "subjekt": "Schweſter Marie Drexler",
         "subjekt_type": "person",
-        "prädikat": "war_eingeschult",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": null
+        "prädikat": "Ehefrau_von",
+        "objekt": "Guſtav Wedemann (jüngster Sohn)",
+        "objekt_type": "person",
+        "zeit": "23 Oktober 1877"
       }
     ]
   },
@@ -11574,19 +11526,11 @@
     "autor": "Johann Friedrich Wedemann",
     "graph": [
       {
-        "subjekt": "Der Herr",
+        "subjekt": "Guſtav Wedemann (jüngster Sohn)",
         "subjekt_type": "person",
-        "prädikat": "hatte",
+        "prädikat": "verheiratet_mit",
         "objekt": "Schweſter Marie Drexler",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Der Herr",
-        "subjekt_type": "person",
-        "prädikat": "ließ",
-        "objekt": "Trauung",
-        "objekt_type": "event",
         "zeit": "23 Oktober 1877"
       },
       {
@@ -11600,7 +11544,7 @@
     ]
   },
   {
-    "text": "Auch den Wunſch, ſeinen Schwiegerfohn Bruder Hauber in Jamaika, perſönlich kennen zu lernen, erfüllte ihm der Herr, indem dieſe unſre Geſchwiſter im Jahre 1876 für einige Zeit zur Erholung nach Deutſchland kamen.",
+    "text": "Auch den Wunſch, ſeinen Schwiegersohn Bruder Hauber in Jamaika, perſönlich kennen zu lernen, erfüllte ihm der Herr, indem dieſe unſre Geſchwiſter im Jahre 1876 für einige Zeit zur Erholung nach Deutſchland kamen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/2397/rec/224",
     "datei": "1889_Wedemann_J_F.xml",
     "autor": "Johann Friedrich Wedemann",
@@ -11608,39 +11552,31 @@
       {
         "subjekt": "Bruder Hauber",
         "subjekt_type": "person",
-        "prädikat": "kennen zu lernen",
-        "objekt": "Wunſch",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "unsre Geſchwiſter",
-        "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Deutſchland",
+        "prädikat": "besuch",
+        "objekt": "Deutschland",
         "objekt_type": "location",
         "zeit": "1876"
       },
       {
-        "subjekt": "unsre Geſchwiſter",
+        "subjekt": "Luiſe Wedemann (Tochte)",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Jamaika",
+        "prädikat": "besuch",
+        "objekt": "Deutſchland",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1876"
       }
     ]
   },
   {
-    "text": "Lebenslauf des am 16ten December 1827 in Gnadenthal in SüdAfrika ſelig entschlafenen verheiratheten Bruders Johann Gottlieb Bonabtz.",
+    "text": "Lebenslauf des am 16ten December 1827 in Gnadenthal in Süd-Afrika ſelig entschlafenen verheiratheten Bruders Johann Gottlieb Bonatz.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
     "datei": "1830_Bonatz_J_G.xml",
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "Johann Gottlieb Bonabtz",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "16ten December 1827"
@@ -11654,7 +11590,7 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Tangermünde",
@@ -11670,12 +11606,12 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Gnadau",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -11686,9 +11622,9 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "besuch",
         "objekt": "Gnadau",
         "objekt_type": "location",
         "zeit": "1789"
@@ -11702,11 +11638,12 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Gnadau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -11717,18 +11654,12 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "seliger Bruder Teutſch",
+        "subjekt": "Bruder Teutſch",
         "subjekt_type": "person",
-        "prädikat": "nahm ſich meiner väterlich an",
-        "objekt": "meiner",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "bekümmert war",
-        "objekt": "äußere oder innere Noth",
-        "objekt_type": "thing"
+        "prädikat": "freundschaft",
+        "objekt": "Johann Gottlieb Bonatz",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -11739,75 +11670,28 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Gnadau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Vier Wochen darauf wurde endlich mein ſehnlicher Wunſch erfüllt und ich erhielt Erlaubniß zur Gemeine in Eberspdorf.",
+    "text": "Vier Wochen darauf wurde endlich mein ſehnlicher Wunſch erfüllt und ich erhielt Erlaubniß zur Gemeine in Eberspdorf. Am 20ften July 1792 traf ich daſelbſt ein.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
     "datei": "1830_Bonatz_J_G.xml",
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erhielt Erlaubniß",
+        "prädikat": "wohnhaft_in",
         "objekt": "Gemeine in Eberspdorf",
         "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 20ften July 1792 traf ich daſelbſt ein.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
-    "datei": "1830_Bonatz_J_G.xml",
-    "autor": "Johann Gottlieb Bonatz",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "trat ein",
-        "objekt": "daſelbſt",
-        "objekt_type": "location",
-        "zeit": "20ften July 1792"
-      }
-    ]
-  },
-  {
-    "text": "Ich mußte mir mein Durchkommen mit Handſchuhmachen verdienen welches dort die Hauptarbeit war und da ich wenig Luſt und Neigung dazu hatte ſo ging es mir fümmerlich wiewol ich nicht eigentlich Mangel litt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
-    "datei": "1830_Bonatz_J_G.xml",
-    "autor": "Johann Gottlieb Bonatz",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mußte mir mein Durchkommen mit Handſchuhmachen verdienen",
-        "objekt": "Hauptarbeit",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Als einmal die Aeltejten-Conferenz verſammelt war wurde es mir ſo in meinem Herzen der Heiland werde mir jetz die Gnade ſchenken in die Gemeine aufgenommen zu werden.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
-    "datei": "1830_Bonatz_J_G.xml",
-    "autor": "Johann Gottlieb Bonatz",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde mir die Gnade ſchenken",
-        "objekt": "in die Gemeine aufgenommen zu werden",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "20 juli 1792"
       }
     ]
   },
@@ -11818,11 +11702,11 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "Glück",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde mir angezeigt",
-        "objekt": "",
-        "objekt_type": "",
+        "prädikat": "mitglied_von",
+        "objekt": "Brüdergemeine",
+        "objekt_type": "organisation",
         "zeit": "24ſten Februar 1793"
       }
     ]
@@ -11834,12 +11718,12 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "die Gemeine",
-        "objekt_type": "organisation",
-        "zeit": "27ſten July"
+        "prädikat": "teilnahme_an",
+        "objekt": "heil. Abendsmahl",
+        "objekt_type": "",
+        "zeit": "27ſten July 1793"
       }
     ]
   },
@@ -11850,36 +11734,28 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "beſorgte",
-        "objekt": "die Meiſterſtelle",
+        "prädikat": "tätig_bei",
+        "objekt": "Meiſterſtelle bey der Beutlerey",
         "objekt_type": "organisation",
-        "zeit": "Jahr 1799"
+        "zeit": "von 1799 bis Frühjahr 1803"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "beſorgte",
-        "objekt": "die Meiſterſtelle",
+        "prädikat": "tätig_bei",
+        "objekt": "Chor der ledigen Brüder",
         "objekt_type": "organisation",
-        "zeit": "Frühjahr 1803"
+        "zeit": "1803"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "einen Ruf",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "diente",
-        "objekt": "dem Chor der ledigen Brüder",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "wohnhaft_in",
+        "objekt": "Zeist",
+        "objekt_type": "location",
+        "zeit": "1803"
       }
     ]
   },
@@ -11890,11 +11766,11 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde_ruf_tätig_mit",
-        "objekt": "Miſſion in Sud-Afrika",
-        "objekt_type": "organisation",
+        "prädikat": "berufen_nach",
+        "objekt": "Sud-Afrika",
+        "objekt_type": "location",
         "zeit": "1805"
       }
     ]
@@ -11906,20 +11782,20 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "ehelich verbunden",
+        "prädikat": "verheiratet_mit",
         "objekt": "Johanna Dorothea Koch",
         "objekt_type": "person",
         "zeit": "September"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "ordinirt",
+        "prädikat": "tätig_als",
         "objekt": "Diakonus der Brüderkirche",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -11930,23 +11806,23 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "8ten Juny 1806"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johanna Dorothea Koch",
         "subjekt_type": "person",
-        "prädikat": "wurde tätig",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "8ten Juny 1806"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "zog nach",
         "objekt": "Grüneskloof",
@@ -11962,60 +11838,52 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "wurde veranlaßt",
+        "prädikat": "reise_nach",
         "objekt": "Europa",
         "objekt_type": "location",
         "zeit": "Jahr 1822"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johanna Dorothea Koch",
         "subjekt_type": "person",
-        "prädikat": "wurde veranlaßt",
-        "objekt": "Beſuchreiſe",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wurde veranlaßt",
-        "objekt": "Heimgang",
-        "objekt_type": "event",
-        "zeit": "Jahr 1820"
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "1820"
       }
     ]
   },
   {
-    "text": "In Gnadau wurde er mit der ledigen Schweſter Friederike Dorothea Erdmann ſeiner hinterlaſſenen Witwe getraut und kehrte dann nam Seel und Leib geſtärkt mit ihr nach Afrika zurück um ſeinen Dienſt unter den Hottentotten fortzuſetzen worin ſeine Seele lebte.",
+    "text": "In Gnadau wurde er mit der ledigen Schweſter Friederike Dorothea Erdmann ſeiner hinterlaſſenen Witwe getraut und kehrte dann mit Seel und Leib geſtärkt mit ihr nach Afrika zurück um ſeinen Dienſt unter den Hottentotten fortzuſetzen worin ſeine Seele lebte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
     "datei": "1830_Bonatz_J_G.xml",
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "traut",
+        "prädikat": "verheiratet_mit",
         "objekt": "Friederike Dorothea Erdmann",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kehrte",
+        "prädikat": "aufenthalt_in",
         "objekt": "Gnadau",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "kehrt",
+        "prädikat": "reise_nach",
         "objekt": "Afrika",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -12026,7 +11894,7 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "trat ein",
         "objekt": "Gnadenthal",
@@ -12034,28 +11902,28 @@
         "zeit": "März 1823"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erhielt den Auftrag",
+        "prädikat": "berufen_nach",
         "objekt": "Elim",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1823"
       }
     ]
   },
   {
-    "text": "Da gegen das Ende des Monats November (1327) ſein Zuijktand immer bedenkliher wurde und er in Elim keine ärztliche Hülfe haben konnte fo wurde ihm gerathen zu beſſerer Pflege auf einige Zeit nach Gnadenthal zu kommen.",
+    "text": "Da gegen das Ende des Monats November (1827) ſein Zustand immer bedenkliher wurde und er in Elim keine ärztliche Hülfe haben konnte fo wurde ihm gerathen zu beſſerer Pflege auf einige Zeit nach Gnadenthal zu kommen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
     "datei": "1830_Bonatz_J_G.xml",
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
         "prädikat": "kam",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "November (1327)"
+        "zeit": "November (1827)"
       }
     ]
   },
@@ -12066,36 +11934,12 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "Rath",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "trat mit an",
+        "prädikat": "traf",
         "objekt": "Br. Lemmerz",
         "objekt_type": "person",
         "zeit": "3ten December"
-      }
-    ]
-  },
-  {
-    "text": "Am 14ten des Abends wurde er im Beyſeyn des Hausgemeinleins und einiger Hottentotten unter einem tröſtenden Gefühl der nahen Gegenwart Gottes zu ſeiner Heimfahrt eingeſegnetz und nachdem er den folgenden Sag bewußtlos verbracht hatte entſchlummerte er ſanft und ſelig am 16ten December früh in der erſten Stunde ſeines Alters 54 Jahr und 10 Monat.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/30364/rec/67",
-    "datei": "1830_Bonatz_J_G.xml",
-    "autor": "Johann Gottlieb Bonatz",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "getauft_am",
-        "objekt": "Gott",
-        "objekt_type": "none",
-        "zeit": "14ten"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "entſchlummerte",
-        "objekt": "am 16ten December früh",
-        "objekt_type": "date",
-        "zeit": "16ten December"
       }
     ]
   },
@@ -12106,44 +11950,20 @@
     "autor": "Johann Gottlieb Bonatz",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "fünf Kinder",
+        "prädikat": "Vater_von",
+        "objekt": "fünf Kinder (3 davon tot - 1. Ehe)",
         "objekt_type": "organization",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "gehabt",
-        "objekt": "drey in die Ewigkeit vorangegangen",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "gehabt",
-        "objekt": "zwey andern aber in der Pflege der Gemeine sind",
+        "prädikat": "Vater_von",
+        "objekt": "drey Kindern (2. Ehe)",
         "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "zweite Ehe",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "mit drey Kindern gesegnet",
-        "objekt_type": "organization",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -12156,7 +11976,7 @@
       {
         "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "28 December 1860"
@@ -12170,7 +11990,7 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Nisky",
@@ -12180,18 +12000,18 @@
     ]
   },
   {
-    "text": "Nachdem ich mein fünftes Jahr erreicht, fing ih an, die Schulen der Unitats- Anſtalt zu befuchen, was mir viel Vorgnügen machte.",
+    "text": "Nachdem ich mein fünftes Jahr erreicht, fing ih an, die Schulen der Unitats-Anſtalt zu befuchen, was mir viel Vorgnügen machte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "befuchte",
         "objekt": "Schulen der Unitats-Anſtalt",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "1815"
       }
     ]
   },
@@ -12202,60 +12022,12 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "meine Eltern",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "wohnhalt_in",
         "objekt": "Berthelsdort",
         "objekt_type": "location",
         "zeit": "1818"
-      }
-    ]
-  },
-  {
-    "text": "Zu dem Jubelfeſt des Anbaues von Herrnhut, am 17 Juni 1822, waren auch die Anstaltsöglingee von Nisky gekommen, und so echielt auch ich Theil an den in dieſen Tagen so mächtig waltenden Segen und einen tiefen Eindruck von der Gnade, dem Brüderwolf anzugehören, an dem der Heiland fo viel ger than hat, und an dem dritten Tag des Feſtes",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
-    "datei": "1861_Kölbing_C_R.xml",
-    "autor": "Cart Rudolph Kölbing",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat_ein_tiefen_Eindruck_von",
-        "objekt": "der_Gnade_dem_Brüderwolf_anzugehören",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat_ein_tiefen_Eindruck_von",
-        "objekt": "den_Segen",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat_ein_tiefen_Eindruck_von",
-        "objekt": "dem_dritten_Tag_des_Feſtes",
-        "objekt_type": "date",
-        "zeit": "17 Juni 1822"
-      },
-      {
-        "subjekt": "die_Anstaltsöglingee_von_Nisky",
-        "subjekt_type": "person",
-        "prädikat": "waren_gekommen",
-        "objekt": "zu_dem_Jubelfeſt_des_Anbaues_von_Herrnhut",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat_ein_tiefen_Eindruck_von",
-        "objekt": "dem_Brüderwolf_anzugehören",
-        "objekt_type": "organisation",
-        "zeit": null
       }
     ]
   },
@@ -12266,7 +12038,7 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "trat ein",
         "objekt": "Pädagogium",
@@ -12276,58 +12048,18 @@
     ]
   },
   {
-    "text": "Daß wir damals ſelbſt die Unitäts - Aelt.- Conf. um Gewährung diefes Wunſches durch ein eigenhändiges Schreiben bitten mußten, diente dazu, ſich ſoweht über die Wahl des Berufes zu prüfen, als es aub zum Bewußtſein zu bringen, daß es eine Gnade ſei, auf Koſten der Unitäts-Anſtalte Diaconie ausgebildet zu werden.",
+    "text": "Am 11 April 1824 erneuerte ich meinen Taufbund und fühlte mich dabei versichert, daß der Heiland Seine Hülfe zum Halten des Verſprechens geben weide, und genoß am darauffolgenden Grün-Donenerſtag das heil. Abendmahl",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "bitten",
-        "objekt": "Unitäts - Aelt.- Conf.",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "ausgebildet",
-        "objekt": "Unitäts-Anſtalte Diaconie",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 11 April 1824 erneuerte ich meinen Taufbund und fühlte mich dabei versichert, daß der Heiland Seine Hülfe zum Halten des Verſprechens geben weide, und genoß am darauffolgenden Grün-Donenerſtag das heil.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
-    "datei": "1861_Kölbing_C_R.xml",
-    "autor": "Cart Rudolph Kölbing",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "den Heiland",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fühlte_sich_versichert",
-        "objekt": "dass der Heiland Seine Hülfe zum Halten des Verſprechens geben weide",
-        "objekt_type": "statement",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erneuerte",
-        "objekt": "meinen Taubund",
-        "objekt_type": "organization",
-        "zeit": "11 April 1824"
+        "prädikat": "teilnahme_an",
+        "objekt": "heil. Abendsmahl",
+        "objekt_type": "",
+        "zeit": "15 April 1824"
       }
     ]
   },
@@ -12340,46 +12072,33 @@
       {
         "subjekt": "Cürie",
         "subjekt_type": "person",
-        "prädikat": "hatte die Güte",
-        "objekt": "Anregung und Anleitung",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "mir",
-        "subjekt_type": "person",
-        "prädikat": "machte Vergnügen",
-        "objekt": "Beſchäftigung mit der Botanik",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "Cürie",
-        "subjekt_type": "person",
-        "prädikat": "war Prediger",
-        "objekt": "Nisky",
-        "objekt_type": "location"
+        "prädikat": "tätig_als",
+        "objekt": "Prediger in Nisky",
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "— Was das innere Leben betrifft, ſo verlor ſich der kindliche Uwgang wit dem Heiland immer mehr, und die Liebe zu Ihm wollte erkalten, aber Er wußte ſte immer wieder zu beleben. Unter anderen mir befonders geſegneten Tagen, waren es die Feſttage des 13ten und 17 Auguſt 1827, welche ich wieder in Herenhut feierte, und namentlich die Jubelverſammlung meines ſel. Vaters am 13 Auguſt in der Kirhe zu Bertheledorf, wo ich aufs Neue tief ergriffen wurde.",
+    "text": "Unter anderen mir befonders geſegneten Tagen, waren es die Feſttage des 13ten und 17 Auguſt 1827, welche ich wieder in Herrnhut feierte, und namentlich die Jubelverſammlung meines ſel. Vaters am 13 Auguſt in der Kirhe zu Bertheledorf, wo ich aufs Neue tief ergriffen wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "feierte",
+        "prädikat": "aufenthalt_in",
         "objekt": "Herenhut",
         "objekt_type": "location",
         "zeit": "13ten und 17 Auguſt 1827"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "feierte",
-        "objekt": "Bertheledorf",
-        "objekt_type": "location",
+        "prädikat": "teilnahme_an",
+        "objekt": "Jubelverſammlung in der Kirche zu Bertheledorf",
+        "objekt_type": "event",
         "zeit": "13 Auguſt 1827"
       }
     ]
@@ -12391,7 +12110,7 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "aufgenommen_in",
         "objekt": "Gemeine",
@@ -12407,34 +12126,28 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "lehre_bei",
         "objekt": "theologiſce Seminar",
         "objekt_type": "organisation",
-        "zeit": "September 1828"
+        "zeit": "von September 1828 bis 1830"
       }
     ]
   },
   {
-    "text": "Nach Vollendung der zwei Seminariumejahre erhielt ich einen Ruf in Die Unitäts- Anſtalt nach Nisky, den ich um ſo lieber annahm, da meine l. Eltern in der Nähe in Bertheisdorf wohnten und mir dadurch die Gelegenheit zum öfteren Umgang mit ihnen geboten wurde.",
+    "text": "Nach Vollendung der zwei Seminariumejahre erhielt ich einen Ruf in Die Unitäts-Anſtalt nach Nisky, den ich um ſo lieber annahm, da meine l. Eltern in der Nähe in Bertheisdorf wohnten und mir dadurch die Gelegenheit zum öfteren Umgang mit ihnen geboten wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wohnt_in",
-        "objekt": "Bertheisdorf",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "tätig_als",
-        "objekt": "Unitäts- Anſtalt",
-        "objekt_type": "organisation"
+        "prädikat": "berufen",
+        "objekt": "Unitäts-Anſtalt in Nisky",
+        "objekt_type": "organisation",
+        "zeit":"1830"
       }
     ]
   },
@@ -12445,11 +12158,19 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Antrag zum Miſſionedienſt",
-        "objekt_type": "organisation",
+        "prädikat": "berufen",
+        "objekt": "zum Miſſionedienſt",
+        "objekt_type": "tätigkeit",
+        "zeit": "9 März 1841"
+      },
+      {
+        "subjekt": "Cart Rudolph Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "berufen",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
         "zeit": "9 März 1841"
       }
     ]
@@ -12461,23 +12182,23 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "meine innig geliebte Frau Bertha Emilie geb. Gregor",
+        "prädikat": "verlob_mit",
+        "objekt": "Bertha Emilie geb. Gregor",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "— Am 10 April 1841 verließ ich mein liebes Nisky.",
+    "text": "Am 10 April 1841 verließ ich mein liebes Nisky.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "verließ",
         "objekt": "Nisky",
@@ -12493,27 +12214,36 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurde verlobt",
-        "objekt": "Ehe",
-        "objekt_type": "organisation",
-        "zeit": "14 Mai"
+        "prädikat": "verlob_mit",
+        "objekt": "Bertha Emilie geb. Gregor",
+        "objekt_type": "person",
+        "zeit": "14 Mai 1841"
+      },
+      {
+        "subjekt": "Cart Rudolph Kölbing",
+        "subjekt_type": "person",
+        "prädikat": "verlobt",
+        "objekt": "Ebersdorf",
+        "objekt_type": "location",
+        "zeit": "14 Mai 1841"
       }
     ]
   },
   {
-    "text": "Vorher aber ſollte ich mid noch einige Monate in England zur Erlernung der engliſchen Sprache aufhalten.",
+    "text": "Vorher aber ſollte ich mich noch einige Monate in England zur Erlernung der engliſchen Sprache aufhalten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "aufhalten",
         "objekt": "England",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"einige Monate (1841)"
       }
     ]
   },
@@ -12524,27 +12254,28 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "reiſte",
         "objekt": "England",
         "objekt_type": "location",
-        "zeit": "24 Mai"
+        "zeit": "24 Mai 1841"
       }
     ]
   },
   {
-    "text": "Mein lieber ſeliger Mann benußte die 2 Monate ſeines Aufenthaltes in Fulnek treulich zur Erlernung der Sprache; er verſicherte in ſeinen Briefen oft, wie ihm Alles daran liege, ſic auch in der Stille des Herzens für feinen ihm immer wide tiger werdenden Beruf vorzubereiten.",
+    "text": "Mein lieber ſeliger Mann benuchte die 2 Monate ſeines Aufenthaltes in Fulnek treulich zur Erlernung der Sprache; er verſicherte in ſeinen Briefen oft, wie ihm Alles daran liege, ſic auch in der Stille des Herzens für feinen ihm immer wide tiger werdenden Beruf vorzubereiten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "Mein lieber ſeliger Mann",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "benußte",
+        "prädikat": "aufenthalt_in",
         "objekt": "Fulnek",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1841"
       }
     ]
   },
@@ -12555,44 +12286,20 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "kam wieder in",
+        "prädikat": "kam in",
         "objekt": "Ebersdorf",
         "objekt_type": "location",
-        "zeit": "12 August"
+        "zeit": "12 August 1841"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurden durch",
-        "objekt": "meinen gel. Vater",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Bertha Emilie geb. Gregor",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "wurden zur heil. Ehe verbunden",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "22ſten"
-      }
-    ]
-  },
-  {
-    "text": "Am 26 Auguft mußten wir von unſern gel. Eltern ſcheiden, wir ahnten damals freilich richt, daß dies ein Abſchied fürs ganze Leben fein würde.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
-    "datei": "1861_Kölbing_C_R.xml",
-    "autor": "Cart Rudolph Kölbing",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "mußten wir von unſern gel. Eltern ſcheiden",
-        "objekt": "Eltern",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": "22 August 1841"
       }
     ]
   },
@@ -12603,75 +12310,100 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "m. ſel. Mann",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "reiſten",
         "objekt": "England",
         "objekt_type": "location",
-        "zeit": "12 September"
+        "zeit": "12 September 1842"
       },
       {
-        "subjekt": "m. ſel. Mann",
+        "subjekt": "Bertha Emilie geb. Gregor",
         "subjekt_type": "person",
         "prädikat": "reiſten",
+        "objekt": "England",
+        "objekt_type": "location",
+        "zeit": "12 September 1842"
+      },
+      {
+        "subjekt": "Bertha Emilie geb. Gregor",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "8 November"
+        "zeit": "8 November 1842"
       },
       {
         "subjekt": "Geſchw. Heinrich",
         "subjekt_type": "person",
-        "prädikat": "in Geselshaft",
-        "objekt": "m. ſel. Mann",
+        "prädikat": "reise_mit",
+        "objekt": "Cart Rudolph Kölbing",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "8 November 1842"
       },
       {
-        "subjekt": "m. ſel. Mann",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "tätig_als",
         "objekt": "Diaconus",
         "objekt_type": "organization",
-        "zeit": "8 September"
+        "zeit": "8 September 1842"
       }
     ]
   },
   {
-    "text": "Am 23 Februar 1843 erreichten wir nach einer Seefahrt von 16 Wochen mit dankerfüllten Herzen das Cap, und kamen am 19 März tin Gnadenthal an, wo wir mit inniger Liebe von allen unſern künftigen Mitarbeitern empfangen wurden.",
+    "text": "Am 23 Februar 1843 erreichten wir nach einer Seefahrt von 16 Wochen mit dankerfüllten Herzen das Cap, und kamen am 19 März in Gnadenthal an, wo wir mit inniger Liebe von allen unſern künftigen Mitarbeitern empfangen wurden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "ankommen",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "19 März"
+        "zeit": "19 März 1843"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "erreichen",
+        "prädikat": "angekommen",
         "objekt": "Cap",
         "objekt_type": "location",
         "zeit": "23 Februar 1843"
-      }
-    ]
-  },
-  {
-    "text": "Die verſicherte er, daß die 11 Jahre, als Hausvater und Inſpektor in der Gehülfen - Schule verbracht, zu den geſegnetſten und vergnügteſten ſeines hieſigen Dienſtes gehörten, obgleich mancherlei Erfahrungen mit den Zöglingen und in der eigenen Familie auch manche ſchwere Stunden herbeiführten, wobei dann aber ancch die Durchhülfe des Herrn um ſo herrlicher war.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
-    "datei": "1861_Kölbing_C_R.xml",
-    "autor": "Cart Rudolph Kölbing",
-    "graph": [
+      },
       {
-        "subjekt": "er",
+        "subjekt": "Bertha Emilie geb. Gregor",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Gehülfen - Schule",
-        "objekt_type": "organisation"
+        "prädikat": "ankommen",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "19 März 1843"
+      },
+      {
+        "subjekt": "Bertha Emilie geb. Gregor",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "Cap",
+        "objekt_type": "location",
+        "zeit": "23 Februar 1843"
+      },
+      {
+        "subjekt": "Geſchw. Heinrich",
+        "subjekt_type": "person",
+        "prädikat": "ankommen",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "19 März 1843"
+      },
+      {
+        "subjekt": "Geſchw. Heinrich",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "Cap",
+        "objekt_type": "location",
+        "zeit": "23 Februar 1843"
       }
     ]
   },
@@ -12682,12 +12414,12 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "erfreuen",
-        "objekt": "Guburt von 3 Töchtern",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "Vater_von",
+        "objekt": "3 Töchtern (Kölbing)",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -12698,27 +12430,27 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "schenkte",
-        "objekt": "das erſte Söhnlein",
+        "prädikat": "Vater_von",
+        "objekt": "erſte Söhnlein (Kölbing)",
         "objekt_type": "person",
         "zeit": "März 1855"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "folgten",
-        "objekt": "ein Töchterchen",
+        "prädikat": "Vater_von",
+        "objekt": "ein Töchterchen (Kölbing)",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurden erfreut",
-        "objekt": "durch die Geburt eines zweiten Söhnchens",
-        "objekt_type": "event",
+        "prädikat": "Vater_von",
+        "objekt": "zweiten Söhnchens (Kölbing)",
+        "objekt_type": "person",
         "zeit": "December 1859"
       }
     ]
@@ -12730,102 +12462,88 @@
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "beschäftigt_sich_mit",
-        "objekt": "ärztlibe Praxis",
+        "prädikat": "tätig_bei",
+        "objekt": "ärztlibe Praxis uſer Gemeine",
         "objekt_type": "organisation",
         "zeit": "1845-1849"
       }
     ]
   },
   {
-    "text": "Nach dem Heimgang des lieben Bruders Teutſch, im Juli 1852, wurde er von der Unitätör Aeiteſten - Conferenz als fein Nachfolger beſtimmt und übernahm damit die Leitung der ſädafricaniſchen Miſſion.",
+    "text": "Nach dem Heimgang des lieben Bruders Teutſch, im Juli 1852, wurde er von der Unitätör Aeiteſten - Conferenz als sein Nachfolger beſtimmt und übernahm damit die Leitung der ſüdafricaniſchen Miſſion.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "seliger Bruder",
+        "subjekt": "Bruder Teutſch",
         "subjekt_type": "person",
         "prädikat": "gestorben_in",
         "objekt": "Juli 1852",
         "objekt_type": "date"
       },
       {
-        "subjekt": "Bruders Teutſch",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "wurde_von",
-        "objekt": "Aeiteſten - Conferenz",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "übernahm",
-        "objekt": "die Leitung",
-        "objekt_type": "organisation"
+        "prädikat": "tätig_als",
+        "objekt": "die Leitung der ſüdafricaniſchen Miſſion",
+        "objekt_type": "tätigkeit",
+        "zeit":"1852"
       }
     ]
   },
   {
-    "text": "Als im Jahre 1853 die Geſchw. Breutel zu einem Beſuch hierher kamen, war es ihm ſehr wichtig, Br. Breutel auf feiner Viſitations - Reiſe nach den unteriändiſchen Gemeinen begleiten zu können.",
+    "text": "Als im Jahre 1853 die Geſchw. Breutel zu einem Beſuch hierher kamen, war es ihm ſehr wichtig, Br. Breutel auf feiner Viſitations - Reiſe nach den unterländiſchen Gemeinen begleiten zu können.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ihr",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
         "prädikat": "begleiten",
         "objekt": "Br. Breutel",
+        "objekt_type": "person",
+        "zeit": "1853"
+      },
+      {
+        "subjekt": "Br. Breutel",
+        "subjekt_type": "person",
+        "prädikat": "besuch",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location",
-        "zeit": "Jahre 1853"
+        "zeit": "1853"
       }
     ]
   },
   {
-    "text": "Am 4 Juni wurde ihm die Gnade zu Theil, mit 2 ſeiner Mitarbeiter, dur Br. Breutel zu einem Presbyter ordinirt zu werden.",
+    "text": "Am 4 Juni wurde ihm die Gnade zu Theil, mit 2 ſeiner Mitarbeiter, durch Br. Breutel zu einem Presbyter ordinirt zu werden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "ihm",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "ordinirt",
+        "prädikat": "tätig_als",
         "objekt": "Presbyter",
-        "objekt_type": "organisation",
+        "objekt_type": "tätigkeit",
         "zeit": "4 Juni"
       }
     ]
   },
   {
-    "text": "Am 3 November erreidten wir unfer ſiebes Gnadenthal wieder, und wenn auch das Wiederſehn kein freudiges, vielmehr ein auf beiten Seiten ſchmerzliches war, ſo fühlte ſich dem der liebe Kranke glücklich, wieder in frinen eigenen Räumen zu fein und ſich in der Mitte ſeiner von ihm herzlich geliebten Mitarbeiter und seiner geliebten Gemeine zu befinden.",
+    "text": "Am 3 November erreichten wir unfer ſiebes Gnadenthal wieder, und wenn auch das Wiederſehn kein freudiges, vielmehr ein auf beiten Seiten ſchmerzliches war, ſo fühlte ſich dem der liebe Kranke glücklich, wieder in frinen eigenen Räumen zu fein und ſich in der Mitte ſeiner von ihm herzlich geliebten Mitarbeiter und seiner geliebten Gemeine zu befinden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/78136/rec/196",
     "datei": "1861_Kölbing_C_R.xml",
     "autor": "Cart Rudolph Kölbing",
     "graph": [
       {
-        "subjekt": "der liebe Kranke",
+        "subjekt": "Cart Rudolph Kölbing",
         "subjekt_type": "person",
-        "prädikat": "fand sich glücklich",
-        "objekt": "in frinen eigenen Räumen",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "der liebe Kranke",
-        "subjekt_type": "person",
-        "prädikat": "sich in der Mitte seiner von ihm herzlich geliebten Mitarbeiter und seiner geliebten Gemeine zu befinden",
-        "objekt": "seiner von ihm herzlich geliebten Mitarbeiter und seiner geliebten Gemeine",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "erreidten",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "3 November"
@@ -12839,27 +12557,11 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "Krüger",
+        "subjekt": "Sophie Erneſtine Suhl geb. Krüger",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": "17 Juli 1884"
-      },
-      {
-        "subjekt": "Sophie Erneſtine Suhl",
-        "subjekt_type": "person",
-        "prädikat": "geboren_in",
-        "objekt": "Herrnhut",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Sophie Erneſtine Suhl",
-        "subjekt_type": "person",
-        "prädikat": "entſchlaſen",
-        "objekt": null,
-        "objekt_type": null,
         "zeit": "17 Juli 1884"
       }
     ]
@@ -12871,44 +12573,92 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Ernſt Krüger",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Sophie Erneſtine Suhl geb. Krüger",
+        "objekt_type": "person",
+        "zeit": "17 Juli 1817"
+      },
+      {
+        "subjekt": "Marie Krüger geb. Thorſen",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "Sophie Erneſtine Suhl geb. Krüger",
+        "objekt_type": "person",
+        "zeit": "17 Juli 1817"
+      },
+      {
+        "subjekt": "Ernſt Krüger",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "Miſſionsdienſt in Westindien",
+        "objekt_type": "organisation",
+        "zeit": "17 Juli 1817"
+      },
+      {
+        "subjekt": "Marie Krüger geb. Thorſen",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "Miſſionsdienſt in Westindien",
+        "objekt_type": "organisation",
+        "zeit": "17 Juli 1817"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Bethanien auf St.Jan in Weſtindien",
+        "objekt": "Bethanien auf St. Jan in Weſtindien",
         "objekt_type": "location",
         "zeit": "9 Mai 1817"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "getauft_am",
-        "objekt": "heiligen Taufe",
-        "objekt_type": "event",
-        "zeit": "9 Mai 1817"
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "Mai 1817"
       }
     ]
   },
   {
-    "text": "Als ich kaum 5 Monate alt war, erkrankten meine lieben Eltern am gelben Fieber und ſtarben kurz hinter einander. Als eine hilfloſe Waiſe nahmen mich Geſchw. Hohe zu sich und pflegten mich mit großer Treue und Liebe bis zu meinem 3 Lebensjahre.",
+    "text": "Als ich kaum 5 Monate alt war, erkrankten meine lieben Eltern am gelben Fieber und ſtarben kurz hinter einander.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "Geſchw. Hohe",
+        "subjekt": "Ernſt Krüger",
         "subjekt_type": "person",
-        "prädikat": "pflegten",
-        "objekt": "mich",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "1817-1818"
       },
       {
-        "subjekt": "meine l. Eltern",
+        "subjekt": "Marie Krüger geb. Thorſen",
         "subjekt_type": "person",
-        "prädikat": "starben",
-        "objekt": "kurz hinter einander",
-        "objekt_type": "string",
-        "zeit": null
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "1817-1818"
+      }
+    ]
+  },
+  {
+    "text":"Als eine hilfloſe Waiſe nahmen mich Geſchw. Hohe zu sich und pflegten mich mit großer Treue und Liebe bis zu meinem 3 Lebensjahre.",
+    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
+    "datei": "1884_Stuhl_S_E.xml",
+    "autor": "Sophie Erneſtine Suhl",
+    "graph":[
+      {
+        "subjekt": "Geſchw. Hohe",
+        "subjekt_type": "person",
+        "prädikat": "adoptiert",
+        "objekt": "Sophie Erneſtine Suhl",
+        "objekt_type": "person",
+        "zeit": "1817-1820"
       }
     ]
   },
@@ -12919,28 +12669,20 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "Haus",
+        "prädikat": "reise_nach",
+        "objekt": "Europa",
         "objekt_type": "location",
         "zeit": "Ende Juni 1820"
       },
       {
-        "subjekt": "Glöckler",
-        "subjekt_type": "person",
-        "prädikat": "leitet",
-        "objekt": "Reisegefelfchaft",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
         "subjekt": "Geſchw. Tießen",
         "subjekt_type": "person",
-        "prädikat": "erboten_sich",
-        "objekt": "mich",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "wohnhaft_in",
+        "objekt": "Nisky",
+        "objekt_type": "location",
+        "zeit": "1820"
       }
     ]
   },
@@ -12953,26 +12695,10 @@
       {
         "subjekt": "Schw. Glöckler",
         "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": "Fieber",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "Schw. Glöckler",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "41 Jahre alt",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "Anna",
-        "subjekt_type": "person",
-        "prädikat": "erkrankte",
-        "objekt": "Fieber",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "1820",
+        "zeit": ""
       }
     ]
   },
@@ -12981,7 +12707,16 @@
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
-    "graph": []
+    "graph": [
+      {
+        "subjekt": "Sophie Ernestine Suhl",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "England",
+        "objekt_type": "location",
+        "zeit": "9. August 1820"
+      }
+    ]
   },
   {
     "text": "Ein Matrose erfaßte mich und warf mich dem Br. Glöckler in die Arme; kurze Zeit darauf verſank das Schiff in die Tiefe.",
@@ -12992,18 +12727,10 @@
       {
         "subjekt": "Br. Glöckler",
         "subjekt_type": "person",
-        "prädikat": "warf",
-        "objekt": "me",
+        "prädikat": "traf",
+        "objekt": "Sophie Erneſtine Suhl",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "verſank",
-        "objekt": "das Schiff",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit": "August 1820"
       }
     ]
   },
@@ -13014,12 +12741,12 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "erreichten",
+        "prädikat": "angekommen_in",
         "objekt": "Ter Schelling",
         "objekt_type": "location",
-        "zeit": "17 August"
+        "zeit": "17 August 1820"
       }
     ]
   },
@@ -13030,25 +12757,25 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Von Geſchw. Tießen",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "Von Geſchw. Tießen",
+        "prädikat": "adoptiert",
+        "objekt": "Sophie Erneſtine Suhl",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "1820-1824"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "blieb",
+        "prädikat": "wohnhaft_in",
         "objekt": "Niesky",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1820-1824"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "wurde geführt",
+        "prädikat": "lehre_bei",
         "objekt": "Anſtalt zu Kleinwelke",
         "objekt_type": "organisation",
         "zeit": "1824"
