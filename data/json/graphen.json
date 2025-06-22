@@ -12655,7 +12655,7 @@
       {
         "subjekt": "Geſchw. Hohe",
         "subjekt_type": "person",
-        "prädikat": "adoptiert",
+        "prädikat": "Pflegemutter_von",
         "objekt": "Sophie Erneſtine Suhl",
         "objekt_type": "person",
         "zeit": "1817-1820"
@@ -12757,9 +12757,9 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "Von Geſchw. Tießen",
+        "subjekt": "Geſchw. Tießen",
         "subjekt_type": "person",
-        "prädikat": "adoptiert",
+        "prädikat": "Pflegervater_von",
         "objekt": "Sophie Erneſtine Suhl",
         "objekt_type": "person",
         "zeit": "1820-1824"
@@ -12789,20 +12789,20 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "wohnhaft_in",
         "objekt": "Chor der größeren Mädchen",
         "objekt_type": "organisation",
-        "zeit": "Am 4 Juni 1830"
+        "zeit": "4 Juni 1830"
       },
       {
-        "subjekt": "Geſchw. Sießen",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "veranlaſſung",
+        "prädikat": "zog nach",
         "objekt": "Niesky",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1830"
       }
     ]
   },
@@ -12813,27 +12813,36 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "konfirmiert",
-        "objekt": "sel. Br. Levin Reichel",
+        "prädikat": "konfirmiert_durch",
+        "objekt": "Br. Levin Reichel",
         "objekt_type": "person",
         "zeit": "1832"
       }
     ]
   },
   {
-    "text": "Vierzehn Tage nach meiner Konfirmation entſchlief zu meiner tiefen Betrübnis mein inniggeliebter Pflegevater Br.Tießen, worauf ſeine Witwe mit mir nach Herrnhut überſiedelte.",
+    "text": "Vierzehn Tage nach meiner Konfirmation entſchlief zu meiner tiefen Betrübnis mein inniggeliebter Pflegevater Br. Tießen, worauf ſeine Witwe mit mir nach Herrnhut überſiedelte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "Br.Tießen",
+        "subjekt": "Br. Tießen",
         "subjekt_type": "person",
         "prädikat": "gestorben_in",
         "objekt": "Herrnhut",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"1832"
+      },
+      {
+        "subjekt": "Br. Tießen",
+        "subjekt_type": "person",
+        "prädikat": "Pflegervater_von",
+        "objekt": "Sophie Erneſtine Suhl",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -12844,68 +12853,36 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "reiche Anregung und Belehrung",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhörte",
-        "objekt": "mein Flehen",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "Er",
-        "subjekt_type": "person",
-        "prädikat": "führte",
-        "objekt": "mich",
+        "prädikat": "tätig_mit",
+        "objekt": "Schweſter Dorothea Graf",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Er",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "führte",
-        "objekt": "Schweſtern Eliſe Walder und Dorothea Graf",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "blieb",
-        "objekt": "mancherlei recht niederbeugende Erfahrungen",
-        "objekt_type": "none",
-        "zeit": null
+        "prädikat": "tätig_mit",
+        "objekt": "Schweſter Eliſe Walder",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Einem im Jahr 1839 an mich ergangenen Ruf, als Lehrerin in der Anſtalt in Neufalz einzutreten, folgte ich mit Freuden, da ich mir gerade dieſe Thätigkelt an der Jugend gewünſcht hatte, und mir ausſprechen mußte, daß ich die in damaliger Zeit ſehr beliebte Buntſtikkerei, welche in Herrnhut meine ſpecielle Beſchäftigung bildete und nicht ſelten den Werluſt der Nachtruhe for- derte, auf die Dauer nicht würde aushalten können.",
+    "text": "Einem im Jahr 1839 an mich ergangenen Ruf, als Lehrerin in der Anſtalt in Neufalz einzutreten, folgte ich mit Freuden, da ich mir gerade dieſe Thätigkeit an der Jugend gewünſcht hatte, und mir ausſprechen mußte, daß ich die in damaliger Zeit ſehr beliebte Buntſtikkerei, welche in Herrnhut meine ſpecielle Beſchäftigung bildete und nicht ſelten den Werluſt der Nachtruhe forderte, auf die Dauer nicht würde aushalten können.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "folgte",
-        "objekt": "Anſtalt in Neufalz",
-        "objekt_type": "organisation",
+        "prädikat": "tätig_als",
+        "objekt": "Lehrerin in Anſtalt in Neufalz",
+        "objekt_type": "tätigkeit",
         "zeit": "1839"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Buntſtikkerei",
-        "objekt_type": "thing",
-        "zeit": null
       }
     ]
   },
@@ -12916,7 +12893,7 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "angekommen",
         "objekt": "Neuſalz",
@@ -12932,31 +12909,23 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "folgte",
-        "objekt": "Ruf des Herrn",
-        "objekt_type": "none",
+        "prädikat": "tätig_als",
+        "objekt": "Mitarbeiterin des Schwesterns Chores in Gnadenberg",
+        "objekt_type": "tätigkeit",
         "zeit": "November 1844"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Antrag",
-        "objekt_type": "none",
-        "zeit": null
       },
       {
         "subjekt": "Br. Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "berufen",
-        "objekt": "als Miſſionar nach Süd - Afrika",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Miſſionar nach Süd-Afrika",
+        "objekt_type": "tätigkeit",
+        "zeit": "1844"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "angekommen",
         "objekt": "Gnadenberg",
@@ -12966,31 +12935,31 @@
     ]
   },
   {
-    "text": "Am 10 Januar 1845 wurden wir in Niesky verlobt, wäh- rend unſere Srauung infolge ſeines mehrmonatlichen Aufenthalts in England erſt am 22 Juni flattfinden konnte: Wir verbanden uns gemeinſam in dem Entſchluß, nur für den Herrn zu leben und auf dem neuen Arbeitsfeld Ihm treulich zu dienen.",
+    "text": "Am 10 Januar 1845 wurden wir in Niesky verlobt, während unſere Srauung infolge ſeines mehrmonatlichen Aufenthalts in England erſt am 22 Juni flattfinden konnte: Wir verbanden uns gemeinſam in dem Entſchluß, nur für den Herrn zu leben und auf dem neuen Arbeitsfeld Ihm treulich zu dienen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "verlobt",
-        "objekt": "Niesky",
-        "objekt_type": "location",
+        "prädikat": "verlob_mit",
+        "objekt": "Br. Daniel Wilhelm Suhl",
+        "objekt_type": "person",
         "zeit": "10 Januar 1845"
       },
       {
-        "subjekt": "unſere Srauung",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "flattfinden",
-        "objekt": "22 Juni",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "verlob",
+        "objekt": "Nisky",
+        "objekt_type": "location",
+        "zeit": "10 Januar 1845"
       }
     ]
   },
   {
-    "text": "Am 3 Oktober 1845 glücklich in der Kapſtadt angekommen, reiſten meine ſeligen Eltern nach kurzem Aufenthalt in Groenefloof, wo der Vater feinen erſten holländiſchen Vortrag hielt, in Begleitung der Gefchwifter Klinghardt nach Gnadenthal, ihrem Beſtimmungsort, und langten daſelbſt am 22 Oktober an.",
+    "text": "Am 3 Oktober 1845 glücklich in der Kapſtadt angekommen, reiſten meine ſeligen Eltern nach kurzem Aufenthalt in Groenekloof, wo der Vater feinen erſten holländiſchen Vortrag hielt, in Begleitung der Gefchwifter Klinghardt nach Gnadenthal, ihrem Beſtimmungsort, und langten daſelbſt am 22 Oktober an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
@@ -12998,7 +12967,7 @@
       {
         "subjekt": "Gefchwifter Klinghardt",
         "subjekt_type": "person",
-        "prädikat": "reisten",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "22 Oktober"
@@ -13006,10 +12975,66 @@
       {
         "subjekt": "Gefchwifter Klinghardt",
         "subjekt_type": "person",
-        "prädikat": "reisten",
-        "objekt": "Groenefloof",
+        "prädikat": "reise_mit",
+        "objekt": "Br. Daniel Wilhelm Suhl",
+        "objekt_type": "person",
+        "zeit": "Oktober 1845"
+      },
+      {
+        "subjekt": "Br. Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "22 Oktober 1845"
+      },
+      {
+        "subjekt": "Gefchwifter Klinghardt",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "22 Oktober 1845"
+      },
+      {
+        "subjekt": "Br. Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Groenekloof",
+        "objekt_type": "location",
+        "zeit": "1845"
+      },
+      {
+        "subjekt": "Br. Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Kapstadt",
         "objekt_type": "location",
         "zeit": "3 Oktober 1845"
+      },
+      {
+        "subjekt": "Br. Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Kapstadt",
+        "objekt_type": "location",
+        "zeit": "1845"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Kapstadt",
+        "objekt_type": "location",
+        "zeit": "3 Oktober 1845"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Kapstadt",
+        "objekt_type": "location",
+        "zeit": "1845"
       }
     ]
   },
@@ -13020,9 +13045,9 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "der mit ſo reichen Gaben ausgerüſtete Diener ſeines Herrn",
+        "subjekt": "Br. Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "gestorben_in",
+        "prädikat": "gestorben_am",
         "objekt": "",
         "objekt_type": "",
         "zeit": "30 April 1858"
@@ -13030,25 +13055,41 @@
     ]
   },
   {
-    "text": "Infolge dieſes ſo ſchmerzlichen Ereigniſſes ſah ſich die liebe Mutter genötigt, mit mir, ihrer einzigen Tochter, 1859 nach Deutſchland. zurücdzufehren.",
+    "text": "Infolge dieſes ſo ſchmerzlichen Ereigniſſes ſah ſich die liebe Mutter genötigt, mit mir, ihrer einzigen Tochter, 1859 nach Deutſchland zurückzufahren.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
     "datei": "1884_Stuhl_S_E.xml",
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "die liebe Mutter",
+        "subjekt": "Br. Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "sich genötigt",
-        "objekt": "mit mir, ihrer einzigen Tochter",
+        "prädikat": "Vater_von",
+        "objekt": "einzigen Tochter (Suhl)",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Sophie Erneſtine Suhl",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "einzigen Tochter (Suhl)",
+        "objekt_type": "person",
+        "zeit": ""
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "zurückgekehrt",
         "objekt": "Deutſchland",
         "objekt_type": "location",
+        "zeit": "1859"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl",
+        "subjekt_type": "person",
+        "prädikat": "reise_mit",
+        "objekt": "einzigen Tochter (Suhl)",
+        "objekt_type": "person",
         "zeit": "1859"
       }
     ]
@@ -13060,25 +13101,28 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "sie",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
         "prädikat": "zog",
         "objekt": "Herrnhut",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Guſtav Ziegen",
         "subjekt_type": "person",
-        "prädikat": "Pflegebruder",
-        "objekt": "sie",
-        "objekt_type": "person"
+        "prädikat": "Pflegebruder_von",
+        "objekt": "Sophie Erneſtine Suhl",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
-        "subjekt": "Kleinwelker Anſtalt",
-        "subjekt_type": "organisation",
-        "prädikat": "abgegeben",
-        "objekt": "sie",
-        "objekt_type": "person"
+        "subjekt": "einzigen Tochter (Suhl)",
+        "subjekt_type": "person",
+        "prädikat": "lehre_bei",
+        "objekt": "Kleinwelker Anſtalt",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -13089,43 +13133,28 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Sophie Erneſtine Suhl",
         "subjekt_type": "person",
-        "prädikat": "wiedervereinigt_mit",
-        "objekt": "mir",
+        "prädikat": "traf",
+        "objekt": "einzigen Tochter (Suhl)",
         "objekt_type": "person",
         "zeit": "1863"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "einzigen Tochter (Suhl)",
         "subjekt_type": "person",
-        "prädikat": "wohnt_haft_in",
-        "objekt": "Neudietendorfer Anſtalt",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Lehrerin",
+        "objekt_type": "tätigkeit",
+        "zeit": "1868"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "einzigen Tochter (Suhl)",
         "subjekt_type": "person",
-        "prädikat": "tritt_ein_in",
+        "prädikat": "tätig_bei",
         "objekt": "Neudietendorfer Anſtalt",
         "objekt_type": "organisation",
         "zeit": "1868"
-      }
-    ]
-  },
-  {
-    "text": "Ihr brieflicher Verkehr mit mir während meines Zjährigen Aufenthalts in jener Gemeine ließ mich immer neue Blicke thun in die Tiefen ihrer zu jedem Opfer bereiten Mutterliebe.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/21031/rec/219",
-    "datei": "1884_Stuhl_S_E.xml",
-    "autor": "Sophie Erneſtine Suhl",
-    "graph": [
-      {
-        "subjekt": "Zjährigen Aufenthalts",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Gemeine",
-        "objekt_type": "organisation"
       }
     ]
   },
@@ -13136,49 +13165,25 @@
     "autor": "Sophie Erneſtine Suhl",
     "graph": [
       {
-        "subjekt": "Meine l. Frau",
+        "subjekt": "einzigen Tochter (Suhl)",
         "subjekt_type": "person",
-        "prädikat": "verlobt",
+        "prädikat": "verlob_mit",
         "objekt": "Br. Alexander Burkhardt",
         "objekt_type": "person",
         "zeit": "Mai 1870"
       },
       {
-        "subjekt": "Meine l. Frau",
+        "subjekt": "einzigen Tochter (Suhl)",
         "subjekt_type": "person",
-        "prädikat": "hat behalten",
-        "objekt": "ihres ſtill verlaufenden Lebens",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "kam entgegen",
-        "objekt": "ihrem Schwiegerſohn von der erſten Stunde unſerer Verbindung",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "erwidert",
-        "objekt": "ihrem Schwiegerſohn von der erſten Stunde unſerer Verbindung",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Meine l. Frau",
-        "subjekt_type": "person",
-        "prädikat": "sah als eine beſondere Freundlichkeit Gottes an",
-        "objekt": "dass fie ihr einziges Kind hier am Orte behalten durfte",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "verlob_in",
+        "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit": "Mai 1870"
       }
     ]
   },
   {
-    "text": "Lebenslauf des amt 18 Febrnar 1875 Deimigegongenen verwiiweten Bruders Johann Chriſtian Breutel.",
+    "text": "Lebenslauf des am 18 Februar 1875 heimgegangenen verwiiweten Bruders Johann Chriſtian Breutel.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
@@ -13186,9 +13191,10 @@
       {
         "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "geboren_am",
-        "objekt": "18 Febrnar 1875",
-        "objekt_type": "date"
+        "prädikat": "gestorben_am",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"18 Februar 1875"
       }
     ]
   },
@@ -13199,7 +13205,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Weißenburg am Sand",
@@ -13215,32 +13221,28 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "mein Bruder",
+        "subjekt": "mein Bruder (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "ging",
+        "prädikat": "berufen_nach",
         "objekt": "Suriname",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "meine ältere Schweſter",
+        "subjekt": "meine ältere Schweſter (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "ging",
+        "prädikat": "berufen_nach",
         "objekt": "Däniſch Weſtindien",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "meine juͤngere",
+        "subjekt": "meine juͤngere Schwester (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "ging",
+        "prädikat": "berufen",
         "objekt": "Ebersdorf",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Ihre 4 Kinder",
-        "subjekt_type": "person",
-        "prädikat": "führte",
-        "objekt": "Brüdergemeine",
-        "objekt_type": "organisation"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -13260,22 +13262,6 @@
     ]
   },
   {
-    "text": "Unter ihnen war beſonders einer, Namens Aſchenbach, mit dem ich unzertrennlich verbunden blieb.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
-    "datei": "1875_Breutel_J_C.xml",
-    "autor": "Johann Chriſtian Breutel",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "verbunden",
-        "objekt": "Aſchenbach",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
     "text": "Mein Freund Aſchenbach war mir ins Knabenchor nachgekommen und als Lehrling in die Apotheke eingetreten, durch ihn wurde eine mir gebliebene Liebe für Naturwiſſenſchaft geweckt, und er füllte eine Lücke aus, die mir ohne ihn noch ſchmerzlicher geweſen wäre.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
@@ -13284,18 +13270,26 @@
       {
         "subjekt": "Aſchenbach",
         "subjekt_type": "person",
-        "prädikat": "nachgekommen",
+        "prädikat": "wohnhaft_in",
         "objekt": "Knabenchor",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Aſchenbach",
         "subjekt_type": "person",
-        "prädikat": "eingetreten",
+        "prädikat": "lehre_bei",
         "objekt": "Apotheke",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Aſchenbach",
+        "subjekt_type": "person",
+        "prädikat": "freund_von",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -13306,7 +13300,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "aufgenommen",
         "objekt": "Brüderchor",
@@ -13322,11 +13316,19 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "bekam",
-        "objekt": "Antrag als Beutlergesell",
-        "objekt_type": "organisation",
+        "prädikat": "tätig_als",
+        "objekt": "Beutlergesell",
+        "objekt_type": "tätigkeit",
+        "zeit": "Frühjahr 1805"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
         "zeit": "Frühjahr 1805"
       }
     ]
@@ -13338,9 +13340,17 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "tätig_als",
+        "objekt": "Beutlergesell",
+        "objekt_type": "tätigkeit",
+        "zeit": "1808"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "1808"
@@ -13348,34 +13358,26 @@
     ]
   },
   {
-    "text": "Nach einer durch die Hitze ziemlich mühſeligen Fußreiſe fam ich am 5. Auguſt in Ebersdorf an und hatte die Freude, dort wieder meine geliebte Schweſter und meinen Freund Aſcheubach zu finden.",
+    "text": "Nach einer durch die Hitze ziemlich mühſeligen Fußreiſe kam ich am 5. Auguſt in Ebersdorf an und hatte die Freude, dort wieder meine geliebte Schweſter und meinen Freund Aſcheubach zu finden.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fand",
+        "prädikat": "traf",
         "objekt": "Aſcheubach",
         "objekt_type": "person",
-        "zeit": "5. August"
+        "zeit": "5. August 1808"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Schweſter",
-        "objekt_type": "person",
-        "zeit": "5. August"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Ebersdorf an",
+        "prädikat": "angekommen",
+        "objekt": "Ebersdorf",
         "objekt_type": "location",
-        "zeit": "5. August"
+        "zeit": "5. August 1808"
       }
     ]
   },
@@ -13386,20 +13388,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Vorsteher des led. Brüder-Chores in Gnadenfrei",
+        "prädikat": "berufen",
+        "objekt": "Vorsteher des led. Brüder-Chores in Gnadenfrei",
         "objekt_type": "organisation",
-        "zeit": "1814"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "dasselbst an",
-        "objekt_type": "location",
-        "zeit": "5. Mai 1814"
+        "zeit": "5 Mai 1814"
       }
     ]
   },
@@ -13410,7 +13404,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "ordinirt",
         "objekt": "Diakonus der Brüderkirche",
@@ -13418,12 +13412,12 @@
         "zeit": "31. Januar 1819"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Pfleger und Vorſteher der led. Brüder in Neuwied",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Pfleger und Vorſteher der led. Brüder in Neuwied",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -13434,11 +13428,11 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "trat meine Wanderung dahin an",
-        "objekt": "",
-        "objekt_type": "",
+        "prädikat": "reise_nach",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
         "zeit": "1. Juni"
       }
     ]
@@ -13450,11 +13444,11 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurde",
+        "prädikat": "tätig_als",
         "objekt": "Vicariat als Gemeinvorsteher",
-        "objekt_type": "organisation",
+        "objekt_type": "tätigkeit",
         "zeit": "1823"
       }
     ]
@@ -13466,28 +13460,28 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "mit meinem Reiſegefährten, Br. Röderer ab",
-        "objekt_type": "organization",
+        "prädikat": "reiſte_mit",
+        "objekt": "Br. Röderer",
+        "objekt_type": "person",
         "zeit": "9. Mai 1824"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "mit ihm einen angenehmen Beſuch in Montmirail",
+        "prädikat": "besuch",
+        "objekt": "Montmirail",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1824"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "durchwanderte",
-        "objekt": "mit ihm die Alpen",
+        "objekt": "die Alpen",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1824"
       }
     ]
   },
@@ -13498,12 +13492,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurde_ruf_gegeben",
+        "prädikat": "berufen_nach",
         "objekt": "Gemeine in Nisky",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "ich",
@@ -13514,12 +13508,12 @@
         "zeit": null
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fand",
+        "prädikat": "aufenthalt_in",
         "objekt": "Thun",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -13530,7 +13524,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "verlobt",
         "objekt": "A. Sophie Röderer",
@@ -13538,11 +13532,11 @@
         "zeit": "31. August"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "verbunden",
-        "objekt": "heil. Ehe",
-        "objekt_type": "organisation",
+        "prädikat": "verheiratet_mit",
+        "objekt": "A. Sophie Röderer",
+        "objekt_type": "person",
         "zeit": "16. September"
       }
     ]
@@ -13554,17 +13548,33 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "trate",
+        "prädikat": "verließ",
         "objekt": "Montabaur",
         "objekt_type": "location",
         "zeit": "27. Septbr"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "reisen_nach",
+        "objekt": "Nisky",
+        "objekt_type": "location",
+        "zeit": "27. Septbr"
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Montabaur",
+        "objekt_type": "location",
+        "zeit": "27. Septbr"
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "reisen_nach",
         "objekt": "Nisky",
         "objekt_type": "location",
         "zeit": "27. Septbr"
@@ -13578,12 +13588,20 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "meine gute Frau",
+        "subjekt": "A. Sophie Röderer",
         "subjekt_type": "person",
-        "prädikat": "zur Akoluthie angenommen",
+        "prädikat": "tätig_als",
+        "objekt": "Akoluthie",
+        "objekt_type": "tätichkeit",
+        "zeit": ""
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "tätig_in",
         "objekt": "Berthelsdorf",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -13594,51 +13612,60 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besuchten",
         "objekt": "v. Heynitzen's",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besuchen",
         "objekt": "Königshain",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "besuchten",
+        "objekt": "v. Heynitzen's",
+        "objekt_type": "person",
+        "zeit": ""
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "besuchen",
+        "objekt": "Königshain",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Am 15. Oktober wurden wir in Nisky mit Liebe aufgenommen, und ich fand gleich volle Be ſchäftigung, da mein Vorgänger, der ſel. Br. Goldmann, lang krank und im Mai heimgegangen war.",
+    "text": "Am 15. Oktober wurden wir in Nisky mit Liebe aufgenommen, und ich fand gleich volle Beſchäftigung, da mein Vorgänger, der ſel. Br. Goldmann, lang krank und im Mai heimgegangen war.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurden aufgenommen",
+        "prädikat": "mitglied_von",
+        "objekt": "Gemeine in Nisky",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Br. Goldmann",
+        "subjekt_type": "person",
+        "prädikat": "gestorben",
         "objekt": "Nisky",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "sel. Br. Goldmann",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "heimgegangen",
-        "objekt_type": null,
+        "objekt_type": "location",
         "zeit": "Mai"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "volle Be ſchäftigung",
-        "objekt_type": null,
-        "zeit": null
       }
     ]
   },
@@ -13649,7 +13676,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "wohnte",
         "objekt": "Synode",
@@ -13657,10 +13684,10 @@
         "zeit": "1825"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurde berufen",
-        "objekt": "Mitglied der ökonomiſchen Commitee",
+        "prädikat": "mitglied_von",
+        "objekt": "ökonomiſchen Commitee",
         "objekt_type": "organisation",
         "zeit": "1825"
       }
@@ -13673,25 +13700,84 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Carl Julius",
+        "subjekt": "Carl Julius Breutel",
         "subjekt_type": "person",
         "prädikat": "geboren_am",
-        "objekt": "6. August 1826",
-        "objekt_type": "date"
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"6. August 1826"
       },
       {
-        "subjekt": "John William",
+        "subjekt": "John William Breutel",
         "subjekt_type": "person",
         "prädikat": "geboren_am",
-        "objekt": "11. November 1828",
-        "objekt_type": "date"
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"11. November 1828"
       },
       {
-        "subjekt": "Francis William",
+        "subjekt": "Francis William Breutel",
         "subjekt_type": "person",
         "prädikat": "geboren_am",
-        "objekt": "24. Juni 1830",
-        "objekt_type": "date"
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"24. Juni 1830"
+      },
+      {
+        "subjekt": "Francis William Breutel",
+        "subjekt_type": "person",
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"1830-1831"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Carl Julius Breutel",
+        "objekt_type": "person",
+        "zeit":"6. August 1826"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "John William Breutel",
+        "objekt_type": "person",
+        "zeit":"11. November 1828"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "Vater_von",
+        "objekt": "Francis William Breutel",
+        "objekt_type": "person",
+        "zeit":"24. Juni 1830"
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "Carl Julius Breutel",
+        "objekt_type": "person",
+        "zeit":"6. August 1826"
+      },
+      {
+        "subjekt": "A. Sophie Röderer",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "John William Breutel",
+        "objekt_type": "person",
+        "zeit":"11. November 1828"
+      },
+      {
+        "subjekt": "A. Sophie Röderer (Breutel)",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "Francis William Breutel",
+        "objekt_type": "person",
+        "zeit":"24. Juni 1830"
       }
     ]
   },
@@ -13702,28 +13788,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf",
+        "prädikat": "berufen",
+        "objekt": "Vorſteher-Departement in der Unit.-Aelt.-Conferenz",
         "objekt_type": "organisation",
         "zeit": "25. Januar 1832"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ist",
-        "objekt": "Vorſteher-Departement",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ist",
-        "objekt": "Unit.-Aelt.-Conferenz",
-        "objekt_type": "organisation",
-        "zeit": null
       }
     ]
   },
@@ -13734,7 +13804,15 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "wohnhalt_in",
+        "objekt": "Berthelsdorf",
+        "objekt_type": "location",
+        "zeit": "15. Mai"
+      },
+      {
+        "subjekt": "A. Sophie Röderer (Breutel)",
         "subjekt_type": "person",
         "prädikat": "wohnhalt_in",
         "objekt": "Berthelsdorf",
@@ -13750,39 +13828,39 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Gemeinen Ebersdorf",
-        "objekt_type": "location",
+        "objekt_type": "organisation",
         "zeit": "1835"
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
-        "objekt": "Neudietendorf",
-        "objekt_type": "location",
+        "objekt": "Gemeine in Neudietendorf",
+        "objekt_type": "organisation",
         "zeit": "1835"
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
-        "objekt": "Gnadau",
-        "objekt_type": "location",
+        "objekt": "Gemeine Gnadenthal",
+        "objekt_type": "organisation",
         "zeit": "1835"
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
-        "objekt": "Chriſtiansfeld",
-        "objekt_type": "location",
+        "objekt": "Gemeine in Chriſtiansfeld",
+        "objekt_type": "organisation",
         "zeit": "1835"
       },
       {
-        "subjekt": "mir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Societät in Kopenhagen",
@@ -13798,97 +13876,49 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Emil",
+        "subjekt": "Emil Breutel",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "meine Arme",
-        "objekt_type": "thing",
-        "zeit": null
+        "prädikat": "geboren_am",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "17. Mai 1833"
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "ist",
-        "objekt": "unsers Julius",
+        "prädikat": "Vater_von",
+        "objekt": "Emil Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "17. Mai 1833"
       },
       {
-        "subjekt": "meine l. Frau",
+        "subjekt": "A. Sophie Röderer (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "Emil",
+        "prädikat": "Mutter_von",
+        "objekt": "Emil Breutel",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "die Freude",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "meine l. Frau",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "unseren Julius",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "unseren kleinen Emil",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": "17. Mai 1833"
       }
     ]
   },
   {
-    "text": "Im April 1840 erhielt ich den Auftrag zu einem Viſitakions Beſuch auf den Däniſch - Weſtindiſchen Inſeln, wohin mich meine gute Frau begleitete.",
+    "text": "Im April 1840 erhielt ich den Auftrag zu einem Viſitations Beſuch auf den Däniſch - Weſtindiſchen Inſeln, wohin mich meine gute Frau begleitete.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "den Auftrag",
-        "objekt_type": "organisation",
+        "prädikat": "besuch",
+        "objekt": "Däniſch - Weſtindiſchen Inſeln",
+        "objekt_type": "location",
         "zeit": "April 1840"
       },
       {
-        "subjekt": "meine gute Frau",
+        "subjekt": "A. Sophie Röderer (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "begleitete",
-        "objekt": "mich",
-        "objekt_type": "person",
-        "zeit": "April 1840"
-      },
-      {
-        "subjekt": "mich",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "begleitet von",
-        "objekt_type": "person",
-        "zeit": "April 1840"
-      },
-      {
-        "subjekt": "mich",
-        "subjekt_type": "person",
-        "prädikat": "besuchte",
+        "prädikat": "besuch",
         "objekt": "Däniſch - Weſtindiſchen Inſeln",
         "objekt_type": "location",
         "zeit": "April 1840"
@@ -13902,64 +13932,68 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Marie",
+        "subjekt": "Marie Breutel",
         "subjekt_type": "person",
         "prädikat": "geboren",
-        "objekt": "den 24. Nov. 1835",
-        "objekt_type": "date"
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"24. November 1835"
       },
       {
-        "subjekt": "Emil",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "brachten",
-        "objekt": "in die Unit.⸗Anſtalt",
-        "objekt_type": "organisation"
+        "prädikat": "Vater_von",
+        "objekt": "Marie Breutel",
+        "objekt_type": "person",
+        "zeit":"24. November 1835"
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "A. Sophie Röderer (Breutel)",
         "subjekt_type": "person",
-        "prädikat": "befand",
-        "objekt": "sich unſer Julius bereits in Nisky",
-        "objekt_type": "location"
+        "prädikat": "Mutter_von",
+        "objekt": "Marie Breutel",
+        "objekt_type": "person",
+        "zeit":"24. November 1835"
+      },
+      {
+        "subjekt": "Emil Breutel",
+        "subjekt_type": "person",
+        "prädikat": "lehre_bei",
+        "objekt": "Unit.⸗Anſtalt in Nisky",
+        "objekt_type": "organisation",
+        "zeit":""
+      },
+      {
+        "subjekt": "Julius Breutel",
+        "subjekt_type": "person",
+        "prädikat": "lehre_in",
+        "objekt": "Unit.⸗Anſtalt in Nisky",
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "v. Heynitzens",
         "subjekt_type": "person",
-        "prädikat": "nahmen",
-        "objekt": "in treue Pflege",
-        "objekt_type": "string"
+        "prädikat": "pfleger_von",
+        "objekt": "Marie Breutel",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Unter den herzlichſten Segenswünſchen von Geſchwiſtern und Freunden traten wir am 21. Sept. unſere Reiſe nach Altona an.",
+    "text": "Unter den herzlichſten Segenswünſchen von Geſchwiſtern und Freunden traten wir am 21. Sept. unſere Reiſe nach Altona an. Das Schiff, Johann Julius, ging erſt am 21. Okt. ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "unſere Reiſe",
+        "prädikat": "reise_nach",
+        "objekt": "Altona",
         "objekt_type": "organisation",
-        "zeit": "21. Sept."
-      }
-    ]
-  },
-  {
-    "text": "Das Schiff, Johann Julius, ging erſt am 21. Okt. ab.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
-    "datei": "1875_Breutel_J_C.xml",
-    "autor": "Johann Chriſtian Breutel",
-    "graph": [
-      {
-        "subjekt": "Johann Julius",
-        "subjekt_type": "person",
-        "prädikat": "ging erſt am",
-        "objekt": "Schiff",
-        "objekt_type": "organisation",
-        "zeit": "21. Okt."
+        "zeit": "21. October"
       }
     ]
   },
@@ -13970,9 +14004,9 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "landeten",
+        "prädikat": "angekommen_in",
         "objekt": "St. Thomas",
         "objekt_type": "location",
         "zeit": "18. December"
@@ -13986,18 +14020,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "v. Scholten",
+        "subjekt": "General⸗Gouverneur v. Scholten",
         "subjekt_type": "person",
-        "prädikat": "hatte",
+        "prädikat": "aufenthalt_in",
         "objekt": "St. Croix",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "v. Scholten",
-        "subjekt_type": "person",
-        "prädikat": "erbaut",
-        "objekt": "Schulhäuser",
-        "objekt_type": "organisation"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -14010,24 +14038,24 @@
       {
         "subjekt": "Brüder Staude",
         "subjekt_type": "person",
-        "prädikat": "begleiteten",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "6. Juni"
       },
       {
-        "subjekt": "Freitag",
+        "subjekt": "Br. Freitag",
         "subjekt_type": "person",
-        "prädikat": "begleiteten",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "6. Juni"
       },
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurden",
-        "objekt": "nach St. Kitts gebracht",
+        "prädikat": "reise_nach",
+        "objekt": "St. Kitts",
         "objekt_type": "location",
         "zeit": "6. Juni"
       }
@@ -14040,11 +14068,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "St. Kitts",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -14055,17 +14084,9 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fuhren",
-        "objekt": "Dampfschiff",
-        "objekt_type": "organisation",
-        "zeit": "23. Juni"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "landeten",
+        "prädikat": "angekommen_in",
         "objekt": "Antigua",
         "objekt_type": "location",
         "zeit": "23. Juni"
@@ -14079,20 +14100,28 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "empfangen",
-        "objekt": "Geſchw. Zetſche und von Br. Gardin",
+        "prädikat": "traf",
+        "objekt": "Geſchw. Zetſche",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "empfangen",
+        "prädikat": "traf",
         "objekt": "Br. Gardin",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gracehill",
+        "objekt_type": "location",
+        "zeit": ""
       }
     ]
   },
@@ -14105,18 +14134,18 @@
       {
         "subjekt": "Br. Hartwig",
         "subjekt_type": "person",
-        "prädikat": "hat holte",
-        "objekt": "uns",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "25. Juni"
       },
       {
         "subjekt": "Br. Hartwig",
         "subjekt_type": "person",
-        "prädikat": "nahm nach",
+        "prädikat": "reise_mit",
         "objekt": "St. Johns",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "25. Juni"
       }
     ]
   },
@@ -14127,42 +14156,10 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "verabschiedeten",
-        "objekt": "unsere lieben Geschwister",
-        "objekt_type": "person",
-        "zeit": "13 Juli"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "begleiteten",
-        "objekt": "unsere lieben Geschwister",
-        "objekt_type": "person",
-        "zeit": "13 Juli"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reichten",
-        "objekt": "Schwarze und Braune die Hände",
-        "objekt_type": "person",
-        "zeit": "13 Juli"
-      },
-      {
-        "subjekt": "unsere lieben Geschwister",
-        "subjekt_type": "person",
-        "prädikat": "begleiteten",
-        "objekt": "wir",
-        "objekt_type": "person",
-        "zeit": "13 Juli"
-      },
-      {
-        "subjekt": "Schwarze und Braune",
-        "subjekt_type": "person",
-        "prädikat": "reichten",
-        "objekt": "uns die Hände",
+        "prädikat": "verließ",
+        "objekt": "St. Johns",
         "objekt_type": "person",
         "zeit": "13 Juli"
       }
@@ -14179,7 +14176,8 @@
         "subjekt_type": "person",
         "prädikat": "hatte für alles Nöthige auf dem Schiffe",
         "objekt": "William Alfred",
-        "objekt_type": "organisation"
+        "objekt_type": "organisation",
+        "zeit":""
       },
       {
         "subjekt": "Br. Harwey",
