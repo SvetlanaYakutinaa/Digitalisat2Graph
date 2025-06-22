@@ -14184,7 +14184,8 @@
         "subjekt_type": "person",
         "prädikat": "ordnete in unſrer kleinen Kajüte",
         "objekt": "unsere kleine Kajüte",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
