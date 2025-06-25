@@ -14142,7 +14142,7 @@
       {
         "subjekt": "Br. Hartwig",
         "subjekt_type": "person",
-        "prädikat": "reise_mit",
+        "prädikat": "reise_nach",
         "objekt": "St. Johns",
         "objekt_type": "location",
         "zeit": "25. Juni"
@@ -14166,74 +14166,34 @@
     ]
   },
   {
-    "text": "Unſer l. Br. Hartwig hatte für alles Nöthige auf dem Schiffe William Alfred, das mit Zucker befrachtet war, geſorgt, und Br. Harwey ordnete in unſrer kleinen Kajüte alles ſo gut, daß wir mit unſrer kleinen Zöllner, die wir mitnahmen, uns bald heimiſch fühlten.",
+    "text": "Am 24. Auguſt landete unſer Schiff im London-Dock, wir wurden von unſern l. Brüdern Mallalieu und La Trobe aufs freundlichſte aufgenommen und unſer Aufenthalt wurde uns auch von andern Freunden angenehm gemacht.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Br. Hartwig",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "hatte für alles Nöthige auf dem Schiffe",
-        "objekt": "William Alfred",
-        "objekt_type": "organisation",
-        "zeit":""
-      },
-      {
-        "subjekt": "Br. Harwey",
-        "subjekt_type": "person",
-        "prädikat": "ordnete in unſrer kleinen Kajüte",
-        "objekt": "unsere kleine Kajüte",
-        "objekt_type": "location",
-        "zeit":""
-      }
-    ]
-  },
-  {
-    "text": "Am 24. Auguſt landete unſer Schiff im London-Dock. wir wurden von unſern l. Brüdern Mallalieu und La Trobe aufs freundlichſte aufgenommen und unſer Aufenthalt wurde uns auch von andern Freunden angenehm gemacht.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
-    "datei": "1875_Breutel_J_C.xml",
-    "autor": "Johann Chriſtian Breutel",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "unſern l. Brüdern Mallalieu und La Trobe",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufenthalt",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Brüder Mallalieu",
         "objekt_type": "person",
         "zeit": "24. August"
-      }
-    ]
-  },
-  {
-    "text": "wir wurden von unſern l. Brüdern Mallalieu und La Trobe aufs freundlichſte aufgenommen und unſer Aufenthalt wurde uns auch von andern Freunden angenehm gemacht.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
-    "datei": "1875_Breutel_J_C.xml",
-    "autor": "Johann Chriſtian Breutel",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "l. Brüdern Mallalieu und La Trobe",
-        "objekt_type": "organisation",
-        "zeit": null
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "unser Aufenthalt",
-        "objekt": "andern Freunden",
+        "prädikat": "angekommen_in",
+        "objekt": "london",
+        "objekt_type": "location",
+        "zeit": "24. August"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "aufgenommen",
+        "objekt": "Brüder La Trobe",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "24. August"
       }
     ]
   },
@@ -14244,16 +14204,17 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reisen_mit",
         "objekt": "Br. La Trobe",
-        "objekt_type": "person"
+        "objekt_type": "person",
+        "zeit":"11 Septr."
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Sale",
         "objekt_type": "location",
         "zeit": "11 Septr."
@@ -14267,20 +14228,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "besuchen",
-        "objekt": "Gemeinen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "sollen",
+        "prädikat": "besuch",
         "objekt": "Hulllagen",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -14293,42 +14246,26 @@
       {
         "subjekt": "Br. Hamel",
         "subjekt_type": "person",
-        "prädikat": "abholte",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "21. September"
       },
       {
         "subjekt": "Geſchw. Garve",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "21. September"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "gingen",
-        "objekt": "auf das Dampfſchiff Rob Roy",
+        "prädikat": "angekommen_in",
+        "objekt": "Hamburg",
         "objekt_type": "location",
-        "zeit": "18. September"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "brachte",
-        "objekt": "Rob Roy",
-        "objekt_type": "location",
-        "zeit": "21."
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "wurden",
-        "objekt": "von den l. Geſchw. Garve aufgenommen",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "21. September"
       }
     ]
   },
@@ -14341,16 +14278,26 @@
       {
         "subjekt": "Br. Röntgen",
         "subjekt_type": "person",
-        "prädikat": "reiste_nach",
-        "objekt": "Odenſe",
-        "objekt_type": "location"
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "reiſten_nach",
         "objekt": "Chriſtiansfeld",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "reiſten_nach",
+        "objekt": "Odenſe",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -14361,7 +14308,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "kamen",
         "objekt": "Chriſtiansfeld",
@@ -14377,7 +14324,7 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "kamen",
         "objekt": "Nisky",
@@ -14385,28 +14332,20 @@
         "zeit": "22. Oktober"
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fanden",
-        "objekt": "Emil",
+        "prädikat": "traf",
+        "objekt": "Emil Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "22. Oktober"
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "Carl Julius Breutel",
         "subjekt_type": "person",
-        "prädikat": "munter",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
-      },
-      {
-        "subjekt": "Emil",
-        "subjekt_type": "person",
-        "prädikat": "munter",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "22. Oktober"
       }
     ]
   },
@@ -14417,36 +14356,28 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "fuhren",
+        "prädikat": "reise_nach",
         "objekt": "Königshain",
         "objekt_type": "location",
-        "zeit": "Am 23."
-      }
-    ]
-  },
-  {
-    "text": "Unſre 1. Geſchwiſter in Süd-Afrika hatten Jahr 1853 um einen Beſuch aus der Unit.-Aelta Conferenz gebeten, der mir aufgetragen wurde, meine treue Lebensgefährtin ſollte mich begleiten.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
-    "datei": "1875_Breutel_J_C.xml",
-    "autor": "Johann Chriſtian Breutel",
-    "graph": [
-      {
-        "subjekt": "meine treue Lebensgefährtin",
-        "subjekt_type": "person",
-        "prädikat": "sollte mich begleiten",
-        "objekt": "den Beſuch aus der Unit.-Aelta Conferenz",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": "23. October"
       },
       {
-        "subjekt": "Unſre 1. Geſchwiſter",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "hatten Jahr 1853 um einen Beſuch aus der Unit.-Aelta Conferenz gebeten",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "1853"
+        "prädikat": "reise_mit",
+        "objekt": "Emil Breutel",
+        "objekt_type": "person",
+        "zeit": "23. October"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "reise_mit",
+        "objekt": "Carl Julius Breutel",
+        "objekt_type": "person",
+        "zeit": "23. October"
       }
     ]
   },
@@ -14457,52 +14388,44 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſe_nach",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "11. Juli"
+        "zeit": "11. Juli 1853"
       },
       {
         "subjekt": "Br. La Trobe",
         "subjekt_type": "person",
-        "prädikat": "uns viele Liebe bewies",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Br. Mallalieu",
         "subjekt_type": "person",
-        "prädikat": "wieder freundliche Aufsnahme fand",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "unſer l. Geſchwiſter und Freunde",
-        "subjekt_type": "person",
-        "prädikat": "begleitet",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Berthelsdorf",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "location",
-        "prädikat": "unſer l. verließen",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": "11. Juli"
-      },
-      {
-        "subjekt": "Neuwied",
-        "subjekt_type": "location",
-        "prädikat": "über reiſten",
-        "objekt": "London",
+        "prädikat": "verließ",
+        "objekt": "Berthelsdorf",
         "objekt_type": "location",
-        "zeit": "11. Juli"
+        "zeit": "11. Juli 1853"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
+        "zeit": "11. Juli 1853"
       }
     ]
   },
@@ -14513,20 +14436,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſe_nach",
         "objekt": "Southampton",
         "objekt_type": "location",
-        "zeit": "13. August"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "quartirten",
-        "objekt": "Queen of the South",
-        "objekt_type": "organisation",
-        "zeit": "14."
+        "zeit": "13. August 1853"
       }
     ]
   },
@@ -14537,12 +14452,12 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "unser Schiff",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "ließ die Anker fallen",
+        "prädikat": "angekommen_in",
         "objekt": "Tafelbai",
         "objekt_type": "location",
-        "zeit": "1. Oktober"
+        "zeit": "1. Oktober 1853"
       }
     ]
   },
@@ -14555,34 +14470,34 @@
       {
         "subjekt": "Herr Juritz",
         "subjekt_type": "person",
-        "prädikat": "begrüßt",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": "Oktober 1853"
       },
       {
         "subjekt": "Brüder Kölbing",
         "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "aufs Deck",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "Oktober 1853"
       },
       {
-        "subjekt": "Kühn",
+        "subjekt": "Br. Kühn",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "aufs Deck",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "Oktober 1853"
       },
       {
-        "subjekt": "Franke",
+        "subjekt": "Br. Franke",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "aufs Deck",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "Oktober 1853"
       }
     ]
   },
@@ -14595,23 +14510,34 @@
       {
         "subjekt": "Br. Ghriftenfen",
         "subjekt_type": "person",
-        "prädikat": "begleitet",
+        "prädikat": "reise_nach",
         "objekt": "Groenekloof",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Geſchw. Wedemanun",
-        "subjekt_type": "person",
-        "prädikat": "kehrten von",
-        "objekt": "Patmos",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Br. Ghriftenfen",
         "subjekt_type": "person",
-        "prädikat": "fuhr",
-        "objekt": "Mamre",
-        "objekt_type": "location"
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit":""
+      },
+      {
+        "subjekt": "Geſchw. Wedemanun",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Patmos",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Groenekloof (Mamre)",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -14622,83 +14548,92 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Groenekloof (Mamre)",
+        "objekt_type": "location",
+        "zeit":""
+      },
+      {
         "subjekt": "Geſchw. Kühn",
         "subjekt_type": "person",
-        "prädikat": "fuhren",
-        "objekt": "Mamre",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "fuhren",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "28 Oktober"
+        "zeit":"28 Oktober"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurden",
+        "prädikat": "reise_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "31."
+        "zeit":"28 Oktober"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "31. October"
+      },
+      {
+        "subjekt": "Geſchw. Kühn",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "31. October"
       }
     ]
   },
   {
-    "text": "Am 26. November trat ich mit Br. Kölbing die Reiſe nach unſern unterländiſchen Gemeinen: Clarkſon, Enon, Silo und dem abgebrannten Goſen an.",
+    "text": "Am 26. November trat ich mit Br. Kölbing die Reiſe nach unſern unterländiſchen Gemeinen Clarkſon, Enon, Silo und dem abgebrannten Goſen an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Reiſe nach unſern unterländiſchen Gemeinen",
+        "prädikat": "reise_nach",
+        "objekt": "Gemeine Clarkſon",
         "objekt_type": "organisation",
         "zeit": "26. November"
       },
       {
         "subjekt": "Br. Kölbing",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Reiſe nach unſern unterländiſchen Gemeinen",
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "26. November"
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Gemeine in Enon",
         "objekt_type": "organisation",
         "zeit": "26. November"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Clarkſon",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "reise_nach",
+        "objekt": "Gemeine in Silo",
+        "objekt_type": "organisation",
+        "zeit": "26. November"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Enon",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Silo",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "trat",
-        "objekt": "Goſen",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "reise_nach",
+        "objekt": "Gemeine in Goſen",
+        "objekt_type": "organisation",
+        "zeit": "26. November"
       }
     ]
   },
