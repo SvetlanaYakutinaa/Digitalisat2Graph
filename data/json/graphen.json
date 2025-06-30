@@ -14851,84 +14851,44 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "hat halten können",
+        "prädikat": "tätig_als",
         "objekt": "Ordinationen zu Presbytern und Diakonen",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "tätichkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "habe halten können",
-        "objekt": "Ordinationen zu Presbytern und Diakonen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "konnte",
-        "objekt": "Arbeit",
-        "objekt_type": "thing",
-        "zeit": "11. Juli"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "konnten",
-        "objekt": "Füße des Heilandes",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
-        "objekt": "Ordinationen zu Presbytern und Diakonen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "konnte",
-        "objekt": "Arbeit",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "habe",
+        "prädikat": "tätig_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "habe",
+        "prädikat": "tätig_in",
         "objekt": "Silo",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "habe",
+        "prädikat": "tätig_in",
         "objekt": "Elim",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "habe",
+        "prädikat": "tätig_in",
         "objekt": "Mamre",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -14941,26 +14901,26 @@
       {
         "subjekt": "Br. Franke",
         "subjekt_type": "person",
-        "prädikat": "war uns ein treuer, sehr lieber Begleiter",
-        "objekt": "uns",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "17. Juli"
       },
       {
         "subjekt": "Br. Franke",
         "subjekt_type": "person",
-        "prädikat": "war uns ein treuer, sehr lieber Begleiter",
+        "prädikat": "reise_nach",
         "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "17. Juli"
       },
       {
-        "subjekt": "Br. Franke",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "war uns ein treuer, sehr lieber Begleiter",
-        "objekt": "17. Juli",
-        "objekt_type": "date",
-        "zeit": null
+        "prädikat": "reise_nach",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "17. Juli"
       }
     ]
   },
@@ -14973,10 +14933,10 @@
       {
         "subjekt": "Dr. Piccard",
         "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "den Brüdern",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Arzt",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -14989,55 +14949,47 @@
       {
         "subjekt": "Herr Juritz",
         "subjekt_type": "person",
-        "prädikat": "hatte sein Haus",
-        "objekt": "uns",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Brüder Kühn",
         "subjekt_type": "person",
-        "prädikat": "begleiteten uns",
-        "objekt": "uns",
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Brüder Franke",
         "subjekt_type": "person",
-        "prädikat": "begleiteten uns",
-        "objekt": "uns",
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
         "subjekt": "Brüder Hartmann",
         "subjekt_type": "person",
-        "prädikat": "begleiteten uns",
-        "objekt": "uns",
+        "prädikat": "reise_mit",
+        "objekt": "Johann Chriſtian Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Am 6 September nahmen wir in Southampton von unſerm Argo Abſchied und wurden in London mit Yiete aufgenommen.",
+    "text": "Am 6 September nahmen wir in Southampton von unſerm Argo Abſchied und wurden in London mit Liebe aufgenommen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "nahmen",
-        "objekt": "unsrem Argo Abſchied",
-        "objekt_type": "location",
-        "zeit": "6 September"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "wurden",
+        "prädikat": "angekommen_in",
         "objekt": "London",
         "objekt_type": "location",
         "zeit": "6 September"
@@ -15045,78 +14997,74 @@
     ]
   },
   {
-    "text": "Nach einem sehr angenehmen Aufenthalt in London führen wir am 16 September mit dem Dampfschiff nach Rotterdam und von da nach Zeiſt, wo uns die rege Theilnahme an unſerm Miſſfionswerk, namentlich in Süd- Afrika, ungemein ermunternd war.",
+    "text": "Nach einem sehr angenehmen Aufenthalt in London führen wir am 16 September mit dem Dampfschiff nach Rotterdam und von da nach Zeiſt, wo uns die rege Theilnahme an unſerm Miſſfionswerk, namentlich in Süd-Afrika, ungemein ermunternd war.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reisen_mit",
-        "objekt": "Dampfschiff",
-        "objekt_type": "thing"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
+        "prädikat": "reise_nach",
         "objekt": "Rotterdam",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reisen_mit",
+        "prädikat": "reisen_nach",
         "objekt": "Zeiſt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Am 26 Septbr. verließen wir das uns ſo lieb gewordene Zeiſt und reiſten wach Neuwied, wo wir schöne Tage, reich an genuß für Leib und Seel verlepten.",
+    "text": "Am 26 Septbr. verließen wir das uns ſo lieb gewordene Zeiſt und reiſten nach Neuwied, wo wir schöne Tage, reich an genuß für Leib und Seel verlepten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reiſten_nach",
         "objekt": "Neuwied",
+        "objekt_type": "location",
+        "zeit": "26 Septbr."
+      },
+      {
+        "subjekt": "Johann Chriſtian Breutel",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Zeist",
         "objekt_type": "location",
         "zeit": "26 Septbr."
       }
     ]
   },
   {
-    "text": "Am 14 Oktover zogen wir wieder mit Dank gegen unſern treuen Herrn in unſere Wohnung ein, auſs freundlichſte von unſern Geſchwiſtern in Berthelsdorf begrüßt.",
+    "text": "Am 14 Oktober zogen wir wieder mit Dank gegen unſern treuen Herrn in unſere Wohnung ein, auſs freundlichſte von unſern Geſchwiſtern in Berthelsdorf begrüßt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210",
     "datei": "1875_Breutel_J_C.xml",
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "zogen",
-        "objekt": "unſere Wohnung",
+        "prädikat": "zog_nach",
+        "objekt": "Berthelsdorf",
         "objekt_type": "location",
         "zeit": "14 Oktober"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "begrüßt",
-        "objekt": "unſern Geſchwiſtern in Berthelsdorf",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
@@ -15129,18 +15077,26 @@
       {
         "subjekt": "Geſchw Juit",
         "subjekt_type": "person",
-        "prädikat": "war mit",
-        "objekt": "Marie",
+        "prädikat": "reise_mit",
+        "objekt": "Marie Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "Unſere l. Geſchw Juit",
+        "subjekt": "Geſchw Juit",
         "subjekt_type": "person",
-        "prädikat": "war entgegen gekommen",
+        "prädikat": "traf_in",
         "objekt": "Löbau",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
+      },
+      {
+        "subjekt": "Geſchw Juit",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -15151,44 +15107,36 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Julius",
+        "subjekt": "Julius Breutel",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Arbeiter des Gemeinleins",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "berufen_nach",
+        "objekt": "Haarlem",
+        "objekt_type": "location",
+        "zeit": ""
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "hat",
-        "objekt": "Gattin, geborene Raillard",
+        "prädikat": "Vater_von",
+        "objekt": "Julius Breutel",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       },
       {
-        "subjekt": "selige Mutter",
+        "subjekt": "Julius Breutel",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Freude",
-        "objekt_type": "none",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Arbeiter des Gemeinleins",
+        "objekt_type": "tätichkeit",
+        "zeit": ""
       },
       {
-        "subjekt": "Julius",
+        "subjekt": "Julius Breutel",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "von seiner Gattin, geborenen Raillard, noch vor seinem Ende gesehen",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "Haarlem",
-        "subjekt_type": "location",
-        "prädikat": "wo",
-        "objekt": "Julius einen Ruf als Arbeiter des Gemeinleins erhielt",
-        "objekt_type": "none",
-        "zeit": null
+        "prädikat": "Ehemann_von",
+        "objekt": "Breutel, geb. Raillard",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -15199,44 +15147,44 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "icJohann Chriſtian Breutelh",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "Reise",
+        "prädikat": "reise_über",
+        "objekt": "Zeiſt",
         "objekt_type": "location",
         "zeit": "1864"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiste",
-        "objekt": "Neuwied und Zeiſt nach Haarlem",
+        "prädikat": "reiste_über",
+        "objekt": "Neuwied",
         "objekt_type": "location",
         "zeit": "1864"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "reiste",
-        "objekt": "über Baſel",
+        "prädikat": "reiste_über",
+        "objekt": "Haarlem",
         "objekt_type": "location",
         "zeit": "1864"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
-        "objekt": "Eltern meiner lieben Schwiegertochter",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "rückreise_über",
+        "objekt": "Baſel",
+        "objekt_type": "location",
+        "zeit": "1864"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "Reise in die Schweizer Thäler",
+        "prädikat": "reise_nach",
+        "objekt": "Thäler",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1864"
       }
     ]
   },
@@ -15247,10 +15195,10 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "Emil",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
         "prädikat": "besucht",
-        "objekt": "meinen Sohn Emil",
+        "objekt": "Emil Breutel",
         "objekt_type": "person",
         "zeit": "1865"
       }
@@ -15265,18 +15213,10 @@
       {
         "subjekt": "Br. Guſtav Baer",
         "subjekt_type": "person",
-        "prädikat": "hat vorgeschlagen",
-        "objekt": "Marie",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Marie Breutel",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Marie",
-        "subjekt_type": "person",
-        "prädikat": "wurde angesprochen",
-        "objekt": "Br. Guſtav Baer",
-        "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -15289,14 +15229,6 @@
       {
         "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location",
-        "zeit": "30 April 1858"
-      },
-      {
-        "subjekt": "Daniel Wilhelm Suhl",
-        "subjekt_type": "person",
         "prädikat": "gestorben_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
@@ -15305,26 +15237,18 @@
     ]
   },
   {
-    "text": "Er ſchreibt in demſelben : Am erſten April 1813 erblickte ich in Ebersödorf, wo damals meine lieben Eltern die Pflege der auswärtigen Geſchwiſter in der Umgegend zu beſorgen hatten, das Licht der Welt, und wurde am nächſten Tag durch die heilige Taufe der chriftlichen Kirche einverleibt.",
+    "text": "Er ſchreibt in demſelben: Am erſten April 1813 erblickte ich in Ebersödorf, wo damals meine lieben Eltern die Pflege der auswärtigen Geſchwiſter in der Umgegend zu beſorgen hatten, das Licht der Welt, und wurde am nächſten Tag durch die heilige Taufe der chriftlichen Kirche einverleibt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "erblickte",
-        "objekt": "das Licht der Welt",
-        "objekt_type": "none",
-        "zeit": "erſten April 1813"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "durch die heilige Taufe der chriftlichen Kirche einverleibt",
-        "objekt_type": "none",
-        "zeit": "am nächſten Tag"
+        "prädikat": "geboren_in",
+        "objekt": "Ebersdorf",
+        "objekt_type": "location",
+        "zeit": "1 April 1813"
       }
     ]
   },
@@ -15335,60 +15259,28 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "wurde eingeführt",
+        "prädikat": "lehre_in",
         "objekt": "Unitäts-Anſtalt",
         "objekt_type": "organisation",
         "zeit": "10 Juni 1818"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde abgegeben",
-        "objekt": "Anſtalt",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde nicht angenommen",
-        "objekt": "Königsfeld",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
   {
-    "text": "Im Auguſt deſſelben Jahres trat ih denn in das Pädagogium ein mit dem Vorſatz, meine Zeit gut anzuwenden und meinen Vorgeſeßten zur Freude zu fein; ich war dabei ziemlich vergnügt, zumal da mich im Herbſt deſſelben Jahres meine lieben Eltern von Königsfeld aus, wohin fie 1819 aus der Schweiz gekommen waren, zum erſtenmal nach einer Trennung von acht und einem halben Jahr beſuchten.",
+    "text": "Im Auguſt deſſelben Jahres trat ich denn in das Pädagogium ein mit dem Vorſatz, meine Zeit gut anzuwenden und meinen Vorgeſeßten zur Freude zu fein; ich war dabei ziemlich vergnügt, zumal da mich im Herbſt deſſelben Jahres meine lieben Eltern von Königsfeld aus, wohin sie 1819 aus der Schweiz gekommen waren, zum erſtenmal nach einer Trennung von acht und einem halben Jahr beſuchten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "trat ein",
         "objekt": "Pädagogium",
         "objekt_type": "organisation",
-        "zeit": "Auguſt deſſelben Jahres"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Königsfeld",
-        "objekt_type": "location",
-        "zeit": "im Herbſt deſſelben Jahres"
-      },
-      {
-        "subjekt": "meine l. Eltern",
-        "subjekt_type": "person",
-        "prädikat": "besuchten",
-        "objekt": "Königsfeld",
-        "objekt_type": "location",
-        "zeit": "1819"
+        "zeit": "Auguſt 1818"
       }
     ]
   },
@@ -15399,11 +15291,12 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "lehre_bei",
         "objekt": "Seminarium",
-        "objekt_type": "organisation"
+        "objekt_type": "organisation",
+        "zeit":"1832"
       }
     ]
   },
@@ -15414,11 +15307,11 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "eingtraten",
-        "objekt": "Seminarium",
-        "objekt_type": "organisation",
+        "prädikat": "lehre_in",
+        "objekt": "Gnadenfeld",
+        "objekt_type": "location",
         "zeit": "1832"
       }
     ]
@@ -15430,60 +15323,29 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "folgte",
+        "prädikat": "tätig_bei",
         "objekt": "Unitäts-Ansſtalt in Nisky",
         "objekt_type": "organisation",
         "zeit": "1834"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wohnte",
-        "objekt": "Berthelsdorf",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
   {
-    "text": "Im Jahr 1840 erhielt er einen Ruf als Brüderpfleger und Mitprediger in Neuſalz, und da Bruder Kohlmeister, welcher die Diaspora in der dortigen Umgegend zu bedienen hakte, bei ſeinem hohen Alter die Beſuche nicht mehr, oder doch nur ſeiten zu machen im Stande war, wurde ihm auch dieſer Auftrag zuertheilt.",
+    "text": "Im Jahr 1840 erhielt er einen Ruf als Brüderpfleger und Mitprediger in Neuſalz, und da Bruder Kohlmeister, welcher die Diaspora in der dortigen Umgegend zu bedienen hatte, bei ſeinem hohen Alter die Beſuche nicht mehr, oder doch nur ſeiten zu machen im Stande war, wurde ihm auch dieſer Auftrag zuertheilt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
+      
       {
-        "subjekt": "Bruder Kohlmeister",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "in der Lage",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Kohlmeister",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Mitprediger",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1840"
-      },
-      {
-        "subjekt": "Bruder Kohlmeister",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Brüderpfleger",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1840"
-      },
-      {
-        "subjekt": "Bruder Kohlmeister",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "in Neuſalz",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Brüderpfleger und Mitprediger in Neuſalz",
+        "objekt_type": "tätichkeit",
+        "zeit": "1840"
       }
     ]
   },
@@ -15494,26 +15356,36 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "zog",
-        "objekt": "Neuſalz",
-        "objekt_type": "location"
+        "prädikat": "verließ",
+        "objekt": "Nisky",
+        "objekt_type": "location",
+        "zeit":"ca 1840"
       },
       {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Diaconus der Brüderficche",
-        "objekt_type": "organisation",
-        "zeit": "5 Mai"
-      },
-      {
-        "subjekt": "Bruder Cürie",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "ordinirt",
-        "objekt": "er",
-        "objekt_type": "person"
+        "objekt": "Diaconus der Brüderficche",
+        "objekt_type": "organisation",
+        "zeit": "5 Mai (1840)"
+      },
+      {
+        "subjekt": "Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "ordinirt_durch",
+        "objekt": "Bruder Cürie",
+        "objekt_type": "person",
+        "zeit":"5 Mai (1840)"
+      },
+      {
+        "subjekt": "Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "zog nach",
+        "objekt": "Neuſalz",
+        "objekt_type": "location",
+        "zeit":"ca 1840"
       }
     ]
   },
@@ -15524,53 +15396,60 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Grünberg",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Sagan",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Sſchirnau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Glogau",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Liſſa",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Frauſtadt",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "besucht",
         "objekt": "Bojanowo",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -15581,48 +15460,44 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "hat den Ruf angenommen",
-        "objekt": "den Ruf zum Miſſionsdienſt in Süd-Afrika",
+        "prädikat": "berufen",
+        "objekt": "Miſſionsdienſt in Süd-Afrika",
         "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Zuvörderſt ſollte er auf einige Zeit nach England gehen, um sish im der engliſchen Sprache zu vervollkommnen, und reiſte daher im November über Neuwied und Zeiſt nach England. Er hielt ſich dort einige Monate in Fulneck, ſpäter in London auf.",
+    "text": "Zuvörderſt ſollte er auf einige Zeit nach England gehen, um sich im der engliſchen Sprache zu vervollkommnen, und reiſte daher im November über Neuwied und Zeiſt nach England.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "reiste_nach",
         "objekt": "England",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"November ca. 1845"
+      },
+      {
+        "subjekt": "Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
+        "objekt": "Neuwied",
+        "objekt_type": "location",
+        "zeit":"November ca. 1845"
       },
       {
         "subjekt": "er",
         "subjekt_type": "person",
-        "prädikat": "hielt_sich_on",
-        "objekt": "Fulneck",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "hielt_sich_on",
-        "objekt": "London",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "reiſte_auf",
-        "objekt": "November",
-        "objekt_type": "date"
+        "prädikat": "reise_über",
+        "objekt": "Zeist",
+        "objekt_type": "location",
+        "zeit":"November ca. 1845"
       }
     ]
   },
@@ -15633,18 +15508,20 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "aufenthalt_in",
         "objekt": "Fulneck",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"einige Monate ca. 1845"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
+        "prädikat": "aufenthalt_in",
         "objekt": "London",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"einige Monate ca. 1845"
       }
     ]
   },
@@ -15655,11 +15532,12 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "verlobt",
+        "prädikat": "verlobt_mit",
         "objekt": "Sophie Erneſtine Krüger",
-        "objekt_type": "person"
+        "objekt_type": "person",
+        "zeit":"ca. 1845"
       }
     ]
   },
@@ -15670,33 +15548,36 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
         "prädikat": "kehrte nach",
         "objekt": "Deutſchland",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"ca. Juni 1845"
       },
       {
-        "subjekt": "sie",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "wurden getraut",
-        "objekt": "Nisky",
-        "objekt_type": "location",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Sophie Erneſtine Suhl, geb. Krüger",
+        "objekt_type": "person",
         "zeit": "22 Juni 1845"
       },
       {
-        "subjekt": "Bruder Stengard",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "traute",
-        "objekt": "sie",
-        "objekt_type": "person"
+        "prädikat": "reise_mit",
+        "objekt": "Sophie Erneſtine Suhl, geb. Krüger",
+        "objekt_type": "person",
+        "zeit":"ca. 1845"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "antraten",
-        "objekt": "Reiſe über England nach Süd-Afrika",
-        "objekt_type": "location"
+        "prädikat": "reise_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
+        "zeit":"ca. 1845"
       }
     ]
   },
@@ -15707,12 +15588,20 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "sie",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "schifften sich ein",
+        "prädikat": "angekommen",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "14 Juli"
+        "zeit": "14 Juli 1845"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl, geb. Krüger",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "14 Juli 1845"
       }
     ]
   },
@@ -15723,12 +15612,20 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "seliger Bruder",
+        "subjekt": "Sophie Erneſtine Suhl, geb. Krüger",
         "subjekt_type": "person",
-        "prädikat": "landete",
+        "prädikat": "angekommen_in",
         "objekt": "Capstadt",
         "objekt_type": "location",
-        "zeit": "3 October"
+        "zeit": "3 October 1845"
+      },
+      {
+        "subjekt": "Daniel Wilhelm Suhl",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "3 October 1845"
       }
     ]
   },
@@ -15739,9 +15636,17 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "Geſchwiſter Suhl",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "angekommen_in",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "22 November 1845"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl geb. Krüger",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "22 November 1845"
@@ -15749,53 +15654,47 @@
       {
         "subjekt": "Geſchwiſter Klinghardt",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location",
-        "zeit": "22 November 1845"
+        "prädikat": "reise_mit",
+        "objekt": "Sophie Erneſtine Suhl geb. Krüger",
+        "objekt_type": "person",
+        "zeit": "November 1845"
       },
       {
-        "subjekt": "Geſchwiſter Suhl",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "aufenthalt_in",
         "objekt": "Groenekioof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1845"
       },
       {
-        "subjekt": "Geſchwiſter Klinghardt",
+        "subjekt": "Sophie Erneſtine Suhl geb. Krüger",
         "subjekt_type": "person",
-        "prädikat": "reisen",
+        "prädikat": "aufenthalt_in",
         "objekt": "Groenekioof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1845"
       }
     ]
   },
   {
-    "text": "Das erſte Jahr in Afrika wurde ihm beſonders ſchwer, da er fich an Geiſt und Körper ges drückt fühlte; das Halken der großen Mädchen: Schule, mit 170 Kindern, welche er interimiſtiſch übernommen hatte, griff ihn beſonders an.",
+    "text": "Das erſte Jahr in Afrika wurde ihm beſonders ſchwer, da er fich an Geiſt und Körper gedrückt fühlte; das Halken der großen Mädchen: Schule, mit 170 Kindern, welche er interimiſtiſch übernommen hatte, griff ihn beſonders an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "fühlte",
-        "objekt": "Afrika",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "übernommen",
+        "prädikat": "tätig_bei",
         "objekt": "Schule",
-        "objekt_type": "organisation"
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "As Mitglied der Helfer-Conferenz trug er das Ganze der hieſigen Miſſion auf dem Herzen, nahm an den Berathungen thätigen Anrheil und war treu in der Fürbitte.",
+    "text": "Als Mitglied der Helfer-Conferenz trug er das Ganze der hieſigen Miſſion auf dem Herzen, nahm an den Berathungen thätigen Anrheil und war treu in der Fürbitte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
