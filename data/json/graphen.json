@@ -14803,9 +14803,9 @@
     "autor": "Johann Chriſtian Breutel",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "scheiden von",
+        "prädikat": "verließ",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "22. Juni"
@@ -14821,10 +14821,10 @@
       {
         "subjekt": "Br. Suhl",
         "subjekt_type": "person",
-        "prädikat": "reiste mit uns bis",
-        "objekt": "Groenekloof (Mamre)",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "reiste_mit",
+        "objekt": "Johann Chriſtian Breutel",
+        "objekt_type": "person",
+        "zeit": "24. Juni"
       },
       {
         "subjekt": "Br. Suhl",
@@ -14832,15 +14832,15 @@
         "prädikat": "ankam",
         "objekt": "Groenekloof (Mamre)",
         "objekt_type": "location",
-        "zeit": "24."
+        "zeit": "24. Juni"
       },
       {
-        "subjekt": "Br. Suhl",
+        "subjekt": "Johann Chriſtian Breutel",
         "subjekt_type": "person",
-        "prädikat": "ging in die Missionsarbeit hinein",
+        "prädikat": "angekommen_in",
         "objekt": "Groenekloof (Mamre)",
         "objekt_type": "location",
-        "zeit": "25."
+        "zeit": "24. Juni"
       }
     ]
   },
