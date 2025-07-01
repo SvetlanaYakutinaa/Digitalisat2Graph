@@ -16206,7 +16206,7 @@
         "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "tätig als",
-        "objekt": "Leitung der Landwirthſchaft",
+        "objekt": "Leiter der Landwirthſchaft",
         "objekt_type": "tätigkeit",
         "zeit": ""
       }
@@ -16219,25 +16219,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "war ordinirt worden",
+        "prädikat": "ordinirt",
         "objekt": "Diakonus der Brüderkirhe",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Gnade",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Heiden den Sünderheiland",
-        "objekt_type": "person"
+        "objekt_type": "tätichkeit",
+        "zeit": ""
       }
     ]
   },
@@ -16248,28 +16235,28 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "Unterſuchungsreiſe",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1816"
+        "prädikat": "reise_nach",
+        "objekt": "Unterland",
+        "objekt_type": "location",
+        "zeit": "1816"
       },
       {
-        "subjekt": "Bruder La Trobe",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "Unterſuchungsreiſe",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1816"
+        "prädikat": "reise_mit",
+        "objekt": "Bruder La Trobe",
+        "objekt_type": "location",
+        "zeit": "1816"
       },
       {
-        "subjekt": "Geſchwiſtern Schmidt",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "machte",
-        "objekt": "Unterſuchungsreiſe",
-        "objekt_type": "organisation",
-        "zeit": "Jahr 1816"
+        "prädikat": "reise_mit",
+        "objekt": "Geſchwiſtern Schmidt",
+        "objekt_type": "person",
+        "zeit": "1816"
       }
     ]
   },
@@ -16280,9 +16267,9 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Geſchwiſtern Schmidt",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
+        "prädikat": "verheiratet_mit",
         "objekt": "Anna Louiſe Wünſche",
         "objekt_type": "person",
         "zeit": "1818"
@@ -16290,10 +16277,10 @@
       {
         "subjekt": "Anna Louiſe Wünſche",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "tot",
-        "objekt_type": "none",
-        "zeit": "1818"
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": "ca 1824"
       }
     ]
   },
@@ -16304,17 +16291,17 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "wurde berufen",
+        "prädikat": "berufen_nach",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "1822"
       },
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "war tätig",
+        "prädikat": "tätig",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "1822-1839"
@@ -16330,23 +16317,26 @@
       {
         "subjekt": "Ezechiel Pfeiffer",
         "subjekt_type": "person",
-        "prädikat": "besorgt",
+        "prädikat": "tätig_bei",
         "objekt": "Kleinkinderſchule in Gnadenthal",
-        "objekt_type": "organisation"
+        "objekt_type": "organisation",
+        "zeit":""
       },
       {
         "subjekt": "Ezechiel Pfeiffer",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Schüler",
-        "objekt_type": "person"
+        "prädikat": "Schüler_von",
+        "objekt": "Johann Jürgen Friedrich Stein",
+        "objekt_type": "person",
+        "zeit":""
       },
       {
-        "subjekt": "15 Jahre",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "die größere Hottentorien - Knabenſchule",
-        "objekt_type": "organisation"
+        "prädikat": "tätig_bei",
+        "objekt": "Hottentorien-Knabenſchule",
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
@@ -16357,12 +16347,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "hat angeeignet",
-        "objekt": "dem damaligen Doctor Maſſalien",
+        "prädikat": "tätig_bei",
+        "objekt": "Doctor Maſſalien",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -16373,20 +16363,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "2. Frau (Stein)",
         "subjekt_type": "person",
-        "prädikat": "getraut",
-        "objekt": "Bruder Hallbeck",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Johann Jürgen Friedrich Stein",
         "objekt_type": "person",
         "zeit": "9 Februar 1825"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "getraut",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location",
-        "zeit": null
       }
     ]
   },
@@ -16397,20 +16379,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "Unsere Ehe",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "gesegnet",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "Unsere Ehe",
-        "subjekt_type": "person",
-        "prädikat": "mit",
+        "prädikat": "Vater_von",
         "objekt": "7 Kindern",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
