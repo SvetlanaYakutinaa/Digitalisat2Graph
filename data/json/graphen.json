@@ -15700,37 +15700,17 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Mitglied der Helfer-Conferenz",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "trug",
-        "objekt": "das Ganze der hieſigen Miſſion auf dem Herzen",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "an den Berathungen thätigen Anrheil",
-        "objekt_type": "none"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "treu in der Fürbitte",
-        "objekt_type": "none"
+        "prädikat": "mitglied_von",
+        "objekt": "Helfer-Conferenz",
+        "objekt_type": "organisation",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "— Sein beſonderer Auftrag war, als Lehrer an der hieſigen Gehülfenſchule thätig zu ſein, deren Inſpection und Leitung ihm im Jahr 1853 aufgetragen wurde.",
+    "text": "Sein beſonderer Auftrag war, als Lehrer an der hieſigen Gehülfenſchule thätig zu ſein, deren Inſpection und Leitung ihm im Jahr 1853 aufgetragen wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
@@ -15738,7 +15718,7 @@
       {
         "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "war tätig als",
+        "prädikat": "tätig als",
         "objekt": "Lehrer an der Gehülfen-Schule",
         "objekt_type": "organisation",
         "zeit": "1853"
@@ -15752,43 +15732,43 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "Maria Auguſte",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "geboren",
-        "objekt": null,
-        "objekt_type": null,
+        "prädikat": "Vater_von",
+        "objekt": "Maria Auguſte Suhl",
+        "objekt_type": "person",
         "zeit": "16 Mai 1848"
+      },
+      {
+        "subjekt": "Sophie Erneſtine Suhl geb. Krüger",
+        "subjekt_type": "person",
+        "prädikat": "Mutter_von",
+        "objekt": "Maria Auguſte Suhl",
+        "objekt_type": "person",
+        "zeit": "16 Mai 1848"
+      },
+      {
+        "subjekt": "Maria Auguſte Suhl",
+        "subjekt_type": "person",
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit": ""
       }
     ]
   },
   {
-    "text": "Bei der Viſitation unſers lieben Bruder Breutel, welche ihm, wie uns allen, zu großer Aufmunterung und Segen gereichte, wurde er am 4 Juni 1854 zu einem Preöbyter der Brüderkirche ordinirt und weihte ſich bei dieſer Gelegenheit nach Geiſt, Seel und Leib aufs neue dem Heiland zu feinem Dienſt.",
+    "text": "Bei der Viſitation unſers lieben Bruder Breutel, welche ihm, wie uns allen, zu großer Aufmunterung und Segen gereichte, wurde er am 4 Juni 1854 zu einem Presbyter der Brüderkirche ordinirt und weihte ſich bei dieſer Gelegenheit nach Geiſt, Seel und Leib aufs neue dem Heiland zu feinem Dienſt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
     "datei": "1860_Suhl_D_W.xml",
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "Bruder Breutel",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "der Brüderkirche",
+        "prädikat": "ordinirt",
+        "objekt": "Presbyter der Brüderkirche",
         "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns allen",
-        "subjekt_type": "person",
-        "prädikat": "zu großer Aufmunterung und Segen gereichte",
-        "objekt": "Bruder Breutel",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "uns allen",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "er",
-        "objekt_type": "person",
         "zeit": "4 Juni 1854"
       }
     ]
@@ -15800,82 +15780,20 @@
     "autor": "Daniel Wilhelm Suhl",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Daniel Wilhelm Suhl",
         "subjekt_type": "person",
-        "prädikat": "war",
+        "prädikat": "reise_nach",
         "objekt": "Mamre",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
         "subjekt": "Geſchwiſter Richter",
         "subjekt_type": "person",
-        "prädikat": "abzuholen",
-        "objekt": "er",
-        "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "Im November 1857 begab er ſich mit iner Familie auf einige Wochen an den Seeſtrand, noch ohne den gewünſchten Erfolg, vielmehr mußtm wir es uns ausſprechen, daß wohl keine Ger neſung mehr zu hoffen ſei, und aud er kam zu der Ueberzeugung, daß er feinem Ende entgegengehe.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
-    "datei": "1860_Suhl_D_W.xml",
-    "autor": "Daniel Wilhelm Suhl",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "begab_sich_mit",
-        "objekt": "iner Familie",
-        "objekt_type": "organisation",
-        "zeit": "November 1857"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "kam_zu_der_Ueberzeugung",
-        "objekt": "der Überzeugung",
-        "objekt_type": "none",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 2 Februar 1858 hielt er die lezte allgemeine Verſammlung, das zweite heilige Abendmahl, und am 12 April seinen leßten Vortrag, einen Religionsunterricht für die Frauen, und beſchloß denselben mit der herzlichen Ermahnung und Bitte an fie, dem Heiland treu zu bleiben und einem inbränſtigem Gebet.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
-    "datei": "1860_Suhl_D_W.xml",
-    "autor": "Daniel Wilhelm Suhl",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "hielt",
-        "objekt": "leste allgemeine Versammlung",
-        "objekt_type": "organisation",
-        "zeit": "2 Februar 1858"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "hielt",
-        "objekt": "zweite heilige Abendmahl",
-        "objekt_type": "organisation",
-        "zeit": "2 Februar 1858"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "beeschloss",
-        "objekt": "Religionsunterricht für die Frauen",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "ermahnte",
-        "objekt": "die Frauen",
-        "objekt_type": "personen",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Daniel Wilhelm Suhl",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -15888,60 +15806,10 @@
       {
         "subjekt": "Bruder Roſer",
         "subjekt_type": "person",
-        "prädikat": "unser Arzt",
-        "objekt": "ihn",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Sechs Jahre hat er bei der Erziehung der Jugend in den Unitäts- Anſtalten in Nisky, 4 Jahre als Brüderpfleger und mit Bedienung der auswärtigen Geſchwiſter in Neufalz und deſſen Umgegend, 13 Jahre hier in Süd-Afrika mit Treue und im Ges gen gedient.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/72097/rec/195",
-    "datei": "1860_Suhl_D_W.xml",
-    "autor": "Daniel Wilhelm Suhl",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Unitäts- Anſtalten",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
         "prädikat": "tätig_als",
-        "objekt": "Brüderpfleger",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Nisky",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "tätig_als",
-        "objekt": "Unitäts- Anſtalten",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Neufalz",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "tätig_als",
-        "objekt": "Süd-Afrika",
-        "objekt_type": "location"
+        "objekt": "Arzt",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -15954,7 +15822,7 @@
       {
         "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "heimgegangen",
+        "prädikat": "gestorben_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "27 Juli 1853"
@@ -15968,52 +15836,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "Ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Dümitz",
+        "objekt": "Dümitz in Großherzogthum Mecklendurg",
         "objekt_type": "location",
         "zeit": "28 August 1783"
-      }
-    ]
-  },
-  {
-    "text": "Damals dachte ich: In deinem Leben wirſt du kein Schullehrer werden, und ahnete freilich nicht, daß ich ſpäterhin dieſes Amt 15 Jahre lang in Süd-Afrika mir Luſt und Liebe verwalten würde.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "würde",
-        "objekt": "Schullehrer",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "verwalten",
-        "objekt": "Süd-Afrika",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Da dieſe Verſprechungen in der Folge aber unerfüllt blieben: ſo beſchloß ich, in meinem 18ten Jahre auf die Wanderſchaft zu gehen, worauf ich mich ſchon längſt gefreut hatte.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "beschloss",
-        "objekt": "die Wanderſchaft",
-        "objekt_type": "organization",
-        "zeit": null
       }
     ]
   },
@@ -16024,43 +15852,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "ausflucht",
+        "prädikat": "besuch",
         "objekt": "Lüneburg",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Einer von meinen Brüdern ſtand damals unter dem Militär in Lüneburg, und da ich ihn dort aufſuchte, ſo gerieth ich zweimal unter Werber, die mich mit Liſt und Gewalt zum Soldatendienft zwingen wollten, da ich deun nur noch mit genauer Noth davonkam.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "suchte",
-        "objekt": "einer von meinen Brüdern",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "gerieth",
-        "objekt": "zweimal unter Werber",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "einer von meinen Brüdern",
-        "subjekt_type": "person",
-        "prädikat": "stand",
-        "objekt": "unter dem Militär in Lüneburg",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -16071,14 +15868,14 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Altona",
         "objekt_type": "location"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "wanderte_nach",
         "objekt": "Braunſchweig",
@@ -16094,18 +15891,20 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "reisete",
+        "prädikat": "reise_über",
         "objekt": "Prag",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "böhmiſche Grenze",
-        "objekt_type": "location"
+        "prädikat": "reise_nach",
+        "objekt": "Prag",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -16116,12 +15915,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "erhielt Arbeit",
+        "prädikat": "tätig_in",
         "objekt": "Zeplig",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -16132,36 +15931,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "kam",
+        "prädikat": "tätig_in",
         "objekt": "Zittau",
         "objekt_type": "location",
         "zeit": "1892"
-      }
-    ]
-  },
-  {
-    "text": "Daſelbſt bekam ich einſt ein Buch in die Hände, in welchem viel von don Brüder-Miſſionaren in Suriname erzählt wurde.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "bekam",
-        "objekt": "ein Buch",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "Brüder-Miſſionaren in Suriname",
-        "subjekt_type": "organisation",
-        "prädikat": "erzählt",
-        "objekt": "viel",
-        "objekt_type": "thing",
-        "zeit": null
       }
     ]
   },
@@ -16172,11 +15947,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "arbeitete",
+        "prädikat": "tätig_in",
         "objekt": "Potsdam",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -16189,9 +15965,10 @@
       {
         "subjekt": "Bruder Adler",
         "subjekt_type": "person",
-        "prädikat": "vorſtellte",
-        "objekt": "Sociestäts - Arbeiter",
-        "objekt_type": "organisation"
+        "prädikat": "traf",
+        "objekt": "Johann Jürgen Friedrich Stein",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -16202,36 +15979,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "Bruder Aedler",
-        "subjekt_type": "person",
-        "prädikat": "rief mich zu sich",
-        "objekt": "sich",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
         "subjekt": "Bruder Tſchirpe",
         "subjekt_type": "person",
-        "prädikat": "kommen werde",
-        "objekt": "ankommen",
-        "objekt_type": "event",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Da dachte ich: Kann ich ſchon ſo viel Segen in dieſer Verfammlung genießen, wie wird es erſt in Herrnhut sein; und von der Stunde an ſtand mein Entſchluß feſt, ein Mitglied der Brüder-Gemeine zu werden.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wird",
-        "objekt": "Mitglied der Brüder-Gemeine",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "tätig_als",
+        "objekt": "Prediger in Berlin",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -16244,18 +15997,10 @@
       {
         "subjekt": "Bruder Tſchirpe",
         "subjekt_type": "person",
-        "prädikat": "gab",
-        "objekt": "ein Empfehlungsſchreiben",
-        "objekt_type": "thing",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Tſchirpe",
-        "subjekt_type": "person",
-        "prädikat": "nad",
-        "objekt": "Nisky",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "traf",
+        "objekt": "Johann Jürgen Friedrich Stein",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   },
@@ -16266,34 +16011,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "Palmarum",
+        "prädikat": "angekommen_in",
+        "objekt": "Nisky",
         "objekt_type": "location",
         "zeit": "8 April 1805"
-      }
-    ]
-  },
-  {
-    "text": "Denn als der Chorarbeiter der ledigen Brüder, Bruder Koch, mein Empfehlungsſchreiben geleſen hatte, ſagte er: ‚Du willſt zur Gemeine aber von Berlin kommt nichts Gutes; auch haben wir hier auf deiner Profeſſion keine Arbeit für dich; gebe aber ins Gemeinlogis, und komme morgen wieder zu mir.\"",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "Bruder Koch",
-        "subjekt_type": "person",
-        "prädikat": "hat empfohlen",
-        "objekt": "Gemeine",
-        "objekt_type": "organisation"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kommt",
-        "objekt": "Berlin",
-        "objekt_type": "location"
       }
     ]
   },
@@ -16304,55 +16027,26 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "erhielt Arbeit",
+        "prädikat": "tätig_in",
         "objekt": "Nisky",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "mußte zulegen",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": null
+        "objekt_type": "location",
+        "zeit":"ca von April bis Mai 1805"
       }
     ]
   },
   {
-    "text": "Da es aber immer noch wenig Arbeit gab, und ich hörte, daß es in Herrhut fehr viele gäbe, so sagte ich es dem Bruder Koch, der mir ein Empfehlungsfchreiben gab, und mir rieth, es einmal in Herrnhut zu verſuchen.",
+    "text": "Am 27 Mai 1805 langte ich daſelbſt an, wurde sehr freundlich aufgenommen und erhielt Arbeit auf meiner Profeſſion.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
     "datei": "1855_Stein_J_J_F.xml",
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sagte",
-        "objekt": "dem Bruder Koch",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "rieth",
-        "objekt": "es einmal in Herrnhut zu verſuchen",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Am 27 Mai 1805 langte ich daſelbſt an, wurde sehr freundlich auf-genommen und erhielt Arbeit auf meiner Profeſſion.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
-        "objekt": "daſelbſt",
+        "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "27 Mai 1805"
       }
@@ -16367,10 +16061,10 @@
       {
         "subjekt": "Bruder Parep",
         "subjekt_type": "person",
-        "prädikat": "tröſtete mich",
-        "objekt": "ich",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "tätig als",
+        "objekt": "Pfleger",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
@@ -16381,12 +16075,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Erlaubniß",
+        "prädikat": "erhielt_Erlaubnis",
+        "objekt": "Gemeine",
         "objekt_type": "organisation",
-        "zeit": "20 September"
+        "zeit": "20 September 1805"
       }
     ]
   },
@@ -16397,75 +16091,27 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "wurde aufgenommen",
+        "prädikat": "mitglied_von",
         "objekt": "Gemeine",
         "objekt_type": "organisation",
-        "zeit": "15 December"
+        "zeit": "15 December 1805"
       }
     ]
   },
   {
-    "text": "Jetzt wurde mir auch die Gnade zu Theil, dem Herrn und der Gemeine zu dienen, indem ich bei den größeren Knaben als Aufſcher angeſtellt wurde.",
+    "text": "Im Jahr 1811 wurde ich zum Krankenwärter gewählt.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
     "datei": "1855_Stein_J_J_F.xml",
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "dem Herrn und der Gemeine",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "angesetzt",
-        "objekt": "bei den größeren Knaben",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Dieſes Amt beſorgte ich bis zu meiner Abreiſe nach Afrika.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "beſorgt",
-        "objekt": "Dieses Amt",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "Abreiſe",
-        "objekt": "Afrika",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "— Im Jahr 1811 wurde ich zum Krankenwärter gewählt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde gewählt",
+        "prädikat": "tätig_als",
         "objekt": "Krankenwärter",
-        "objekt_type": "organisation",
+        "objekt_type": "tätichkeit",
         "zeit": "1811"
       }
     ]
@@ -16477,11 +16123,19 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "nahm",
-        "objekt": "den Antrag zum Missionsdienſt",
-        "objekt_type": "organisation",
+        "prädikat": "berufen",
+        "objekt": "zum Missionsdienſt",
+        "objekt_type": "tätigkeit",
+        "zeit": "1815"
+      },
+      {
+        "subjekt": "Johann Jürgen Friedrich Stein",
+        "subjekt_type": "person",
+        "prädikat": "berufen_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "tätigkeit",
         "zeit": "1815"
       }
     ]
@@ -16493,20 +16147,36 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
-        "objekt": "dahin",
-        "objekt_type": "location",
-        "zeit": "1 October"
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "langte",
+        "prädikat": "verließ",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "December"
+        "zeit": "1 October 1815"
+      },
+      {
+        "subjekt": "Johann Jürgen Friedrich Stein",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
+        "zeit": "1 October 1815"
+      },
+      {
+        "subjekt": "Johann Jürgen Friedrich Stein",
+        "subjekt_type": "person",
+        "prädikat": "angekommen_in",
+        "objekt": "Süd-Afrika",
+        "objekt_type": "location",
+        "zeit": "December 1815"
+      },
+      {
+        "subjekt": "Johann Jürgen Friedrich Stein",
+        "subjekt_type": "person",
+        "prädikat": "reisen_mit",
+        "objekt": "Johann Jürgen Friedrich Stein",
+        "objekt_type": "location",
+        "zeit": "1 October 1815"
       }
     ]
   },
@@ -16517,20 +16187,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "wurde angesellt",
+        "prädikat": "aufenthalt_in",
         "objekt": "Grönekloof",
         "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "bei dem Bau der neuen Kirche",
-        "objekt_type": "organisation",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -16541,20 +16203,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "er",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "übernahm",
-        "objekt": "die Leitung der Landwirthſchaft",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "auf",
-        "objekt": "diesem Miſſionspoſten",
-        "objekt_type": "location",
-        "zeit": null
+        "prädikat": "tätig als",
+        "objekt": "Leitung der Landwirthſchaft",
+        "objekt_type": "tätigkeit",
+        "zeit": ""
       }
     ]
   },
