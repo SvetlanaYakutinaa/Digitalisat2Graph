@@ -16389,41 +16389,17 @@
     ]
   },
   {
-    "text": "Der Abſchied von unſern Kindern bei ihrem Abgang in die Erziehungs-Anſtalten nach Kleinwelke wurde und jedesmal ſehr schwer, und nur der Gedanke konnte uns tröſten, daß wir uns davon überzeugt halten durften, daß für ihr geistliches und leibliches Wohl aufs treuſte Bedacht genommen werden würde.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "unsere Kinder",
-        "subjekt_type": "person",
-        "prädikat": "wurden",
-        "objekt": "Erziehungs-Anſtalten nach Kleinwelke",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
     "text": "Am 28 April 1840 reiſten wir mit 7 Missionskindern, von denen zwei unſre eigenen waren, von der Capſtadt ab.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
     "datei": "1855_Stein_J_J_F.xml",
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "verließ",
         "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": "28 April 1840"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reiſten",
-        "objekt": "Missionskindern",
-        "objekt_type": "organization",
         "zeit": "28 April 1840"
       }
     ]
@@ -16435,12 +16411,12 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "mein Mann",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
         "prädikat": "langten",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "26 Juli"
+        "zeit": "26 Juli 1840"
       }
     ]
   },
@@ -16451,91 +16427,33 @@
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "uns",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "reiſten",
+        "prädikat": "reise_nach",
         "objekt": "Kleinwelke",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "uns",
-        "subjekt_type": "person",
-        "prädikat": "umarmen",
-        "objekt": "unsere eignen Kinder",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "unsere eignen Kinder",
-        "subjekt_type": "person",
-        "prädikat": "befinden",
-        "objekt": "sich in den dortigen Erziehungs - Anſtalten",
-        "objekt_type": "organisation"
+        "objekt_type": "location",
+        "zeit":"Juli-August 1840"
       }
     ]
   },
   {
-    "text": "— Sehr erwünſcht war es meinem lieben Mann, ſeinen Ruheplaß in Herrahur zu erhalten, da er früher an dieſem Orte fo glückliche Jahre verlebt hatte, In den erſten Zahren konnte er ſich ſchwer an den Gedanken gewöhnen, nicht mehr nach Afrika zuriczufchren, da fein tbatiger Geiſt ſich ſehr nach ſeiner früheren Beſchäftigung ſehnte. Doh ergab er ſich kindlich in den Willen des Herrn und ſuchte, so viel ſeine Kräfte es ihm",
+    "text": "Sehr erwünſcht war es meinem lieben Mann, ſeinen Ruheplaß in Herrahur zu erhalten, da er früher an dieſem Orte fo glückliche Jahre verlebt hatte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
     "datei": "1855_Stein_J_J_F.xml",
     "autor": "Johann Jürgen Friedrich Stein",
     "graph": [
       {
-        "subjekt": "mein lieber Mann",
+        "subjekt": "Johann Jürgen Friedrich Stein",
         "subjekt_type": "person",
-        "prädikat": "suchte",
+        "prädikat": "wohnhaft_in",
         "objekt": "Herrahur",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "mein lieber Mann",
-        "subjekt_type": "person",
-        "prädikat": "sich kindlich in den Willen des Herrn und suchte",
-        "objekt": "seine Kräfte",
-        "objekt_type": "person"
-      },
-      {
-        "subjekt": "mein lieber Mann",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Afrika",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
   {
-    "text": "Am 26 Juli ſchlug die Stunde fsiner Erlöſung, da er vom Glauben zum ſeligen Schauen übergehen durfte, nach einer Wallfahrt hienieden von 70 Jahren weniger einem Monat.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190",
-    "datei": "1855_Stein_J_J_F.xml",
-    "autor": "Johann Jürgen Friedrich Stein",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "konnte",
-        "objekt": "das selige Schauen",
-        "objekt_type": "concept",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "übergehen durfte",
-        "objekt": "vom Glauben",
-        "objekt_type": "concept",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "schlug",
-        "objekt": "die Stunde seiner Erlöſung",
-        "objekt_type": "concept",
-        "zeit": "26 Juli"
-      }
-    ]
-  },
-  {
-    "text": "Lebenslauf des verheiratheten Bruders Johannes Friedrich Hoffmann, heimgegangett zu Enon in Sid-Afrika den 3 Juli 1841.",
+    "text": "Lebenslauf des verheiratheten Bruders Johannes Friedrich Hoffmann, heimgegangen zu Enon in Sid-Afrika den 3 Juli 1841.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
@@ -16551,145 +16469,18 @@
     ]
   },
   {
-    "text": "Js bin geboren den 25 Juli 1783 zu Dunkelbeck im Hildesheimſchen, woſelbſt mein Vater Schullehrer war, welcher aber als ich erſt ein halbes Jahr alt war, vom Herrn heimberufen wurde.",
+    "text": "Jch bin geboren den 25 Juli 1783 zu Dunkelbeck im Hildesheimſchen, woſelbſt mein Vater Schullehrer war, welcher aber als ich erſt ein halbes Jahr alt war, vom Herrn heimberufen wurde.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "Js",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
-        "objekt": "Dunkelbeck",
+        "objekt": "Dunkelbeck im Hildesheimſchen",
         "objekt_type": "location",
         "zeit": "25 Juli 1783"
-      }
-    ]
-  },
-  {
-    "text": "Im Jahr 1796 langte ich demgemäß bei meinem Onkel an, von welchem ich mit Freuden aufgenommen wurde.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "angekommen_in",
-        "objekt": "Onkel",
-        "objekt_type": "person",
-        "zeit": "1796"
-      }
-    ]
-  },
-  {
-    "text": "In Hildesheim wurde ich ſpäterhin durch die Fügung des Herrn auf eine beſondere Weiſe veranlaßt, die Verſammlungen der dortigen Erweten zu beſuchen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde veranlaßt",
-        "objekt": "Verſammlungen der dortigen Erweten",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "besuchte",
-        "objekt": "Verſammlungen der dortigen Erweten",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "war",
-        "objekt": "Hildesheim",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am nächſten Sonntag führte ich meinen Vorſaß aus, und Alles, was ich hier sah und hörte, und die tiebreiche Aufnahme, die ich fand, feste mich in freudige Verwunderun Bald darauf kamen die Geſchwiſter Schreiber, welche damals im daſtiger Gegend die Erweckten Beſuchten, nach Hildesbeim.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "Schreiber",
-        "subjekt_type": "person",
-        "prädikat": "kamen",
-        "objekt": "Schreiber",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fuhren",
-        "objekt": "Vorſaß",
-        "objekt_type": "unknown",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "sah",
-        "objekt": "alles",
-        "objekt_type": "unknown",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "hörte",
-        "objekt": "alles",
-        "objekt_type": "unknown",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "fand",
-        "objekt": "Aufnahme",
-        "objekt_type": "unknown",
-        "zeit": null
-      },
-      {
-        "subjekt": "Schreiber",
-        "subjekt_type": "person",
-        "prädikat": "besuchten",
-        "objekt": "Erweckten",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "kam",
-        "objekt": "Hildesbeim",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Der König von Preußen hatte nämlich vor kurzem Diele Gegend miliräriſch beſcken faflen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "Der König von Preußen",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "Diele Gegend",
-        "objekt_type": "location"
       }
     ]
   },
@@ -16700,9 +16491,9 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Hildesheim",
         "objekt_type": "location",
         "zeit": "9 November 1803"
@@ -16716,36 +16507,12 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
         "prädikat": "angekommen_in",
         "objekt": "Neudietendorf",
         "objekt_type": "location",
-        "zeit": "13 November"
-      }
-    ]
-  },
-  {
-    "text": "Dies ward mir Anfangs März 1804 angezeigt, und am 16ten des dachten Monats langte ich daſelbſt an.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "langte ich daſelbſt an",
-        "objekt": "dasselbe",
-        "objekt_type": "location",
-        "zeit": "16ten des dachten Monats"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "angezeigt",
-        "objekt": "Anfangs März 1804",
-        "objekt_type": "date",
-        "zeit": null
+        "zeit": "13 November 1803"
       }
     ]
   },
@@ -16756,12 +16523,12 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "aufgenommen",
+        "prädikat": "mitglied_von",
         "objekt": "Gemeine",
         "objekt_type": "organisation",
-        "zeit": "2ten September deſſelben Jahres"
+        "zeit": "2 September 1804"
       }
     ]
   },
@@ -16772,124 +16539,76 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "hat_heiliges_abendmahl",
-        "objekt": "Gemeine",
-        "objekt_type": "organisation",
+        "prädikat": "teilnahme_an",
+        "objekt": "heil. Abendsmahl",
+        "objekt_type": "",
         "zeit": "Januar 1805"
       }
     ]
   },
   {
-    "text": "Hierauf erklärte ich mich über die Geſinnung meines Herzeus in erwähnter Beziehung, und wurde hernach erſucht eine ſchriftliche Erklärung darüber an die UAC ergeben zu laſſen, was denn auch am 30 December 1816 geſchah.",
+    "text": "Darauf erhielt ich am 8 April 1817 einen Ruf als Mifſionar unter die Hottentotten in der Nähe des Kafferniandes, wo ein dritter Miſſionsplaß angelegt werden ſollte.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "erklärte sich über die Geſinnung meines Herzeus in erwähnter Beziehung",
-        "objekt": "UAC",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde erſucht eine ſchriftliche Erklärung darüber an die UAC ergeben zu laſſen",
-        "objekt": "UAC",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "wurde eine ſchriftliche Erklärung darüber an die UAC ergeben zu laſſen",
-        "objekt": "UAC",
-        "objekt_type": "organisation",
-        "zeit": "30 December 1816"
+        "prädikat": "berufen",
+        "objekt": "als Mifſionar unter die Hottentotten",
+        "objekt_type": "tätigkeit",
+        "zeit": "8 April 1817"
       }
     ]
   },
   {
-    "text": "Darauf erhielt ih am 8 April 1917 einen Ruf als Mifſionar unter die Hottentotten in der Nähe des Kafferniandes, wo ein dritter Miſſionsplaß angelegt werden ſollte.",
+    "text": "Dieſem erhaltenen Ruf zufolge traf ich im Juli in Herrnhut ein, um mich an die übrige nach Süd-Afrika beſtimmte Geſellſchaft, beſtehend aus den Geſchwiſtern Hallbed, dem Bruder Hornig und der Schweſter Wünſche, anzuſchließen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ih",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "erhielt",
-        "objekt": "Ruf als Mifſionar",
-        "objekt_type": "organisation",
-        "zeit": "8 April 1917"
-      },
-      {
-        "subjekt": "ih",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "Mifſionar unter die Hottentotten",
-        "objekt_type": "organisation",
-        "zeit": "8 April 1917"
-      },
-      {
-        "subjekt": "ih",
-        "subjekt_type": "person",
-        "prädikat": "wurde",
-        "objekt": "in der Nähe des Kafferniandes",
-        "objekt_type": "location",
-        "zeit": "8 April 1917"
-      }
-    ]
-  },
-  {
-    "text": "Dieſem erhaltenen Ruf zufolge traf ich im Juli in Herrnbur ein, um mich an die übrige nah Sid-Afrika beſtimmte Geſellſchaft, beſtehend aus den Geſchwiſtern Hallbed, dem Bruder Hornig und der Schweſter Wünſche, anzuſchließen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "trat ein",
+        "prädikat": "verließ",
         "objekt": "Herrnbur",
         "objekt_type": "location",
-        "zeit": "Juli"
+        "zeit": "Juli 1817"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "sollte mich an die übrige nah Sid-Afrika beſtimmte Geſellſchaft anschließen",
-        "objekt": "Sid-Afrika",
+        "prädikat": "reise_nach",
+        "objekt": "Süd-Afrika",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "Juli 1817"
       },
       {
-        "subjekt": "Hallbed",
+        "subjekt": "Geschwistern Hallbed",
         "subjekt_type": "person",
-        "prädikat": "war Teil von",
-        "objekt": "Geſchwiſtern Hallbed",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "reise_mit",
+        "objekt": "Johannes Friedrich Hoffmann",
+        "objekt_type": "person",
+        "zeit": "Juli 1817"
       },
       {
-        "subjekt": "Hornig",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "war Teil von",
+        "prädikat": "reise_mit",
         "objekt": "Bruder Hornig",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "person",
+        "zeit": "Juli 1817"
       },
       {
-        "subjekt": "Wünſche",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "war Teil von",
+        "prädikat": "reise_mit",
         "objekt": "Schweſter Wünſche",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "person",
+        "zeit": "Juli 1817"
       }
     ]
   },
@@ -16900,60 +16619,76 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "Hallbeck",
+        "subjekt": "Geschwister Hallbeck",
         "subjekt_type": "person",
-        "prädikat": "reifen",
+        "prädikat": "reifen_nach",
         "objekt": "Altona",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1817"
       },
       {
-        "subjekt": "Wünſche",
+        "subjekt": "Schwester Wünſche",
         "subjekt_type": "person",
-        "prädikat": "reifen",
+        "prädikat": "reifen_nach",
         "objekt": "Altona",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1817"
       }
     ]
   },
   {
-    "text": "Bruder Hornig und ich aber machten die Reiſe zu Fuß und trafen zur beſtimmten Zeit mit unſrer Reiſegeſellſchaft in Alrona zu- kammen, mit der wir zu Ende Anguſt in London anlangten.",
+    "text": "Bruder Hornig und ich aber machten die Reiſe zu Fuß und trafen zur beſtimmten Zeit mit unſrer Reiſegeſellſchaft in Alrona zukammen, mit der wir zu Ende Anguſt in London anlangten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "kammen",
+        "prädikat": "reise_nach",
         "objekt": "Alrona",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1817"
       },
       {
-        "subjekt": "Bruder Hornig und ich",
+        "subjekt": "Bruder Hornig",
         "subjekt_type": "person",
-        "prädikat": "machten",
-        "objekt": "die Reise",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "unser Reisegeſellschaft",
-        "subjekt_type": "person",
-        "prädikat": "kammen",
+        "prädikat": "reise_nach",
         "objekt": "Alrona",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1817"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "ankamen",
+        "prädikat": "angekommen",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": "Ende Anguſt"
+        "zeit": "Ende August 1817"
+      },
+      {
+        "subjekt": "Bruder Hornig",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "Ende Anguſt 1817"
+      },
+      {
+        "subjekt": "Geschwister Hallbeck",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "Ende Anguſt 1817"
+      },
+      {
+        "subjekt": "Schwester Wünſche",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "London",
+        "objekt_type": "location",
+        "zeit": "Ende Anguſt 1817"
       }
     ]
   },
@@ -16964,76 +16699,84 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "reisten",
-        "objekt": "Grönekloof",
-        "objekt_type": "location",
-        "zeit": "Ende des December"
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "feiern",
-        "objekt": "Weihnachtsfest",
-        "objekt_type": "event",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "kamen",
+        "prädikat": "angekommen",
         "objekt": "Capstadt",
         "objekt_type": "location",
-        "zeit": "Ende des December"
-      }
-    ]
-  },
-  {
-    "text": "Wir hat ten inzwiſchen das Worgnügen der Einweihung der neuen Kirche in Grönekloof beiwohnen zu können. Nachdem endlich afte Vorbereitungen getroffen mar ren, die zu einer Reiſe in Süd-Afrika erforderlich find, begaben wir uns auf den Weg.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
+        "zeit": "Ende December 1817"
+      },
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Hornig",
         "subjekt_type": "person",
-        "prädikat": "besuchte",
+        "prädikat": "angekommen",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "Ende December 1817"
+      },
+      {
+        "subjekt": "Geschwister Hallbeck",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "Ende December 1817"
+      },
+      {
+        "subjekt": "Schwester Wünſche",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
+        "objekt": "Capstadt",
+        "objekt_type": "location",
+        "zeit": "Ende December 1817"
+      },
+      {
+        "subjekt": "Johannes Friedrich Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "reifen_nach",
         "objekt": "Grönekloof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "Ende December 1817"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Bruder Hornig",
         "subjekt_type": "person",
-        "prädikat": "reisten",
-        "objekt": "Süd-Afrika",
+        "prädikat": "reise_nach",
+        "objekt": "Groenekioof",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "Ende December 1817"
+      },
+      {
+        "subjekt": "Geschwister Hallbeck",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Grönekloof",
+        "objekt_type": "location",
+        "zeit": "Ende December 1817"
+      },
+      {
+        "subjekt": "Schwester Wünſche",
+        "subjekt_type": "person",
+        "prädikat": "reise_nach",
+        "objekt": "Groenekloof",
+        "objekt_type": "location",
+        "zeit": "Ende December 1817"
       }
     ]
   },
   {
-    "text": "Jn Gnadenthal, wo wir gegen Ende Februar anlangten, freute fich die Hottentotten-Gemeine uns in ihrer Mitte zu ſehen.",
+    "text": "In Gnadenthal, wo wir gegen Ende Februar anlangten, freute fich die Hottentotten-Gemeine uns in ihrer Mitte zu ſehen.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "die Hottentotten-Gemeine",
-        "subjekt_type": "organisation",
-        "prädikat": "freute sich in ihrer Mitte zu sehen",
-        "objekt": "uns",
-        "objekt_type": "personen",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "personen",
         "prädikat": "langten an",
-        "objekt": "Jn Gnadenthal",
-        "objekt_type": "orte",
-        "zeit": "Ende Februar"
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "Ende Februar 1818"
       }
     ]
   },
@@ -17044,28 +16787,20 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
-        "objekt": "allda",
+        "objekt": "Gnadenthal",
         "objekt_type": "location",
-        "zeit": "Ende März"
+        "zeit": "bis Ende März 1818"
       },
       {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "reise_fort",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "Ende März"
-      },
-      {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
         "prädikat": "langten_an",
         "objekt": "Witterevier",
         "objekt_type": "location",
-        "zeit": "8 April"
+        "zeit": "8 April 1818"
       }
     ]
   },
@@ -17078,53 +16813,10 @@
       {
         "subjekt": "Landdroſt Cuyler",
         "subjekt_type": "person",
-        "prädikat": "hatte für eine Wohnung und ein Versammlungsbaus gesorgt",
-        "objekt": "Uirenhagen",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Nachdem wir und unſre Hottentotten einen Theil des geraubten Viehes wieder erhalten batren, und der Friede mit den Kaffern zu Stande gekommen war, ſchenfre uns der Heiland Freudigkeit nach Wittrivier zurückzukehren.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "hat_rennen",
-        "objekt": "Wittrivier",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "unſre Hottentotten",
-        "subjekt_type": "organisation",
-        "prädikat": "wurden_beteiligt",
-        "objekt": "Viehes",
-        "objekt_type": "person"
-      }
-    ]
-  },
-  {
-    "text": "Der Ort, nun Enon genannt, wurde jetz auf einer andern Stelle, etwa zehn Minuten weiter Thaleinwärts, angelegt, und da ſich bald noch mehrere Hottentotten bei uns einfanden, ſo ſchritt das Bauen raſch vorwärts.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "Der Ort",
-        "subjekt_type": "location",
-        "prädikat": "wurde angelegt",
-        "objekt": "Enon",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Die Hottentotten",
-        "subjekt_type": "person",
-        "prädikat": "fanden sich ein",
-        "objekt": "bei uns",
-        "objekt_type": "location"
+        "prädikat": "traf",
+        "objekt": "Johannes Friedrich Hoffmann",
+        "objekt_type": "person",
+        "zeit":""
       }
     ]
   },
@@ -17135,20 +16827,12 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "hatte die Freude, die mir zugefendete Gehülfin am Werke des Herrn",
+        "prädikat": "tätig_mit",
         "objekt": "Maria Elirabeth Richter",
         "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Maria Elirabeth Richter",
-        "subjekt_type": "person",
-        "prädikat": "war hier zu bewillkommen",
-        "objekt": "",
-        "objekt_type": "location",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -17159,11 +16843,11 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "verbunden",
-        "objekt": "der neuen Kirche",
-        "objekt_type": "location",
+        "prädikat": "verheiratet_mit",
+        "objekt": "Maria Elirabeth Richter",
+        "objekt_type": "person",
         "zeit": "13 Mai"
       }
     ]
@@ -17175,43 +16859,44 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "aufenthalt_in",
-        "objekt": "Enon",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
         "prädikat": "aufenthalt_in",
         "objekt": "Enon",
         "objekt_type": "location",
-        "zeit": "April 1823"
+        "zeit":"bis April 1823"
+      },
+      {
+        "subjekt": "Maria Elirabeth Richter",
+        "subjekt_type": "person",
+        "prädikat": "aufenthalt_in",
+        "objekt": "Enon",
+        "objekt_type": "location",
+        "zeit": "bis April 1823"
       }
     ]
   },
   {
-    "text": "Doch unſer guter Herr half uns gnädig durch, und am 15 April langten wir endlich glüclid in der Capſtadt an.",
+    "text": "Doch unſer guter Herr half uns gnädig durch, und am 15 April langten wir endlich glüclich in der Capſtadt an.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "unſer guter Herr",
+        "subjekt": "Maria Elirabeth Richter",
         "subjekt_type": "person",
-        "prädikat": "half uns gnädig durch",
-        "objekt": "uns",
-        "objekt_type": "person",
-        "zeit": null
+        "prädikat": "angekommen_in",
+        "objekt": "Capſtadt",
+        "objekt_type": "location",
+        "zeit": "15 April 1823"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "langten",
-        "objekt": "glüclid in der Capſtadt an",
+        "prädikat": "angekommen_in",
+        "objekt": "Capſtadt",
         "objekt_type": "location",
-        "zeit": "15 April"
+        "zeit": "15 April 1823"
       }
     ]
   },
@@ -17222,12 +16907,12 @@
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Gottlieb Martin Schneider",
         "subjekt_type": "person",
-        "prädikat": "wurde_mit_der_Ordination_ausgefertigt",
-        "objekt": "Gottlieb Martin Schneider",
-        "objekt_type": "person",
-        "zeit": "27 December 1823"
+        "prädikat": "tätig_als",
+        "objekt": "Biſchof",
+        "objekt_type": "tätigkeit",
+        "zeit": "1823"
       }
     ]
   },
@@ -17240,153 +16925,42 @@
       {
         "subjekt": "Bawana",
         "subjekt_type": "person",
-        "prädikat": "hat angehalten",
-        "objekt": "Gouverneur",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Lemmerz",
-        "subjekt_type": "person",
-        "prädikat": "wurde angerufen",
-        "objekt": "uns",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Wieder nach Grönekloof zurückgekommen, machten wir ſogleich Anſtalt zu unſerer Abreiſe, und trafen zu Ende Februar 1828 in Gnadenthal ein, von wo aus wir dann in Geſell- ſchaft der Geſchwiſter Lemmerz die weitere Reiſe antraten, In Enon ſchloß sich Bruder Fritſch, der das Jahr zuvor mit dem Bruder Hallbeck die Unrerſuchungsreiſe ins Tambukkiland gemacht hatte, noch unſrer Geſellſchaft an, auch folgten uns einige Hottentotten - Famiiien und die bekannte Kafferin Wilhelmine Stempje.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "Geſell- ſchaft der Geſchwiſter Lemmerz",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Fritſch",
-        "subjekt_type": "person",
-        "prädikat": "sich anschloß",
-        "objekt": "unsere Geſellſchaft",
-        "objekt_type": "organisation",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "Enon",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "Bruder Fritſch",
-        "subjekt_type": "person",
-        "prädikat": "hatte",
-        "objekt": "die Unrerſuchungsreiſe ins Tambukkiland",
-        "objekt_type": "location",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "traten",
-        "objekt": "Gnadenthal",
-        "objekt_type": "location",
-        "zeit": "Ende Februar 1828"
-      },
-      {
-        "subjekt": "Wilhelmine Stempje",
-        "subjekt_type": "person",
-        "prädikat": "folgte uns",
-        "objekt": "unsere Geſellſchaft",
-        "objekt_type": "organisation",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Die Reiſe von Enon nach Silo kann, wenn man den geraden Weg einſchlägt, in neun Tagen zurückgelegt werden, verſchiedener Umſtände wegen aber brauchten wir damals fechs Wochen zu derfelben.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "brauchten",
-        "objekt": "zurückgelegt werden",
-        "objekt_type": "date",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "zu",
-        "objekt": "derfelben",
-        "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Auf er haltene Nachricht von dem Häuptling Bawana konnten wir jedoch bis zu feinem Wohnplaß Ooſt-Kraal reiſen, der noch rei Stunden von da entfernt iſt, wo jetzt Silo ſteht.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
-      {
-        "subjekt": "Bawana",
-        "subjekt_type": "person",
-        "prädikat": "hatte Nachricht von",
-        "objekt": "Ooſt-Kraal",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "Bawana",
-        "subjekt_type": "person",
-        "prädikat": "konnte reisen nach",
-        "objekt": "Silo",
-        "objekt_type": "location",
+        "prädikat": "tätig_als",
+        "objekt": "Oberhaupt der Tambukkis",
+        "objekt_type": "tätigkeit",
         "zeit": ""
       }
     ]
   },
   {
-    "text": "Bawanas Wunſch ging dahin, daß wir bei ihm unfre Wohnung auf- ſchlagen möchten.",
+    "text": "Wieder nach Grönekloof zurückgekommen, machten wir ſogleich Anſtalt zu unſerer Abreiſe, und trafen zu Ende Februar 1828 in Gnadenthal ein, von wo aus wir dann in Geſellſchaft der Geſchwiſter Lemmerz die weitere Reiſe antraten.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
     "datei": "1849_Hoffman_Johannes_Friedrich.xml",
     "autor": "Johannes Friedrich Hoffmann",
     "graph": [
       {
-        "subjekt": "Bawanas",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "wurde_unfereinräumung_von",
-        "objekt": "unfre Wohnung",
+        "prädikat": "zurückgekehrt_nach",
+        "objekt": "Grönekloof",
         "objekt_type": "location",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Am 3 Juli 1841 ward dieſer treue Knecht des Herrn ſanft vollendet im 58ſten Jahr ſeiner Wallfahrt und im 24ſten ſeines geſegneten Miſſionsdienſies.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/45400/rec/182",
-    "datei": "1849_Hoffman_Johannes_Friedrich.xml",
-    "autor": "Johannes Friedrich Hoffmann",
-    "graph": [
+        "zeit": ""
+      },
       {
-        "subjekt": "der treue Knecht des Herrn",
+        "subjekt": "Johannes Friedrich Hoffmann",
         "subjekt_type": "person",
-        "prädikat": "ward vollendet",
-        "objekt": "",
-        "objekt_type": "",
-        "zeit": "3 Juli 1841"
+        "prädikat": "reifen_nach",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "Ende Februar 1828"
+      },
+      {
+        "subjekt": "Johannes Friedrich Hoffmann",
+        "subjekt_type": "person",
+        "prädikat": "traf",
+        "objekt": "Geschwister Lemmerz",
+        "objekt_type": "person",
+        "zeit": "Ende Februar 1828"
       }
     ]
   },
@@ -17399,34 +16973,26 @@
       {
         "subjekt": "Johanne Chriſtiane Berk",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
-        "objekt": "Herrnhut",
-        "objekt_type": "location",
-        "zeit": "15 Mai 1862"
-      },
-      {
-        "subjekt": "Johanne Chriſtiane Berk",
-        "subjekt_type": "person",
-        "prädikat": "geboren_as",
-        "objekt": "Müller",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "Johanne Chriſtiane Berk",
-        "subjekt_type": "person",
         "prädikat": "gestorben_in",
         "objekt": "Herrnhut",
         "objekt_type": "location",
         "zeit": "15 Mai 1862"
       },
       {
+        "subjekt": "Johanne Chriſtiane Berk",
+        "subjekt_type": "person",
+        "prädikat": "geboren_als",
+        "objekt": "Hahn",
+        "objekt_type": "person",
+        "zeit": ""
+      },
+      {
         "subjekt": "Johanne Chriſtiane Hahn",
         "subjekt_type": "person",
-        "prädikat": "geboren_as",
+        "prädikat": "verwitwet_als",
         "objekt": "Müller",
         "objekt_type": "person",
-        "zeit": null
+        "zeit": ""
       }
     ]
   },
@@ -17437,52 +17003,12 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanne Chriſtiane Beck",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Dresden",
         "objekt_type": "location",
         "zeit": "29 September 1797"
-      }
-    ]
-  },
-  {
-    "text": "In meinem 14ten Jahre wurde ich confirmirt; mein Vater war ſchon zwei Jahre vorher aus der Zeit gegangen, hatte aber das Schulgeld für mich vorausvezahlt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
-    "datei": "1862_Beck_J_C.xml",
-    "autor": "Johanne Chriſtiane Beck",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "confirmirt",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "meinem 14ten Jahre"
-      },
-      {
-        "subjekt": "Vater",
-        "subjekt_type": "person",
-        "prädikat": "war aus der Zeit gegangen",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "zwei Jahre vorher"
-      }
-    ]
-  },
-  {
-    "text": "- - Endlich ſchlug die oft auf meinen Knieen erbetene Stunde, da ich Erlaubniß zur Brüdergemeine in Nisky erhielt.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
-    "datei": "1862_Beck_J_C.xml",
-    "autor": "Johanne Chriſtiane Beck",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erhielt Erlaubniß",
-        "objekt": "Brüdergemeine in Nisky",
-        "objekt_type": "organisation",
-        "zeit": null
       }
     ]
   },
