@@ -17019,11 +17019,11 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanne Chriſtiane Beck",
         "subjekt_type": "person",
-        "prädikat": "trat bei",
-        "objekt": "den lieben Geſchw. Carl von Foreſtier",
-        "objekt_type": "organisation",
+        "prädikat": "tätig_bei",
+        "objekt": "Geſchw. Carl von Foreſtier",
+        "objekt_type": "tätigkeit",
         "zeit": "31 December 1824"
       }
     ]
@@ -17037,10 +17037,10 @@
       {
         "subjekt": "Br. Hahn",
         "subjekt_type": "person",
-        "prädikat": "wurde_vorgeschlagen",
+        "prädikat": "tätig_als",
         "objekt": "Zuckerbäcker in Nisky",
-        "objekt_type": "organisation",
-        "zeit": null
+        "objekt_type": "tätigkeit",
+        "zeit": "1838"
       }
     ]
   },
@@ -17051,12 +17051,12 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "Wir",
+        "subjekt": "Br. Hahn",
         "subjekt_type": "person",
-        "prädikat": "getraut",
-        "objekt": "Octover 1838",
-        "objekt_type": "date",
-        "zeit": "Octover 1838"
+        "prädikat": "verheiratet_mit",
+        "objekt": "Johanne Chriſtiane Beck",
+        "objekt_type": "person",
+        "zeit": "October 1838"
       }
     ]
   },
@@ -17067,84 +17067,60 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "Mein lieber Mann",
+        "subjekt": "Br. Hahn",
         "subjekt_type": "person",
         "prädikat": "gestorben",
         "objekt": "",
         "objekt_type": "",
-        "zeit": "nach zwei Jahren"
+        "zeit": "1840"
       }
     ]
   },
   {
-    "text": "Am 15 Januar 1842 erhielt ich den Antrag nach Labrador zu geben und den verwitw, Br. Johann Chriſtian Beck zu heirarhen, um mit ihm dem Heiland dort zu dienen.",
+    "text": "Am 7 Mai 1842 reiſte ich von Nisky ab, traf in London mit der anderen Reiſegeſellſchaft zuſammen und am 16 Juni wurden wir von mehreren Wohlthätern und Freunden auf unſer Schiff begleitet.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
     "datei": "1862_Beck_J_C.xml",
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanne Chriſtiane Beck",
         "subjekt_type": "person",
-        "prädikat": "heirarhen",
-        "objekt": "Br. Johann Chriſtian Beck",
-        "objekt_type": "person",
-        "zeit": "15 Januar 1842"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "geben",
-        "objekt": "Labrador",
-        "objekt_type": "location",
-        "zeit": "15 Januar 1842"
-      }
-    ]
-  },
-  {
-    "text": "— Am 7 Mai 1842 reiſte ich von Nisky ab, traf in London mit der anderen Reiſegeſellſchaft zuſammen und am 16 Juni wurden wir von mehreren Wohlthätern und Freunden auf unſer Schiff begleitet.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
-    "datei": "1862_Beck_J_C.xml",
-    "autor": "Johanne Chriſtiane Beck",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "reiſte",
+        "prädikat": "verließ",
         "objekt": "Nisky",
         "objekt_type": "location",
         "zeit": "7 Mai 1842"
       },
       {
-        "subjekt": "ich",
+        "subjekt": "Johanne Chriſtiane Beck",
         "subjekt_type": "person",
-        "prädikat": "trat",
+        "prädikat": "reise_nach",
         "objekt": "London",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "Mai 1842"
       },
       {
         "subjekt": "wir",
         "subjekt_type": "person",
-        "prädikat": "wurden",
-        "objekt": "unſer Schiff",
+        "prädikat": "reise_nach",
+        "objekt": "Labrador",
         "objekt_type": "location",
-        "zeit": "16 Juni"
+        "zeit": "16 Juni 1842"
       }
     ]
   },
   {
-    "text": "— Am 1 Auguſt landeten wir, nachdem wir mancher Noth und Gefahr unter dem allmächtigen Schußz unſers lieben Herrn entgangen waren, glücklich in der Hoffenthaler Bucht.",
+    "text": "Am 1 Auguſt landeten wir, nachdem wir mancher Noth und Gefahr unter dem allmächtigen Schußz unſers lieben Herrn entgangen waren, glücklich in der Hoffenthaler Bucht.",
     "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
     "datei": "1862_Beck_J_C.xml",
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johanne Chriſtiane Beck",
         "subjekt_type": "person",
-        "prädikat": "landeten",
+        "prädikat": "angekommen",
         "objekt": "Hoffenthaler Bucht",
         "objekt_type": "location",
-        "zeit": "1 August"
+        "zeit": "1 August 1842"
       }
     ]
   },
@@ -17157,10 +17133,10 @@
       {
         "subjekt": "Br. Beck",
         "subjekt_type": "person",
-        "prädikat": "traut",
-        "objekt": "Hoffenthal",
-        "objekt_type": "location",
-        "zeit": "4 August"
+        "prädikat": "verheiratet_mit",
+        "objekt": "Johanne Chriſtiane Beck",
+        "objekt_type": "person",
+        "zeit": "4 August 1842"
       }
     ]
   },
@@ -17171,7 +17147,7 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "ihr lieber Mann",
+        "subjekt": "Br. Beck",
         "subjekt_type": "person",
         "prädikat": "verließ",
         "objekt": "Labrador",
@@ -17179,12 +17155,28 @@
         "zeit": "1851"
       },
       {
-        "subjekt": "sie",
+        "subjekt": "Br. Beck",
         "subjekt_type": "person",
-        "prädikat": "fanden",
+        "prädikat": "reifen_nach",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1851"
+      },
+      {
+        "subjekt": "Johanne Chriſtiane Beck",
+        "subjekt_type": "person",
+        "prädikat": "verließ",
+        "objekt": "Labrador",
+        "objekt_type": "location",
+        "zeit": "1851"
+      },
+      {
+        "subjekt": "Johanne Chriſtiane Beck",
+        "subjekt_type": "person",
+        "prädikat": "reifen_nach",
+        "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit": "1851"
       }
     ]
   },
@@ -17195,34 +17187,12 @@
     "autor": "Johanne Chriſtiane Beck",
     "graph": [
       {
-        "subjekt": "ihres lieben Mannes",
+        "subjekt": "Br. Beck",
         "subjekt_type": "person",
-        "prädikat": "gestorben_in",
-        "objekt": "Jahr 1859",
-        "objekt_type": "date"
-      },
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "wohnhaft_in",
-        "objekt": "Labrador",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Dieſe Grlaubniß wurde ihr ſchneller ertheilt, als ſie und wir es ahnten, denn ſchon am ſiebenten Tage ihrer Krankheit, den 15 Mai, entſchlief sie ſehr ſanft, ohne den mindeſten Todoskampf, nach einer Wallfahrt von 64 Jahren, 7 Monaten und 17 Tagen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/73935/rec/197",
-    "datei": "1862_Beck_J_C.xml",
-    "autor": "Johanne Chriſtiane Beck",
-    "graph": [
-      {
-        "subjekt": "sie",
-        "subjekt_type": "person",
-        "prädikat": "entſchlief",
-        "objekt": null,
-        "objekt_type": null,
-        "zeit": "15 Mai"
+        "prädikat": "gestorben",
+        "objekt": "",
+        "objekt_type": "",
+        "zeit":"1859"
       }
     ]
   },
@@ -17235,16 +17205,18 @@
       {
         "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "geboren_in",
+        "prädikat": "gestorben_in",
         "objekt": "Gnadenthal",
-        "objekt_type": "location"
+        "objekt_type": "location",
+        "zeit":"13ten September 1820"
       },
       {
         "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "gestorben_am",
-        "objekt": "13ten September 1820",
-        "objekt_type": "date"
+        "prädikat": "gestorben_als",
+        "objekt": "Koch",
+        "objekt_type": "",
+        "zeit":""
       }
     ]
   },
@@ -17255,7 +17227,7 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
         "prädikat": "geboren_in",
         "objekt": "Spree",
@@ -17271,106 +17243,12 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "ziehen",
-        "objekt": "Catharinenhof",
-        "objekt_type": "location"
-      },
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "ziehen",
-        "objekt": "Groß-Hennersdorf",
-        "objekt_type": "location"
-      }
-    ]
-  },
-  {
-    "text": "Er erhörte mein Gebet und ſchenkte nicht nur mir ſondern auch meiner Mutter und meiner jüngſten Schweſter die Erlaubniß in Herrnhut zu wohnen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/27861/rec/26",
-    "datei": "1823_Bonatz_Johanna.xml",
-    "autor": "Johanna Dorothea Bonatz",
-    "graph": [
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "erhörte",
-        "objekt": "mein Gebet",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "schenkte",
-        "objekt": "mir",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "schenkte",
-        "objekt": "meiner Mutter",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "schenkte",
-        "objekt": "meiner jüngsten Schwester",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "gab",
-        "objekt": "die Erlaubniß",
-        "objekt_type": "none",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "in Herrnhut zu wohnen",
-        "objekt": "mir",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "in Herrnhut zu wohnen",
-        "objekt": "meiner Mutter",
-        "objekt_type": "person",
-        "zeit": null
-      },
-      {
-        "subjekt": "er",
-        "subjekt_type": "person",
-        "prädikat": "in Herrnhut zu wohnen",
-        "objekt": "meiner jüngsten Schwester",
-        "objekt_type": "person",
-        "zeit": null
-      }
-    ]
-  },
-  {
-    "text": "Der Tag an welchem dies geſchahe der 9te July 1789 war für mich ein großer Freudens und Segens Tag und ich erneuerte an demſelben meinen Sinn nur Jeſu nachzufolgen.",
-    "ref": "https://collections.mun.ca/digital/collection/nachrichten/id/27861/rec/26",
-    "datei": "1823_Bonatz_Johanna.xml",
-    "autor": "Johanna Dorothea Bonatz",
-    "graph": [
-      {
-        "subjekt": "ich",
-        "subjekt_type": "person",
-        "prädikat": "erneuerte",
-        "objekt": "Sinn",
-        "objekt_type": "concept",
-        "zeit": "9te July 1789"
+        "prädikat": "zog_nach",
+        "objekt": "Catharinenhof in den Catharinenhof",
+        "objekt_type": "location",
+        "zeit":""
       }
     ]
   },
@@ -17381,7 +17259,7 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
         "prädikat": "wohnhaft_in",
         "objekt": "Chorhaus der ledigen Schwester",
@@ -17397,9 +17275,9 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "hatte die Gnade in aufgenommen zu werden",
+        "prädikat": "mitglied_von",
         "objekt": "Brüdergemeine",
         "objekt_type": "organisation",
         "zeit": "6ten December"
@@ -17413,12 +17291,12 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "ich",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
         "prädikat": "verheiratet_mit",
         "objekt": "Johann Gottlieb Bonatz",
         "objekt_type": "person",
-        "zeit": "1805 den 9ten September"
+        "zeit": "9ten September 1805"
       }
     ]
   },
@@ -17429,36 +17307,52 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "traten wir unſre Reiſe von",
+        "prädikat": "verließ",
         "objekt": "Herrnhut",
         "objekt_type": "location",
-        "zeit": "13ten September"
+        "zeit": "13ten September 1805"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "gelangten über",
+        "prädikat": "verließ",
+        "objekt": "Herrnhut",
+        "objekt_type": "location",
+        "zeit": "13ten September 1805"
+      },
+      {
+        "subjekt": "Johann Gottlieb Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "reise_über",
         "objekt": "Copenhagen",
         "objekt_type": "location",
-        "zeit": null
+        "zeit": "1805"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "am 8ten Juny 1806 glücklich nach",
+        "prädikat": "reise_über",
+        "objekt": "Copenhagen",
+        "objekt_type": "location",
+        "zeit": "1805"
+      },
+      {
+        "subjekt": "Johanna Dorothea Bonatz",
+        "subjekt_type": "person",
+        "prädikat": "angekommen",
         "objekt": "Gnadenthal",
         "objekt_type": "location",
         "zeit": "8ten Juny 1806"
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "zu dienen traten wir unſre Reiſe von",
-        "objekt": "Miſſion unter den Hottentotten",
-        "objekt_type": "organisation",
-        "zeit": null
+        "prädikat": "angekommen",
+        "objekt": "Gnadenthal",
+        "objekt_type": "location",
+        "zeit": "8ten Juny 1806"
       }
     ]
   },
@@ -17469,28 +17363,20 @@
     "autor": "Johanna Dorothea Bonatz",
     "graph": [
       {
-        "subjekt": "wir",
+        "subjekt": "Johanna Dorothea Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erfreut",
-        "objekt": "2 Söhnen und 3 Töchtern",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "Mutter_von",
+        "objekt": "2 Söhnen und 3 Töchtern (1 Sohn und 1 Tochter am leben)",
+        "objekt_type": "person",
+        "zeit": ""
       },
       {
-        "subjekt": "wir",
+        "subjekt": "Johann Gottlieb Bonatz",
         "subjekt_type": "person",
-        "prädikat": "erfreut",
-        "objekt": "2 Söhnen und 3 Töchtern",
-        "objekt_type": "organization",
-        "zeit": null
-      },
-      {
-        "subjekt": "wir",
-        "subjekt_type": "person",
-        "prädikat": "erfreut",
-        "objekt": "1 Sohn und 1 Tochter",
-        "objekt_type": "organization",
-        "zeit": null
+        "prädikat": "Vater_von",
+        "objekt": "2 Söhnen und 3 Töchtern (1 Sohn und 1 Tochter am leben)",
+        "objekt_type": "person",
+        "zeit": ""
       }
     ]
   }

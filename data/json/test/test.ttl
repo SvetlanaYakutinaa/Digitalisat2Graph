@@ -1,0 +1,7 @@
+@prefix : <http://example.org/> .
+
+:PersonA :warIn :London_03.10.1990 .
+:PersonB :warIn :London_03.10.1990 .
+:PersonC :warIn :London_03.10.1990 .
+:London_03.10.1990 :istOrt :London .
+:London_03.10.1990 :hatDatum "03.10.1990" .
