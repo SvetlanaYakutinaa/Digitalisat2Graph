@@ -1,0 +1,277 @@
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q123396429 wdt:P20 wd:Q70975 .
+wd:Q123396429 schema:date "04.01.1893" .
+wd:Q123396429 wdt:P19 wd:Q1501295 .
+wd:Q123396429 schema:date "29.09.1808" .
+wd:Q115345946 wdt:P22 wd:Q123396429 .
+wd:Q115345946 schema:date "nan" .
+wd:Q123463892 wdt:P19 wd:Q1684 .
+wd:Q123463892 schema:date "nan" .
+wd:Q115345946 wdt:P19 wd:Q498565 .
+wd:Q115345946 schema:date "nan" .
+wd:Q115345946 wdt:P22 "Heinrich Bonatz" .
+wd:Q115345946 schema:date "nan" .
+wd:Q115345946 wdt:P22 "Marianne Bonatz" .
+wd:Q115345946 schema:date "nan" .
+wd:Q115345946 wdt:P22 "Justine Bonatz" .
+wd:Q115345946 schema:date "nan" .
+wd:Q2965351 wdt:P26 "Friedrike Erdmann" .
+wd:Q2965351 schema:date "nan" .
+wd:Q123396429 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123396429 schema:date "13.11." .
+wd:Q13034877 wdt:P463 "süd-afrikanische Helferkonferenz in Gnadenthal" .
+wd:Q13034877 schema:date "nan" .
+wd:Q124804445 wdt:P26 "Carl stompjes" .
+wd:Q124804445 schema:date "nan" .
+wd:Q123396429 wdt:P26 "Pauline Müller" .
+wd:Q123396429 schema:date "1836" .
+wd:Q122707229 wdt:P26 "Braut von Clarkson von Johann Adolph Küster" .
+wd:Q122707229 schema:date "nan" .
+wd:Q123396429 wdt:P26 "Elise Bonatz (Curie)" .
+wd:Q123396429 schema:date "1844" .
+wd:Q123420358 wdt:P20 wd:Q159916 .
+wd:Q123420358 schema:date "06.05.1855" .
+wd:Q123420358 wdt:P19 wd:Q450726 .
+wd:Q123420358 schema:date "06.08.1784" .
+wd:Q123420358 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123420358 schema:date "27.09.1870" .
+wd:Q123420358 wdt:P26 wd:Q115005136 .
+wd:Q123420358 schema:date "26.03." .
+wd:Q123420358 wdt:P22 wd:Q123420356 .
+wd:Q123420358 schema:date "09.02.1817" .
+wd:Q123420358 wdt:P22 "zwei Töchter (Lemmerz)" .
+wd:Q123420358 schema:date "nan" .
+wd:Q124709145 wdt:P20 wd:Q11142530 .
+wd:Q124709145 schema:date "Januar 1836" .
+wd:Q104219675 wdt:P26 "der sohn (Lemmerz)" .
+wd:Q104219675 schema:date "nan" .
+wd:Q115005136 schema:date "11.02.1851" .
+wd:Q123420358 schema:date "06.05." .
+wd:Q130902239 wdt:P20 wd:Q165160 .
+wd:Q130902239 schema:date "25.02.1819" .
+wd:Q130902239 wdt:P19 wd:Q4077 .
+wd:Q130902239 schema:date "04.04.1734" .
+wd:Q94807583 wdt:P22 wd:Q130902239 .
+wd:Q94807583 schema:date "nan" .
+wd:Q94807583 schema:date "1769" .
+wd:Q130902239 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q130902239 schema:date "11.03.1781" .
+wd:Q130902239 wdt:P26 "Henriette Ernestine Schulz (v. seidliz)" .
+wd:Q130902239 schema:date "Februar 1783" .
+wd:Q124744576 schema:date "14.02.1810" .
+wd:Q123456921 wdt:P20 wd:Q1069495 .
+wd:Q123456921 schema:date "01.01.1847" .
+wd:Q123456921 wdt:P19 wd:Q1799686 .
+wd:Q123456921 schema:date "06.01.1766" .
+wd:Q123456921 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123456921 schema:date "27.04.1788" .
+wd:Q122707229 schema:date "nan" .
+wd:Q123456921 wdt:P26 "Alice Schmitt (Hitson)" .
+wd:Q123456921 schema:date "16.01.1807" .
+wd:Q123456921 wdt:P463 "Herrnhuter Brüdergemine in Nisky" .
+wd:Q123456921 schema:date "nan" .
+wd:Q122707229 wdt:P20 wd:Q801238 .
+wd:Q122707229 schema:date "27.12.1833" .
+wd:Q122707229 wdt:P19 "Dederan" .
+wd:Q122707229 schema:date "14.05.1775" .
+wd:Q122707229 wdt:P463 "Herrnhuter Brüdergemine in Kleinwelke" .
+wd:Q122707229 schema:date "nan" .
+wd:Q122707229 wdt:P463 "Herrnhuter Brüdergemine in Kleinwelke" .
+wd:Q122707229 schema:date "14.03.1796" .
+wd:Q122707229 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q122707229 schema:date "07.08.1796" .
+wd:Q122707229 wdt:P26 wd:Q123464547 .
+wd:Q122707229 schema:date "09.09.1806" .
+wd:Q122707229 wdt:P22 "zwei söhne und eine Tochter" .
+wd:Q122707229 schema:date "nan" .
+wd:Q122707229 wdt:P22 "sohn (Herrnhut)" .
+wd:Q122707229 schema:date "Januar 1817" .
+wd:Q122707229 wdt:P22 "Tochter (Neuwied)" .
+wd:Q122707229 schema:date "Januar 1819" .
+wd:Q122707229 wdt:P22 "sohn (Meudierendorf)" .
+wd:Q122707229 schema:date "nan" .
+wd:Q122707229 wdt:P22 "Tochte (Meudierendorf)" .
+wd:Q122707229 schema:date "nan" .
+wd:Q122707229 schema:date "27.12.1833" .
+wd:Q123396697 wdt:P20 wd:Q1501295 .
+wd:Q123396697 schema:date "12.07.1856" .
+wd:Q123396697 wdt:P19 "Zauchtenthal" .
+wd:Q123396697 schema:date "25.07.1777" .
+wd:Q123396697 wdt:P26 wd:Q123464336 .
+wd:Q123396697 schema:date "14.04." .
+wd:Q123464336 schema:date "19.09.1838" .
+wd:Q123396697 wdt:P26 wd:Q123464335 .
+wd:Q123396697 schema:date "09.01.1844" .
+wd:Q21517694 wdt:P20 wd:Q502553 .
+wd:Q21517694 schema:date "24.05.1850" .
+wd:Q21517694 wdt:P463 "Unitärs-Aeltesten-Conferenz" .
+wd:Q21517694 schema:date "nan" .
+wd:Q21517694 wdt:P19 wd:Q3967 .
+wd:Q21517694 schema:date "04.09.1803" .
+wd:Q21517694 wdt:P22 wd:Q21517694 .
+wd:Q21517694 schema:date "nan" .
+wd:Q21517694 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q21517694 schema:date "07.04.1817" .
+wd:Q21517694 wdt:P26 "Auguste Kölbing (Plitt)" .
+wd:Q21517694 schema:date "14.06.1838" .
+wd:Q94854893 schema:date "21.10.1843" .
+wd:Q21517694 wdt:P22 wd:Q94854997 .
+wd:Q21517694 schema:date "nan" .
+wd:Q21517694 wdt:P22 "Gerhard Kölbing" .
+wd:Q21517694 schema:date "nan" .
+wd:Q21517694 wdt:P22 "Paul Kölbing" .
+wd:Q21517694 schema:date "nan" .
+wd:Q21517694 wdt:P463 "Unitäts-Aeltesten-Conferenz im Helfer- und Erziehungs-Departement" .
+wd:Q21517694 schema:date "1848" .
+wd:Q124744576 wdt:P20 wd:Q159916 .
+wd:Q124744576 schema:date "29.12.1860" .
+wd:Q124744576 wdt:P19 wd:Q6869 .
+wd:Q124744576 schema:date "28.10.1781" .
+wd:Q124744576 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q124744576 schema:date "15.10.1809" .
+wd:Q124744576 wdt:P26 "Br. Johann Gottlieb schult" .
+wd:Q124744576 schema:date "18.08.1822" .
+wd:Q130902239 wdt:P22 "Amalie Schulz" .
+wd:Q130902239 schema:date "10.11.1825" .
+wd:Q123464530 wdt:P20 wd:Q159916 .
+wd:Q123464530 schema:date "29.06.1852" .
+wd:Q123464530 wdt:P19 "Nieder-Kunewalde bei Bautzen" .
+wd:Q123464530 schema:date "24.07.1790" .
+wd:Q123464530 wdt:P463 "Herrnhuter Brüdergemine in Nisky" .
+wd:Q123464530 schema:date "1812" .
+wd:Q123419925 wdt:P26 wd:Q94741320 .
+wd:Q123419925 schema:date "nan" .
+wd:Q123464530 schema:date "29.06.1852" .
+wd:Q115005136 wdt:P20 wd:Q159916 .
+wd:Q115005136 schema:date "11.02.1851" .
+wd:Q115005136 wdt:P19 "Thräna in Uhnst" .
+wd:Q115005136 schema:date "18.04.1777" .
+wd:Q115005136 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q115005136 schema:date "18.04.1797" .
+wd:Q115005136 wdt:P26 "Johannes Lemmerz" .
+wd:Q115005136 schema:date "26.03." .
+wd:Q123420356 schema:date "Februar 1817" .
+wd:Q123420358 wdt:P22 "Carl August Lemmerz" .
+wd:Q123420358 schema:date "Februar 1817" .
+wd:Q123420356 wdt:P26 "Rosalie Bauer" .
+wd:Q123420356 schema:date "nan" .
+wd:Q123463682 wdt:P20 wd:Q165140 .
+wd:Q123463682 schema:date "14.06.1882" .
+wd:Q123463682 wdt:P19 wd:Q556730 .
+wd:Q123463682 schema:date "11.07.1802" .
+wd:Q123463682 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123463682 schema:date "13.11." .
+wd:Q123463682 wdt:P26 "Marie Kieschnick" .
+wd:Q123463682 schema:date "nan" .
+wd:Q123463682 wdt:P22 "1. Töchterchen (Wedemann)" .
+wd:Q123463682 schema:date "24.08." .
+wd:Q123463682 wdt:P22 "söhnchen (Wedemann)" .
+wd:Q123463682 schema:date "Februar 1839" .
+wd:Q123463681 wdt:P26 "Marie Drexler" .
+wd:Q123463681 schema:date "23.10.1877" .
+wd:Q115345946 wdt:P20 wd:Q1501295 .
+wd:Q115345946 schema:date "16.12.1827" .
+wd:Q115345946 wdt:P19 wd:Q498565 .
+wd:Q115345946 schema:date "15.02.1773" .
+wd:Q123463672 schema:date "nan" .
+wd:Q115345946 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q115345946 schema:date "24.02.1793" .
+wd:Q115345946 wdt:P26 "Johanna Dorothea Koch" .
+wd:Q115345946 schema:date "September" .
+wd:Q115345946 wdt:P26 "Friederike Dorothea Erdmann" .
+wd:Q115345946 schema:date "nan" .
+wd:Q115345946 wdt:P22 "3 Kindern (2. Ehe)" .
+wd:Q115345946 schema:date "nan" .
+wd:Q115345946 wdt:P22 "5 Kinder (3 davon tot - 1. Ehe)" .
+wd:Q115345946 schema:date "nan" .
+wd:Q55853813 wdt:P20 wd:Q1501295 .
+wd:Q55853813 schema:date "28.12.1860" .
+wd:Q55853813 wdt:P19 wd:Q165160 .
+wd:Q55853813 schema:date "02.07.1810" .
+wd:Q55853813 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q55853813 schema:date "02.03.1828" .
+wd:Q55853813 wdt:P26 wd:Q123464538 .
+wd:Q55853813 schema:date "22.08.1841" .
+wd:Q55853813 wdt:P22 "3 Töchtern (Kölbing)" .
+wd:Q55853813 schema:date "nan" .
+wd:Q55853813 wdt:P22 "zweiten söhnchens (Kölbing)" .
+wd:Q55853813 schema:date "December 1859" .
+wd:Q55853813 wdt:P22 "1. söhnlein (Kölbing)" .
+wd:Q55853813 schema:date "März 1855" .
+wd:Q55853813 wdt:P22 "ein Töchterchen (Kölbing)" .
+wd:Q55853813 schema:date "nan" .
+wd:Q123463672 schema:date "Juli 1852" .
+wd:Q123495084 wdt:P20 wd:Q165140 .
+wd:Q123495084 schema:date "17.07.1884" .
+wd:Q123495084 wdt:P19 wd:Q669037 .
+wd:Q123495084 schema:date "09.05.1817" .
+wd:Q123456940 schema:date "30.04.1858" .
+wd:Q123456940 wdt:P22 "einzigen Tochter (suhl)" .
+wd:Q123456940 schema:date "nan" .
+wd:Q21415674 schema:date "18.02.1875" .
+wd:Q21415674 wdt:P19 wd:Q44500 .
+wd:Q21415674 schema:date "21.01.1788" .
+wd:Q21415674 wdt:P463 "Brüderchor" .
+wd:Q21415674 schema:date "1804" .
+wd:Q21415674 wdt:P26 "A. Sophie Röderer" .
+wd:Q21415674 schema:date "nan" .
+wd:Q21415674 wdt:P463 "Herrnhuter Brüdergemeine in Niesky" .
+wd:Q21415674 schema:date "nan" .
+wd:Q21415674 wdt:P463 "ökonomischen Commitee" .
+wd:Q21415674 schema:date "1825" .
+wd:Q21415674 wdt:P22 "Carl Julius Breutel" .
+wd:Q21415674 schema:date "06.08.1826" .
+wd:Q21415674 wdt:P22 "John William Breutel" .
+wd:Q21415674 schema:date "11.11.1828" .
+wd:Q21415674 wdt:P22 "Francis William Breutel" .
+wd:Q21415674 schema:date "24.06.1830" .
+wd:Q21415674 wdt:P22 "Emil Breutel" .
+wd:Q21415674 schema:date "17.05.1833" .
+wd:Q21415674 wdt:P22 "Marie Breutel" .
+wd:Q21415674 schema:date "24.11.1835" .
+wd:Q21415674 wdt:P22 "Julius Breutel" .
+wd:Q21415674 schema:date "nan" .
+wd:Q123456940 wdt:P20 wd:Q1501295 .
+wd:Q123456940 schema:date "30.04.1858" .
+wd:Q123456940 wdt:P19 wd:Q1069495 .
+wd:Q123456940 schema:date "01.04.1813" .
+wd:Q123456940 wdt:P26 wd:Q123495084 .
+wd:Q123456940 schema:date "22.06.1845" .
+wd:Q123456940 wdt:P463 "Helfer-Conferenz" .
+wd:Q123456940 schema:date "nan" .
+wd:Q123456940 wdt:P22 "Maria Auguste Suhl" .
+wd:Q123456940 schema:date "16.05.1848" .
+wd:Q123456933 wdt:P20 wd:Q165140 .
+wd:Q123456933 schema:date "27.07.1853" .
+wd:Q123456933 wdt:P19 "Dümitz in Großherzogthum Mecklendurg" .
+wd:Q123456933 schema:date "28.08.1783" .
+wd:Q123456933 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123456933 schema:date "15.12.1805" .
+wd:Q123456933 wdt:P22 "7 Kindern" .
+wd:Q123456933 schema:date "nan" .
+wd:Q123419925 wdt:P20 wd:Q5379390 .
+wd:Q123419925 schema:date "03.07.1841" .
+wd:Q123419925 wdt:P19 "Dunkelbeck im Hildesheimschen" .
+wd:Q123419925 schema:date "25.07.1783" .
+wd:Q123419925 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123419925 schema:date "02.09.1804" .
+wd:Q123419925 wdt:P26 wd:Q123495049 .
+wd:Q123419925 schema:date "13.05." .
+wd:Q131932979 wdt:P20 wd:Q165140 .
+wd:Q131932979 schema:date "15.05.1862" .
+wd:Q131932979 wdt:P19 wd:Q1731 .
+wd:Q131932979 schema:date "29.09.1797" .
+wd:Q123463892 wdt:P20 wd:Q1501295 .
+wd:Q123463892 schema:date "13.09.1820" .
+wd:Q123463892 wdt:P19 wd:Q1684 .
+wd:Q123463892 schema:date "21.04.1776" .
+wd:Q123463892 wdt:P463 "Herrnhuter Brüdergemine" .
+wd:Q123463892 schema:date "06.12." .
+wd:Q123463892 wdt:P26 wd:Q115345946 .
+wd:Q123463892 schema:date "09.09.1805" .
+wd:Q115345946 wdt:P22 "2 söhnen und 3 Töchtern (1 sohn und 1 Tochter am leben)" .
+wd:Q115345946 schema:date "nan" .
