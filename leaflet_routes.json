@@ -1,0 +1,2214 @@
+[
+  {
+    "person": "Johanne Christiane Beck",
+    "person_id": "https://www.wikidata.org/wiki/Q131932979",
+    "color": "",
+    "route": [
+      {
+        "location": "Dresden",
+        "location_id": "https://www.wikidata.org/wiki/Q1731",
+        "location_type": "Geburtsort",
+        "lat": 51.05,
+        "lng": 13.74,
+        "date": "29.09.1797"
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "07.05.1842"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "Mai 1842"
+      },
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "geografischer Startpunkt",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "1851"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "Sterbeort",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "15.05.1862"
+      }
+    ]
+  },
+  {
+    "person": "Johann Adolf Bonatz",
+    "person_id": "https://www.wikidata.org/wiki/Q123396429",
+    "color": "",
+    "route": [
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Geburtsort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "29.09.1808"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "December"
+      },
+      {
+        "location": "Holland",
+        "location_id": "https://www.wikidata.org/wiki/Q55",
+        "location_type": "via",
+        "lat": 52.316666666,
+        "lng": 5.55,
+        "date": 1817
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": null
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "1823"
+      },
+      {
+        "location": "Tafelbucht",
+        "location_id": "https://www.wikidata.org/wiki/Q531909",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.85,
+        "lng": 18.45,
+        "date": "30.12."
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": null
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": null
+      },
+      {
+        "location": "Königsfeld",
+        "location_id": "https://www.wikidata.org/wiki/Q70975",
+        "location_type": "Sterbeort",
+        "lat": 51.063888888,
+        "lng": 12.753611111,
+        "date": "04.01.1893"
+      }
+    ]
+  },
+  {
+    "person": "Johanna Dorothea Koch",
+    "person_id": "https://www.wikidata.org/wiki/Q123463892",
+    "color": "",
+    "route": [
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "08.06.1806"
+      }
+    ]
+  },
+  {
+    "person": "Johanna Dorothea Bonatz",
+    "person_id": "https://www.wikidata.org/wiki/Q123463892",
+    "color": "",
+    "route": [
+      {
+        "location": "Spree",
+        "location_id": "https://www.wikidata.org/wiki/Q1684",
+        "location_type": "Geburtsort",
+        "lat": 51.009611111,
+        "lng": 14.649305555,
+        "date": "21.04.1776"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "13.09.1805"
+      },
+      {
+        "location": "Copenhagen",
+        "location_id": "https://www.wikidata.org/wiki/Q1748",
+        "location_type": "via",
+        "lat": 55.676111111,
+        "lng": 12.568888888,
+        "date": "1805"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "08.06.1806"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Sterbeort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "13.09.1820"
+      }
+    ]
+  },
+  {
+    "person": "Johann Gottlieb Bonatz",
+    "person_id": "https://www.wikidata.org/wiki/Q115345946",
+    "color": "",
+    "route": [
+      {
+        "location": "Tangermünde",
+        "location_id": "https://www.wikidata.org/wiki/Q498565",
+        "location_type": "Geburtsort",
+        "lat": 52.540833333,
+        "lng": 11.968888888,
+        "date": "15.02.1773"
+      },
+      {
+        "location": "Europa",
+        "location_id": "https://www.wikidata.org/wiki/Q46",
+        "location_type": "angestrebtes Ziel",
+        "lat": 48.690959,
+        "lng": 9.14062,
+        "date": 1822
+      },
+      {
+        "location": "Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q15",
+        "location_type": "angestrebtes Ziel",
+        "lat": 21.09375,
+        "lng": 7.1881,
+        "date": null
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "März 1823"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Sterbeort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "16.12.1827"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "13.09.1805"
+      },
+      {
+        "location": "Copenhagen",
+        "location_id": "https://www.wikidata.org/wiki/Q1748",
+        "location_type": "via",
+        "lat": 55.676111111,
+        "lng": 12.568888888,
+        "date": "1805"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "08.06.1806"
+      }
+    ]
+  },
+  {
+    "person": "Johann Christian Breutel",
+    "person_id": "https://www.wikidata.org/wiki/Q21415674",
+    "color": "",
+    "route": [
+      {
+        "location": "Weißenburg am sand",
+        "location_id": "https://www.wikidata.org/wiki/Q44500",
+        "location_type": "Geburtsort",
+        "lat": 49.030555555,
+        "lng": 10.971944444,
+        "date": "21.01.1788"
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "27.09."
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "21.10."
+      },
+      {
+        "location": "St. Thomas",
+        "location_id": "https://www.wikidata.org/wiki/Q2078072",
+        "location_type": "geografischer Endpunkt",
+        "lat": 42.775,
+        "lng": -81.183333333,
+        "date": "18.12."
+      },
+      {
+        "location": "St. Kitts",
+        "location_id": "https://www.wikidata.org/wiki/Q204989",
+        "location_type": "angestrebtes Ziel",
+        "lat": 17.319722,
+        "lng": -62.747222,
+        "date": "06.06."
+      },
+      {
+        "location": "Antigua",
+        "location_id": "https://www.wikidata.org/wiki/Q316390",
+        "location_type": "geografischer Endpunkt",
+        "lat": 17.085,
+        "lng": -61.8,
+        "date": "23.06."
+      },
+      {
+        "location": "Gracehill",
+        "location_id": "https://www.wikidata.org/wiki/Q5591449",
+        "location_type": "geografischer Endpunkt",
+        "lat": 54.85,
+        "lng": -6.33333,
+        "date": null
+      },
+      {
+        "location": "london",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "24.09."
+      },
+      {
+        "location": "Sale",
+        "location_id": "https://www.wikidata.org/wiki/Q1022733",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.424,
+        "lng": -2.322,
+        "date": "11.09."
+      },
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": "18.09."
+      },
+      {
+        "location": "Christiansfeld",
+        "location_id": "https://www.wikidata.org/wiki/Q3197288",
+        "location_type": "angestrebtes Ziel",
+        "lat": 55.356667,
+        "lng": 9.483056,
+        "date": null
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "22.10."
+      },
+      {
+        "location": "Königshain",
+        "location_id": "https://www.wikidata.org/wiki/Q506096",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.179722222,
+        "lng": 14.88,
+        "date": "23.10."
+      },
+      {
+        "location": "Berthelsdorf",
+        "location_id": "https://www.wikidata.org/wiki/Q502553",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.027777777,
+        "lng": 14.758333333,
+        "date": "11.07.1853"
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "via",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "11.07.1853"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "11.07.1853"
+      },
+      {
+        "location": "Southampton",
+        "location_id": "https://www.wikidata.org/wiki/Q79848",
+        "location_type": "angestrebtes Ziel",
+        "lat": 50.906666666,
+        "lng": -1.404444444,
+        "date": "13.08.1853"
+      },
+      {
+        "location": "Tafelbucht",
+        "location_id": "https://www.wikidata.org/wiki/Q531909",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.85,
+        "lng": 18.45,
+        "date": "01.10.1853"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "17.07."
+      },
+      {
+        "location": "Rotterdam",
+        "location_id": "https://www.wikidata.org/wiki/Q34370",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.92,
+        "lng": 4.48,
+        "date": null
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "angestrebtes Ziel",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": null
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "angestrebtes Ziel",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "26.09."
+      }
+    ]
+  },
+  {
+    "person": "Gottfried Clemens",
+    "person_id": "https://www.wikidata.org/wiki/Q55123804",
+    "color": "",
+    "route": [
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "25.07.1815"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "24.12.1815"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "30.12.1815"
+      }
+    ]
+  },
+  {
+    "person": "Anton Martin August Clemens",
+    "person_id": "https://www.wikidata.org/wiki/Q124709145",
+    "color": "",
+    "route": [
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "Sterbeort",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "Januar 1836"
+      }
+    ]
+  },
+  {
+    "person": "Johannes Fritsch",
+    "person_id": "https://www.wikidata.org/wiki/Q123396697",
+    "color": "",
+    "route": [
+      {
+        "location": "Zauchtenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1553447",
+        "location_type": "Geburtsort",
+        "lat": 49.655716695,
+        "lng": 17.928191625,
+        "date": "25.07.1777"
+      },
+      {
+        "location": "Gnadenfrei",
+        "location_id": "https://www.wikidata.org/wiki/Q986091",
+        "location_type": "angestrebtes Ziel",
+        "lat": 50.68357,
+        "lng": 16.74359,
+        "date": "20."
+      },
+      {
+        "location": "Bremen",
+        "location_id": "https://www.wikidata.org/wiki/Q24879",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.075833333,
+        "lng": 8.807222222,
+        "date": "22."
+      },
+      {
+        "location": "Gnadau",
+        "location_id": "https://www.wikidata.org/wiki/Q688045",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.975833333,
+        "lng": 11.779444444,
+        "date": "17.03."
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": null
+      },
+      {
+        "location": "Oldenburg",
+        "location_id": "https://www.wikidata.org/wiki/Q2936",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.143888888,
+        "lng": 8.213888888,
+        "date": null
+      },
+      {
+        "location": "Jever",
+        "location_id": "https://www.wikidata.org/wiki/Q31084",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.574444444,
+        "lng": 7.900833333,
+        "date": null
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": null
+      },
+      {
+        "location": "Madeira",
+        "location_id": "https://www.wikidata.org/wiki/Q26253",
+        "location_type": "geografischer Endpunkt",
+        "lat": 32.75,
+        "lng": -17.0,
+        "date": "19.10."
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": null
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Sterbeort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "12.07.1856"
+      }
+    ]
+  },
+  {
+    "person": "Bertha Kölbing",
+    "person_id": "https://www.wikidata.org/wiki/Q123464538",
+    "color": "",
+    "route": [
+      {
+        "location": "England",
+        "location_id": "https://www.wikidata.org/wiki/Q21",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.0,
+        "lng": -1.0,
+        "date": "12.09.1842"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "08.11.1842"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "23.02.1843"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "19.03.1843"
+      }
+    ]
+  },
+  {
+    "person": "Geschw. Hallbeck",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "1817"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "Angust 1817"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "December 1817"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "December 1817"
+      }
+    ]
+  },
+  {
+    "person": "Geschw. Halter",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "angestrebtes Ziel",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": "1822"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": null
+      },
+      {
+        "location": "Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q15",
+        "location_type": "angestrebtes Ziel",
+        "lat": 21.09375,
+        "lng": 7.1881,
+        "date": "März 1822"
+      }
+    ]
+  },
+  {
+    "person": "Johannes Friedrich Hoffmann",
+    "person_id": "https://www.wikidata.org/wiki/Q123419925",
+    "color": "",
+    "route": [
+      {
+        "location": "Dunkelbeck im Hildesheimschen",
+        "location_id": "https://www.wikidata.org/wiki/Q1265684",
+        "location_type": "Geburtsort",
+        "lat": 52.2961,
+        "lng": 10.2708,
+        "date": "25.07.1783"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "Juli 1817"
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "1817"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "August 1817"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "December 1817"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "December 1817"
+      },
+      {
+        "location": "Enon",
+        "location_id": "https://www.wikidata.org/wiki/Q5379390",
+        "location_type": "Sterbeort",
+        "lat": -33.398,
+        "lng": 25.545,
+        "date": "03.07.1841"
+      }
+    ]
+  },
+  {
+    "person": "Maria Elisabeth Hoffmann",
+    "person_id": "https://www.wikidata.org/wiki/Q123464530",
+    "color": "",
+    "route": [
+      {
+        "location": "Nieder-Kunewalde bei Bautzen",
+        "location_id": "https://www.wikidata.org/wiki/Q93225",
+        "location_type": "Geburtsort",
+        "lat": 51.1,
+        "lng": 14.516666666,
+        "date": "24.07.1790"
+      },
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": "09.07.1820"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "24.07.1820"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "September 1820"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "angestrebtes Ziel",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": null
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "30.04.1842"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "24.07.1842"
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "via",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "Juli 1842"
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "Sterbeort",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "29.06.1852"
+      }
+    ]
+  },
+  {
+    "person": "Br. Hornig",
+    "person_id": "https://www.wikidata.org/wiki/Q123419926",
+    "color": "",
+    "route": [
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "1817"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "Angust 1817"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "December 1817"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "December 1817"
+      }
+    ]
+  },
+  {
+    "person": "Br. Kmoch",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": 1797
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": 1797
+      },
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "31.05.1797"
+      },
+      {
+        "location": "Okak",
+        "location_id": "https://www.wikidata.org/wiki/Q7081733",
+        "location_type": "geografischer Endpunkt",
+        "lat": 57.562389,
+        "lng": -61.98425,
+        "date": "27.07.1797"
+      }
+    ]
+  },
+  {
+    "person": "Geschw. Kohl",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "geografischer Startpunkt",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "03.10.1806"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "03.12.1806"
+      }
+    ]
+  },
+  {
+    "person": "Cart Rudolph Kölbing",
+    "person_id": "https://www.wikidata.org/wiki/Q55853813",
+    "color": "",
+    "route": [
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "Geburtsort",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "02.07.1810"
+      },
+      {
+        "location": "England",
+        "location_id": "https://www.wikidata.org/wiki/Q21",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.0,
+        "lng": -1.0,
+        "date": "12.09.1842"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "23.02.1843"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Sterbeort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "28.12.1860"
+      }
+    ]
+  },
+  {
+    "person": "Friedrich Wilhelm Kölbing",
+    "person_id": "https://www.wikidata.org/wiki/Q21517694",
+    "color": "",
+    "route": [
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "Geburtsort",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "04.09.1803"
+      },
+      {
+        "location": "Berthelsdorf",
+        "location_id": "https://www.wikidata.org/wiki/Q502553",
+        "location_type": "Sterbeort",
+        "lat": 51.027777777,
+        "lng": 14.758333333,
+        "date": "24.05.1850"
+      }
+    ]
+  },
+  {
+    "person": "Johann Adolph Küster",
+    "person_id": "https://www.wikidata.org/wiki/Q122707229",
+    "color": "",
+    "route": [
+      {
+        "location": "Oederan",
+        "location_id": "https://www.wikidata.org/wiki/Q32204819",
+        "location_type": "Geburtsort",
+        "lat": 50.860555555,
+        "lng": 13.171666666,
+        "date": "14.05.1775"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "August 1806"
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "09.10.1806"
+      },
+      {
+        "location": "Husum",
+        "location_id": "https://www.wikidata.org/wiki/Q21159",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.476944444,
+        "lng": 9.051111111,
+        "date": "06.12.1806"
+      },
+      {
+        "location": "Insel Helgoland",
+        "location_id": "https://www.wikidata.org/wiki/Q3038",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.1825,
+        "lng": 7.885277777,
+        "date": "December 1806"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "December 1806"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "26.10.1807"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "1808"
+      },
+      {
+        "location": "Gravesend",
+        "location_id": "https://www.wikidata.org/wiki/Q676689",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.441666666,
+        "lng": 0.368611111,
+        "date": "19.11.1815"
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "geografischer Endpunkt",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": "02.02.1846"
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "via",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "Mai 1846"
+      },
+      {
+        "location": "Ebersdorf",
+        "location_id": "https://www.wikidata.org/wiki/Q1069495",
+        "location_type": "via",
+        "lat": 50.8783,
+        "lng": 12.9756,
+        "date": "Mai 1846"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "Mai 1846"
+      },
+      {
+        "location": "Neudietendorf",
+        "location_id": "https://www.wikidata.org/wiki/Q801238",
+        "location_type": "Sterbeort",
+        "lat": 50.914227604,
+        "lng": 10.910560328,
+        "date": "27.12.1833"
+      }
+    ]
+  },
+  {
+    "person": "Immanuel Benjamin Küster",
+    "person_id": "https://www.wikidata.org/wiki/Q135294870",
+    "color": "",
+    "route": [
+      {
+        "location": "Torgau",
+        "location_id": "https://www.wikidata.org/wiki/Q12062",
+        "location_type": "Geburtsort",
+        "lat": 51.560277777,
+        "lng": 13.005555555,
+        "date": null
+      },
+      {
+        "location": "Torgau",
+        "location_id": "https://www.wikidata.org/wiki/Q12062",
+        "location_type": "Sterbeort",
+        "lat": 51.560277777,
+        "lng": 13.005555555,
+        "date": null
+      }
+    ]
+  },
+  {
+    "person": "Justine Magdalena Küster",
+    "person_id": "https://www.wikidata.org/wiki/Q123464549",
+    "color": "",
+    "route": [
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "09.10.1806"
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "09.10.1806"
+      },
+      {
+        "location": "Husum",
+        "location_id": "https://www.wikidata.org/wiki/Q21159",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.476944444,
+        "lng": 9.051111111,
+        "date": "06.12.1806"
+      },
+      {
+        "location": "Insel Helgoland",
+        "location_id": "https://www.wikidata.org/wiki/Q3038",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.1825,
+        "lng": 7.885277777,
+        "date": "December 1806"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "December 1806"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "26.10.1807"
+      }
+    ]
+  },
+  {
+    "person": "Christian Ignatius Latrobe",
+    "person_id": "https://www.wikidata.org/wiki/Q2965351",
+    "color": "",
+    "route": [
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "24.12.1815"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "30.12.1815"
+      }
+    ]
+  },
+  {
+    "person": "Agnes Lemmerz",
+    "person_id": "https://www.wikidata.org/wiki/Q115005136",
+    "color": "",
+    "route": [
+      {
+        "location": "Thräna in Uhnst",
+        "location_id": "https://www.wikidata.org/wiki/Q22694308",
+        "location_type": "Geburtsort",
+        "lat": 51.071179,
+        "lng": 12.469225,
+        "date": "18.04.1777"
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "1795"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "August 1814"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "März 1815"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "März 1815"
+      },
+      {
+        "location": "Tafelbucht",
+        "location_id": "https://www.wikidata.org/wiki/Q531909",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.85,
+        "lng": 18.45,
+        "date": null
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "14.07."
+      },
+      {
+        "location": "Gnadau",
+        "location_id": "https://www.wikidata.org/wiki/Q688045",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.975833333,
+        "lng": 11.779444444,
+        "date": null
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "26.05.1825"
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "Sterbeort",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "11.02.1851"
+      }
+    ]
+  },
+  {
+    "person": "Johannes Friedrich Lemmerz",
+    "person_id": "https://www.wikidata.org/wiki/Q123420358",
+    "color": "",
+    "route": [
+      {
+        "location": "Alzey in der Unterpfalz",
+        "location_id": "https://www.wikidata.org/wiki/Q450726",
+        "location_type": "Geburtsort",
+        "lat": 49.751666666,
+        "lng": 8.116111111,
+        "date": "06.08.1784"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "März 1807"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "12.08.1815"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "24.12.1815"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "geografischer Startpunkt",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "1816"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "15.05."
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "14.07."
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "Sterbeort",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "06.05.1855"
+      }
+    ]
+  },
+  {
+    "person": "Br. Reimann",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": 1797
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": 1797
+      },
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "31.05.1797"
+      },
+      {
+        "location": "Okak",
+        "location_id": "https://www.wikidata.org/wiki/Q7081733",
+        "location_type": "geografischer Endpunkt",
+        "lat": 57.562389,
+        "lng": -61.98425,
+        "date": "27.07.1797"
+      }
+    ]
+  },
+  {
+    "person": "Johann Heinrich Schmitt",
+    "person_id": "https://www.wikidata.org/wiki/Q123456921",
+    "color": "",
+    "route": [
+      {
+        "location": "Lachen",
+        "location_id": "https://www.wikidata.org/wiki/Q1799686",
+        "location_type": "Geburtsort",
+        "lat": 49.330488888,
+        "lng": 8.199830555,
+        "date": "06.01.1766"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": 1797
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "angestrebtes Ziel",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "August 1787"
+      },
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": 1797
+      },
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "geografischer Endpunkt",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "27.07.1797"
+      },
+      {
+        "location": "Okak",
+        "location_id": "https://www.wikidata.org/wiki/Q7081733",
+        "location_type": "geografischer Endpunkt",
+        "lat": 57.562389,
+        "lng": -61.98425,
+        "date": "27.07.1797"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": 1797
+      },
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": 1797
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "03.12."
+      },
+      {
+        "location": "Labrador",
+        "location_id": "https://www.wikidata.org/wiki/Q380307",
+        "location_type": "angestrebtes Ziel",
+        "lat": 54.0,
+        "lng": -62.0,
+        "date": "31.05.1797"
+      },
+      {
+        "location": "Nain",
+        "location_id": "https://www.wikidata.org/wiki/Q720388",
+        "location_type": "angestrebtes Ziel",
+        "lat": 32.86,
+        "lng": 53.0875,
+        "date": "März 1800"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "29.09.1807"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "26.10."
+      },
+      {
+        "location": "Ebersdorf",
+        "location_id": "https://www.wikidata.org/wiki/Q1069495",
+        "location_type": "Sterbeort",
+        "lat": 50.8783,
+        "lng": 12.9756,
+        "date": "01.01.1847"
+      },
+      {
+        "location": "Nain",
+        "location_id": "https://www.wikidata.org/wiki/Q720388",
+        "location_type": "geografischer Endpunkt",
+        "lat": 32.86,
+        "lng": 53.0875,
+        "date": "März 1800"
+      }
+    ]
+  },
+  {
+    "person": "Juliana Barbara Schulz",
+    "person_id": "https://www.wikidata.org/wiki/Q124744576",
+    "color": "",
+    "route": [
+      {
+        "location": "Brenz bei Heidenheim Würtembergischen",
+        "location_id": "https://www.wikidata.org/wiki/Q6869",
+        "location_type": "Geburtsort",
+        "lat": 48.676111111,
+        "lng": 10.154444444,
+        "date": "28.10.1781"
+      },
+      {
+        "location": "Königsfeld",
+        "location_id": "https://www.wikidata.org/wiki/Q70975",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.063888888,
+        "lng": 12.753611111,
+        "date": "29.12."
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "geografischer Endpunkt",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": null
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "angestrebtes Ziel",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": "1822"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": null
+      },
+      {
+        "location": "Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q15",
+        "location_type": "angestrebtes Ziel",
+        "lat": 21.09375,
+        "lng": 7.1881,
+        "date": "März 1822"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "von Jini bis Juli 1822"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Startpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "April 1834"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "Juni 1834"
+      },
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "via",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "von Juni bis Juli 1834"
+      },
+      {
+        "location": "Gnadau",
+        "location_id": "https://www.wikidata.org/wiki/Q688045",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.975833333,
+        "lng": 11.779444444,
+        "date": "von Juni bis Juli 1834"
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "Sterbeort",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "29.12.1860"
+      }
+    ]
+  },
+  {
+    "person": "Johann Gottfried Schulz",
+    "person_id": "https://www.wikidata.org/wiki/Q130902239",
+    "color": "",
+    "route": [
+      {
+        "location": "Görlitz",
+        "location_id": "https://www.wikidata.org/wiki/Q4077",
+        "location_type": "Geburtsort",
+        "lat": 51.152777777,
+        "lng": 14.987222222,
+        "date": "04.04.1734"
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "geografischer Startpunkt",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": null
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "17.06."
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "berufen",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "19.11.1782"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "16.09."
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "Sterbeort",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": "25.02.1819"
+      },
+      {
+        "location": "Madeira",
+        "location_id": "https://www.wikidata.org/wiki/Q26253",
+        "location_type": "geografischer Endpunkt",
+        "lat": 32.75,
+        "lng": -17.0,
+        "date": "19.10."
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": null
+      }
+    ]
+  },
+  {
+    "person": "Johann Jürgen Friedrich Stein",
+    "person_id": "https://www.wikidata.org/wiki/Q123456933",
+    "color": "",
+    "route": [
+      {
+        "location": "Dömitz in Großherzogthum Mecklendurg",
+        "location_id": "https://www.wikidata.org/wiki/Q536781",
+        "location_type": "Geburtsort",
+        "lat": 53.138333333,
+        "lng": 11.263333333,
+        "date": "28.08.1783"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "27.05.1805"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "01.10.1815"
+      },
+      {
+        "location": "Süd-Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q258",
+        "location_type": "geografischer Endpunkt",
+        "lat": -29.0,
+        "lng": 24.0,
+        "date": "December 1815"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Startpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "28.04.1840"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "26.07.1840"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "Sterbeort",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "27.07.1853"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "12.08.1815"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "25.07.1815"
+      },
+      {
+        "location": "Süd-Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q258",
+        "location_type": "angestrebtes Ziel",
+        "lat": -29.0,
+        "lng": 24.0,
+        "date": "30.09.1815"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "24.12.1815"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "30.12.1815"
+      }
+    ]
+  },
+  {
+    "person": "Sophie Ernestina Suhl",
+    "person_id": "https://www.wikidata.org/wiki/Q123495084",
+    "color": "",
+    "route": [
+      {
+        "location": "Bethanien",
+        "location_id": "https://www.wikidata.org/wiki/Q669037",
+        "location_type": "Geburtsort",
+        "lat": 21.98333333,
+        "lng": -79.03333333,
+        "date": "09.05.1817"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "14.07.1845"
+      },
+      {
+        "location": "England",
+        "location_id": "https://www.wikidata.org/wiki/Q21",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.0,
+        "lng": -1.0,
+        "date": "09.08.1820"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "03.10.1845"
+      },
+      {
+        "location": "Terschelling",
+        "location_id": "https://www.wikidata.org/wiki/Q204412",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.4011,
+        "lng": 5.3314,
+        "date": "17.08.1820"
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "geografischer Endpunkt",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "22.11.1845"
+      },
+      {
+        "location": "Neusalz",
+        "location_id": "https://www.wikidata.org/wiki/Q157190",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.803333333,
+        "lng": 15.716944444,
+        "date": "September"
+      },
+      {
+        "location": "Gnadenberg",
+        "location_id": "https://www.wikidata.org/wiki/Q96251289",
+        "location_type": "geografischer Endpunkt",
+        "lat": 47.97883,
+        "lng": 15.18361,
+        "date": "November 1844"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "03.10.1845"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "Sterbeort",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "17.07.1884"
+      }
+    ]
+  },
+  {
+    "person": "Daniel Wilhelm Suhl",
+    "person_id": "https://www.wikidata.org/wiki/Q123456940",
+    "color": "",
+    "route": [
+      {
+        "location": "Ebersdorf",
+        "location_id": "https://www.wikidata.org/wiki/Q1069495",
+        "location_type": "Geburtsort",
+        "lat": 50.8783,
+        "lng": 12.9756,
+        "date": "01.04.1813"
+      },
+      {
+        "location": "Niesky",
+        "location_id": "https://www.wikidata.org/wiki/Q165160",
+        "location_type": "geografischer Startpunkt",
+        "lat": 51.289722222,
+        "lng": 14.83,
+        "date": 1840
+      },
+      {
+        "location": "Neuwied",
+        "location_id": "https://www.wikidata.org/wiki/Q3967",
+        "location_type": "via",
+        "lat": 50.428611111,
+        "lng": 7.461388888,
+        "date": "November 1845"
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "via",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": "November 1845"
+      },
+      {
+        "location": "England",
+        "location_id": "https://www.wikidata.org/wiki/Q21",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.0,
+        "lng": -1.0,
+        "date": "November 1845"
+      },
+      {
+        "location": "Süd-Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q258",
+        "location_type": "angestrebtes Ziel",
+        "lat": -29.0,
+        "lng": 24.0,
+        "date": 1845
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": null
+      },
+      {
+        "location": "Gnadenthal",
+        "location_id": "https://www.wikidata.org/wiki/Q1501295",
+        "location_type": "Sterbeort",
+        "lat": -34.033333333,
+        "lng": 19.55,
+        "date": "30.04.1858"
+      }
+    ]
+  },
+  {
+    "person": "Br. Thomsen",
+    "person_id": "https://www.wikidata.org/wiki/",
+    "color": "",
+    "route": [
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "25.07.1815"
+      },
+      {
+        "location": "Süd-Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q258",
+        "location_type": "angestrebtes Ziel",
+        "lat": -29.0,
+        "lng": 24.0,
+        "date": "30.09.1815"
+      }
+    ]
+  },
+  {
+    "person": "Geschw. Tietze",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Afrika",
+        "location_id": "https://www.wikidata.org/wiki/Q15",
+        "location_type": "angestrebtes Ziel",
+        "lat": 21.09375,
+        "lng": 7.1881,
+        "date": "März 1822"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": null
+      }
+    ]
+  },
+  {
+    "person": "Johann Friedrich Wedemann",
+    "person_id": "https://www.wikidata.org/wiki/Q123463682",
+    "color": "",
+    "route": [
+      {
+        "location": "Rockhausen",
+        "location_id": "https://www.wikidata.org/wiki/Q556730",
+        "location_type": "Geburtsort",
+        "lat": 50.901944444,
+        "lng": 11.040555555,
+        "date": "11.07.1802"
+      },
+      {
+        "location": "Insel Guadeloupe",
+        "location_id": "https://www.wikidata.org/wiki/Q17012",
+        "location_type": "geografischer Endpunkt",
+        "lat": 16.2595,
+        "lng": -61.5605,
+        "date": "15.08."
+      },
+      {
+        "location": "St. Thomas",
+        "location_id": "https://www.wikidata.org/wiki/Q2078072",
+        "location_type": "geografischer Endpunkt",
+        "lat": 42.775,
+        "lng": -81.183333333,
+        "date": "16. "
+      },
+      {
+        "location": "St. Croix",
+        "location_id": "https://www.wikidata.org/wiki/Q642481",
+        "location_type": "geografischer Endpunkt",
+        "lat": 17.732,
+        "lng": -64.748,
+        "date": null
+      },
+      {
+        "location": "Bethanien",
+        "location_id": "https://www.wikidata.org/wiki/Q669037",
+        "location_type": "geografischer Endpunkt",
+        "lat": 21.98333333,
+        "lng": -79.03333333,
+        "date": "Juli 1844"
+      },
+      {
+        "location": "St. Croix",
+        "location_id": "https://www.wikidata.org/wiki/Q642481",
+        "location_type": "geografischer Startpunkt",
+        "lat": 17.732,
+        "lng": -64.748,
+        "date": "11.07.1844"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "20.04."
+      },
+      {
+        "location": "Westindien",
+        "location_id": "https://www.wikidata.org/wiki/Q669037",
+        "location_type": "geografischer Startpunkt",
+        "lat": 21.98333333,
+        "lng": -79.03333333,
+        "date": "20.04."
+      },
+      {
+        "location": "Hamburg",
+        "location_id": "https://www.wikidata.org/wiki/Q1055",
+        "location_type": "via",
+        "lat": 53.55,
+        "lng": 10.0,
+        "date": null
+      },
+      {
+        "location": "Berlin",
+        "location_id": "https://www.wikidata.org/wiki/Q64",
+        "location_type": "via",
+        "lat": 52.516666666,
+        "lng": 13.383333333,
+        "date": null
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": null
+      },
+      {
+        "location": "Bremen",
+        "location_id": "https://www.wikidata.org/wiki/Q24879",
+        "location_type": "geografischer Endpunkt",
+        "lat": 53.075833333,
+        "lng": 8.807222222,
+        "date": null
+      },
+      {
+        "location": "Bremen",
+        "location_id": "https://www.wikidata.org/wiki/Q24879",
+        "location_type": "geografischer Startpunkt",
+        "lat": 53.075833333,
+        "lng": 8.807222222,
+        "date": "24.08."
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Startpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "21.05.1859"
+      },
+      {
+        "location": "Rotterdam",
+        "location_id": "https://www.wikidata.org/wiki/Q34370",
+        "location_type": "angestrebtes Ziel",
+        "lat": 51.92,
+        "lng": 4.48,
+        "date": "21.05.1859"
+      },
+      {
+        "location": "Zeist",
+        "location_id": "https://www.wikidata.org/wiki/Q10056",
+        "location_type": "geografischer Endpunkt",
+        "lat": 52.083333333,
+        "lng": 5.233333333,
+        "date": "Juli 1859"
+      },
+      {
+        "location": "Kleinwelka/Mały Wjelkow ",
+        "location_id": "https://www.wikidata.org/wiki/Q159916",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.21079,
+        "lng": 14.3946,
+        "date": "August"
+      },
+      {
+        "location": "Herrnhut",
+        "location_id": "https://www.wikidata.org/wiki/Q165140",
+        "location_type": "Sterbeort",
+        "lat": 51.016666666,
+        "lng": 14.741666666,
+        "date": "14.06.1882"
+      }
+    ]
+  },
+  {
+    "person": "Schw. Wünsche",
+    "person_id": null,
+    "color": "",
+    "route": [
+      {
+        "location": "Altona",
+        "location_id": "https://www.wikidata.org/wiki/Q1630",
+        "location_type": "angestrebtes Ziel",
+        "lat": 53.55,
+        "lng": 9.9333,
+        "date": "1817"
+      },
+      {
+        "location": "London",
+        "location_id": "https://www.wikidata.org/wiki/Q84",
+        "location_type": "geografischer Endpunkt",
+        "lat": 51.507222222,
+        "lng": -0.1275,
+        "date": "Angust 1817"
+      },
+      {
+        "location": "Kapstadt",
+        "location_id": "https://www.wikidata.org/wiki/Q5465",
+        "location_type": "geografischer Endpunkt",
+        "lat": -33.925277777,
+        "lng": 18.423888888,
+        "date": "December 1817"
+      },
+      {
+        "location": "Groenekloof (Mamre)",
+        "location_id": "https://www.wikidata.org/wiki/Q11142530",
+        "location_type": "angestrebtes Ziel",
+        "lat": -33.5167,
+        "lng": 18.4667,
+        "date": "December 1817"
+      }
+    ]
+  }
+]

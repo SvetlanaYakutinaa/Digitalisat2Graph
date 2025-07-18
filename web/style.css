@@ -1,0 +1,104 @@
+/* === Grundlayout für den Body === */
+body {
+  font-family: sans-serif;        /* Serifenlose Standardschrift für bessere Lesbarkeit */
+  padding: 20px;                  /* Innenabstand rund um den gesamten Inhalt */
+  margin: 0;                      /* Entfernt Standardabstand des Browsers */
+  background: #f2f2f2;            /* Heller, neutraler Hintergrundton */
+}
+
+/* === Steuerbereich (z. B. Filter-Selects) === */
+#controls {
+  margin-bottom: 20px;           /* Abstand nach unten zum nächsten Block (Netzwerk) */
+}
+
+/* === Stil für Dropdown-Menüs === */
+select {
+  padding: 5px;                  /* Innenabstand für besseren Klickkomfort */
+  font-size: 14px;               /* Lesbare Schriftgröße */
+  margin-right: 10px;            /* Abstand zwischen Dropdowns */
+}
+
+/* === Hauptlayout: Netzwerk links, Details rechts === */
+.main-layout {
+  display: flex;                 /* Horizontale Anordnung von Netzwerk & Details */
+  height: 800px;                 /* Feste Höhe (kann bei Bedarf responsiv gemacht werden) */
+}
+
+/* === Netzwerkbereich === */
+#mynetwork {
+  flex: 1;                       /* Nimmt den gesamten verfügbaren Platz ein */
+  border: 1px solid f2f2f2;      /* Achtung: Farbcode fehlt # → sollte #f2f2f2 sein! */
+}
+
+/* === Panel für Detailinformationen (rechts) === */
+#detailsPanel {
+  width: 0;                      /* Start: unsichtbar (kein Platz eingenommen) */
+  overflow-y: auto;              /* Scrollbar, falls Inhalt zu groß wird */
+  transition: width 0.3s ease;   /* Weiche Animation beim Öffnen/Schließen */
+  background: #f2f2f2;           /* Gleicher Hintergrund wie Body */
+  display: flex;                 /* Ermöglicht zentriertes Layout des Inhalts */
+  align-items: flex-start;       /* Inhalt oben ausrichten */
+  justify-content: center;       /* Inhalt horizontal zentrieren */
+  height: 800px;                 /* Muss zur .main-layout-Höhe passen */
+}
+
+/* === Sichtbares Detailpanel (wird durch JS-Klasse .visible aktiviert) === */
+#detailsPanel.visible {
+  width: 35%;                    /* Öffnet das Panel auf 35% Breite des Containers */
+}
+
+/* === Karte mit den Detailinformationen === */
+.card {
+  background: white;                             /* Weißer Hintergrund für Lesbarkeit */
+  border-radius: 12px;                           /* Abgerundete Ecken */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);     /* Leichter Schatten für Tiefe */
+  padding: 20px;                                 /* Innenabstand */
+  max-width: 90%;                                /* Max. Breite relativ zum Panel */
+  width: 100%;                                   /* Breite bei kleinerem Viewport */
+  margin: 20px;                                  /* Abstand zum Rand */
+  opacity: 0;                                    /* Start: unsichtbar */
+  transform: translateY(10px);                   /* Leicht nach unten versetzt */
+  transition: opacity 0.3s ease, transform 0.3s ease; /* Einblendeffekt */
+}
+
+/* === Sichtbare Karte (wird bei geöffnetem Panel eingeblendet) === */
+#detailsPanel.visible .card {
+  opacity: 1;                    /* Sichtbar */
+  transform: translateY(0);      /* Zurück an Ausgangsposition */
+}
+
+/* === Überschrift in der Detailkarte === */
+.card h2 {
+  margin-top: 0;                /* Kein zusätzlicher Abstand oben */
+  font-size: 1.4em;             /* Etwas größer als normaler Text */
+  color: #333;                  /* Dunkelgrau für gute Lesbarkeit */
+}
+
+/* === Text und Links in der Karte === */
+.card p, .card a {
+  color: #444;                  /* Etwas helleres Grau */
+  font-size: 14px;              /* Lesbare Größe */
+  line-height: 1.5;             /* Zeilenhöhe für bessere Lesbarkeit */
+}
+
+/* Karte */ 
+
+#map {
+  width: 100%;
+  height: 800px;
+}
+
+#mynetwork {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ccc;
+}
+
+.main-layout {
+  display: flex;
+  gap: 2rem;
+}
+
+#detailsPanel {
+  width: 300px;
+}

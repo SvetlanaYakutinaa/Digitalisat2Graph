@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Personennetzwerk mit Filter</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    #mynetwork {
+      width: 100%;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    #controls {
+      margin-bottom: 20px;
+    }
+
+    select {
+      padding: 5px;
+      font-size: 14px;
+    }
+
+    #details {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Personen-Beziehungsnetz mit Filter</h1>
+
+  <div id="controls">
+    <label>
+      Filter nach Beziehung:
+      <select id="relationFilter">
+        <option value="">Alle Beziehungen</option>
+        <option value="Mutter">Mutter</option>
+        <option value="Ehepartner(in)">Ehepartner(in)</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="mynetwork"></div>
+  <div id="details">
+    <strong>Klicke auf einen Knoten, um Details anzuzeigen</strong>
+  </div>
+
+  <script>
+    function escapeHTML(str) {
+      return str ? str.replace(/[&<>"']/g, function (match) {
+        const escapeMap = {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#039;'
+        };
+        return escapeMap[match];
+      }) : '';
+    }
+
+    fetch('data.json')
+      .then(response => response.json())
+      .then(rawData => {
+        const nodesMap = new Map();
+        const edgeData = [];
+
+        rawData.forEach(entry => {
+          const subjId = entry.q_subjekt || `subj:${entry.subjekt}`;
+          const objId = (entry.q_objekt && typeof entry.q_objekt === "string" && entry.q_objekt.startsWith("Q"))
+            ? entry.q_objekt
+            : (entry.objekt ? `obj:${entry.objekt}` : null);
+          const timeId = entry.zeit ? `zeit:${entry.zeit}` : null;
+
+          // Subjekt-Knoten
+          if (!nodesMap.has(subjId)) {
+            nodesMap.set(subjId, {
+              id: subjId,
+              label: entry.subjekt,
+              title: entry.subjekt,
+              link: entry.subjekt_ref || "#"
+            });
+          }
+
+          // Objekt-Knoten
+          if (objId && !nodesMap.has(objId)) {
+            nodesMap.set(objId, {
+              id: objId,
+              label: entry.objekt,
+              title: entry.objekt,
+              link: entry.objekt_ref || "#"
+            });
+          }
+
+          // Zeit-Knoten
+          if (timeId && !nodesMap.has(timeId)) {
+            nodesMap.set(timeId, {
+              id: timeId,
+              label: entry.zeit,
+              shape: "box",
+              color: "#fdd835"
+            });
+          }
+
+          // Beziehungskante
+          if (objId && entry.prädikat) {
+            edgeData.push({
+              from: subjId,
+              to: objId,
+              label: entry.prädikat,
+              arrows: "to",
+              relation: entry.prädikat,
+              color: { color: "#2c3e50" }
+            });
+          }
+
+          // Zeit-Kante
+          if (timeId) {
+            edgeData.push({
+              from: subjId,
+              to: timeId,
+              dashes: true,
+              color: { color: "#888" },
+              label: "Zeit"
+            });
+          }
+        });
+
+        const allNodes = new vis.DataSet(Array.from(nodesMap.values()));
+        const allEdges = new vis.DataSet(edgeData);
+
+        const nodesView = new vis.DataView(allNodes);
+        let relationFilterValue = "";
+
+        const edgeFilter = (edge) => {
+          if (relationFilterValue === "") return true;
+          return edge.relation === relationFilterValue;
+        };
+
+        const edgesView = new vis.DataView(allEdges, { filter: edgeFilter });
+
+        const container = document.getElementById("mynetwork");
+        const network = new vis.Network(container, {
+          nodes: nodesView,
+          edges: edgesView
+        }, {
+          edges: { smooth: true, font: { align: "middle" } },
+          nodes: { shape: "dot", size: 20 },
+          physics: { stabilization: true }
+        });
+
+        document.getElementById("relationFilter").addEventListener("change", e => {
+          relationFilterValue = e.target.value;
+          edgesView.refresh();
+        });
+
+        const details = document.getElementById("details");
+
+        network.on("click", function (params) {
+          if (params.nodes.length > 0) {
+            const nodeId = params.nodes[0];
+            const node = allNodes.get(nodeId);
+            const related = rawData.filter(entry =>
+              (entry.q_subjekt || `subj:${entry.subjekt}`) === nodeId ||
+              (typeof entry.q_objekt === "string" && entry.q_objekt === nodeId) ||
+              (`obj:${entry.objekt}` === nodeId)
+            );
+
+            if (related.length === 0) {
+              details.innerHTML = `<p>Keine Informationen gefunden.</p>`;
+              return;
+            }
+
+            let html = `<h3>Details zu: ${node.label}</h3><hr>`;
+            related.forEach(entry => {
+              html += `
+                <div class="detail-block">
+                  <strong>Quelle:</strong><br>
+                  <a href="${entry.ref}" target="_blank">${entry.nbg || "Quelle"}</a><br><br>
+                  ${escapeHTML(entry.text)}<br><br>
+                  <strong>Personen:</strong><br>
+                  <a href="${entry.subjekt_ref || '#'}" target="_blank">${entry.subjekt}</a><br>
+                  ${entry.objekt ? `<a href="${entry.objekt_ref || '#'}" target="_blank">${entry.objekt}</a><br>` : ""}
+                </div><hr>
+              `;
+            });
+
+            details.innerHTML = html;
+          }
+        });
+      })
+      .catch(error => {
+        console.error("Fehler beim Laden der JSON-Datei:", error);
+        document.getElementById("mynetwork").innerHTML = "Fehler beim Laden der Daten.";
+      });
+  </script>
+</body>
+</html>
