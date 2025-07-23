@@ -48,14 +48,14 @@
         <option value="Ehepartner(in)">Ehepartner(in)</option>
         <option value="Elternteil">Elternteil</option>
         <option value="Vater">Vater</option>
-        <option value="Geburtsdatum">Geburtsdatum</option>
+        <option value="Freund(in)">Freund(in)</option>
         <option value="Geschwister">Geschwister</option>
-        <option value="Mitglied von">Mitglied von</option>
-        <option value="Sterbedatum">Sterbedatum</option>
+        <option value="Kollege(in)">Kollege(in)</option>
+        <option value="Mitreisende">Mitreisende</option>
         <option value="Geburtsort">Geburtsort</option>
         <option value="Sterbeort">Sterbeort</option>
         <option value="Kind">Kind</option>
-        <option value="Schlüsselereignis">Schlüsselereignis</option>
+        
       </select>
     </label>
 
@@ -65,7 +65,6 @@
       <select id="nodeTypeFilter">
         <option value="">Alle Typen</option>
         <option value="person">Person</option>
-        <option value="organisation">Organisation</option>
         <option value="location">Ort</option>
       </select>
     </label>
@@ -90,7 +89,6 @@
     function getColor(type) {
       switch (type) {
         case "person": return "#42a5f5";
-        case "organisation": return "#66bb6a";
         case "location": return "#ffa726";
         default: return "#bdbdbd";
       }
@@ -101,7 +99,7 @@
     let relationFilterValue = "";
     let nodeTypeFilterValue = "";
 
-    fetch('personen.json')
+    fetch('/personen_.json')
       .then(response => response.json())
       .then(data => {
         rawData = data;

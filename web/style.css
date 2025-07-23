@@ -1,104 +1,192 @@
-/* === Grundlayout für den Body === */
+/* === Google Font einbinden (im HTML-<head>) === */
+/* <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet"> */
+
+
+/* === Basis-Styling & Reset === */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: sans-serif;        /* Serifenlose Standardschrift für bessere Lesbarkeit */
-  padding: 20px;                  /* Innenabstand rund um den gesamten Inhalt */
-  margin: 0;                      /* Entfernt Standardabstand des Browsers */
-  background: #f2f2f2;            /* Heller, neutraler Hintergrundton */
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 20px;
+  margin: 0;
+  background: #f2f2f2;
+  color: #333;
 }
 
-/* === Steuerbereich (z. B. Filter-Selects) === */
-#controls {
-  margin-bottom: 20px;           /* Abstand nach unten zum nächsten Block (Netzwerk) */
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  line-height: 1.3;
+  font-weight: 600;
 }
 
-/* === Stil für Dropdown-Menüs === */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* === Steuerbereich (Filter etc.) === */
+#controls, #filterBar {
+  margin-bottom: 1.5rem;
+}
+
 select {
-  padding: 5px;                  /* Innenabstand für besseren Klickkomfort */
-  font-size: 14px;               /* Lesbare Schriftgröße */
-  margin-right: 10px;            /* Abstand zwischen Dropdowns */
+  font-family: 'Poppins', sans-serif;
+  padding: 8px 12px;
+  font-size: 14px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
 }
 
-/* === Hauptlayout: Netzwerk links, Details rechts === */
+/* === Hauptlayout: Netzwerk & Details === */
 .main-layout {
-  display: flex;                 /* Horizontale Anordnung von Netzwerk & Details */
-  height: 800px;                 /* Feste Höhe (kann bei Bedarf responsiv gemacht werden) */
+  display: flex;
+  gap: 2rem;
+  height: 800px;
+  margin-bottom: 2rem;
 }
 
-/* === Netzwerkbereich === */
 #mynetwork {
-  flex: 1;                       /* Nimmt den gesamten verfügbaren Platz ein */
-  border: 1px solid f2f2f2;      /* Achtung: Farbcode fehlt # → sollte #f2f2f2 sein! */
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
-/* === Panel für Detailinformationen (rechts) === */
 #detailsPanel {
-  width: 0;                      /* Start: unsichtbar (kein Platz eingenommen) */
-  overflow-y: auto;              /* Scrollbar, falls Inhalt zu groß wird */
-  transition: width 0.3s ease;   /* Weiche Animation beim Öffnen/Schließen */
-  background: #f2f2f2;           /* Gleicher Hintergrund wie Body */
-  display: flex;                 /* Ermöglicht zentriertes Layout des Inhalts */
-  align-items: flex-start;       /* Inhalt oben ausrichten */
-  justify-content: center;       /* Inhalt horizontal zentrieren */
-  height: 800px;                 /* Muss zur .main-layout-Höhe passen */
+  width: 0;
+  overflow-y: auto;
+  transition: width 0.3s ease;
+  background: #f2f2f2;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
 }
 
-/* === Sichtbares Detailpanel (wird durch JS-Klasse .visible aktiviert) === */
 #detailsPanel.visible {
-  width: 35%;                    /* Öffnet das Panel auf 35% Breite des Containers */
+  width: 35%;
 }
 
-/* === Karte mit den Detailinformationen === */
+/* === Detailkarte (rechts) === */
 .card {
-  background: white;                             /* Weißer Hintergrund für Lesbarkeit */
-  border-radius: 12px;                           /* Abgerundete Ecken */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);     /* Leichter Schatten für Tiefe */
-  padding: 20px;                                 /* Innenabstand */
-  max-width: 90%;                                /* Max. Breite relativ zum Panel */
-  width: 100%;                                   /* Breite bei kleinerem Viewport */
-  margin: 20px;                                  /* Abstand zum Rand */
-  opacity: 0;                                    /* Start: unsichtbar */
-  transform: translateY(10px);                   /* Leicht nach unten versetzt */
-  transition: opacity 0.3s ease, transform 0.3s ease; /* Einblendeffekt */
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 90%;
+  width: 100%;
+  margin: 20px;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
-/* === Sichtbare Karte (wird bei geöffnetem Panel eingeblendet) === */
 #detailsPanel.visible .card {
-  opacity: 1;                    /* Sichtbar */
-  transform: translateY(0);      /* Zurück an Ausgangsposition */
+  opacity: 1;
+  transform: translateY(0);
 }
 
-/* === Überschrift in der Detailkarte === */
 .card h2 {
-  margin-top: 0;                /* Kein zusätzlicher Abstand oben */
-  font-size: 1.4em;             /* Etwas größer als normaler Text */
-  color: #333;                  /* Dunkelgrau für gute Lesbarkeit */
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+  font-size: 1.4em;
+  color: #333;
 }
 
-/* === Text und Links in der Karte === */
-.card p, .card a {
-  color: #444;                  /* Etwas helleres Grau */
-  font-size: 14px;              /* Lesbare Größe */
-  line-height: 1.5;             /* Zeilenhöhe für bessere Lesbarkeit */
+.card p,
+.card a {
+  font-family: 'Poppins', sans-serif;
+  color: #444;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
-/* Karte */ 
+/* === Kartenbereich (Leaflet) === */
+.map-wrapper {
+  max-width: 1600px;     /* ⬅️ Begrenze die Breite */
+  margin: 0;        /* ⬅️ Zentriere die Karte horizontal */
+  padding: 1rem 0;
+}
 
 #map {
   width: 100%;
   height: 800px;
-}
-
-#mynetwork {
-  width: 100%;
-  height: 600px;
   border: 1px solid #ccc;
+  background: white;
+  border-radius: 12px; 
+  overflow: hidden;
 }
 
-.main-layout {
-  display: flex;
-  gap: 2rem;
+/* === Allgemeine Sektionen === */
+section {
+  margin-bottom: 4rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #ddd;
 }
 
-#detailsPanel {
-  width: 300px;
+/* === Responsive Verhalten === */
+@media (max-width: 768px) {
+  .main-layout {
+    flex-direction: column;
+    height: auto;
+  }
+
+  #detailsPanel.visible {
+    width: 100%;
+  }
+
+  .card {
+    margin: 1rem;
+  }
+
+  #map {
+    height: 500px;
+  }
 }
+
+/* Footer */
+
+.site-footer {
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 2rem 1rem;
+  margin-top: 4rem;
+  border-top: 1px solid #444;
+}
+
+.site-footer a {
+  color: #333;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.site-footer p {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+}
+

@@ -22,7 +22,7 @@ let nodesView, edgesView;
 let relationFilterValue = "";
 let nodeTypeFilterValue = "";
 
-fetch('../personen.json')
+fetch("../personen_.json")
   .then(response => response.json())
   .then(data => {
     rawData = data;
@@ -147,11 +147,11 @@ fetch('../personen.json')
         related.forEach(entry => {
           description += `
             <div class="detail-block">
-              <strong>Quelle:</strong><br>
+              <strong>Quelle:</strong>
               ${entry.ref ? `<a href="${entry.ref}" target="_blank">${escapeHTML(entry.nbg || "Quelle")}</a>` : escapeHTML(entry.nbg || "Quelle")}
               <br><br>
               ${escapeHTML(entry.text)}<br><br>
-              <strong>Personen:</strong><br>
+              <strong>Personen- und Ortsnamen:</strong><br>
               ${entry.subjekt_ref ? `<a href="${entry.subjekt_ref}" target="_blank">${escapeHTML(entry.subjekt)}</a><br>` : `${escapeHTML(entry.subjekt)}<br>`}
               ${entry.objekt ? (entry.objekt_ref ? `<a href="${entry.objekt_ref}" target="_blank">${escapeHTML(entry.objekt)}</a><br>` : `${escapeHTML(entry.objekt)}<br>`) : ""}
             </div><hr>
