@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Personennetzwerk mit Filter</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    #mynetwork {
+      width: 100%;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    #controls {
+      margin-bottom: 20px;
+    }
+
+    select {
+      padding: 5px;
+      font-size: 14px;
+      margin-right: 10px;
+    }
+
+    #details {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Biographische Daten der Herrnhuter Brüdergemeine</h1>
+
+  <div id="controls">
+    <label>
+      Filter nach Beziehung:
+      <select id="relationFilter">
+        <option value="">Alle Beziehungen</option>
+        <option value="Mutter">Mutter</option>
+        <option value="Ehepartner(in)">Ehepartner(in)</option>
+        <option value="Elternteil">Elternteil</option>
+        <option value="Vater">Vater</option>
+        <option value="Freund(in)">Freund(in)</option>
+        <option value="Geschwister">Geschwister</option>
+        <option value="Kollege(in)">Kollege(in)</option>
+        <option value="Mitreisende">Mitreisende</option>
+        <option value="Geburtsort">Geburtsort</option>
+        <option value="Sterbeort">Sterbeort</option>
+        <option value="Kind">Kind</option>
+        
+      </select>
+    </label>
+
+    <!-- 🔄 Neuer Knotentyp-Filter -->
+    <label>
+      Filter nach Knotentyp:
+      <select id="nodeTypeFilter">
+        <option value="">Alle Typen</option>
+        <option value="person">Person</option>
+        <option value="location">Ort</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="mynetwork"></div>
+  <div id="details">
+    <strong>Klicke auf einen Knoten, um Details anzuzeigen</strong>
+  </div>
+
+  <script>
+    function escapeHTML(str) {
+      return str ? str.replace(/[&<>"']/g, match => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+      })[match]) : '';
+    }
+
+    function getColor(type) {
+      switch (type) {
+        case "person": return "#42a5f5";
+        case "location": return "#ffa726";
+        default: return "#bdbdbd";
+      }
+    }
+
+    let allNodes, allEdges, rawData;
+    let nodesView, edgesView;
+    let relationFilterValue = "";
+    let nodeTypeFilterValue = "";
+
+    fetch('/personen_.json')
+      .then(response => response.json())
+      .then(data => {
+        rawData = data;
+        const nodesMap = new Map();
+        const edgeData = [];
+
+        rawData.forEach(entry => {
+          const subjId = entry.q_subjekt || `subj:${entry.subjekt}`;
+          const objId = (entry.q_objekt && typeof entry.q_objekt === "string" && entry.q_objekt.startsWith("Q"))
+            ? entry.q_objekt
+            : (entry.objekt ? `obj:${entry.objekt}` : null);
+
+          const subjLabel = entry.subjekt;
+          const objLabel = entry.objekt;
+          const prädikat = entry.prädikat;
+          const zeit = entry.zeit;
+
+          if (!nodesMap.has(subjId)) {
+            nodesMap.set(subjId, {
+              id: subjId,
+              label: subjLabel,
+              title: subjLabel,
+              type: entry.subjekt_type || "",
+              link: entry.subjekt_ref || null,
+              color: getColor(entry.subjekt_type)
+            });
+          }
+
+          const isSimpleDateRelation = zeit && (!objLabel || objLabel === "" || objLabel === null)
+            && ["Geburtsdatum", "Sterbedatum"].includes(prädikat);
+
+          if (isSimpleDateRelation) {
+            const dateNodeId = `datum:${subjId}:${prädikat}:${zeit}`;
+            nodesMap.set(dateNodeId, {
+              id: dateNodeId,
+              label: zeit,
+              shape: "box",
+              type: "date", // 🔄
+              color: "#fdd835"
+            });
+
+            edgeData.push({
+              from: subjId,
+              to: dateNodeId,
+              label: prädikat,
+              arrows: "to",
+              relation: prädikat,
+              color: { color: "#607d8b" }
+            });
+            return;
+          }
+
+          if (objId && !nodesMap.has(objId)) {
+            nodesMap.set(objId, {
+              id: objId,
+              label: objLabel,
+              title: objLabel,
+              type: entry.objekt_type || "",
+              link: entry.objekt_ref || null,
+              color: getColor(entry.objekt_type)
+            });
+          }
+
+          if (objId && prädikat) {
+            edgeData.push({
+              from: subjId,
+              to: objId,
+              label: prädikat,
+              arrows: "to",
+              relation: prädikat,
+              color: { color: "#2c3e50" }
+            });
+          }
+        });
+
+        allNodes = new vis.DataSet(Array.from(nodesMap.values()));
+        allEdges = new vis.DataSet(edgeData);
+
+        nodesView = new vis.DataView(allNodes, { filter: nodeFilter });
+        edgesView = new vis.DataView(allEdges, { filter: edgeFilter });
+
+        const container = document.getElementById("mynetwork");
+        const network = new vis.Network(container, {
+          nodes: nodesView,
+          edges: edgesView
+        }, {
+          edges: { smooth: true, font: { align: "middle" } },
+          nodes: { shape: "dot", size: 20 },
+          physics: { stabilization: true }
+        });
+
+        // 🔄 Event-Listener für Filter
+        document.getElementById("relationFilter").addEventListener("change", e => {
+          relationFilterValue = e.target.value;
+          edgesView.refresh();
+        });
+
+        document.getElementById("nodeTypeFilter").addEventListener("change", e => {
+          nodeTypeFilterValue = e.target.value;
+          nodesView.refresh();
+        });
+
+        const details = document.getElementById("details");
+
+        network.on("click", function (params) {
+          if (params.nodes.length > 0) {
+            const nodeId = params.nodes[0];
+            const node = allNodes.get(nodeId);
+            const related = rawData.filter(entry =>
+              (entry.q_subjekt || `subj:${entry.subjekt}`) === nodeId ||
+              (typeof entry.q_objekt === "string" && entry.q_objekt === nodeId) ||
+              (`obj:${entry.objekt}` === nodeId)
+            );
+
+            if (related.length === 0) {
+              details.innerHTML = `<p>Keine Informationen gefunden.</p>`;
+              return;
+            }
+
+            let html = `<h3>Details zu: ${escapeHTML(node.label)}</h3><hr>`;
+            related.forEach(entry => {
+              html += `
+                <div class="detail-block">
+                  <strong>Quelle:</strong><br>
+                  <a href="${entry.ref}" target="_blank">${escapeHTML(entry.nbg || "Quelle")}</a><br><br>
+                  ${escapeHTML(entry.text)}<br><br>
+                  <strong>Personen-, Organisations- und Ortsnamen:</strong><br>
+                  ${entry.subjekt_ref ? `<a href="${entry.subjekt_ref}" target="_blank">${escapeHTML(entry.subjekt)}</a><br>` : `${escapeHTML(entry.subjekt)}<br>`}
+                  ${entry.objekt ? (entry.objekt_ref ? `<a href="${entry.objekt_ref}" target="_blank">${escapeHTML(entry.objekt)}</a><br>` : `${escapeHTML(entry.objekt)}<br>`) : ""}
+                </div><hr>
+              `;
+            });
+
+            details.innerHTML = html;
+          }
+        });
+      })
+      .catch(error => {
+        console.error("Fehler beim Laden der JSON-Datei:", error);
+        document.getElementById("mynetwork").innerHTML = "Fehler beim Laden der Daten.";
+      });
+
+    function edgeFilter(edge) {
+      return relationFilterValue === "" || edge.relation === relationFilterValue;
+    }
+
+    // 🔄 Knotenfilter nach Typ
+    function nodeFilter(node) {
+      if (nodeTypeFilterValue === "") return true;
+      return node.type === nodeTypeFilterValue;
+    }
+  </script>
+</body>
+</html>

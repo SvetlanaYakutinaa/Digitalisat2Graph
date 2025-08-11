@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reisenetzwerk mit Filter & Routen</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    label {
+      font-weight: bold;
+      margin-right: 10px;
+    }
+    select {
+      font-size: 16px;
+      padding: 4px;
+    }
+    #network {
+      width: 100%;
+      height: 700px;
+      border: 1px solid gray;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Reisenetzwerk – mit Filter & Routen</h2>
+
+  <label for="personFilter">Person auswählen:</label>
+  <select id="personFilter">
+    <option value="all">Alle anzeigen</option>
+    <option value="andreas">Andreas Behne</option>
+    <option value="nona">Nona Meißen</option>
+    <option value="emil">Emil Müller</option>
+    <option value="amanda">Amanda Blümchen</option>
+  </select>
+
+  <div id="network"></div>
+
+  <script>
+    const allNodes = new vis.DataSet([
+      { id: 'andreas', label: 'Andreas Behne', group: 'person' },
+      { id: 'nona', label: 'Nona Meißen', group: 'person' },
+      { id: 'anna', label: 'Anna Kuhn', group: 'person' },
+      { id: 'martina', label: 'Martina Such', group: 'person' },
+      { id: 'emil', label: 'Emil Müller', group: 'person' },
+      { id: 'amanda', label: 'Amanda Blümchen', group: 'person' },
+      { id: 'england', label: 'England', group: 'place' },
+      { id: 'helgoland', label: 'Helgoland', group: 'place' },
+      { id: 'kapstadt', label: 'Kapstadt', group: 'place' },
+      { id: 'berlin', label: 'Berlin', group: 'place' },
+      { id: 'muenchen', label: 'München', group: 'place' },
+      { id: 'london', label: 'London', group: 'place' }
+    ]);
+
+    const allEdges = new vis.DataSet([
+      // Andreas & Nona
+      { from: 'andreas', to: 'nona', label: 'verheiratet', arrows: 'to' },
+      { from: 'andreas', to: 'england', label: 'gereist nach', arrows: 'to' },
+      { from: 'nona', to: 'england', label: 'gereist nach', arrows: 'to' },
+      { from: 'england', to: 'anna', label: 'getroffen', arrows: 'to' },
+      { from: 'anna', to: 'helgoland', label: 'gereist nach', arrows: 'to' },
+      { from: 'andreas', to: 'helgoland', label: 'gereist nach', arrows: 'to' },
+      { from: 'nona', to: 'helgoland', label: 'gereist nach', arrows: 'to' },
+      { from: 'helgoland', to: 'martina', label: 'getroffen', arrows: 'to' },
+      { from: 'andreas', to: 'kapstadt', label: 'gereist nach', arrows: 'to' },
+      { from: 'nona', to: 'kapstadt', label: 'gereist nach', arrows: 'to' },
+      { from: 'anna', to: 'kapstadt', label: 'gereist nach', arrows: 'to' },
+      { from: 'martina', to: 'kapstadt', label: 'gereist nach', arrows: 'to' },
+
+      // Emil & Amanda
+      { from: 'emil', to: 'berlin', label: 'geboren in', arrows: 'to', title: '18.03.1900' },
+      { from: 'emil', to: 'amanda', label: 'verheiratet', arrows: 'to', title: '25.08.1925' },
+      { from: 'emil', to: 'muenchen', label: 'Heirat in', arrows: 'to' },
+      { from: 'amanda', to: 'muenchen', label: 'Heirat in', arrows: 'to' },
+      { from: 'emil', to: 'london', label: 'gereist nach', arrows: 'to', title: '30.08.1925' },
+      { from: 'amanda', to: 'london', label: 'gereist nach', arrows: 'to' },
+      { from: 'emil', to: 'kapstadt', label: 'gereist nach', arrows: 'to', title: '01.11.1925' },
+      { from: 'amanda', to: 'kapstadt', label: 'gereist nach', arrows: 'to' },
+
+      // Routen (zwischen Orten)
+      { from: 'berlin', to: 'muenchen', label: 'Route', dashes: true },
+      { from: 'muenchen', to: 'london', label: 'Route', dashes: true },
+      { from: 'london', to: 'kapstadt', label: 'Route', dashes: true },
+      { from: 'england', to: 'helgoland', label: 'Route', dashes: true },
+      { from: 'helgoland', to: 'kapstadt', label: 'Route', dashes: true }
+    ]);
+
+    const nodes = new vis.DataSet();
+    const edges = new vis.DataSet();
+
+    const container = document.getElementById('network');
+    const data = { nodes, edges };
+    const options = {
+      nodes: {
+        shape: 'dot',
+        size: 25,
+        font: { size: 16 }
+      },
+      edges: {
+        arrows: 'to',
+        smooth: true,
+        font: { align: 'middle' }
+      },
+      groups: {
+        person: { color: '#97C2FC' },
+        place: { color: '#FFD700' }
+      },
+      physics: {
+        stabilization: false
+      }
+    };
+    const network = new vis.Network(container, data, options);
+
+    function updateFilter(personId) {
+      nodes.clear();
+      edges.clear();
+
+      if (personId === 'all') {
+        nodes.add(allNodes.get());
+        edges.add(allEdges.get());
+        return;
+      }
+
+      // Schritt 1: alle direkten Kanten zur Person
+      const personEdges = allEdges.get({
+        filter: edge => edge.from === personId || edge.to === personId
+      });
+
+      // Alle initial sichtbaren Knoten erfassen
+      const visibleNodeIds = new Set([personId]);
+      personEdges.forEach(edge => {
+        visibleNodeIds.add(edge.from);
+        visibleNodeIds.add(edge.to);
+      });
+
+      // Schritt 2: Routenkanten mit bereits sichtbaren Orten suchen
+      const routeEdges = allEdges.get({
+        filter: edge =>
+          edge.label === 'Route' &&
+          visibleNodeIds.has(edge.from) &&
+          visibleNodeIds.has(edge.to)
+      });
+
+      // Neue Orte aus Routen hinzufügen
+      routeEdges.forEach(edge => {
+        visibleNodeIds.add(edge.from);
+        visibleNodeIds.add(edge.to);
+      });
+
+      // Schritt 3: final alle Knoten und passenden Kanten sammeln
+      const filteredNodes = allNodes.get({
+        filter: node => visibleNodeIds.has(node.id)
+      });
+
+      const finalRouteEdges = allEdges.get({
+        filter: edge =>
+          edge.label === 'Route' &&
+          visibleNodeIds.has(edge.from) &&
+          visibleNodeIds.has(edge.to)
+      });
+
+      nodes.add(filteredNodes);
+      edges.add(personEdges);
+      edges.add(finalRouteEdges);
+    }
+
+    // Initialanzeige
+    updateFilter('all');
+
+    document.getElementById('personFilter').addEventListener('change', (e) => {
+      updateFilter(e.target.value);
+    });
+  </script>
+</body>
+</html>

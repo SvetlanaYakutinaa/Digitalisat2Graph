@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Häufig besuchte Orte – Historische Reisen</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; }
+    h1 { padding: 1rem; background: #f5f5f5; margin: 0; }
+    #map { height: 90vh; width: 100%; }
+  </style>
+</head>
+<body>
+
+  <h1>Häufig besuchte Orte – Historische Reisen</h1>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([20, 0], 2);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap-Mitwirkende',
+      maxZoom: 18
+    }).addTo(map);
+
+    fetch('leaflet_routes.json')
+      .then(response => response.json())
+      .then(dataArray => {
+        const allCoords = [];
+        const locationMap = new Map();
+
+        // Orte nach location_id gruppieren
+        dataArray.forEach(entry => {
+          entry.route.forEach(point => {
+            const id = point.location_id;
+            if (!locationMap.has(id)) {
+              locationMap.set(id, {
+                ...point,
+                persons: new Map([[entry.person, entry.person_id || null]])
+              });
+            } else {
+              locationMap.get(id).persons.set(entry.person, entry.person_id || null);
+            }
+          });
+        });
+
+        // Marker pro Ort zeichnen
+        locationMap.forEach(loc => {
+          const coord = [loc.lat, loc.lng];
+          allCoords.push(coord);
+          const count = loc.persons.size;
+
+          const marker = L.circleMarker(coord, {
+            radius: 3 + count * 1.5,
+            color: 'black',
+            fillColor: '#3f8efc',
+            fillOpacity: 0.8,
+            weight: 1
+          }).addTo(map);
+
+          // Personenliste (verlinkt oder nur Text)
+          let personList = '';
+          loc.persons.forEach((id, name) => {
+            if (id) {
+              personList += `👤 <a href="${id}" target="_blank">${name}</a><br>`;
+            } else {
+              personList += `👤 ${name}<br>`;
+            }
+          });
+
+          // Popup-Inhalt
+          marker.bindPopup(`
+            <b><a href="${loc.location_id}" target="_blank">${loc.location}</a></b><br>
+            👥 Personen: ${count}<br>
+            ${personList}
+          `);
+        });
+
+        // Linien zeichnen
+        dataArray.forEach(entry => {
+          const coords = entry.route.map(p => [p.lat, p.lng]);
+          for (let i = 0; i < coords.length - 1; i++) {
+            L.polyline([coords[i], coords[i + 1]], {
+              color: '#888',
+              weight: 2,
+              opacity: 0.5,
+              dashArray: '4,6'
+            })
+            .bindPopup(`<b>${entry.person}</b><br>Reiseabschnitt ${i + 1}`)
+            .addTo(map);
+          }
+        });
+
+        if (allCoords.length > 0) {
+          map.fitBounds(allCoords, { padding: [30, 30] });
+        }
+      })
+      .catch(err => {
+        console.error('Fehler beim Laden:', err);
+        alert('Daten konnten nicht geladen werden.');
+      });
+  </script>
+
+</body>
+</html>
