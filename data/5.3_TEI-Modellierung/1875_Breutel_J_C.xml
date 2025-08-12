@@ -1,0 +1,1331 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <!--Titel muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <title/>
+        <!--Autor muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <author/>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <!--Date muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <date/>
+        <!--Ref muss definiert werden. Nach der Korrektur wird der Kommentar gelöscht-->
+        <ref/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <!--Erscheinungsjahr muss definiert werden-->
+            <!--Seiten müssen definiert werden-->
+            <biblScope unit="issue"/>
+            <biblScope unit="page"/>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="755"/>
+        <p>Lebenslauf</p>
+        <p>des amt 18 Febrnar 1875 Deimigegongenen verwiiweten Bruders Johann Chriſtian Brentel</p>
+        <p>Das iſt mir ſonnenklar daß ich des Heilands
+war von meiner erſten Wiegen. Ich weiß es an den
+Zügen die fim ſeit fo viel Jahren an mw veroffenkaren - - IG bin durch mance Zeiten wohl. gar
+durch Ewigkeiten in meinem Geiſt gereiſt Nichts har
+mirs Derz genommen als da ih angekommen auf
+Golgarha Bort fei gepreiſt — Ich war ein armes
+ſen an dem kein Zuros Haar; ; Sein Blur ließ mich
+geneſen zum Glied bei Seiner Schaar ; ich habs noch
+im Gedächtnis mir dünkts ned heute ſchön da ic
+mem Brautvermächtniß in Seiner Hand geſehn.</p>
+        <p>In dieſen Verſen iſt mein Herzensgang ausgeſprochen und ic könnte damit ſchließen will es aber
+doch verſuchen auch einiges von meinem Vebenögang
+aufzuzeichnen.
+wurde geboren den 21 Januar 1788 in
+Weißenburg am Sand. Meine guten treuen Eltern
+waren mit dev Brüdergemeine nahe verbunden mein
+Vater hielt die Verſammlungen der dortigen Erweckten. Ihre A Rinder führte der Heiland in die
+Brüdergemeine mein Bruder ging in Suriname
+moine ältere Schweſter in Däniſch Weſtindien und
+meine jüngere in Ebersdorf heim.</p>
+        <p>Schön in meiner frühen Kindheit fühlte ich
+oft recht kräftige Gnadenzüge eine tiefe mnere Ber
+wegung die ich mir nicht zu deuten wußte Auch</p>
+        <pb n="756"/>
+        <p>756</p>
+        <p>viele Exrhorungen meines Findlichen Gebetes durfte ich
+etfabieit. Econ früß gie fd in mr eine 1iefe
+SehnſücHt nach der ewigen Hemd und dieſer Heim
+webhzug bat nid ei allen Abwechfeiungen Dutch
+mein ganzes Leben: begiettet.- Dabei regte u&quot; aber
+auc recht. Wühbzeitig das jandliche Werderben DO.
+gleich meine Eltern venh vor febiechten Umgang zu
+bewähren fuwfen fo fonnten lie es Ted nict vers
+binden teß ud viel Böſes fahe und. horte tas</p>
+        <p>eider in minen verderbten Herzen empfänglichen
+Boden fand. Der Heiland ciß mich Leraus ; im reiſte
+in meinem 1?. Jahr mie mein
+dorf und Dar fein Dringend da Bleiben zu dürfen.
+Wan Annagme zur Gemeine hatte aber nicht. die
+Genehmigung unſers Y
+mein verübte Ich aonic nicht w
+fechten der Heiland Tavei harte und wie groß der
+Emfluß für mein Ganzes Yeben fein würde.</p>
+        <p>Er leitete es daß ih in dir Cberedorfer Pens
+ons: Anftait kam. Die in Tortelbein verbrachten
+Juüzie gehören zu Tei geliebten. und urſegnetſten
+meines Yoocps Bid nackt dem Eimer Ge mich
+ex Delland ema tiefen Blick in mein Elend and
+Berdirben than mb weinte und bereko und die felige
+Stunde flag da Gr anc&lt; mir zuriekt deine Zün
+den fid dir vergeben sichhe in diefe Hände habe Ich</p>
+        <p>ich gend Tü Lid Wen Da kam eme jwodie</p>
+        <p>Zeil Por erfiot Vieie- men Her tebte m une mit
+findlichen</p>
+        <p>te Kame</p>
+        <p>dem Delland Cr he
+webete. IG fand such enge gleichen
+räden. Unter ihnen war befenders eint Namens</p>
+        <p>erizorte me</p>
+        <p>Afchenvach vit Tem ich unzetronnltieh verbunden blieb.</p>
+        <p>Meine treuen Lehtex und Erzieher wo wit im uns</p>
+        <p>veigeblichen Danibar Andenken grehieten
+Mit tanken Heizen veitiep ieh bi</p>
+        <p>c Anttalt</p>
+        <pb n="757"/>
+        <p>zu Oſten 180k um in die Boutlerei dos Brüder
+haufes als Yehrling einzutteten. Es ging nun eine
+jemwere Periode für mies an. I hatte Scſhmack
+an wiſſenſchäftlicher Beſchaftigung gefunden nnd das
+mebaniidr meme Profeinen wurde mix zur Lafi
+Tazu fam nat das der Verſuch in der freien Zeit
+das Geleimte fertzufigen mi&gt;1 gern gelben wurde
+amd viele Sinaben ihre freie Zett mit Niehtesthun und
+wunüßen Geſchwäß vergeudeten und manche in vöſe
+Dinge hinein geriethen. Der Cindzuck wurde ein bleis
+bender wie wichtig die Knabenſtuven ſind und wie
+es eine heilige Pflicht zt ben alle nur mögliche
+Sorgfalt zu widmen. Die Arbeit an den Herzen. iſt
+und bleibt die Hauptſache es muß aber no mehr
+für ie gethan weiden. Anch ih: Gei muß beſchäftigt
+werden amd man muß ſte da bringen daß fie
+auch ihre freie Zeit gut ameenden OD möchten Alle
+denen die Auflicht. und Pflege der Knaben: anvertrunt ont Diefen ihre ganze Sorge und Liebe zu?
+wenden Mit Dank und Liebe vente ich dennoch an
+unfte damaligen Knabeubrüder zurüd jie meinten es
+wen und gu? und hielten feſt an dem: Chriſtum
+ticb haven ift beſſer denn alles Wiſſen und wäre
+dieſe Liebe immer kräftig und lebendig geweſen fo wiite
+dennoch gut gegangen.</p>
+        <p>Mein Freund Aſcenbach war mir ins Knabenbor nachgefommen und als Lehrling in die Apotheke
+eingefrecen durch ihn wurde eine mir geblicvene Liepe
+für Naruneifinfhaft geweckt und er fühlte eine Lücke
+‚ die mir ohne ihn noch ſchmerzlicher gewefen
+©. Immer trüber wurde es aber dennoh in mir
+vis mid; der Heiland ondlich in der vollen Ergebung
+Ruge finden 1teß I&lt; and Damals auf dem Scheideweg und Dante es nun der Gnade meines Hei
+des die mich vetkete. Auch mein Juneres war zer</p>
+        <pb n="758"/>
+        <p>758</p>
+        <p>riſſen und geſpalten. Mein Herz hing bei Abe
+wechſelyngen doh) am Heiland in meinem Verſtand
+aber erwachten Zweifel aller Art.  Diefer Zwieſpalt
+zwiſchen Herz und Berſtand iſt Durch meine ganzen
+Rnabens und Zünglingsjahre hindurc&lt;gegangen. Ich
+habe viel und oft mit Thränen um Wahrheit und
+Erkennung gebetet Men Herz blieb gläubig aber
+mein Berſtand iegte fim erſt ſpäter zum Biel O
+wie dankbar war ich dem Heiland als dieſes ſich
+durch Ueberzeugung in dieibm geſte&gt;ten Grenzen fügte
+und in dem was Herzensfache itt dienende Magd
+wurde — Alle dieſe angedeuteten Erfahrungen und
+der Kampf mit den ſtündlichen Reizungen meines
+verderbten Fleiſches und Blutes haben meiner Stine
+mung eine Farbe beigemtfcht die ſich wie ein grauer
+Faden dur mein Leben gezogen hat. Ich lernte das
+Leben von einer zu ernſten Seite kennen und konnte
+nicht recht heimiſch in demſeiben werden. Es fehlte
+mir eine gewiſſe Leichtigkeit und Annehmlichkeit im
+Umgang was mir drüdend und andern beſchwerlich
+iſt. Es.iſt ein Kreuz das ib tragen und Andere um
+Geduld bitten muß. Auf die Gemeingnaden wartete
+ich mit großen Werlangen hatte aber bei der Gons
+firmation und dem erſtmaligen Genuß des heiligen
+Abendmahls nicht den ausgezeichneten Segen welchen
+ich erwartete. Cs lag eben auch in dieſem Hoffen
+und Erwarten zu viel unächtes menſchliches.</p>
+        <p>Im Jahr 1804 wurde ich da man mich für
+ein Jahr älter hielt ins Brüderdier aufgmenmen.
+Dieſer Irethum hatte einen wichtigen Einfluß auf
+meine weitere Führung Im Frühjahr 1805 vekam
+ich unerwartet den Antrag als Beutlergefell nach Neu:
+wied zu gehen. Ich nahm denſeiben aus Gehorfam
+an und hafte ſpäter alle Urſache darin die liebevolle
+Leitung des Herrn zu erkennen indem ich da Ge</p>
+        <pb n="759"/>
+        <p>759</p>
+        <p>togenheit fand in meiner Profeſſion weiter zu kommen
+und auch mein gutes Ausfommen hatte. Sehr
+unerwartet fam mie im Jahr 1808 der Antrag als
+Beutlermeiſker nach Horrutzut zu gehen. Ich vat den
+Heiland entſcheiden. zu laſſen und ſagte: Nein
+Aver jon im Frühjahr di folgenden Jahres kam
+einm gleicher Antrag nach Cverodorf und Er ſagte:
+Ja Nein Wunſch und Trieb ging in die Hei
+und es war mir daher nicht leicht vei dem
+zu bleiben und einMetßierſchaft zu über</p>
+        <p>nehmen.</p>
+        <p>Wach einer durch die Hige ziemtich mühfeligen
+Kußreife Fam ih am 5 Auguſt in Eversdorf an
+und hatte die Freude dert wieder meine gelebte
+Schweſter und meinen Freund Aſcheavach zu finden
+Bald wurde mir das Invenkarium Der Beutlerii und
+damit eine mir nicht leichte Yaſt übergeben. Ich
+kam mir vor wie oin Kind und flehte unabläſſig
+zum Heiland daß Er durchheifen wolle. Da erwarbte id an einem Morgen mit dem Ruf im Herzen? Der Hetiand ſelbjt will der Meiſter fein. Er
+haf Sein Wort gehalten. Er war mein Bormund
+und bald wurde der Abſaß 10 bedeutend daß ich nicht
+Waare genug liefern konnte.</p>
+        <p>Später kam eine Prüfungezeit. Im Jahre i812
+wurden alle Abſaß-Weoge geſperrt und dies brachte
+mich in ſolche Noth daß auch meine Geſundheit zu
+leiden anfing mein Kummer den höchſten Gad
+ereichte 31 ich auf eine Kammer fiel auf wein
+Angeſicht und erhielt die Zuſicherung der Heiland
+werde helfen. Doch ſogleich geſchah es nicht es kam
+ſo weit daß ich glaubte der Heiland fordere von
+mir hauſiren mit meinen Waaren gehen zu müſſen.
+Als ich mit ſchwerem Herzen Antialten dazu m
+fam eine Beſtellung uud ich hatte ohne hauſiren</p>
+        <pb n="760"/>
+        <p>760</p>
+        <p>gehen zu müſſen immer den nöthigen Abſatz. Dank
+bay 1ühme ih es deu Treue und Liebe meines Horrn
+nac: Ihm iſt nichts zu viel and nicotö zu wenig
+was man braucht warum man weint. Er erhöret
+Geber Er vat in den Haudworksſtand beſondere
+Segen gelegt Er ſelbſt war ja ein Zimmermann —</p>
+        <p>Mein Miſſionstrieb war indeß immer wach ge:
+blivben und es kam mir daher fehr unerwartet als
+ih im Jahr 1814 einen Ruf als Vorſteher des
+led Brüder-Chores in Gnadenfrei erhielt am 5 Mai
+kam ih daſeibſt au Die damalige Lage der Brüder: |
+Diakonie war eine fehr bedrängte es begann für |</p>
+        <p>|</p>
+        <p>mich vine ſchwere Zeit vis der Heiland auch da zeigte
+daß Er der Mann iſt der helfen kann. Dieſe Wahrbeit bat auch unfre ganze Brüder-Unität die damals j
+unter einer erdrückenden Schuldenlaſt ſeufzte auf eine
+anbetungswerthe Weiſe erfahren. Es war eine ernſte |
+|</p>
+        <p>ja recht ſchwere Zeit an die ich aber Tod gern und
+mit Dank und Liebe zurückdenke Doch int mir auch
+tief eingedrüct geblichen wie es auch in den äußeren
+Dingen eine heilige Pflicht iſt treu und wachfam zu
+ſein und um Die Klarheit zu bitten die kindliches
+Giquben nicht mit Sorgloſigkeit verwechſelt</p>
+        <p>Am 31 Januar 1819 wurde iH durc Br
+v. Albertini zu einem Diakonus dor Brüderkirche vrdinirt und erhielt vald darauf einen Ruf ats Pfleger
+und Voriteher der led Brüder in Neuwied Am
+4 Juni krat ich meine Wanderung dahin an Die Reife
+wurde mir da es ſein heiß war ziemlich ſauer hatte
+aber dabei den Segen daß ich mich recht. ungeſtört
+mit dew Heiland über Vergangenheit und Zukunft
+unterbalten und auch meine alten würdigen Eltern
+in Weißenburg beſuchen konnte. Als ich von Geblenz
+in dem ſchönen Reinthal am herrlichen Morgen dahin
+wanderte überfiel mich eine große Angſt da ich das</p>
+        <pb n="761"/>
+        <p>761
+wir ſonſt fo Urte Nempieb erblickte fo das im hin
+ter einem Strauch auf meine Kniee: fol und den
+Helaad xecht brünſtig um Beim Denbinilfe bat.</p>
+        <p>War es eine Wpnung? ich weiß es nit tze</p>
+        <p>wiß aber iF es wartete meitive eine ſeinpere Zeit.</p>
+        <p>Cs ziigte ſim bei der Uebernahme der Diakonie ein
+Sabaden dei anflrengente Rrveit Stiege und Kum</p>
+        <p>mer zur Beige hatte Der Heitand: zeigte unh) 7a
+daß Er vinein 30er audı wieder hinausführt. Doch
+fühlte im? immer mehr das meine ſchwacte Kraft der
+Zertgebenden Anſtrengung nicht gewachſen fei Mein
+Moiſſionstrieb bitob immer levondig und. ich hoffte
+der Heiland. wird mich auf diefom Woge heraus
+cen wenn Gr sichht daß meine Kräfie in der ze
+Zeitwättigen Lage unterliegen. felgen Der Heiland
+aber hatte er anders beibleffen Er zeigte mir daß
+ih aud dieſen Trieb Ihm hinzugeben habe und ich
+fat es unte viele Stnäuen. Die Folgen der übei
+weine Kräfte gehenden Anſtrengung zeigten. ſich in</p>
+        <p>ein gewiſſen Ueberreizung Tie den Schuimn von Gei
+fiesfraft und Munterkeit gab und fo kam es daß
+mir m Jahre 1823 noch das Vicariat als Gemen
+zen wunde Während demielben farb
+yvlvgts-Wirth und es wurde au dadurch
+beit und Zorge vermehrt. Ich wußte mich nun
+vs Geſchäfts mit dem eine bedeutende Brauar verbunden war ſpeciell annehmen und dies hatte
+die Relge das mix der Antrag gemacht wurde die</p>
+        <p>Fl deſſcldon ganz zu übernehmen Die Ueber:
+zeugung daß ich in meiner gegenwärtigen Lage bald</p>
+        <p>unterliegen werde machte mich zur Annahme genetgt</p>
+        <p>bald aber wurde mie Bar daß dies nicht der 1echte</p>
+        <p>Grund ſci. Ich flehte zum Heiland und bekam</p>
+        <p>von Jom in meinem Innein die Erlauonißs es Seiner</p>
+        <p>Cneſcheidung anheim ſtellen zu dürfen. Nie worde
+4375 54</p>
+        <pb n="762"/>
+        <p>762</p>
+        <p>ich die da gemachten Erfahrungen vergeffen Er vers
+sichherte mich Seiner vollen Vergebung und ich wußte
+daß Er nun Frei über mich oniſcheiden könne. Es
+wurde ſtille in mir und hieß in meinem Herzen :
+Id habe mich unterwunden mit dem Heren zu ver
+den. == Er ſagte: Nein I&lt; blieb in meiner Lage
+So dankbar ih dem Heiland für dieſe Seite Leitung
+war Te fühlte im do bald eine Kraftloſigkeit die
+mit ben Anforderungen: meiner Pflichten im fchneidenden Witerfpruch ſtanden. Schlafloſigkeit war ſchon
+lange mein Leiden fie vermehrte sichh die Arveit wurde
+mir immer ſchwerer und fo kam es daß 1 am
+23 November bei dem Herausgehen aus dem Chorſaal zuſämmenbra&lt; und auf meine Stube racht</p>
+        <p>Die Ruhe har mir wohl und es regte ſich
+nung daß oin Ruheplätcben für die Ewigefeit daraus werden Fönne Aber ih war ned nicht
+roif dazu die Lauge des Waſchers und Das Feuer
+des Goldſchmidts ſollten über mi) kommen. Er zeigte
+mir wie viel ſündliches in meinem Eifer gelegen wie
+Kleinglaube Mangel an kindlicker Einfait und fo
+vieles Andere das Ex mir nach und nach aufdeckte
+allein die Schuld an meiner Niederlage ſei. Er nahm
+mir Alles war aber dabei fo gnädig mir in den
+Zeiten des ſchwerſten Gomüths: und Nexvenleidons
+die feſte Zuverſicht zu erhalten daß Seine Gnadenſonne nicht untergegangen int wenn auch düſtere
+Wolken fie verdecken Ich habe da erfahren was es
+heißt: Nicht ſehen nicht fühlen nicht haben und
+doch glaut Das feſte Anhailen an Ten nackten</p>
+        <p>en. D
+Glauben das mir dor Heiland aus Gnaden bewahrte
+blieb mein Rektungsanker. Der Heiland rubte nicht
+bis Er mir die volle Ergevung in alle Seine Wege
+telbſt wenn ich für immer unbrauchbar bleiven feltte
+denken konnte. Jeder Anſpruch ſank dahin. Es kam</p>
+        <pb n="763"/>
+        <p>763</p>
+        <p>wir zu Station daß ic her mit ähnitch Leidenden zu dun hatte und mir ſolche Zaſtände nicht un
+vekannt waren. Da nur meine Gefühlsnerven fe
+vorltimmt waren man Denkvermögen aber ganz klar
+ich ſuchte ich ſorgtäkrig zu beobachten wie Geiſt
+örper auf einander wirken aver dis Grenzen
+men in einander ich fand eine Wechſelwirkung
+die eine klare Sonderung nicht geſtartete. Der Geiſt
+hat da die Aufgabe auf ch verſtimmten In
+firament möglicht? vein zu ſpielen und er kann das
+zur Gebet und treue Wachfamkeit wird. aber der
+Nerven:Aufruhr zu groß ſo kaun er überwältigt
+und  gebinden worden. ID. war einmal an
+diefer Grenze unter Gebet und Flehen ging der
+Sturm vorüber Es war mir wie einem Reiter deſfen
+Pford sichh bäumt der den Zügel fat hält aber nicht
+weiß wie lang er es noe) im Zaume halten kann
+ien Zeiten mir geihenfte livpovolle und
+hälfreime Theilnahme bieikt mit im unvergeßlich daukbaren Andenken. Endlich nahte der Frühling und mit
+ihm Die Zeit da ich auf den Schweizer gon
+ine Genefung finden joltte Sch reitte am 9 Mai
+1824 mit meinem Reiſegofährren Br. Röderer ab
+machte mir ihm einen angenehmen Beſuch in Montmirail und Durchwanderte mit ihm die Alpen. Da fühlte
+ich wieder neuen Lebensmukth In Shun fanden wir
+Briefe und einor derſelben enthielt den Ruf an mich
+der (Someine in Nisfn als Vorſteher zu dienen Nun
+warde mir flax warum der Heiland. die Hingabe
+meines Miſtionstkriebes gefordert hatte und es war
+mir girich ausgemacht daß ich demfelben zu folgen habe
+Boi der mir nicht leichten Ueberlegung wen ieh zu
+meiner künftigen Lebensgefährtin verzufchlagen babe
+erhörte der Hoiland mein Gebet und führte mir die
+led. Schweſter A. Sophie Röderer zu mit der ich
+54</p>
+        <pb n="764"/>
+        <p>764</p>
+        <p>am 31 Auguſt verlobt und am 18 Zentbr. zur
+heit. Ehe verbunden wurde. Am 27 Sopkbr traten
+wir begleitet von den guten Eltern nach einem ber
+wegten Abſchied in Montabaur unſore Reiſe nach
+Nieky an. Wir nahmen unſern Weg über Weißenburg um meinem würdigen Bater feine Schviegerrochter vorzuſtellen. Der liebe Greis lebte ganz von
+Neuem auf und gab uns ſeinen Segen In Bortheisdorf wurde meine gute Kram zur Akolnthiv an:
+genommen. In Königshain beſuchten wir unſere Der:
+wandten v. Hmnisen’s mit denen wir auf einem
+Glauvensgrund ruhend gleich To zufammenfloſſen daß
+diefe Verbindung eine reihe Quelle des Segens für
+uns geblieben iſt.</p>
+        <p>Am 15 Oktober wurden wir in Niskw. mit
+Liebe aufgenommen und ich fand gleich volle Ber
+ſchäftigung da mein Vorgänger der ſel. Br. Goldmann lang frank und im Mai beimpsgangen war</p>
+        <p>Im Jahr 18 wohnte ab einem Ihbeit ver
+Synode bei Inden icb zu einem Mitglied der ökonomiſchen Gommitee berufen wurde Die Syuvdo un:
+torſuchte alle Zweige unſers ökonomiſchen Verpandes
+und es lag itr beſonders an nach Wögqiichkeit Ki
+tigen Schäden vorzubeugen das Sleiäigamicht in uns
+ſerem Hauspalt berzufielen and einen Iilgungsfond
+zur Abtragung dei anbedekien Shuid zuſammenzubringen. Da zeigte unfer tietor Herr weiche Kraft
+Er in die Verbundenheit gelogt har Es war eine
+geſegnete Zeit</p>
+        <p>Am 6 Auguſt 1826 wurde unſer erſter Sohn
+Carl Julius am 1). November 1928 unfer zweiter
+Joyn William und um 24 Juni 1830 unfer dritter
+Francis Wiſliam geboren; Yetztero gingen im noch
+nicht vollendeten orten Lebensjahr heim.</p>
+        <p>Unfre L Eltern waren am 4 Juni 1826 von</p>
+        <pb n="765"/>
+        <p>zu uns Jezogen und wir harten 208 Öltich
+wn 7832 mi hne zuſammen zu webhnen
+Gans 1 unevwartet erbielt ib am 25 Jan. 1832
+Mufin das Vorſieher-Departement im der
+Arts Gonferenz. Meine Stimmung daber iſt
+Vors qusgedrückt : Da iſt ke Hand ach wars
+nic: 206gebens Wie oft hab im ſie div ſehon
+hunger del wie oft die veſte Deſſnang ſchon gezeigt
+Und tab iſt noch fein Ziel des fremden Lobens Al
+jein ich bitte dich fo fehr im kann: Sprich doh zu
+f wieder an? Mit dem in
+ria vtele Durchhülfen une mit Beugung über diele Berſchon Mängel und Gebrec
+les m meinen Dienſt in Nivky.
+Am Pr Mai zogen wir in Verthelsdorf ein und
+wurden mit Liebo empfangen Beſonders angenehm&quot; war
+air on meinen l. Gelfog nine Rorsichher Departement</p>
+        <p>nen</p>
+        <p>F de zu finden wit onen ich ſo ret in einem
+E und Seift an einem Joch ziehen konnte. Vei</p>
+        <p>a ſeren Bilek in die Inneren und dufern Berhält
+nz ame ier Brüder Unität wurde es mir recht. klar
+wie der Heiland es iſt der das Schifflein unſrer
+de-Umtät allein als Meiſter an dem Nucer durch
+Klippen un2 Wellen hindurchſtouyern kann. Da mir</p>
+        <p>die Güteverwaltung über:
+ich vaid vote Beſchäftigung</p>
+        <p>BR
+Bi</p>
+        <p>and di. Aufi</p>
+        <p>tam eure
+ba Dubelmander Scmvete ade: auch vicle Durch
+bätfur kaſere Dein erfahren. Im Johr 1835 würde</p>
+        <p>nor ein Beſuch in öfonowiſcen 7 ngelsgerbiiten in den</p>
+        <p>Siememen Emradori Neudietoudort Snodeu Ehyriſf
+sasteft in der Societät in Nopandegen unfge
+tao. At allen dieſen Orten kom wir Wiebe und
+unverdenter Zutrauen entgegen west mendes
+t winde Nav einer Abweſinbeit</p>
+        <p>ib Dir Freute mine DL Frou</p>
+        <pb n="766"/>
+        <p>766</p>
+        <p>unfeın Julius und untern kleinen Emil den uns der
+m am 17 Mai 1833 geſchentt hatte wieder zu
+meine Arme ſchließen zu können</p>
+        <p>Das Jahr 1836 war ein fehr bewegtes. Die
+in demſelben gehaltene Synode zeichnete iich durch
+veſondere Gründlichkeit aus. Es mußte tief in die
+Siünde deb ehrwürdigen eh yinavgeſtiegen
+werden wobei es sichh zeigte daß es auf Ihn den
+Fels gegründet iſt. Boi der Wahl der neuen Pnite
+Aeit.-Conforenz hatte ib die Stimme für das Bor
+ſioher-Departement aber nicht die Genehmigung unſers
+ven Heren. Mir ganz unerwartet wurde ich in
+das Miſſionsdepartement gewahlt der Heiland gab
+dazu San Zul So: wollte er den alten Wunſch
+meines Herzens jeht ned erfüllen. Der Abſchied
+von meinen L Collegen im Worſieher-Deparrement
+wurde mir aber Doch ſchwer und ich wurde inne daß
+in anbängsichber an unfer gemeinfames Cekenomikum
+geworden war als ich dacmto. Bald wurde ich aber
+immer heimiſcher im Miftiong: Set und dirſex 7
+ruf mir ſv groß und wichtig daß ich denſeivben ſchwer
+mit einem andern vertauſchen würde</p>
+        <p>Im Aprii 1849 erhielt ics den Auftrag zu
+einem Viſitaricns Bofuch auf den Däniſch - Weſtindiſchen Infeln wohin mich meine gute Frau vegleitote. Ich fühlre meine Untüchtigkeit auch der Abs
+ſchied von den Kirtern wollte u ichwer werden.
+Doch wan eich autsgemact daß wir dem
+Nuf zu folgen haben. Unſre Beine Marie geboren
+den 24 Nov. 183% nahmen unſere tiedon v. Hevnißens in freie Pfiege Emil brachten wir in die
+Unit. -Anſtalr nach Risky wo nb unfer Julius bes</p>
+        <p>[j
+reits befand Unter don herziichſten Segenswünſchen
+von Goſchwiſtern und Freunden raten wir am</p>
+        <p>21 Sept uufere Reife much) Altena au. Dos Schi</p>
+        <pb n="767"/>
+        <p>767</p>
+        <p>Johann Julius ging erſt am 21 Okt. ab. Der
+werwartet lange Aufenthalt wurde uns fo ungencehm
+als möglich gemacht der Heiland mußte daß wir
+dei Stärkung bedurften. In der Nordſee und. im
+Canal batten wir fait unansgelgt widrige Winde
+und Stürme auch die Kälte war recht. empfindlich.
+Am 13 November wurde dex Sturm fe heftig daß
+der Kapitän das Schiff den tobenden Wellen
+laſſen mußte und uns anfündigte daß unſer
+ſcbeitein werde wenn. der Sturm noc) eine Stunde
+aänbalte. Ex tobte noch die ganze Nacht hindurch
+und unter L Her ſelbſt führre das Schiff durch
+Zimm und Wellen und ließ uns am Morgen auf
+der Inſel Wight eine sichhere Zuflucht finden. Sch habe
+da wieter erfahren daß der Heiland nict im Worrail aber zur rechten Stunde giebt. Ich hatte mich
+vft geprüft eb id auch ruhig und ergeben bleiben
+wfirde wenn ic auch einmal in Gefahr kommen
+folte zu ſcheitern 3 jet da ſeibſt unſer erfahrener
+Kapitän in unſrer Katäte unruhig und feufzend von
+einem Plaß zum andern ging hieß es im Herzen:
+Der Herr kann uns wohl errerten und wenn Cr
+«es nicht thun will ſo ſinken wir auch im Meer in
+Seine Arme Mit einem ungausſprechlichen Daukgefühl traten wir ans Land und wie erquickte uns
+Fher une cine warme Stüve Am 19 Novb. lichtete
+unfer Ziff wieder die Anker bald erhob lich aber
+em netter heftiger Sturm det uns aber flott wie</p>
+        <p>&quot;holt hatten wenig ſtörte fo daß
+die weitere Reiſe auf dem atlantiſchen Ocean
+wie eine wahre Spazierfahrt vorkam. Am 18 De
+vember landeten wir in dem Hafen von St. Thomas.
+Die herrliche Natur und. noch weit mehr der Dank
+gegen den Heiland erhoben. unſre Herzen und wir</p>
+        <pb n="768"/>
+        <p>768</p>
+        <p>yorrten dieſe Stunde nie vergeſſen. Aber noch hatten
+wir das Schiff nieht verlaſſen als was die fchmerz:
+liche Nachricht gebracht wurde daß die Schweſtern
+Wied und. Köſter beimgegangn ſeien: Was sichh
+hier in einer Stunde zuſammen drängte Freude und
+Schmerz das haben wir auch während unfecs 7 mer
+naflichen Aufenthaites in Weitiudien erfahren Die
+yerie tropiſche Natur gewährte reichen Genuß und
+noch hoheren die MBR ZME boſonders bei dem
+heil. Abendmahl ea kannte die Hungen und. die
+Makeln derfelben tüblıe aber auh auf mauelpridhe
+liche Weiſe die Kraft des Blutes Chriſti die eine
+ſündige Gemeine dennoch zu einer Braut des Yamı</p>
+        <p>mes machen. kant. en Biich bieldt mir auch der
+Eintritt in die Schüiv beim Gebet mit den
+lieben Khrarzen Kindern ein Kmiren lag war
+es mir als hörte ih den Zuruf dei Hoilandes:
+Weide meine Yämmei</p>
+        <p>Dor General Woiwerneat 2 Scholten: hatte auf
+St. Croir % ſchone Schulhauſer erbaut urer ert 11
+einem war die Schüte angefangen es fehlie an Vehze
+ven; da galt es wichti Teben und dem glauben
+nad der Heiland half. wunderbar.</p>
+        <p>Alles was ich ic Aus lichtung unteres
+Auftrages auf den ndilchen. Inſeln
+ſagen fönnte in vereits m den damals gegevenen
+Berichten</p>
+        <p>N und ich darf uur</p>
+        <p>ch Schwiet
+ec hate ich</p>
+        <p>Pa</p>
+        <p>Alten und</p>
+        <p>€ Unzus
+8 der Dieſe Bifuch. Am
+3 Juni ſclus die Abſchiedsſtunde De Brüder Stande
+und Freitac Logieiteken uns auf Tas Dampfſchiff
+das uns am b. Juni nach Sie Kits Beachte Auch
+dort Famen uns die Geſchwitic</p>
+        <p>mit Viobs entgegen beſonders ne Ban</p>
+        <p>um ie wiel</p>
+        <p>un we wr</p>
+        <pb n="769"/>
+        <p>769</p>
+        <p>san des regen Miffionslebens 1echt. frönen. kommen
+Kitiv 1m vie Serie von den weſttndiſchen. Zus
+wir boſucht haben Der Mouat Miſeev abi
+is nabe an 4000 Fuß und ich machte mit einigen
+Rphdan eine höchſt intoreſſane Exreinſon auf din
+Borg. Cs iſt em erloſchener Vulkan in deſſen Kra
+we es seh taucht Die Auslicht von tem Gipſei m
+oo weite Mer min den el Heimen Zuteln itt 10
+wigend daß nichts fehle ais unſre |
+venen ich ſo gern dieſe Hemlichkeiten gezeigt vatte
+Cine rt tropiiche 1 Berg bis in
+Spa Riatct im weißen. wir. Üiegen und. wir reicher
+votautfmer Ausbeute zurüc&amp;fehrten Mit warmen
+ſchieden wir und führen am Juni mit
+1 Dampfiditt nam Antigiaa wo wir am 23
+In Graceii wurden wir von den</p>
+        <p>von Br. Saidin freundlich empfongen.</p>
+        <p>cn Freunde</p>
+        <p>icia bedeckt d</p>
+        <p>m 29 helle uns Bl. Darin nach St. Jobnys</p>
+        <p>2 ven we aus wil alle unſre Stationen veſuchten.
+Gs herrſchte vin reges Yeben in Kireben und Schulen
+ii es auch 22 mat an Seprecen fo bleibt
+wichen Segen verwaltend.
+in berzlicber Liepe und mt inwgem
+Dan? von allen unſern Geſchiifen in Weſtindien.
+Zie hai ; fan Aufenthalt aogenehm</p>
+        <p>zu machen bud das Schwere zu erleic-tomn Em jedes</p>
+        <p>ves gefhan un</p>
+        <p>meinte es tren be feinem Ihoil wein. au zuweilen
+ie Anſwcbien ausenender gingen un? der Geiſt Goires
+tere in den Derzeit was ein armer Menſch wie
+Dar Miſſionsberuf A
+un ffir 08 achärt aber dazu ein ganzes von
+Fra zum Heiland und Seinen Eriöſten
+zens demüthiges Derz eine gänzliche Hingabe dos
+Yabıo und det Seele. Am 13 Zub vera</p>
+        <p>mit uns mit unfern Heben Geſchonſtoin in St. Ivhus</p>
+        <p>ii kit im Stand: war</p>
+        <p>eTein</p>
+        <pb n="770"/>
+        <p>770</p>
+        <p>viele unſrer Geſchwiſter begleiteten ung und von allen
+Seiten venbten uns Schwarze und Braune die Hände.
+Unſer 1 Br. Hartwig hatte für alles Nöethige auf
+vem Schi iam Alfred das mut Zueker befradis
+ter wat € ab und Br. Harvey ötdneke in unfrer
+Keinen Kajüte all ſo gut daß wir mit unſrer Heiz
+nen Zellen die wie mititähmen uns vald heimiſch
+füolten. Zu Nachberu batten wir eine &lt;riziliche
+Mutattenſamihie mi 4 Kindern det Siowati war
+ein Neger. Währ af den Binden Inſeln. die
+febwarge und Dr dhter war iſt
+je bier Die bevorzugte was uns över nicht ſorte da
+ung die jänpatrze Farbe lieb emotion und wir wir
+der braunen Familie 11 fohe freundfehafriichem Ums
+gang ſtänden</p>
+        <p>Die Sclaven- Enäniipation. pak ihre geſeguete
+Rolgen daß aver auch Tex Yandwertt Tab heben werde
+m eine Iäufpung ex wird Ynken. - = War unſre
+Kabrr nach Weſtindien eine ſehr. würmiſche ſo war
+unſere Rückreiſe ome faſt zu ruhige 5 fiegt etwas
+entmudigendes Kart denn das Schiff Zuge lung
+hin und her wiegt und ht weiicx kommt. Wir
+batten leider nur einen ſehr mäßigen Vorrach) von
+‚wie dom ſeht ges
+ſpart werden mußte was mir da ich viel Waſſer
+trinke nicht. leicht. war Sch kam. mir vor
+wie ein König als 1m mich nach Der Reiſe wieder
+an friſchem after taben ſatt winken konnte.
+Im Ganal en wir in Gefahr von einem Schif
+üvergoſegeit zu worden; das Schiff wurde aber noch
+im rocten Rugenblicke gewendet und wir kamen mit
+oimm nur unbedeintenden Schaden davon.</p>
+        <p>Am 24 Auguſt landete unſer Schiff im Lontor Def. Wir wurden. von untern I. Brüdern
+Waklialicen und Ya Irobe aufs freundlichſte aufge:</p>
+        <p>Farbe nee vera</p>
+        <p>hen übellichenteuin W</p>
+        <pb n="771"/>
+        <p>771</p>
+        <p>mmen und wer Aufenthalt wurde uns and von
+son Freuncen angembm gemacht Det Halland fegne
+ji. Am Il Septr. reiten wir mit Br. Ya Irove noch
+Sale zu unſeren Verwandten Foſter. Leiber
+wußicn wit eilen da wir noch mehrere Gemeinen
+die auf unterm Weg nach Hull lagen beſuchen well:
+tn. Ueveral Fam uns brüdertiche Liebe enigegen und
+man fühire ber allen Berſchtedenbeiten caß wir ein
+ia is möchte ned Ueber ſagen eine Familie</p>
+        <p>Am 18 September Avends gingen wir in
+auf das Dampffhiſf Nov Roy das uns am
+wech Hamvaurg brachte von tom uns Br. Hamel
+abtoltez m dem Soriekäts- Has wurden wir wieder
+ven dea 1 Geſchw. Garve auf das (ibevollſte aufs
+gekemmein Gern wären wir auf vem geradetten
+Weg nach Hanſo geeilt «ber dei dem großen Inu</p>
+        <p>reſſe Dab der Rönig und De Königin von Dänemark
+an den in Däniſch -Woſtindien eingerichteten Scoulen</p>
+        <p>nahmen ſollte id; uo in Kopenhagen Bericht ab
+far. Wir reiſten zunächſt nach Cheifttansfold und
+von ta mit Vr. Röntgen nach Odenſe wo ſich die
+Königliche Famnie gerade aufhielt Wir erhielten baid
+Audienz erſt bei dem König und dann bei der Kv
+ntzin Me ſib ſehr guädig ausipracken und denen
+ich unſer ganzes Miſſioneweork empfelen konnte. Wie
+von Sag vorher führen wir wieder um Mitternacht</p>
+        <p>über Den Keinen Belt und kamen Worgens den
+7 Ziister nad Chriftitansfeld zurück Nuu hunverte</p>
+        <p>mds mehr und wir silten über Berlin der Heimat
+entgegen. Am 22 Oktober kamen wir nach Nisiv
+und fanden mwiſern Julis und Emil munter und
+wohl Sokicbe Momente bleiben unvergeßlich Am
+2533 fuhren wir mit unſern beiden Knaben nach Ko
+chan Das Hetz. pochte als wir in ten Ber
+fannten Hof einfubten; lauter Jubel empfing uns.</p>
+        <pb n="772"/>
+        <p>772</p>
+        <p>Solche Stunden werden dur keine überflandene Noth
+zu beiter erkauft Am 24 Oktober zogen wir mit
+dem Ausruf: Wie ſollen wir Dir Herr vergelten
+ale Barmherzigkoit und Irene die Du an uns ber
+wieſen haſs wieder in unſere n dem 1
+Berthelsdorf ein.</p>
+        <p>Das Jahr 1848 war durch die politiſchen Un:
+rühen ein bewegirs. Cs galt da ſich einſt die Frage
+vorzulegen vb man mit Wahrheit ſagen. kann:
+Wenn ach nur babe fo fiage im nichts nach
+Himmel und Erde Für ur ve lien war
+es wichtig üurd © gehaltene Spnod I&lt; wurde
+auf derſelben wieder zu einem Mita 7 des WitſſionsDepartements gewählt und von unſerm lieben Herrn
+boſtärigt.</p>
+        <p>Unſre 1 Beſchwiſter in Süd-Afrika hatten im
+Jahr 1858 um einen Beſuch aus der Unit.-AeltConferenz geboten der mir aufigefragen wurde meine
+freue Lebensgefähruin ſelte mich begleiten. Am
+17 Zuli ve en wir unf 1 Berthoivoeort bes
+gleitet enewitiluen unfeier L Geichwitter
+und Freunde uud elften über Neuwied nach London
+wv wir bei Br. Malkalten wiedet. freundliche Auf
+nahme fanden und Br La Trolo uns viele Liebe
+voie Danfbar für alle geneſen? Liebe teiften wir
+am 13 Auguſt nach Southamptoy and quartirten
+uns em 14 auf der Queen ol the South cin auf
+ver ſich ohngefähr 200 Menſchen befanden. Ein bun»</p>
+        <p>Gemiſch von Europäern Malabaren Malayen
+und Afrikanern. Gs iſt eine kieine Wett in der
+man ſich aver Lait zurecht findet. Im Anfang fühlt
+man ſicb fremd nach und nach geuppirt sichh die Gee
+jeltſ&lt;aft auch wir fanden Freunde. Wir hatten 4
+englifche Gerftiiche an Bort als Paſſagiore Die uns
+viel Liebe und Auſmeikſamfeit ſchenkten. Ste hielten</p>
+        <p>3</p>
+        <p>e Brüd</p>
+        <pb n="773"/>
+        <p>yorteliturgie und Somtag
+Predigt; auch einmal ds</p>
+        <p>w Morgen engliſche
+Rormitfags und Abend
+yell. Abendmahl wozu</p>
+        <p>ner Brüdorkirche ais einer bild)</p>
+        <p>ZD</p>
+        <p>ie auch uns eimluden tm
+chen &quot;hre A:</p>
+        <p>ming zu bewerten wurde mir obwohi ich mich mitten</p>
+        <p>e Brod und Wein zuerſt</p>
+        <p>unter die Gaſte gelegt ha
+gereicht. An febönen. Abonden wurde von. der
+tt auf dem Verdeck getanzt. Be leicht
+were Reſo «an ſich war da wir. koine Stürme
+vatten fe fehlte es doch nicht an Prüfung Widrige
+Rinde verzögerten unfore Fahri die Koölen: waren</p>
+        <p>jungen We</p>
+        <p>verbraucht wir waren nun ganz in der Yage eines
+Sogeltfhiffes und hatten nur noch anf 2 Tage Wahſer.
+Da öffnete unfer fieber Dar uns in der Saldanha</p>
+        <p>abe von wo zwei Schiffs-Offiziere nach</p>
+        <p>To diffen und nnd 3 Jagen mit einem</p>
+        <p>melfemen. Hier betrat id zum erſten
+oden Strand geſchnücet mit den ſcpönſten</p>
+        <p>mal Afrikas
+Blunen Ie fie) auf. moine Kizoe und es it dem</p>
+        <p>Heilant allem bekannt weiche Gel</p>
+        <p>ve mein Dez</p>
+        <p>8 iW Ihm da zu ſagen. hacto</p>
+        <p>Dbngen ü
+Krb Litover ließ unſer Schiff in der Tafel
+bai die Anker falten. Herr Zurig die Brüder Ko
+bing Kühn und. Frante kamen. aufs De&gt; und be.
+ZtÜßten uns mit. einer Liebe und Freude die Dicht
+beſchrieben werten kann. Es muß erfahren ſeim wie
+wohl es thut wenn man nach einer langen Reiſe
+zur Soc dav Ziel errekbe hat Peſonders wenn man
+vet meiner Frau der Fall war fortwährend
+von der Seekrankheit zu leiden hat. Auf Robpven
+Zeland ompfingoit uns die Yazarus Kranken un der
+Kitehe mt jenem Geſang Es waren pie Mei
+ve: und Lahmen zu denen wir gietep eine Janz be
+ſondere Yıobe fühlten. Ba dem Boſuch in den Ya
+gerethen ſchauderte zuweilen vas menſchliche Gefühl</p>
+        <p>a</p>
+        <p>wio dies</p>
+        <pb n="774"/>
+        <p>774</p>
+        <p>vor den zerfreſſenen Geichtern zurüF. Man wende
+nur das Auge nicht von dem Elend ab dann wandelt sichh Die Scheu in Mitleid und Liebe und man
+findet auch in dem Verſtümmelten Gottes Ebenbild
+und es wird einem dies um jo eyrwürdiger je mehr
+die Gnade in dem Herzen gewirkt hat.</p>
+        <p>Nach einem vankvaren Abſchied von unlern I
+Geſchw. Wedemanun kehrten wir von ihrem Patmos
+nach der Capſtadt zurück und fuhren begleitet von
+Br. Ghriftenfen mit dem Ochſenwagen nach Groenefloof iet Mamre. Unfer eres Nachtquartier im
+Freien gefiel uns gutz unt den auflodernden Feuer
+ſtiegen aub Geſang und Geber empor Die Ge
+fhwiker von Groenekloof (Mamro) kamen uns bis zur
+Jacobs: Kapelle entgegen und empfingen uns mit
+warmer Liebe Als unſers Ochfonwagen ſich wieder
+in Bewegung geſeßt hatten wurden wir auch bald
+von dem größten Theil der Gemeine mit dem er
+fang: Nun Danket alle Gott x begrü Auf gleiche
+Weiſe wurden wir in der Folge von alten unſern
+Wiffiong-Stationen empfangen. Zuerſt kommen ger
+wöhnlich dio Reitenden dann di bulfinder und
+jungen Leute ſpäter die älteren und im Ort die
+Alten und Schwachen. Ein folder Empfang erwarret
+alte nou ankommenden Geſchwiſter. Sch bin nicht im
+Stande es aniezuſprechen wie einem zu Muthe iſt
+wenn Menſchen vor anderen Rarden und Sprachen
+wir folder Liepe entgegenkommen da zeigt es ſich
+weich umfaſſendes und mächtiges Band die Bruder
+ſiebe iſt. Aehnlich id auch der Adſchied. Die Gemeine
+veriammelt sichh auf dem Platz ſimgt Segensverſe
+und begleitet zum Theil foweit daß man bitten muß
+umzukehren. --- Nach einem lieblichen und geſegneten
+Aufenthalt in Mamre fuhren wir am 28 Oktober
+mit Geſchw. Kühn und ihren Kindern im Ochſen</p>
+        <pb n="775"/>
+        <p>775</p>
+        <p>wagen nach Gnadenthal ab md wurden am 31
+anf die bereits veſchriebene Arr ſehr. liebevoll cm
+pfanaen. Da wo ehedem Pariane umd andere wide
+Shiete vautten blüht fee ein ſchöner Gottesgarten
+und über 3 04 Seelen ſchmecken und erfahren wie
+freundlich der Herr iſt. In dei Gehülfenſchulo werzen Jünglinge zum Mifttens- und Schuldienſt er:
+zozen. Dieſes Intticur hatte Anfangs mit Schwie:
+riafeiten zu kämpfen?&quot; und war ein rechtes Glaubvenöwork. der Heiland hat aber wunderbar darchgeholfen
+und daſtelbe nicht mur für unſere ſondern aum andere Orte zu einem Es werden. laſſen. — Am
+26 November trat ich mit Be. Koiving die Reife
+wb unſern unt terlantit den Semeinen Glaxtion Cnen
+Ziie und dem abgobtannten Boſen an. Zw. ci brave
+Hoifentoftenorüder führrea unſer Boſpatnn das aus
+19 Mantefoln veſtand Abends wurde e das Zeit aufgeſpannt in welchem wir Tier o Undequem:
+lichkeiten einer folchen Reiſe roerden dur das Leben
+ju der frönen. freien Natur reichlich erſeßt Das
+feugzate I mei herrlich nud. man fühlt Th
+ret brimiſch in der Willie Wol kann einem oin</p>
+        <p>wong feöfeln wenn im Regen und Sturm die
+dünne Matzatze auf dem naſſen Boden ausgebreitet
+wird auf der man ſchläft. So wie aber das Feuer
+Ders md das Zuk aufgehllagn 18 wird. es
+veimtich. War dant der Kaſſe öder Thee
+fertig wax nad Abel unfor Koh und Fuhimann
+zweiten auch no Waſſerktöfe hinzufügte kam man
+7 wie ein König in ver Wüiſto. Eine ſolche
+der Cine hat auch ihre beſonderen inneren
+Segen Der Deitand ift eimom in der Ginöte auf
+eine eigenthümliche Weite nah und man ahnet Dabei
+elivas ven den Offenbarungen Toren die Erzvater gos
+würdigt wurden. Viele Stellen ber heiligen Schrift</p>
+        <pb n="776"/>
+        <p>776</p>
+        <p>werden einem Da recht. verſtändlich. Man lernt den
+Eiatten erſt red fchäßen wenn Die heiße Sonne
+am Mittag auf den Scheitel herabbrennt und das
+Waſſer wenn alles dürr und. nur an den Waſſer
+vächen grün iſt Der Spruch: Du vervirgit mich
+beimtih in Deinem Bezeik a. wurde mix erſt recht
+lebendig wenn wir im Zelt lagen und vs draußen
+regnete und Frmte. Da habe 16 unvergeßlich fellge
+Stunden durchlebt.</p>
+        <p>Was mir bei meiner algemeſſenen Zeit mandı
+mal fc&lt;wer wurde iſt die Lanzfamteit dex Nezſo und
+die vielen. unfreiwilligen Aufenth« Die ITyiere
+werden matt oder baten sichh verlaufen ein Rivier
+(Bach) iſt angeſchwolten und man muß Sage lang
+warten b man hindurch fann os vegnet und die
+Dofen Fehen am Berge und können niche weiter.
+Dem Afrikaner macht das nichts er bieibt.- rudig in
+eder imter feinem Wagen liegen ater unſerer Giten
+bahn: Gewöhnung wird das ſwer Anch wir cm
+pfingen unſern Antheil an folcher Geduldeprüfung.
+Aber jedoömat wenn im ganz ergeven dem Heiland
+ſagen kounte: Es iſt Deine Zee du branch mich
+nicht ging es wieder vorwäris. So: erfuhren wir
+es ſhon auf dem Wege nad Clarkjon ſv daß Br.
+Külbmag auf meine Frage: an werten. wir. nach
+Glartion kommen? antmerteter werden wir überhaupt
+hinkommen? Die Cie ſind matt und 2 können nicht
+mehr fort. Wie groß war unſere Freade ais ein
+Goipann Ochſen kam das Br. Küſter uns entgegen
+ſchito und bald ſelbt mit Br. Schärf zu Pferde
+nachkam. Die Ochſen zogen rüſtig den Wagen über</p>
+        <p>den Berg warfen aber am und es war gut daß
+wir außgeſtiegen waren. Und ſo erreichten wir am
+14 Dec. glücklich das ſchöne Clarkſon wo wir mit
+Liebe aufgenommen wurden.</p>
+        <pb n="777"/>
+        <p>777</p>
+        <p>Das im Jahr 1839 angefangene Glarkſon ift</p>
+        <p>em Hebliches Gnadendörflein Zeworden das fein Haupt
+18 den Kooksboſch anlehnt. und feine Füße in zwei
+Häaſerroihen nach der Zee ausſtreFt dur&lt;ftrömt von</p>
+        <p>einein klaren Bach der eine Mühle koibt und das
+vand bewaſfort. Hier kämen wir in die erſte Fingu
+Semeine und dh frod mie veſonterer Liebe in die
+bienenforbartigen retniiben Hürten. Sprache und
+Wetang der Ka wohlklingend ein?
+riges Voik. Aufs mnig?o verbunden mit. unſern
+Geſchwiſtern und weit. begleitet traten win am</p>
+        <p>27 Der die Weiterreiſe nad Enor an. Am</p>
+        <p>Champive Ri meßten wit einen ganzen Sag
+nußlos liegen bleiben weil div Fähre nicht in Dr</p>
+        <p>aung war amd ſehr. froh ſein daß wir am folge
+den Jag hinüber kamen Die Worte des Lehrte
+Goduld iſt euch Werb fanden wie fo oft ihre An
+wendung. Die herrtichr Gezend und der ſchöne Abend
+entſchädtzten uns reichlich. Vaillant gefiel 06 einſt da
+fo gut daß er Mimate lang verweilte Elephanten
+erlegte Vögel und mit den Kaffern lebte. Am
+31 Decbr. kamen wir nach Enon und veſchloſſen das
+für mich ſo denkwürdige Jahr mit dieſer Gemeine.
+Diefe durch Kaffernkriege Hie und Dürie vielfach heimgeſuchte Hottentotton-Station iſt arm fängt aber an
+ſich zu erhoien und wir genoſſen viel Liepe und Segen.</p>
+        <p>Am 23 Januar 1854 führen wir mit einem
+Geſpann von 12 kräftigen Ochſen ab in Begleitung
+Silo immten Schutlehrer Nakfin und Mazwi. Auf vnfeim Weg kogegneten wir vielen Ber:
+Hörungen duch ven Kaffernfkrieg In Grahametown
+machten wir dem Gouverneur unfre Aufwartung
+um jm unſere Miſnon zu empfehlen und aus mehwere Angeiegenheiten demfiiben. vorzutragen. Am
+20 Janvar bofften wir neh Silv zu kommen</p>
+        <p>1: 55</p>
+        <p>tes;</p>
+        <p>der</p>
+        <pb n="778"/>
+        <p>778</p>
+        <p>org gevof Hair es hatte ger
+ſchtüpferig geworden Br.
+ab Jage en ſagte Br.</p>
+        <p>allen der Katerivt
+regnet und der Weg
+Bonab bat einmal hi
+Kölbing ganz vabıy und
+Seduld zu faſſeu.</p>
+        <p>In der Nacht wurde aber der Hinnnol
+die Sterne fünkoiren und. div Sonne ging auf am
+21 in volier Pradt Es war mein Geburtsrag
+und ich werde dieſen Morgen nie vergeſſen Geſang
+und Gebet iegen auf im Angefiht von 6 --7000
+Fuß hohen herriichen Bergen Gegen Mittag waren
+die Wege foweit abgetreEner daß wir aufvrechen
+konnten. Wir ſpannten mit einem Fingu zuſammen
+24 Ochſen zogen den Wagen den Berg pin
+fommten uns die 1 Brüder
+2 Wir übernachteten am flei22 Januar in Silo
+ein.</p>
+        <p>über. Zeuſeits b
+Gyſin und Kſchieſcha
+ven Klipplaat und zogen aw
+dem entfornteſten Ziel unſrer Reif</p>
+        <p>Kuch hier ompfing ung Liede aber auch Scmerz
+indom dD Kindlein unſrer 1 Geſchw. Bonaß im
+Sterben tag. im Katfernkrieg zerſtörte Wohn
+haus lag nom da als Ruine und es knüpften
+fh auch daran ernſte Erinnerungen. Moch fchmeorz
+licex war der Schaden Din dieſer Krieg auch in
+nerlich in der Gemeine angerichtet hatte. Aber man
+fühlte auch ſhon ein neues 2 u der Gnade Un
+vergeßlich Bleibe mir ein Sonntag da wir das
+heit. Abendmahl feierten welchem viele sher
+Ausgefchteffene roadmittirt worden waren. Bei dem
+vorbergebenden Svrechen fleffen viele Sünderthränen
+und ich konnte geriet und freudig ſagen: Seher hin
+in Frieden Won Silo aus beſuchten wir das zerſtörte Goten und verbr vadıten an den Mannern des
+abgebrannten Nacht in der im wenig
+ſchlief dex nicht reichliche Waſſerzufluß machte mit</p>
+        <pb n="779"/>
+        <p>779</p>
+        <p>Sorge. Doch wurde es mir gewiß daß aud aus
+dijetem abgehauenen Stamm ein Reis heivorbiechen
+uud. aub Diefer Dede ein Garton Gottes werden
+inte =</p>
+        <p>Am 55 Senat verließen wir das zwar arme
+aber gerade dadurch uns fo werth. gewordene Silo
+nach einein bewegten Abſchied von unfen weißen und
+farvigen Geſchwiſtern degleitet von Geſnp. Kſchieſdangs bis Enon.</p>
+        <p>Wir nahmen unſorn Weg über King WilliamsTown und machten einen großen Bogen nach Oſten
+afferngevier hinein. Man begegnete Trupps
+von Kaffern ın iyrem Naturzuſtand mit ihren Aſſageien die friediich veräßergogen: in der Nähe eines
+Kra übernachten wir und hörten ihren Geſang
+vogleitet von der großen Tremmel. In Friedenszeiten
+kann man ohne alle Serge in ihrem Lande reifen. —
+In Enon und ſpäter in Clarkſon machten wir den
+legten Abſchied 3 mit beweogtem Herzen ging es nun
+Wieder der Heimath entgegen. Unſere Eſel hatten in
+in Gtarffon gut ausgeruht ; wurden aber gegen das
+Ente der Neiſe wieder recht matt fo daß uns die
+von Kopfes aus enlgegen geſendeten Pferde am
+4 Mai ſehr willfommen waren. Um 6 April
+hatten wir die uuausfpeechlice Freude unſere Lieben
+die uns entgegen gekommen waren zu umarmen
+Br. Kölbing ſeine L Frau und Kinder und ich meine
+1 Sopyie. Wie übernachteten in Gopfes und kamen
+am 7 April voll Lob und Dank bogleitet von den
+lern des Gohülfeninſtituts und vielen Gemeingliedern die uns entgegen gekommen waren nach
+Gnadenthal zurück.</p>
+        <p>Au einige Stationen anderer Miſſionsgefellſchaften hatten wir auf unſerer 19 Wochen währen?
+den Reiſe beſucht und wurden überall mit Liebo auf</p>
+        <p>59*</p>
+        <p>in das I</p>
+        <pb n="780"/>
+        <p>780</p>
+        <p>genommen namentlich in Bethel wo wir uns ganz
+zu Hauſe fühlten. Am | April reiſte ich mit
+meiner 1 Frau begleitet von Br Suhl nach Elim
+wo wir beſvuders in der Charwoche nud dem Oſte
+feft viele Segen genoffen. Dieſe gut angelegte Stas
+tion mit ihrer ſchönen Kırdbe erinnerte uns an Rıefy.
+In naher Verbundenheit ſchieden wir auch dort von
+unſern | Geſchwiſtern und Famen am I. Mai begleitet
+von Geſchw. Nauhans nach Gnadentimal zurück ==</p>
+        <p>Nachdem ich nun eine genauere Keuntniß von
+allen dorfigen Verhältniſſen erlangt hatte ſollten
+die Sclußberathungen der Helfer-Couferenz recht
+eifrig ihren Anfang nehmen. Dei Heiland wollte
+mich aber erf in die Stille führen. Schwindei-Anfälle an denen (dp jidn ſeit Jahn lit nahtnen jo
+vedenklich zu daß mit alle Ihätigkeit unterſagt wurde.
+Zwei Verſe von dem ſel. Spangonverg aus dem
+Liede : Heilige Einfalt Gaudemwunter 26 wurden
+mir da vefondeis wichtig:</p>
+        <p>Laß den Heiland Fuhrmannn bleiben</p>
+        <p>Er kennt Seine Sache wohl</p>
+        <p>Er waiß wenn Er fark foll treiben</p>
+        <p>Wonn es fachte gehen foll.</p>
+        <p>Seht es über Stro und Steine</p>
+        <p>Siß nur ſtl wird Icon gehn</p>
+        <p>Hilf Ihm nicht Er machts atleine</p>
+        <p>Doch du magſt wohl um dich feyn
+Nach einiger Ruhe konnte ih wieder ın Die Arbeit
+gehen und am 18 Juni den Schtuß machen mit
+Erf gebeugtem Dank gegen den Delizud und die l.
+Geſchwiſter; der Heiland ſegne Te und ihre Kleben
+Kinder Br. Kölbing war mir ein angenehmer und
+elfuhrener Begleiter auf nuſrer Reiſe ins Unterland
+was ich noc) mit veſonderem Dant. zu erwahnen
+mich gedrungen fühle Am 19 Juni verbanden wir</p>
+        <pb n="781"/>
+        <p>781</p>
+        <p>1 bei dem Bonus des Verbindnungäkelches alle
+Kräfte: dem feligen Dienſt des Hellandes zu widmen.
+In dor Abendverfammlung empfahl uns Br. Kolving
+in einem warmen Geber vem Heitand und ermahnte die
+Gemeine die an fie gerichteten Worte nicht zu vergeſſen.</p>
+        <p>Am 22 Juni ſchieden wir von. dem |. Gnas
+denthal die auf dem Platz verſammelte Gemeine ſang
+eZenöverſe und begleitete uns bis an die Brück
+Subl reiſte mit nus bis Groenokloof (Mamre)
+we wir da wir mit Werden führen fon am 24
+anfamen und am 25 in die Miffiensarbeit hinein»
+amgen. Es war ung beſonders gemütblich unter den
+dortigen Miſſionegeſcwiſiern und auch ein Boſfuch
+im dem fehönen Goedverwacbt bleibt uns im lie
+ticken Andenken. ir gebeugtem Dank konnte ich
+am H. Inti auch bier meine Arbeit zu den Füßen
+des Heilandes beſchließen fo daß 1</p>
+        <p>Br.</p>
+        <p>te zurückbleiben
+mußte und ich and die aufgetragenen Ordinationen
+zu Presbytern Diakonen in Gnadenthal Sito
+Sim und Manyxe 1 iten können. Nie babe
+id aber die menſchliche Unvolttommentoit und ver
+allen die meinige in fö hegem Grado erfahren als
+voi dieſem Beſuch.</p>
+        <p>Nun war aber auch meine Zeit Erneuerte
+Schwindetanfälle brächten mich ſo tb daß die
+Rückfohr nach Europa zweifelhaft wurde. Der Hoi
+land ſcbonkte uns aber die Gowißgeſt &gt; wir ge
+wont den une vorgezei&lt;nekfen Wo3: geben und Ihm
+alles Weitere überlaſſen dürften. Untere Abreiſe nach
+der Gapſtadt mußte bis auf den 17 Zuti aufge:
+ſchoben werden Br. Franko war uns ein trauer ſchr
+ltever Begleiter. Abends kamen wir au und am
+andern Morgan Fam der den Brüdern befreundete
+Arzt Dr. Piecard der mir jede geiſtige Anſtrengung</p>
+        <p>unterſagte Deanoch erneuerten ſich die Schwindel</p>
+        <pb n="782"/>
+        <p>782</p>
+        <p>anfällo Die Auefidt auf die Seereiſe wühte ſich
+der Heiland. fergle aber auf eine beſondere Weiſe
+daß wir einen aufen Plaß auf dem Dampfſ&lt;hiff ber
+kamen. Herr Juri 1 een Haus wir viel Pflege und
+Thetinahme geneſtey und die Beüder Kühn Franke
+und Hartmann begleiteten uns auf unſern Argo
+Liebe hatte uns voriges Jagr hier in der Kapſtadt
+empfangen jeßt Tellten wir 1 einem unvergeßlihen
+Abfedzied wieder allein ehen. Meine gute Frau mußte ſich
+bald? legen mich übersichl der Schwindel und der Schiffsarzt brachte mich vom Berbick ins Bott. Da lagen wir
+Beide aber mit jeften Werträuen Heiland werde
+helfen. Er hots amd legte ma cin anderes Kreuz
+auf das im gern. trug. Als Ableitung hatte der
+Arzt auf meinem Rüden eine offene Wunde erhä
+ten Die &quot;zu einer tiefen wurde und erſt am Schluß
+der Reiſe heilte. Am 6 September nahmen wir m
+Southampton von unſerm Argo Abſchied und wurden
+in London mit Yiete aufgenommen. Mit naher Sheilnahme vernahmen wir daß Schw. va Irove vom
+Schlag gerühbtt war und noc&lt; To mancdes andete
+das Herz und Gmb bewegte. Ze findet der
+Reiſende wo er hinkommt? Leiden und Noth aber
+and Ihn den Helfer und Sröfter. Nach einem fehr
+angenehmen Aufentholt in London führen wir am
+16 September mit dem Dampfldift nach Rotter
+dam und von da nach Zeiſt wo uns vie rege Theil
+nahme an unſerm Miſſfionswerk namentlich in SüdAfrika ungemein ermunternd war Am 26 Septbr.
+verließen wir das uns ſo lieb gewordene Zeiſt und
+reiſten wach Neuwied wo wir fönTage reich an
+ß Leib und Seet verlepten.</p>
+        <p>Am 14 Oktover zogen wir wieder mut Dank
+gegen unſern freuen Harın m unſere Wohnung ein
+auſs freundlichſte von unſern [. Geſchwiſtun in Ber</p>
+        <pb n="783"/>
+        <p>af begrüßt. Unſere 1 Geſchw Juit waren
+it unſrer Marie vis Löbau entgegen gefemmen
+vie Freude war groß Sie hatten unfere Tochter als
+ue liebevollen Eireen bei sichh aufgenenmen der
+Kelland wolle es ihnen nen.</p>
+        <p>Sa ging nun um To dankvarer wieder in Die
+Rt ginein Da nad früherom ärztlichen Ausfpruch
+ale wieder zur Ar fagig werden fell. Die
+»windelantäle ſtellten Sch zwar wieder ein waren
+aber zu A vinden. Später wurde mir diefes
+ſchwerer nie Binterließen eine Kraftloſigkeit die mir
+vfrers die Arbeit faſt unmöglich machte. Damit verband füh eine geſteigerte Sorginbkoait namentlich bei
+den Bewegungen weiche der Synode vorangingen
+und wähiend Der Simple wurde mir
+ er iſt wenn ec jüngere Kraft
+an meine Stelle tritt und im vat. daher bei der
+Mahl der men Umt.-Aett.-Gonf. nicht. auf mich zu
+fectiien. In Heernhut fanden wir das gewünſchte</p>
+        <p>fä</p>
+        <p>b
+je</p>
+        <p>ar ne</p>
+        <p>Süheplänc Ich je nun auf dem legten Schul
+vankegzen und tanke dem Heliand daß Er mir dieſe</p>
+        <p>tion leichter machte 318 Id dachte. I&lt; vein Er
+vat mix viel zu vergeben Toidſt ſchoinvar Äutes denn
+anch das war mit Zünde veſlekt. Aver wenn Gr
+Alles nimmt giebt Er auch Beſſeres wieder ſtatt
+des elenden. eigenen. Kleiten das Kletd- Seiner Ser
+rechtigfeit Ich Fomme als ein anmer Sünder
+keinen Ehrenplaß erwarter aber auch gewiß
+der Heiland Scive Guadeathüre
+wird == Nur eins vitte ich. im
+Er iſt denn ohne Ihm wäre mp der
+Himmol Ich weiß daß Er and: dort
+Geringſten herabneigt
+(Fertigung im Auguſt 1866)
+I&lt; harte gehofft daß memem irdiſchen valid</p>
+        <p>8 Dart wo
+Himmei kein
+ſieb zu dem</p>
+        <pb n="784"/>
+        <p>784</p>
+        <p>der Eabrath folgen werte dü wir Jeſum leiblich
+ſehen. Der Beiland in ande m Sinn.
+Ich foll nog mehr vorbereitet und gelautet werden.
+Ein orgamfches Herzleiden bildete jich meiner
+guten ſeiigen Frau immer weiter aus und wurde für
+ſie amd damit and für une eine jange vft 1eht
+beängſtigende Leidensſc&gt;nle bs ve am 116 September 1893 die ſo vft erbetene Erfgudniß bekam zu
+Ihm zu geben den fie ſo ekt flehenitich bar: Ad)
+fomm Tod komm Was Ar mir war bieite im
+ſtillen Herzen bewährt 1 werler au ihr meine
+beflere Hälfte uni der Heitmvebzug nach Oben wurde
+um ſo mächtiger. Beilafton war id nit;
+meine jiebe Tochter Marie d
+forgte aus den daran Dans
+um nichts zu kümmern bb
+ſchenkte mix der Hritand
+einen Ruf als Aibleiter Genmreinlems m Haarlem
+erhielt und vir geile Matter uvm Tic Freude hatte
+ihm mit fee Gattin geberann Raikard sed ver
+ihrem Ende su fever I feinen Jahr 1804
+machte ich mit mehrer Tochter eine | angenebte
+Reiſe über Neuwied und Zeit nad Haarlem und auf
+dem Rückweg über Baſch we wir voi den Ettern
+meiner lieben Schwiegertochter fehr angenehme Wochen
+verbrachten und mit Ihnen aucb cine tieine Reiſe in
+die Schweizer Thater machten. Im folgenden Jahr
+1865 befuchten wir meinen Soyn Emil der in einem
+großen &lt;emiſchen Geſchäft ſeit 6 Jahren angeſtellt iſt.</p>
+        <p>Das Jahr 1866 ting. mir trüben Nussichhten
+an am politiſchen Horizont bildeten sichh dunkle
+Wotken denen ein blutiger Zuſammenſtoß folgte
+Gerade in dieſe: ernſten Zeit kam ein Antrag jdes
+veiwikiveken Br. Sufſtav Baer an meine Tocdtei
+Marie mit ihm in die Er zu weten und Mutter</p>
+        <p>abe</p>
+        <p>vr bei mit
+ait Tv zul daß im mich
+Auch eine Freude</p>
+        <p>be.</p>
+        <p>n Zehn Intiins</p>
+        <pb n="785"/>
+        <p>feiner beiden verwaiſſen Kinder zu werden. Mir war
+lan iumer
+beſonders wichtig: Wax Jedes in der Zeit ſoll
+eden heißen haben a.” und das auch daß Br.
+Bact mit Get und Flehen in div wichtige Ueber:
+legung wegen feiner Wiederverheirgihung hineingegangen Wal und fo konnte id nüchtem auch
+Marie Überzeugt war: es komme. vom Herrn&quot; mit
+Kreudigkeit meine Zuſtimmung geten I&lt; hatte
+zvar nicht gedacht daß mir. meine Tochter in dem
+Grad fehlen würde als ih es jeht erfahre; dennoch
+freue ich mich ven ganzem Herzen über dieſe Ver
+Bindung und über den ſchönen Beruf den. ihr der
+Here angewieſen bat</p>
+        <p>Für mic wird die vermehrte Einfamteit em:
+pfindlicher da ie wegen vorſi rum Gehör noch
+br auf nich Telvft beſchränkt bin und auf dem
+Saal nur den negativen Genuß habe mit der Ge
+meine im ftechaufe mich verſammelt zu Sehen;
+aber der Heitand weiß such dieſem Mangel zu Hülfe
+zu kammen. Ich bin b</p>
+        <p>8</p>
+        <p>wg auf 7</p>
+        <p>Ihm im Anmnenrecht Er
+giebt mir nie im Voraus ich muß Boetler bleiben
+aber Er giests zur Stunde.</p>
+        <p>Fortſehung zu Ende des Jahres 1867</p>
+        <p>Es watein ſtilles Jahr von Außen doch innerlich
+viel bewegtes. Meine Einſamkeit it mir durch fort:
+gehende Abnahme meines Gehöts die mir den Ger
+nuß an unſern jeden Verſammlungen gänzlich) ver
+fagt und auch den Umgang mit den Meinigen und
+Freunden erichwert noch fühlbarer geworden. Dazu
+kommt nod eine bemerkbare Abnahme meines Genichts To das die Sehnfucht nach der Heimath die
+droben 1ſt Tab oft mächtig regt und ich den Heiland
+oft oitten muß um die ſelige Ergebung die allein
+in Seinem Wiilon ruht. Er ſchließt die Sinnen</p>
+        <pb n="786"/>
+        <p>786</p>
+        <p>Shore zu und ich bitte Ihn um To angelegeatlicher
+daß der ſtille verborgene Umgang. mit Ihm um
+jo mehr mein Steit und meine Weido ſein andae
+Doch ſcpentr der Heiland sed manche ſen&quot; Freude
+namentlich an dem kleinen Gnfelfehe mit welchem der
+Heiland die Ehe meiner Tochter geſegnet yar. Wenn
+ich das fir Kind ſo weranigt in jenem Born
+tiegen ſche fo ſagt das mir: Tyu als ein Kind und
+lege dieb In deines Heilands Armo&quot;</p>
+        <p>Nun mein Heiland id empfehle dir meine
+Kinder und Enkel. Ic bitte nicht daß du ſie von
+der Weit nehmeſt aver um fe angelegentlicher daß
+du fie bewahreſt vor dem Argen. DI möchte auch
+ich zu den Seligen geboren die emft fagen können:
+Derr hier bin ich und die du mir gegeben vaſt
+wir haben keines verloren.</p>
+        <p>Auch nnſero Brüder-Unität iege ich an Dein
+Dez. Sollen Leidonsſtündiein ſchlagen
+? Deine nach 8
+gt sichh ſchwer</p>
+        <p>treues Jofus-H
+ſo Du willſt nur immer 1%</p>
+        <p>leiht zu Tragen ſeitfigemachiv
+Gicht das wir m jeder Notty ez und
+Auge ſehen und gewiß fein können fe kommt ven
+Dir Aber auc? da we wir unſre Schuld bekennen
+müſſen verlaß uns nicht und wulf et auch da
+wo wir irre geben. Gieße ein rechts volles Maaß
+Deines Geiſtes aus über Tone RKixebe und laß div
+gunze Erde voll werden von Dein Erkenntntß Ach
+ſte iſt onerb ſehr vol Nacht und aän&lt; da wo Dein
+Wort voin und lauter verkündigt wird ſind noch Te
+viele Seelen die Dir den Eingang wehren O ruhe
+nicht rüttle an ihres Herzens Ihür; ad möchte koines
+verloren gehen? Und mich Dom armes Kind dem
+Du von Kindheit an une YViebe und Ervanmen
+nachgegangen biſt leite an Deiner teh
+Hand dis zu dem ſeiigen Ziel nad; dem sichh mein Harz</p>
+        <p>wi</p>
+        <p>kur&lt;gegrat</p>
+        <pb n="787"/>
+        <p>787</p>
+        <p>ſehnt. Ja ich wilt wenn iG zu Dir komm nicht
+venfon mehr an aut oder fror vn da Fommr
+ein Zünder ber der gern aus Gnaden |; wär?
+Amen ja Hort Jeſu tomm bleib nicbt. lange
+warte Deiner mir bange am komm doch
+koma
+Pie</p>
+        <p>Die</p>
+        <p>ſor</p>
+        <p>mſchcs unferes
+artiet feinem Heiland
+‚ lang hinaus er ihm 7 Jahre
+lang Dei Schwäche Alters eine Abnahme der
+äußeren Sine auferlegte Wir können aber mit
+dem Lieben Seligen die gebende tragende Hand ſeines
+Heilandos nicht. genug preiſen. E ihm fiets
+nahe machte ihm Altes Schwere erträglich und fehentte
+ihm innerlich wie Enßerlich manche Lie tbticke Wie
+viel er durch die zunehwende Augenfcheäche und nos
+natelange gänzliche Tanbpoit entbehren mußte iſt
+nicht auszufpreden aber es wurde ihm geſchenkt es
+mit der Geduld und Ergebung zu tragen die allein
+ter Herr geben kann. Im ſtillen Umgang mit ſeinem
+beiten Freund fand or and ſtets den Troſt und die
+Erquidung die er bedurfte um in ſeinem immer bins
+fälliger werdenden Zuſtand nicht die Liebos-Abiichten
+ſeines Seeſenarztes zu verkennen. Mir weicher Treue
+er das Miffiousiwerk die ganze Gemeine oft einzelne
+Glieder dexſelden vor Allem aber ſeine Kinder und
+Enkel dem Heiland ans Herz legte wiſſen Alle die
+ihm nahe ſtanden.</p>
+        <p>Dieſes Getragemverden durch ſein Geber it uns
+ſeinen Kindern ſehr fchmerzlich nun zu entbehren
+doch ſoil uns dieſes Gefühl nicht die Freude über
+die Seligkeit die der theure Entſchlafene jeht genießen darf wüben. Dex Hert allein kann ihm feine
+Baterliebe vergelten und daß Er das auf unſere
+Bitte than wird glauben wir zuverſichtlich.</p>
+        <p>bewerten nin</p>
+        <p>ind</p>
+        <pb n="788"/>
+        <p>788</p>
+        <p>Seine Bitte: Mein Gott id; bitt dur Chriſt
+Blut mob Dus mic meinem Ende gut&quot; bat ibm fein
+Heiland auf liebliche Woiſo erfüllt und ihn nur 3
+Jago aufs Kranfenlager gelegt. Nacktem ihm am
+Sonntag Nackmittag ein Schlaganfail betroffen hatte
+und Bieter eintrat glaubten wir dev Deiland. eile
+mir Seinem treuen Ker fotaf ihm der S
+des Herin zu feiner Senf
+umgeben ortheilt warde weft ei vernebmlid dankte
+Als ſich am Dienſtag ſein Zuffand ein wenig beſſerte
+fürchteten wir eine längere Leidenszeit dem der Ruf
+feines Herrn : Gehe ein zu deines Heren Freude
+erging an ihn und nacßdem er die leßten Lebensſtunden bewußtlos vert t hatte holte der treue
+Hirte Sein müdes harrendes Schäflein auf dieſanfreſte
+Weiſe heim</p>
+        <p>Wir wolln beim Kien
+er einigemal arf ſeinem Krankenlager</p>
+        <p>Dazu gebe der Herr uns Glauven und Kraft
+und erfülle des themen Vaters ſehnlichtien Wunſch
+mit uns vereint Die ewige Schigkeir- zu genießen.</p>
+        <p>Seine irdiſche Walkfahrt hat gewahrt 87 Jahr
+28 Jage.</p>
+        <p>zen
+her von feiner Familie</p>
+        <p>ad</p>
+        <p>w. ſagte</p>
+      </div>
+    </body>
+  </text>
+</TEI>
