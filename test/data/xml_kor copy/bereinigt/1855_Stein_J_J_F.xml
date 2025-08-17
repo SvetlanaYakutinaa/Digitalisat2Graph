@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lebenölauf des verheiratheten Bruders Johann Jürgen Friedrich Stein, heimgegangen in
+          Herrnhut den 27. Juli 1853.</title>
+        <author>Johann Jürgen Friedrich Stein</author>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <date>1855</date>
+        <ref>https://collections.mun.ca/digital/collection/nachrichten/id/64736/rec/190</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <biblScope unit="issue">1855</biblScope>
+            <biblScope unit="page">281-296</biblScope>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="281"/>
+        <head>Lebenslauf des verheiratheten Bruders <persName>Johann Jürgen Friedrich
+            Stein</persName>, heimgegangen in <placeName>Herrnhut</placeName> den <date>27 Juli
+            1853</date>. </head>
+        <p><s>Ich bin geboren den <date>28 Auguſt 1783</date> zu Dümitz im <placeName>Großherzogthum
+              Mecklendurg</placeName>.</s> Meine Mutter verlor ich schon, als ich erſt acht Tage alt
+          war. Dieſer ſchmerztihe Verluſt wurde mir aber, Gott ſei Dank in meiner Kindheit nicht
+          recht fühlbar, indem ich an meiner Stiefmutter, mit der ſich mein Vater bald darauf
+          verband, eine gute, für mein Wohl wahrhaft veſorgte Mutter erhielt. Erſt in meinem elften
+          Jahr erfuhr ich, daß ſie meine Stiefmutter ſei. Dieſe zweite Ehe meines Vaters war mit 5
+          Söhnen und 3 Töchtern geſegnet. Da wir ſo viele Kinder waren, ſo mußte ich ſehr frühe
+          zeitig mein Brod mit Viehhüten mir zu verdienen ſuchen. Ich hatte es dabei recht ſchwer,
+          und gerieth mehrmals in Lebensgefahr, aus der mich aber Gott immer gnädig exrettete. — In
+          meinem elften Jahr wurde mein Vater Zuchthausmeiſter. Nun brauchte ich nicht mehr zu
+          dienen, und konnte in die Zuchthausſchttle gehen, lernte aber ſchwer. Zum Auswendiglerxen
+          hatte ic gar kein Gedachtniß, fo viel iM mir auch dabei Mühe gab; die Angſt vor Strafe,
+          wenn ich nichts kounte, mochte wohl auch das Ihre dazu beitragen. Dennoch aber kam ich
+          obenan zu ſiben, was mir gar nicht gefiel, da ih wußte, daß alle Andern weiter waren, als
+          ih. Nur das Bewußtſein konnte mich beru-</p>
+        <pb n="282"/>
+        <p>282. </p>
+        <p>higen, das ich nicht, wie Die meiſten meiner Mitſchüler, den Lehrer muthwillig quälte,
+          ſondern ihm durch pünktlichen Geharſam Freude zu machen ſuchte. <s>Damals dachte ich: In
+            deinem Leben wirſt du kein Schullehrer werden, und ahnete freilich nicht, daß ich
+            ſpäterhin dieſes Amt 15 Jahre lang in <placeName>Süd-Afrika</placeName> mir Luſt und
+            Liebe verwalten würde.</s>
+        </p>
+        <p>Was mein inneres Loben aus Gert betrifft, ſo muß ich ſagen, daß ich damals ganz todt war,
+          und keinen Verſtand vom Worte Gottes hatte, wie ich denn auch bei meiner Confirmation und
+          beim erſtmaligen Genuß des heiligen Abendmahles mehr an meine neuen Kleider, als an die
+          wichtige Bedeutung Diefer heiligen Handlung dachte. Um dieſe Zeit hatte ich das Unglück,
+          mehreremal den Arm zu brechen. Weil ih dadurch am Schulbeſuch verhindert wurde, ſo
+          beſchäftigte ih mich hauptſächlich mit Bibellefen, wobei ich viele liebe lie Eindrüde
+          erhielt. Beſonders gern las ich das 53 Capitel des Propheten Jeſatas, ohne ſedoch zu
+          wiſſen warum. Wenn ich im Netten Teſtamente las, fo fand ich darin den Spiegel des wahren
+          Chriſtenthyums, und wurde überzeugt, daß, wenn wir ſelig werden wollen, wir fo leben und
+          wane deln müſſen, wie es uns daſelbſt vorgeſchrieben iſt, Da ich nun keinen wahren
+          Ghyriſten kannte, ſo ſtieg der Gedanke in mir auf: Sollte es nicht irgendwo anf dex Welt
+          wahre Ghrüfen geben? und ſogleich bekam ich in meinem Herzen die Antwort: Ja, es gibt
+          ſolche Leute, aber wo? und es wurde mir in meinem Innern ausgemacht: Wenn du ſie findeſt,
+          jo mußt du die) ihnen anſchließen, denn ſelig willſt du ja doch werden. Dies war auch auf
+          meiner ſpäteren fünfjährigen Wanderſchaft ſtets mein Suchen und Verlangen.</p>
+        <pb n="283"/>
+        <p>Nach meiner Confirmation ſollte ich ein Hand: werk erlernen. Mein Vater wünſchte, daß ich
+          mernes ſchwachen Armes wegen die Schneider - Profeſſion erlernen möchte. Dazu aber hatte
+          ich nicht nur nicht die gevingite Neigung, ſondern vielmehr die ſtärkſte Abneigung
+          dagegen, und wollte lieber ein Tiſchler oder Drechäler werden. Wider meinen Willen trat
+          ich indeß bei einem Schneider in die Lehre, lernte aber gleichwohl zu meines Meiſters
+          Zufriedenheit, hatte es jedoch ſehr ſchwer, da ich alle Feldarbeit mitmachen mußte, und da
+          mein Arm hiezu nicht stark genug war, ſo brach ich ihn von Neuem, was mir viele Schmerzen,
+          meinen Eltern aber noch weit mehr Kummer machte. Dies zog ih mir ſo ſehr zu Gemütho, daß
+          ich den ſchrecklichen Gedanken faßte, meinem Leben ein Ende zu machen, um den Jammer nicht
+          mehr mit anfehen zu müſſen. Glücklicher Weise aber fiel mir noch ein, daß ich dadurch
+          meinen Eltern ja einen noch weit größeren und immerwährenden Kummer verurfahen würde. Nur
+          dieſer Gedanke hielt mich von jenem ſchrecklichen Vorſatz zurüd. Nun hoffte ich, von dem
+          Schneiderhandwerk los zu kommen, und aud mein Vater war damit einverſtanden. Mein Meiſter
+          aber, welcher mich beſuchte, verſprach alle mögliche Vörbeſſerung meiner Lage, wenn ich
+          bei ihm blieve. <s>Da dieſe Verſprechungen in der Folge aber unerfüllt blieben: ſo
+            beſchloß ich, in meinem 18ten Jahre auf die Wanderſchaft zu gehen, worauf ich mich ſchon
+            längſt gefreut hatte.</s> Ich nahm alſo Abſchied von Eltern und (Geſchwiſtern, welche
+          mich bis zum Sciff begleiteten. <s>Meine erſte Ausflucht ging nach
+              <placeName>Lüneburg</placeName>. </s> Frohlich und wohlgemutrh ging ich in die Fremde;
+          so bald ich mich aber von den Meinigen verlaſſen</p>
+        <pb n="284"/>
+        <p>sah, wurde es mir doch recht ſchwer und bange ums Herz, so jung allein in der Welt zu
+          ſtehen, und bald genug ſollte ich auch erfahren, mit welchen Gefahren dies verknüpft iſt.
+            <s>Einer von meinen Brüdern ſtand damals unter dem Militär in
+              <placeName>Lüneburg</placeName>, und da ich ihn dort aufſuchte, ſo gerieth ich zweimal
+            unter Werber, die mich mit Liſt und Gewalt zum Soldatendienft zwingen wollten, da ich
+            deun nur noch mit genauer Noth davonkam. </s>
+          <s>In <placeName>Altona </placeName>erhielt ich zuerſt Arbeit und wanderte dann nach
+              <placeName>Braunſchweig</placeName>.</s> Unterwegs wurde mir meine ganze nicht
+          unbedeutende Barfhaft gestohlen, was mich rec&lt;hr in Verlegenheit ſchte. |. </p>
+        <p>Ih ging dann nach Halberſtadt, Leipzig und Groß: ſchönau, wo ich abwechſelnd Arbeit
+          erhielt. Oft aber erging es mir ſehr ſchlecht, da ich bei meiner Jugend und Unerfahrenheit
+          oft von ſchlechten Menſchen betrogen und verführt wurde. <s>Nun beſchloß ich, über
+              <placeName>Prag</placeName> nach <placeName>Wien</placeName> zu reiſen, und war ſehr
+            erſtaunt, als ich das erſte Kreuz an der böhmiſchen Grenze erblickte.</s> Auf mein
+          Befragen erfuhr ich, daß hier das katholiſche Land anfinge. <s>Nun wollte ich sogleich
+            umkehren, da ich gehört hatte, daß die Lutheraner daſelbſt keine Arbeit bekämen, ward
+            aber eines Andern belehrt und erhielt Arbeit in <placeName>Zeplig</placeName>.</s> Eines
+          Sonntags ſaate der Meiſter zu uns Geſellen: „Wer ein Chriſt iſt, kann in die Kirc&lt;e
+          geben; die Lutheraner können fortarbeiten, "Ich erklärte aber, daß ich auch ein Ghriſt
+          fei, und ging daher zum erſten Mal, feitdem ich in der Fremde war, in die Kirche. Wie
+          erſtaunt war ich, als ich ſie jo angefüllt fand, daß ic) mich kaum hindur&lt;«» drängen
+          konnte, um ein Pläßchen vor dem Altar zu finden. O, dachte ich, hier findeſt du gewiß die
+          wahren Chriſten, die du ſo fange geſucht haft;</p>
+        <pb n="285"/>
+        <p>denn ich war erſtaunt über die Andacht, die ich auf den meiſten Geſichtern ausgeprägt
+          fand. Da ich aber die Meſſe mit angehört batte, von der ich leider nichts verſtand, ſo
+          blieb ic ungerührt im Herzen, und id dachte: Das iſt Doc wohl nicht die Kirche, die du
+          ſuchſt. </p>
+        <p><s>Im Jahr <date>1892</date> kam ich auf meiner Wanderſchaft nach
+              <placeName>Zittau</placeName>. </s>
+          <s>Daſelbſt bekam ich einſt ein Buch in die Hände, in welchem viel von don
+              <orgName>Brüder-Miſſionaren in Suriname</orgName> erzählt wurde.</s> Dies ging mir
+          tief zu Herzen, und ich dachte sogleich: Das ſind die Leute, die du ſuchſt. Da ich nun
+          zicht wußte, wo ich ſie finden ſolle, ſo ging ich mit dem Buche zu einem alten fremmen
+          Mann, der mir ſagte, daß drei Stunden von </p>
+        <p>
+          <s>Ich arbeitete nun abwechſelnd in verſchiedenen Städten, und zuleßt in
+              <placeName>Potsdam</placeName>, wo es mir sehr gut ging. </s> Als ich daſelbſt eines
+          Tages mit einem andern jungen Menſchen die Merkwürdigkeiten dieſer Stadt in Augenſchein
+          nahm, zeigte mir derſelbe unter anderm auch ein Haus, mit der Bemerkung: „Hier in dieſem
+          Haufe kommen die Betbrüder oder Herrnhuter zuſammen. ““ Auf mein Befragen nach ihnen
+          erzählte er mir daſſelbe, was ich ſchon in Zittau gehört hatte. Ich fragte ſogleich: Wenn
+          haben. fie ihre Verſammlungen? Er erwiederte: „Es iſt jeht um A Uhr eben die Zeit dazu;
+          ich gehe aber nicht mit, denn da muß Jeder ſeine Seligkeit verſchwören. Nun wurde aud
+          mir</p>
+        <pb n="286"/>
+        <p>angst; und ich ging nicht hinein, betrachtete mir aber die Yrute, und th Benehmen gefiel
+          mir fehr wohl. Am folgenden Tage erkundigte ich mich au bei der Meiſterin nach dieſen
+          Leuten, und erfuhr daſſelbe z auch jagte ſie mir die Zeit dep Verſammlungen, und ich
+          konnte nicht widerſtehen, des Abends einer Erbauungsſtunde beizuwohnen, Wie wohl wurde mir
+          ſchon beim Geſang der Verſe; ich war überzeugt in meinem Herzen: Ja, daz ſind wahre Kinder
+          Gottes z nun haſt du endlich gefunden, was du ſo lange geſucht. Von der Zeit an verſäumte
+          ich keine Berſammlung. <s>Zu meiner Freude fand ich an einem meiner Mitgesellen einen
+            Herrnhuter Bruder, der mich dem dortigen <orgName>Sociestäts - Arbeiter</orgName>,
+              <persName>Bruder Adler</persName>, vorſtellte.</s> Dieſer nahm mich ſehr liebevoll auf
+          und lieh mir auf meine Bitte Bücher, damit ich mit der
+            <s>Nach der Verſammlung wurde bekannt gemacht, daß morgen der Prediger der
+              <orgName>Berliner Brüder-Gemeine</orgName>, <persName>Bruder Tſchirpe</persName>, zum
+            Beſuch ankommen werde, und <persName>Bruder Aedler</persName> rief mich ſodann zu ſich
+            und ſagte mir, es ſei zwar gut, daß ich in die Berſammlungen käme, aber in die heutige
+            hätte ich eigentlich nicht gehen ſollen, da dieſelbe nur für Gemeinmitglieder besſtimmt
+            ſei.</s>
+          <s>Da dachte ich: Kann ich ſchon ſo viel Segen in dieſer Verfammlung genießen, wie wird es
+            erſt in <placeName>Herrnhut</placeName> sein; und von der Stunde an ſtand mein Entſchluß
+            feſt, ein Mitglied der <orgName>Brüder-Gemeine</orgName> zu werden.</s> Dem
+            </p>
+        <pb n="287"/>
+        <p>ich mein ganzes Herz nunmehr aus; er wiberrieth mir aber, zur <s><persName>Bruder Tſchirpe</persName> gab mir ein Empfehlungsſchreiben nad
+              <placeName>Nisky</placeName>. </s>
+          <s>Dahin reiſte ich ab, und langte am <date>8 April 1805</date>, am Montag nach
+              <placeName>Palmarum</placeName>, dort an.</s> Bei meinem Eintritt ins Brüderhaus
+          wurden gerade die Poſaunen geblaſen. Mir war himmliſch wohl dabei zu Muthe, und ih war
+          voll Loben und Danken, daß ich endlich bei diefem Volke Gottes angekommen ſei. Bald aber
+          wurde ich ſehr niedergeichlagen. <s>Denn als der Chorarbeiter der ledigen Brüder,
+              <placeName>Bruder Koch</placeName>, mein Empfehlungsſchreiben geleſen hatte, ſagte er:
+            ‚Du willſt zur <orgName>Gemeine</orgName> aber von <placeName>Berlin</placeName> kommt
+            nichts Gutes; auch haben wir hier auf deiner Profeſſion keine Arbeit für dich; gebe aber
+            ins Gemeinlogis, und komme morgen wieder zu mir."</s> Als ich mich in meinem Stübchen
+          befand, warf ich mich auf meine Knie nieder und ſchüttete mem ganzes Herz vor dem Heiland
+          aus, mit der ange: legentlichen Bitte, daß ih hier Arbeit erhalten möchte, da Er ja doch
+          wiſſe, daß ich außer der </p>
+        <p><s>Ich erhielt denn auch Arbeit in <placeName>Nisky</placeName>, aber ſo wenige, daß ich,
+            bei den damaligen ſehr hohen Brodpreiſen, Alles, was ich mir bisher erſpart hatte,
+            zulegen mußte, und überdies noch in die Verlegenheit kam, borgen zu müſſen, was ich
+            früberhin noch niemals gerhan harte.</s>
+        </p>
+        <pb n="288"/>
+        <p> Das trieb mich nun wieder ins Gebet zu meinem treuen Heiland, von dem ich auch jedeömal
+          getröſtet wurde. Da aber die Arbeit ſich nicht verbeſſerte, ſo bes ſchloß ich, nach
+            </p>
+        <pb n="289"/>
+        <p>mußte unerbört aufftehen. Meine Unruhe und Angit wurde immer größer. Ih ging alle Tage in
+          den Buſch, um zu beten, wobei ich einmal in Gefahr kam, erſchoſſen zu werden, indem mich
+          Jäger für ein Stück Wild hielten. Endlich ſchlug auch für mich die Gnadenſtunde, Ich inte
+          wie ein gejagtes Reh im Felde, und mein Herz konne nur noch zum Seren um Erbarmung
+          fihreien; da trat mir mein treuer Heiland unerwartet vors Gos müth, ſprach meinem
+          befümmerten Herzen Troſt und Frieden zu, und verſicherte mich der Berge: bung aller meiner
+          Sünden ſo fühlbar und kräftig, als wenn Er leibhaftig vor mir ſtände. I&lt; konnte nur
+          niederfallen und anbeten und danken, und ges lobte Iym, daß ich nun Sein Eigenthum ſein
+          und bleiben und Ihm nach meinen ſchwachen Kräften dienen wolle, wie und wo Er mich
+          brauchen könne. Wie mir da zu Muthe war, und was für Gefühle mid) durchdrangen, fann ich
+          nicht beſchreiben ; das können nur diejenigen begreifen, die es auch er- fahren haben. Nun
+          warde ich auch offenherzig und erzählte meine ſeligen Erfahrungen dem Pfleger, welcher mit
+          mir Dank- und Freudenthränen vergoß,. </p>
+        <p><s>Da es aber immer noch wenig Arbeit gab, und ich hörte, daß es in
+              <placeName>Herrhut</placeName> fehr viele gäbe, so sagte ich es dem <persName>Bruder
+              Koch</persName>, der mir ein Empfehlungsfchreiben gab, und mir rieth, es einmal in
+              <placeName>Herrnhut</placeName> zu verſuchen.</s>
+          <s>Am <date>27 Mai 1805</date> langte ich daſelbſt an, wurde sehr freundlich auf-genommen
+            und erhielt Arbeit auf meiner Profeſſion.</s> Nun hoſſte ich, recht bald in die
+            </p>
+        <fw>Zweites Heft 1 19.</fw>
+        <pb n="290"/>
+        <p> Ich klagte es dem Herrn. Er gab mir aber zu erkennen, daß Er mich darum nicht weiter
+          bringen könne, weil ich beſſer zu ſein dächte; als Andere. <s>Der Pfleger,
+              <persName>Bruder Parep</persName>, welchem ich offenherzig ſagte, daß ich zwar froh
+            und dankbar ſei, hier wohnen zu können, daß ich aber Gemeinſchaftsſegen noch ſehr
+            entbehre, und es mi ſchwer werde, noch länger zu warten, tröſtete mich; mit den Worten:
+            „Deine Stunde wird auch komen.“</s> Ich blieb aber ſehr niedergeſchlagen. Mi dieſem
+          Gefühl ging ich wie gewöhnlich vor dj Thür des Berſaals der ledigen Brüder, in welch der
+          Morgenſegen gehalten wurde, um zuzuhöre! denn ein Fremder durfte Damals neh nicht hinein
+          gehen. Es war der <s>Den <date>20 September</date> brachte
+            Er Sein Wort schon in Erfüllung; denn ich erhielt die erſehnte Erlaubniß zur
+              <orgName>Gemeine</orgName>, mit der tröſtlihen Looſung: „Er wird Seine Heerde weiden
+            wie ein Hirte, Er wird die Lämmer in Seine Arme ſammeln, und in Seinem Buſen tragen, und
+            die Schafmütter führen.</s></p>
+        <pb n="291"/>
+        <p> Wie ſelig iſt's, ein Schäflein Chriſti werden, und in der Huld des treuſten Hirten
+          ſteha!**. </p>
+        <p><s>Den <persName>15 December</persName> wurde ich in die <orgName>Gemeine</orgName>
+            aufgenommen, mir der ſchönen Looſung: „Wohl dem Volke, deß der Herr ſein Gott iſt, das
+            Volk, das Er zum Erbe erwählet hat.</s> Wenn ich tauſendmal Seine heil’gen Füße thränend
+          netz? und küſſe für die Gnadenwahl, iſt's doch nicht damit verriht’t: nimm mich bin zum
+          Lohn der Schmerz zen mit dem ganzen Herzen.” — Am Grüntons nerstag 1806 gelangte ich zum
+          Genuß des heiligen Abendmahls mit der Gemeine, wobei ich aber den Segen nicht genoß, den
+          ich erwartet hatte. == In diefem Jahr machte ich eine Reife nach meiner Heimath, um meinen
+          Vater und meine Geſchwiſter einmal wieder zu ſehen. Sie ließen nichts unverfucht, mich zu
+          bewegen, bei ihnen zu bleiben, Les ruhigten ſich aber, als ich ihnen erklärte, daß '&lt;
+          nur meinem erſten Herzensdrang gefolgt, und nirgends anders glücklich wäre, als im Schooße
+          der </p>
+        <p><s>Jetzt wurde mir auch die Gnade zu Theil, dem Herrn und der <orgName>Gemeine</orgName>
+            zu dienen, indem ich bei den <orgName>größeren Knaben</orgName> als Aufſcher angeſtellt
+            wurde.</s> Dieſen Antrag nahm ich gern und willig an, und habe dabei manchen Segen für
+          mein Herz genoſſen. <s>Dieſes Amt beſorgte ich bis zu meiner Abreiſe nach
+              <placeName>Afrika</placeName>.</s>
+          <s>— Im Jahr <date>1811</date> wurde ich zum Krankenwärter gewählt.</s> Auch diefer Beruf
+          war mir fehr wichtig und lieb. Ich machte dabei manche ſchwere, aber auch liebliche
+          Erfahrungen. Davon hier nur ein Beiſpiel, ich war an einer Halsentzündung ſo bedenklich
+          krank, daß die Doctoren mich ſchon ganz aufgegeben hatten und ich</p>
+        <pb n="292"/>
+        <p>meine leßte Skunde erwartete. Da brachten fie einen Bruder in die Krankenflube getragen,
+          der auch ſehr frank war. Ich rief zum Herrn in meie nem Herzen und bat ihn: ,,Lieber
+          Heiland, Du haſt mich zum Kranfenwärfer angeſteilt, und nun iſt hier ein Bruder, den ich
+          pflegen ſoll; mache mid doch wieder geſund! Und ſiche, ich konnte aus dem Bette aufſtehen
+          und meine Geſchäfte ber ſorgen, Dor Doctor verwunderte nh ſehr, waz; mit mir geſchehen,
+          und als ich ihm den Hergang erzählte, ſagte er: „„Der Heilaud iſt doch der beſte Doctor!. </p>
+        <p>Die hinterlaſſene Witwe des ſeligen Bruders fährt nun fort:. </p>
+        <p>Hier ſchließt der eigenhändige Auffas meine ſeligen Mannes, und ich rheile noch Folgendes
+          von ſeinem Dienſt in </p>
+        <p>
+          <s>Im Jahr <date>1815</date> erhielt er den Antrag zum Missionsdienſt nach
+              <placeName>Süd-Afrika</placeName>, welchen er mit großer Freudigkeit und im Aufblick
+            auf die Hüllfe des Herru annahm, da es täugſt fein Herzendei wunſch geweſen, dem Herrn
+            bei den Heiden zu dienen.</s>
+          <s>Den <date>1 October</date> reiſte er von <placeName>London</placeName> mit dem Bruder
+              <persName>Chriſtian Ignatius La Trobe</persName>, und mehreren zum Mifsiondienst
+            veſtimmten Gefchwiſtern dahin ab, und langte im <date>December</date> dort an. </s>
+          <s>Zuerſt wurde er in <placeName>Grönekloof</placeName> angeſtellt, wo er beim Bau der
+            neuen Kirche ſehr thätig war.</s>
+          <s>Später übernahm er die Leitung der Landwirthſchaft auf dieſem Miſſionspoſten.</s>
+          <s>Nachdem er die holländiſche Sprache erlernt und zu einem <orgName>Diakonus der
+              Brüderkirhe</orgName> war ordinirt worden, ward ihm auch die Gnade zu Theil, den
+            Heiden den Sünderheiland anzupreiſen, der auch für ſie am Kreuze geſtorben iſt, um ſie
+            von der Knechtſchaft der Sünde zu erretten.</s>
+        </p>
+        <pb n="293"/>
+        <p>
+          <s> Im <date>Jahr 1816</date> machte er mit dem <persName>Bruder La Trobe</persName> und
+            den <persName>Geſchwiſtern Schmidt</persName> eine Unterſuchungsreiſe ins Unterland
+            wegen Anlegung eines neuen Miſſions-Etabliſſements, welche ihm ſtets in angenehmer
+            Erinnerung geblie ben iſt, obgleich er auf diefer Reiſe das Unglüd hatte, den Arm zu
+            brechen.</s></p>
+        <p><s>Im Jahr <date>1818</date> erhielt er an der ledigen Schweſter <persName>Anna Louiſe
+              Wünſche</persName> eine treue Lebensgefährtin, die ihm aber nach sechsjähriger
+            glücklicher Verbindung bei der Geburt eines Söhnleins durch den Tod entriſſen wurde.</s>
+          Dieſer Verluſt war ihm ſehr ſchmerzlich und er konne ſich lange nicht in Die Wege des
+          Heren finden. Sie war eine rhätige und gefeguere Magd des Derru, Die nach Kräften
+          demſelben zu dienen ſtrebte, und ſich durch ihr aunſpruchstoſes, freundliches Weſen die
+          Liebe der Geſchwiſter in hohem Grade erwarb.</p>
+        <p><s>Im Jahr<date> 1822</date> wurde er nach <placeName>Gnadenthal</placeName> berufen,
+            woſelbſt er bis zum Jahr <date>1839</date> auf vielfache Weiſe thätig war.</s>
+          <s><persName>15 Jahre</persName> hielt er die größere <orgName>Hottentorien -
+              Knabenſchule</orgName> mit vieler Liebe und Luſt, und erlebte recht große Freude an
+            einzelnen ſeiner Schüler, unter denen ſich auch der bekannte <persName>Ezechiel
+              Pfeiffer</persName> befand, der jeßt die <orgName>Kleinkinderſchule</orgName> in
+              <placeName>Gnadenthal</placeName> beſorgt.</s> Auch beim Garten und Weinbau war er
+          tpätig. Mit des Herrn Hülfe machte er ſehr zlückliche irurgiſche Curen an Schwarzen und
+          Weißen und war oft dankbar beſchämt über den gnadigen Beiſtand des Herrn vei ſchweren und
+          gefährlihen Operationen. <s>Diese Geſchicklichkeit hatte er ſich, ehe er
+              <orgName>Herrnhut</orgName> verließ, bei dem damaligen Doctor
+              <persName>Maſſalien</persName> angeeignet, und es war ihm Gnade, auch mit dieſer Gabe
+            dem Herrn und der Miſſion zu dienen.</s></p>
+        <pb n="294"/>
+        <p>
+          <s>Am <date>9 Februar 1825</date> wurde ich mit ihm in <placeName>Gnadenthal</placeName>
+            durch <persName>Bruder Hallbeck</persName> getraut.</s> Wir verbanden uns, ganz für den
+          Herrn zu leben, und übergaben uns Ihm aufs Neue mit Leib und, Seele, Ihn um Seinen Segen
+          zu unſerm gemein ſchaftlichen Dienſt bei der Miſſion anflehend, Ep hat ſich auch in Gnaden
+          zu ung vekannt, daß wi Ihm nach unſern ſchwachen Kräften dienen Fonnten,; <s>Unſre Ehe war
+            wit 7 Kindern gesegnet, die als noch am Leben ſind.</s> Mein Mann verrichtete allen
+          ſelbſt die heilige Taufhandtung und übergab: ſie in derſelben dem Herrn zu Seinem
+          völligen; Eigenthum. <s>Der Abſchied von unſern Kindern bei ihrem Abgang in die
+              <orgName>Erziehungs-Anſtalten</orgName> nach <placeName>Kleinwelke</placeName> wurde
+            und jedesmal ſehr schwer, und nur der Gedanke konnte uns tröſten, daß wir uns davon
+            überzeugt halten durften, daß für ihr geistliches und leibliches Wohl aufs treuſte
+            Bedacht genommen werden würde.</s>
+        </p>
+        <p>Wie viele ſelige Erfahrungen bei dem Dienst des Herrn der Selige auch für ſein eigenes
+          Herz machte, davon ging jein Mund ſters über. Ganz beſonders gereichten ihm die
+          Erklärungen vieler, unſrer Hottentotten - Geſchwiſter bei Gelegenheit von Tauf- und
+          Conſirmations-Handlungen zu großer Erbauung und Aufmunterung.</p>
+        <p> In den Jahren </p>
+        <pb n="295"/>
+        <p>keine Ausſicht vorhanden war, dieſem Uebel auf dem Gap abzuhelfen, ſo beſchloſſen wir,
+          mit Sr nehmigung des Herrn, nach <s>Am <date>28 April 1840</date> reiſten wir mit 7
+            Missionskindern, von denen zwei unſre eigenen waren, von der
+              <placeName>Capſtadt</placeName> ab. </s>Der Herr geleitete uns glüdlih und ohne
+          Schaden auf der weiten Seereiſe. <s>Die Seelust that meinem Mann ſo wohl, daß sich ſein
+            Zustand zuſehends beſſerte, und am <date>26 Juli </date> langten wir wohlbehalten in
+              <placeName>London</placeName> an. </s>
+          <s>Wir reiſten nun mit den uns anvertrauten Kindern nach
+            <placeName>Kleinwelke</placeName>, woselbſt wir die große Freude hatten, unſre eignen
+            Kinder wieder zu umarmen, die ſich zur Zeit noch bis auf die alteſte Tochter in den
+            dortigen <orgName>Erziehungs - Anſtalten</orgName> befanden.</s>
+          <s>— Sehr erwünſcht war es meinem lieben Mann, ſeinen Ruheplaß in Herrahur zu erhalten, da
+            er früher an dieſem Orte fo glückliche Jahre verlebt hatte, In den erſten Zahren konnte
+            er ſich ſchwer an den Gedanken gewöhnen, nicht mehr nach <placeName>Afrika</placeName>
+            zuriczufchren, da fein tbatiger Geiſt ſich ſehr nach ſeiner früheren Beſchäftigung
+            ſehnte. Doh ergab er ſich kindlich in den Willen des Herrn und ſuchte, so viel ſeine
+            Kräfte es ihm </s>
+        </p>
+        <pb n="296"/>
+        <p>erlaubten, thatig zu ſein. Im Jahr </p>
+        <p>Im <s>Am <date>26
+              Juli</date> ſchlug die Stunde fsiner Erlöſung, da er vom Glauben zum ſeligen Schauen
+            übergehen durfte, nach einer Wallfahrt hienieden von 70 Jahren weniger einem Monat.</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../data/5.3_TEI-Modellierung/schema_1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lebenslauf der am ı3ten September 1820 in Gnadenthal ſelig entfchlafenen
+          verheiratheten Schweſter Johanna Dorothea Bonatz, geborne Koch</title>
+        <author>Johanna Dorothea Bonatz</author>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <date>1823</date>
+        <ref>https://collections.mun.ca/digital/collection/nachrichten/id/27861/rec/26</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <biblScope unit="issue">1823, 02</biblScope>
+            <biblScope unit="page">211-216</biblScope>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="211"/>
+        <head>Lebenslauf der am <date>13ten September 1820</date> in
+            <placeName>Gnadenthal</placeName> ſelig entfchlafenen verheiratheten Schweſter
+            <persName>Johanna Dorothea Bonatz</persName> geborne Koch.</head>
+        <p><s>Ich bin ſchreibt fie ſelbſt am <date>21ſten April 1776</date> in
+              <placeName>Spree</placeName> unweit <placeName>Niesky</placeName> geboren wo mein
+            Vater Krämer war.</s> Meinen Eltern welche erwedt waren lag es an ihre fünf Kinder ſo
+          ſorgfältig als möglich zu erziehen; ſie beſuchten fo oft ſichs thun ließ die Gemein
+          Verſammlungen in </p>
+        <fw>ſon-</fw>
+        <pb n="212"/>
+        <p>sondere Eindrücke auf uns und erregte in uns das lebe hafte Verlangen auch fo gut zu
+          werben wie jene Kinder. Wir redeten öfters mit einander darüber wie wir es machen follten
+          dem Heiland und unſern Eltern zur Freude zu leben und wußten ſchon es ſey ihnen das
+          liebſte wenn wir unter ihrer Aufſicht bleiben und feinen Umgang mit folgen Kindern hätten
+          von venen wir zum ſchlechten verführt werden könnten. Wir machten es uns zur Regel in der
+          Schule recht fleißig zu ſeyn und zu Hauſe laſen wir oft in vor Bibel So blieb es aber
+          nicht lange; wir wurden von andern bedauert fo eingezogen und ohne äußere Wergnügungen
+          leben zu müſſen. Dergleichen Eeuserungen wirkten fo ſtark auf uns daß wir wünſchten lieber
+          ohne Eltern zu ſeyn als ohne Vergnügen.</p>
+        <p>So war auch ich fünfjähriges Kind gesinnet als mein Vater unerwartet ſchnell ſelig
+          vollendet wurde. Ich fühlte nicht ſogleich wie groß dieſer Werluſt ſey aber bald fam ich
+          auf den Gedanken der Vater ſey uns darum entriſsen worden weil wir Kinder dieſes gewünſcht
+          hatten. Ich weinte Tage lang faſt unaufhörlich meine Mutter redete mir zu, aber vergeblich
+          da ich ihr den eigentlichen Grund meiner Troſtloſigkeit nicht darlegen wollte um ſie nicht
+          zu betrüben. Ein älterer Bruder wohnte damals in </p>
+        <fw>tern.</fw>
+        <pb n="213"/>
+        <p>tern aus der Zeit ging wurde mein Inneres aufs neue tief erſchüttert und ich beſchloß nun
+          das Haus meiner Mutter nie zur Unzeit zu verlaſſen. Mit den Jahren aber verlor ſich dieſer
+          Vorfaß wieder und die Neigung weltliche Luftbarkeiten mit zu genießen regteſich ſtärker.
+          Eines Abends trieb mich die Neugier bey einem Hochzeitstanz zuzuſehen. Ich wurde auch zum
+          Tanz aufgefordertz als ich aber eintreten wollte waren meine Füße wie gebunden und es
+          überfiel mich eine folche Angſt daß ich mich eilig davon machte uns ter dem Vorwand ich
+          müſſe ſogleich etwas beſtellen.Dieſe innere Unruhe habe ich ſtets für einen Beweis der
+          Gnadenleitung meines treuen Heilandes angeſehen. Sobald meine Mutter erfuhr daß ich bey
+          jener Tanzgeſellſchaft geweſen war wurde im mit Schlägen hart geſtraft welches mich nur
+          troßig machte. Wis ich aber Tages darauf zuhörte wie meine Mutter in ihrer Stube zum
+          Heiland betete daß Er mich lieber zu ſich nehmen wolle ehe ic wie ſie fürchte in großes
+          Unglück nach Seel und Leib gerietze 3 ſo ging es mir ſo durchs Herz daß ich mich auf mein
+          Angeſicht vor dem Heiland niederwarf Ihn fleiyentlich bat mich armes Kind in Seine
+          beſondere Pflege zu nehmen und Ichm verſprach von nun an alles zu fliehen was Ihm Schmerz
+          und Unehre macht.Hierauf bat ich meine Mutter um Vergebung deren ſie mich auch
+          versierte.</p>
+        <p>Aber auch dieſe Sinnedänderung hielt leider keine ſtarke Probe aus: denn der Spott meiner
+          Jugendgenoſſen welche mich nun die Heilige zu nennen pflege ten brachte mich dahin daß ich
+          verſuchte dem Heiland und der Welt zugleich zu dienen. Das war ein</p>
+        <fw>geplag-</fw>
+        <pb n="214"/>
+        <p>geplagtes Leben wobey mir aber völlig klar wurde daß der Heiland Fein getheiltes Herz
+          haben will. Ich faßte daher den Entſchluß mid Ihm ganz zum Eigenthum hinzugeben und
+          berfelbe wurde durch eine merkwürdige Erfahrung welche ich um dieſe Zeit machte gar ſehr
+          in mir beveſtigt. Ich hatte eine Botſchaft auszurichten und mein Weg ging über einen hoch
+          angeſchwollenen Bach. Als ich nun auf die Mitte des darüber gelegten Steges gekommen war
+          brach derſelbe unter meinen Füßen. Ich ſtürzte ins Waſſer und wurde vom Strom
+          fortgeriſſen. In dieſer Todesnoth ſchrie ich zum Heiland um Hülfe und verſprach Ihm ewig
+          treu zu ſeyn. Ich wurde an ein Geſiräuch getrieben blieb daran mit ven Kleidern hängen und
+          auf mein Rufen kam jemand zu meiner Stettung herbey. Meine Mutter erſchrak ſehr als ich
+          halbtodt zu ihr gebracht wurde gab mir aber gleich ein dienliches Arzneymittel; worauf ich
+          mich vom Schreck und faſt gänzlicher Erſtarrung bald erholte.</p>
+        <p>Seitdem konnte ich mich recht vertrauensvoll an den Heiland halten und ich wünſche nun je
+          eher je lieber zur Brüdergemeine zu gelangen. <s>Es wurde mir erlaubt fürs erſte nach
+              <placeName>Groß-Hennersdorf</placeName> in den <placeName>Catharinenhof</placeName> zu
+            ziehen.</s> In dieſem Hauſe bat ich den Heiland oftmals daß Er mich zur Brüder: gemeine
+          bringen wolle.<s>Er erhörte mein Gebet und ſchenkte nicht nur mir ſondern auch meiner
+            Mutter und meiner jüngſten Schweſter die Erlaubniß in <placeName>Herrnhut</placeName> zu
+            wohnen.</s>
+          <s>Der Tag an welchem dies geſchahe der <date>9te July 1789</date> war für mich ein großer
+            Freudens und Segens Tag und ich erneuerte an demſelben meinen Sinn nur Jeſu
+            nachzufolgen.</s></p>
+        <fw>Am</fw>
+        <pb n="215"/>
+        <p><s>Am <date>17ten November</date> zog ich in das Chorhaus der ledigen Schweſtern.</s>Wie
+          wichtig mir dieſer Einzug war kann ich mit Worten nicht beſchreiben. <s>Am <date>6ten
+              December</date> gedachten Jahres hatte ich die Gnade in die
+              <orgName>Brüdergemeine</orgName> aufgenommen zu werden und auch bey dieſer Gelegenheit
+            wie bey mehrern andern in der Folgezeit gelobte ich dem Heiland neue Treue und
+            Gehorſam.</s> Zwar gerieth ich eine Zeitlang in eine gefährliche Selbſtzufriedenheit und
+          Sorgloſigkeit; der treue Heiland leitete mich aber wieder auf die Erkenntniß meiner großen
+          Sündigkeit wodurch ich veranlaßt wurde feine.Hülfe und ſeinen Troſt mit Thränen des
+          Kummers zu ſuchen und mich dann veſter an Ihn anzuſchließen.</p>
+        <p><s>Im <date>Jahr 1805 den 9ten September</date> wurde ich mit dem ledigen Bruder
+              <persName>Johann Gottlieb Bonatz</persName> zur heiligen Ehe verbunden.</s>
+          <s>Zu Folge unſers Rufes dem Heiland bey der <orgName>Miſſion unter den
+              Hottentotten</orgName> zu dienen traten wir unſre Reiſe von
+              <placeName>Herrnhut</placeName> aus am <date>13ten September</date> an und gelangten
+            über <placeName>Copenhagen</placeName> nach einer ſechs monatlichen gefahrvollen
+            Seereiſe am <date>8ten Juny 1806</date> glücklich nach
+            <placeName>Gnadenthal</placeName>.</s></p>
+        <p>So weit geht die eigenhändige Nachricht der ſeligen Schweſter. Von Seiten ihres Mannes
+          wird folgendes hinzugefügt. <s>In unſerer funfzehnjährigen Ehe wurden wir mit 2 Söhnen und
+            3 Töchtern erfreut von welchen noch ein Sohn und eine Tochter am Leben ſind.</s> Als
+          eine treue Mutter pflegte ſie alle ihre Kinder mit großer Sorgfalt und es war ihr Freude
+          wenn ſie an ihnen Spuren des Gedeihens für den Heiland bemerkte. So wie ihr das ewige Wohl
+          unſrer Kinder nahe am Herzen lag eben ſo ſehr trug ſie auch in ihrem Theil</p>
+        <fw>Sorge</fw>
+        <pb n="216"/>
+        <p>Sorge für das Seelenheil ver Hottentotten und der Heiland ſegnete ihre Berufstreue zu
+          ihrer großen Beſchämung. Sie genoß einer guten Geſundheit bis ſie am </p>
+        <p>Am</p>
+        <p>Ihre Wallfahrt hat gewährt 44 Jahre und etwas über 4 Monat.</p>
+        <p>Am </p>
+      </div>
+    </body>
+  </text>
+</TEI>

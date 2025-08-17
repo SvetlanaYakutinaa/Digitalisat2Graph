@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
   <teiHeader>
     <fileDesc>
@@ -70,9 +70,7 @@
           Heimgang hat ihm nicht erlaubt, dieſen Vorſaß auszuführen, was wir um fo mehr bedauern, da
           dieſe Aufzeichnungen uns und Vielen gewiß zu großer Erbauung und Belehrung gereicht haben
           würden. Es kann nun nur Folgendes mitgetheilt werden, Unter ſeinen nachgelaſſenen Pa-
-          pieren befindet ſich ein Lebenslauf, den er <date>1832</date> vor ſeinem Eintritt ins
-            <orgName>Seminarium</orgName> niederſchrieb, und wir haben bis zu dieſem Zeitpunkt
-          wenigſtens eigene Aufzeichnungen über ſeinen Lebenögang. <s>Er ſchreibt in demſelben : Am
+          pieren befindet ſich ein Lebenslauf, den er <s>Er ſchreibt in demſelben : Am
               <date>erſten April 1813</date> erblickte ich in
               <placeName>Ebersödorf</placeName>, wo damals meine lieben Eltern die Pflege der
             auswärtigen Geſchwiſter in der Umgegend zu beſorgen hatten, das Licht der Welt, und
@@ -86,11 +84,7 @@
           eine ſchöne und herrliche Verheißung höchſt erfreulich, und ges reichte ihnen in Hinſicht
           auf mein künftiges Gedei- hen zu großem Troſt. ich hatte kaum das
           zweite Jahr zurückgelegt, als meine Eltern einen Ruf zur Bedienung der Societät in
-            <placeName>Zürich</placeName> erhielten. Sie nahmen mich mit an ihren neuen Wohnort, und
-          da mit ihrem Amte auch die Beſuche der im <persName>Canton Graubünten</persName> zerſtreut
-          wohnenden Geſchwiſter verbunden waren, ſo mußte ich das erſte Jahr
-          während ihrer Beſuchreiſen bei Züricher Geſchwiſtern bleiben; im nächſten konnte
-            ich fie begleiten. <s>Da es ſich aber bald an den Tag legte, wie
+            <s>Da es ſich aber bald an den Tag legte, wie
               ich meinen lieben Eltern auf ihren Reiſen doch ſehr hinderlich
             war, mußten ſie fich entſchließen, mich in eine Anſtalt abzugeben, und da
               ich meiner Jugend wegen in <placeName>Königsfeld</placeName>
@@ -118,9 +112,7 @@
           laſſen. So leitete Er mich immer mit väterlicher Hand, wie es zu meinem Beſten war, und
           wenn mir auch manche Schulen im Anfang ſchwer wurden, so half Er mir doch in Allem durch,
           wenn ich mich zu Ihm wendete, ſo daß ich einige
-          Fortſchritte machte, weswegen ich auch im <date>Jahre 1826</date> die
-          Erlaubniß erhielt, ſtudiren zu dürfen, was ich mir als eine
-          unverdiente Gnade hocchhſchäßte, und waß auch meinen lieben Eltern ſehr erfreulich war. </p>
+          Fortſchritte machte, weswegen ich auch im </p>
         <p>
           <s>Im <date>Auguſt deſſelben Jahres</date> trat ih denn in das
               <orgName>Pädagogium</orgName> ein mit dem Vorſatz, meine Zeit gut anzuwenden und
@@ -132,49 +124,13 @@
         </p>
         <pb n="331"/>
         <p>Ich lernte ſie von neuem kennen und lieben, und die zweite Trennung von ihnen wurde mir
-          recht ſchwer. Schon <date>im folgenden Jahre</date> indeſſen zogen ſie von
-            <placeName>Königsfeld</placeName> nach <placeName>Berthelsdorf</placeName> zur Bedienung
-          der dortigen <orgName>Societät</orgName>, was mir zu großer Freude gereichte und viel zu
-          meinem geiſtlichen und leiblichen Wohle veitrug, da ich nun alle
-          meine Schulferien bei ihnen verbrachte, und fie mich ſtets auf den alleinigen Nothhelfer
-          und Heiland der Sünder hinwieſen. In dem vertraulihen Herzensumgang mit dem Heiland bes
-          ſtärkte mich die Erneuerung meines Taufbundes, am <date>30 März 1828</date> und
-            ich faßte aufs neue den Entſchluß, Ihm, der auch mich mit Seinem
-          Blut erfauft, mein ganzes Herz hinzugeben und künftig nur für Ihn zu leben. In dieſer
-          Geſinnung nahte ih denn auch am nächſten Gründonnerſtag zum heiligen Abendmahl mit dem
-          Flehen zum Heiland, mich doc in diefer Stunde recht zu ſegnen und das Herz mit Seiner
-          Liebeöflamme zu entzünden, das mit es Ihm rein und unbefledt erhalten werden möge. Aber
-          wie ſchwach ſind wir Menſchen z auch die beſten Eindrückke und Vorſätze verwiſchen ſich fo
-          leicht, und wenn wir das Gute adh wollen, ſo finden wir doch das Vollbringen deſſelben
-          nicht! Bald gab ich neben dem Heiland auch der Sünde Raum in meinem
-          Herzen, das erwachende Werders ben fing aud in mir an ſie) allmählich zu ent- wideln, und
-            ich mußte mich fortwährend mit hei- ßem Gebet und Flehen an meinem
-          Heiland halten, So verbrachte ich die 4 erſten Jahre im Pädagogium
-          zwar manchmal etwas niedergeſchlagen, aber im </p>
+          recht ſchwer. Schon </p>
         <pb n="332"/>
         <p>Allgemeinen doh meiſt fröhlich und vergnügt, Was meine Schulen in dieſer Zeit betrifft,
           ſs lernte ich mit Luſt und Liebe das viele Neue, was fi) meinem
           Geiſte darbot, dod nahmen meine Schularbeiten, bei meinen geringen Fähigkeiten, meine Zeit
           faſt ganz in Anſpruch, fo daß mir nur wenig Zeit zu Privatftudien blieb, Seit meinem
-          Eintritt auf die erſte Stube des <orgName>Pädagogit</orgName> ward neben der äußeren
-          größeren Freiheit auch mein Geiſt freier und ſelbſtſtändiger. Mein ſchöner Beruf trat mir
-          immer klarer vor Augen, und ich fühlte oft im Geiſte ſchon die Seligkeit voraus, welche
-          man genießen müſſe bei der Gnade, des Heilands Tod zu verfündigen , und das uns ſelbſt aus
-          Gnaden widerfahrene Heil auch Andern anzupreiſen. Aber wie ſah ich
-          mich abgeſchreckt, wenn ich mir über legte, wie ſo ganz untauglich
-            ich dazu ſein würde, und wie weit ich hinter
-          den Anderen nachſtände, wenn Er mir nicht gnädig durchhülfe. ich nahm
-          mir darum feſt vor, meine legten Jahre hier recht gut anzuwenden, um es wenigſtens von
-          meiner Seite nicht daran fehlen zu laſſen, mich ſo viel wie möglich audzubilden, das
-          Andere aber Ihm zu überlaſſen. Jeßt lernte ich eigentlich erſt das Studium der
-          Wiſſenſchaften recht fhägen, während ich vorher mehr aus Gewohnheit,
-          und um nicht hinter Anderen zurückzubleiben, an meine Schuls arbeiten Fleiß und Mühe
-          gewendet hatte, In Hinſicht meines Herzensganges in dieſer Zeit blieb
-            ich ſtets im Umgang mit dem Heiland, Er erzeigte mir die hohe
-          Gnade, meine Bitte um Auf- nahme in den engeren Bund Seiner <orgName>Gemeine</orgName>
-          ſogleich zu gewähren, und ſo ward mir am <date>4 März </date>dies hohe Glüd zu Theil,
-            ich bat Ihn dabei um die Gnade, mich doch zu einem tauglichen
-          Zeugen. </p>
+          Eintritt auf die erſte Stube des </p>
         <pb n="333"/>
         <p>Seiner Verſöhnung heranzubilten. Mit dieſem Wunſch und heißem Flehen trete im denn auch
           aus dem Pädagogium aus und gehe meiner wei- teren Beſtimmung entgegen und will Ihm folgen,
@@ -218,9 +174,7 @@
             wohnten, und er dadurch Gelegenheit hatte, ſie mehrmals im Jahre zu beſuchen. </s> Bald
           wurde ihm auch der Wunſcchh erfüllt, in Kinderſtunden und Predigten Zeugniß von der Liebe
           Jeſu ablegen und die Sünder zum Heiland weiſen zu können. </p>
-        <p>Die erſten zwei Jahre in <placeName>Nisky</placeName> in der Anſtalt verbrachte er ſehr
-          vergnügt, die Thätigkeit als Lehrer und Erzieher war ihm lieb und wichtig, die Kinder
-          erwiederten feine Liebe, und mit feinen Col- </p>
+        <p>Die erſten zwei Jahre in </p>
         <pb n="335"/>
         <p>legen ſtand er in angenehmen freundſchaftlichen Verhältniſſen. Dieſes Leßtere änderte
           ſich zwar nicht, als er 1836 als Lehrer ins Pädagogium eintrat, aber theils traf ex unter
@@ -229,10 +183,7 @@
           haltenden Schulen an ſich ſo hocch, daß durch die zu angeſtrengte Arbeit ſeine Geſundheit
           litt, fo daß er zu fränkeln anfing. Beſonders quälte ihn ein häufig wiederkehrendes
           Kopfweh, was er nie wieder völlig verlor, denn es kehrte, trog aller dagegen angewendeten
-          Mittel, oftmals wieder. Im <date>Jahre 1838</date> ging ſein Vater in
-            <placeName>Herrnhuf</placeName> heim: er hatte mit zärtlicher Liebe an ihm gehangen, und
-          als ſeine Mutter nun nach <placeName>Nisky</placeName> zog, um ihm näher zu fein, widmete
-          er ihr gern alle Zeit, die er von Schule und Arbeit- ſtunden erübrigen konnte. </p>
+          Mittel, oftmals wieder. Im </p>
         <p><s>Im <date>Jahr 1840</date> erhielt er einen Ruf als Brüderpfleger und Mitprediger in
               <placeName>Neuſalz</placeName>, und da <persName>Bruder Kohlmeister</persName>,
             welcher die Diaspora in der dortigen Umgegend zu bedienen hakte, bei ſeinem hohen Alter
@@ -243,26 +194,18 @@
             zunehmender Kränklichkeit, wieder ſehr vergnügt, und zog nach
               <placeName>Neuſalz</placeName> und wurde am <date>5 Mai</date> zu einem Diaconus der
             Brüderficche durch <persName>Bruder Cürie</persName> ordinirt.</s> Schon im
-            <date>Juni</date> hatte er ſeine Beſuchreiſen zu bes ginnen; er fand bei dieſem Theile
-          feiner Amtsthätigkeit viel Segen für das eigene Herz, und da ſich </p>
+            </p>
         <fw>1869, 4, 22. </fw>
         <pb n="336"/>
         <p>der Heiland mit Seinem Segen dazu befannte, war fie ihm beſonders lieb und wichtig. Das
-          Jahr <date>1842</date>, in welchem er viele Reiſen machte, war ihm ein beſonderes
-          geſegnetes. Daß er mit den Predigern in allen den Orten, wo er
-            <orgName>Diaspora-Geſchwiſter</orgName> beſuchte, auf einem freundlichen Fuße ſtehn
-          konnte, obſchon manche dieſe Verbindung eigentlich nicht gern ſahen, war ihm ſehr
-          dankenswerth. Auch nochh hierher nach <placeName>Afrika</placeName> erhielt er manchen
-          herlichen Gruß von ſeinen ihm ſo lieben <orgName>Diaspora-Geſchwiſtern</orgName>, an
-          welche er immer ſehr anhänglich blieb, ſie mit treuer Liebe auf dem Herzen trug und ihrer
-          vor dem Herrn gedachte. <s>Die Orte, wo er am häufigſten beſuchte,
+          Jahr <s>Die Orte, wo er am häufigſten beſuchte,
             waren: <placeName>Grünberg</placeName>, <placeName>Sagan</placeName>,
               <placeName>Sſchirnau</placeName> , <placeName>Glogau</placeName>,
               <placeName>Liſſa</placeName>, <placeName>Frauſtadt</placeName> und
               <placeName>Bojanowo</placeName>.</s>
         </p>
         <p>Auch in feinem kleinen Brüderchore von 36 ledigen Brüdern war er mit Treue thätig und
-          hatte die Freude, daß ſich <date>1844</date> ein kleiner Betewetein in demſelben bildete. </p>
+          hatte die Freude, daß ſich </p>
         <p><s>In demſelben Jahre erhielt er einen Ruf zum Miſſionsdienſt in
               <placeName>Süd-Afrika</placeName>; davon ſchrieb er: „Ich habe dieſen Ruf als aus des
             Herrn Hand angenommen.</s> Es wird mir ſchwer, Alles zu verlaſſen, und beſonders die
@@ -286,8 +229,7 @@
           mich beſonders durch dieſes neue immer mehr zu ſich ziehen will. Aber freilich muß ih Ihn
           nicht nur um ein größeres Maaß des Geiſtes bitten, ſondern bedarf auch gar ſehr der
           Stärkung meiner Geſundheit. Dies Iehtere beunzuhigt mich oft, wenn
-            ich an die Reiſe und an <placeName>Aſrika</placeName> denke; daß
-          unſer lieber Heiland auch in dieſem Stück meinen Kleinglauben befhämte!‘’ </p>
+            ich an die Reiſe und an </p>
         <p>
           <s>Schon vor der Abreiſe nach <placeName>England</placeName> war er
             mit der ledigen Schweſter <persName>Sophie Erneſtine Krüger</persName> zur heiligen Ehe
@@ -335,20 +277,7 @@
         <p>geſegnet. Es war ihm Gnade, das Work des Les bens zu verfündigen und die Sünder
           aufzufordern, zum Heiland zu kommen, und bei Ihm durcch den Glauben Gnade und Vergebung zu
           finden. Dabei hatte er es ſiM bald zur Pfliht gemacßt und that es je länger je mehr, in
-          unſrer großen <persName>Gemeine von 3000 Seelen Geſunde</persName> und Kranke fleißig zu
-          befuchen, um fie auch in ihren Häuſern zum Heiland hinzuweiſen und ſie zu tröſten oder zu
-          er- mahnen, je nach dem Bedürfniß eines Jeden. Dieſe Beſuche , die er täglich machte, da
-          er alle Zeit, welche ihm von Schulen und Amtögefhäften übrig blieb, darauf wendete, waren
-          ihm ſelbſt zum Segen und zur Aufmunterung. Sie ſind es ja überhaupt, wodurdy wir am
-          meiſten erfahren, ob das Predigen und Lehren Frucht ſchafft, und wels chhes eigentlich der
-          geiſtliche Zuſtand der Gemeine iſt, welche ihre geiſtlichen Bedürfniſſe ſind. Von dem
-          Segen, den die Beſuche des ſeligen Bruders geſtif- tet haben, vernahmen wir nach ſeinem
-          Heimgang nody mand)es erfreuliche Zeugniß, noch viel mehr wird einſt in der Ewigkeit
-          offenbar werden, Sehr ſchmerzlich war es ihm, daß er in der leßten Zeit feines Lebens
-          durch zunehmende Schwäche verhin» dert wurde, dieſe Beſuche, wie er es ſo gern gethan
-          hätte, fortzufegen, und ſiM nur darauf beſchränkt ſah, die Kranken dem Heiland um ſo
-          angelegent= ‚ Ücher im Gebet vorzutragen, — Mit ſeiner Frau hat er 13 Jahre in einer
-          vergnügten Ehe gelebt. <s>sie wurden am <date>16 Mai 1848</date>
+          unſrer großen <s>sie wurden am <date>16 Mai 1848</date>
             durch die Geburt ihrer erſten Tochter <persName>Maria Auguſte</persName> erfreut, dann
             über folgten mancherlei ſchwere Erfahrungen durch Kränklichkeit und beſonders, da der
             Herr 6 Kindlein fogleih bei ihrer Geburt in Sein himmliſches Reich verſehte.</s> Bei
@@ -363,15 +292,7 @@
               <date>4 Juni 1854</date> zu einem Preöbyter der <orgName>Brüderkirche</orgName>
             ordinirt und weihte ſich bei dieſer Gelegenheit nach Geiſt, Seel und Leib aufs neue dem
             Heiland zu feinem Dienſt. </s></p>
-        <p>„Das Jahr <date>1856</date>“ ſchreibt er am Ende deſſelben, „„war ein beſonders ſchweres
-          für mich, da Krankheit immer mehr meinen Geiſt darnieder beugte , und auch der Schluß
-          deſſelben bietet keine erfreulichen Ausſichten für meine Zukunft. Doch das Traurigſte iſt,
-          daß ih mich nod immer fo wenig in die Wege des Herrn ergeben fühle und beim Gedanken, daß
-          meine jeßige Krankheit mein frühes Ende herbeiführen könne, mich noch nicht dazu
-          vorbereitet und nicht Freudigkeit dazu fühle, D lieber Heiland, gehe nicht ins Gericht mit
-          Deie nem armen Kind und Knecht, ſondern entzünde nod vorher mein Herz mit der lebendigen
-          Glaus bens- und Liebesflamme zu Dir! Stärke doch auch in Gnaden meine ljebe Frau, und
-          erhalte uns unſre Marie, das iſt meine Bitte!“. </p>
+        <p>„Das Jahr </p>
         <p>Seine Geſundheit, die, feit er hier war, nie feſt 'geweſen war, fing, wie wir es oben von
           ihm ſelbſt ausgeſprochen finden, ſeit 2 Jahren auf eine Bes forgniß erregende Weiſe zu
           wanken an. <s>Von einer Reiſe nach <placeName>Mamre</placeName>, um <persName>Geſchwiſter

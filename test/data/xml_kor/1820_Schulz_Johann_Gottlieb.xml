@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
   <teiHeader>
     <fileDesc>
@@ -210,14 +210,7 @@
             der Societät in <placeName>Görliß</placeName> ohne Cheu.</s></p>
         <fw>lungen</fw>
         <pb n="818"/>
-        <p> Wie oft ich bey wiederholten Beſuchen in <placeName>Herrnhut</placeName> die Nähe des
-          barmherzigen Hohenpriefterd Jeſu Ehriſti z.B.bey einem Abendmahle als Gaſt und bey
-          Vorleſung des hohenpriefterlichen Gebets auch in den Verſammlungen der Societät in
-            <placeName>Görlig</placeName> in meinem Herzen als ein Mühſeliger und Beladener innigſt
-          gesfühlt habe; wie Er mich wenn ich bisweilen noch ſtrauchelte nicht fallen ließ ſondern
-          auf mein Bekenntniß: An Dir allein habe ich gefündiget” immer wieder aufrichtete will ich
-          nicht erſt in Worte faſſen ſondern in der Stille zu offkmaliger Erinnerung dieſer
-          Gnadenheimſuchungen in meiner armen Seele verwahren.</p>
+        <p> Wie oft ich bey wiederholten Beſuchen in </p>
         <p>Mit dankbarem Herzen werde ich auch nie vergeffen daß ich die theuern Männer Gottes
           Spangenberg Clemens Layriz und Lieberkühn habe kennen gelernt.Legterer half mir einmal aus
           der Verwirrung da ſich die Vernunft bey mir in Herzensſachen mengen wollte heraus; welches
@@ -225,7 +218,7 @@
               <persName>Spangenberg</persName> als er Provinzialhelfer der Dherlaufigifchen Gemeinen
             war kam ich in eine ers freuliche Herzens Verbindung und als er wieder in
               <placeName>Barby</placeName> war in einen Briefwechſel.</s> Ein von ihm erhaltenes
-          Schreiben ſah ich als einen Ruf an in <placeName>Barby</placeName> zu beſuchen. <s>Daher
+          Schreiben ſah ich als einen Ruf an in <s>Daher
             reiſte ich mit dem Bruder <persName>Baumeiſter</persName> der damals als Prediger in
               <placeName>Taubenheim</placeName> im Amte ſtand im Jahr <date>1777</date> dahin.</s>
           <s>Ich legte den ſämmtlichen Brüdern der Unitäts-Aelteſten-Conferenz meinen Sinn dar ein
@@ -242,9 +235,7 @@
           das ewige Leben ererbet. Matth 19 29 Der Heiland erquicke ihn dafür vor Seinem Thron.</p>
         <p><s>Im Jahr <date>1779</date> machte ich eine Reiſe nach <placeName>Gnas</placeName>
             denfrey</s> Beym Abſchied daſelbſt den ich mit dem ſeligen Bruder
-            <persName>Layriz</persName> machte gab er mir die Worte mit auf den Weg: Wer ſein Leben
-          erhalten will der wirds verlieren z wer es aber um meinetwillen verlieret der wirds finden
-          Dieſe Worte fuhren mir durchs Herz. <s>Als ich wieder in <placeName>Görlig</placeName>
+            <s>Als ich wieder in <placeName>Görlig</placeName>
             angekommen war hielt ich ſchriftlich bey der <orgName> Unitäts Aelteſten
               Conferenz</orgName> um die Erlaubniß zur Gemeine an und ſchlug
               <placeName>Niesky</placeName> dazu vor.</s>
@@ -252,14 +243,14 @@
             Niesky.</s> Ich legte hierauf mein bisher gegen 16 Jahre verwaltetes Amt bey dem
           Magiſtrat nieder verkaufte mein Haus um einen leichten Preis und machte mich von allem bis
           auf die zu meiner künftigen Beſtimmung nöthige Geräthſchaft und Hausrath los.Meine
-          Schweſter die auch in <placeName>Niesky</placeName> um Erlaubniß zur</p>
+          Schweſter die auch in </p>
         <fw>Gemeine</fw>
         <pb n="820"/>
         <p>Gemeine angeſucht und dieſelbe erhalten hatte that das nemlihe Nachdem ich meine vielen
           Adminiſtra tions Rechnungen zur Reviſion an die Behörde eingereiht hatte; ſo gingen wir
           beyde aus unſrer Vaterſtadt und Freundſchaft froh und dankbar für alle bisher von unſerm
           lieben Herrn erfahrne Gnade Durchhülfe und Leitung am 26ſten December deſſelben Jahres aus
-          und langten in unſerm lieben <placeName>Niesky</placeName> an.</p>
+          und langten in unſerm lieben </p>
         <p><s>Ich gewohnte im Brüderhauſe bald ein, bekam den Auftrag im
               <orgName>Pädagogio</orgName> und in der Knäbchen Anſtalt alle Tage einige Stunden in
             der Baukunſt und in Handzeichnungen Unterricht zu geben; an welche Zeit ich noch mit
@@ -308,18 +299,11 @@
           meinen Geiſt hilf mir ſelig vollenden ſo wies Dein Wort verheißt. Du wollſt den nicht
           beſchämen der Dein bedürftig iſt und ihn einſt dahin nehmen wo Du o Jeiu biſt Mein Körper
           mag indeſſen im ſtillen Grabe ruhnz Du wirſt ihn nicht vergeſſen nichts darf ihm Schaden
-          thun: Denn Herr durch >Dein Begraben und ſiegreich Auferſteh" n ſoll ich ihn wieder haben
+          thun: Denn Herr durch &gt;Dein Begraben und ſiegreich Auferſteh" n ſoll ich ihn wieder haben
           und Dich dann leiblich ſehn.</p>
         <p>So weit er ſelbſt.</p>
         <p>Die frohe Hoffnung Jeſum zu ſehn und zu Ihm zu gehen mit welcher unſer ſeliger Bruder
-          ſeine eigenhändige Nachricht im <date>Jahr 1810</date> beſchloß begleitete ihn als
-          Troſtwort durch die noch übrigen Zeiten ſeiner Wallfahrt und ſprach ſich immer herrlicher
-          aus je näher er dem Ziele derſelben entgegenrüdte.Sie war ihm ein vorzüglich angenehmer
-          Gegenſtand feiner Betrachtungen und freundſchaftlichen Unterhaltungen. Jemehr er die
-          Abnahme ſeiner Kräfte ſpürte welche ihm ein beſchwerlicher jedoch ſchmerzloſer Huſten nach
-          und nach erſchöpftez je inniger ſehnte er ſich nach der Heimath wo Schwachheit und Verdruß
-          abgethan iſt. Mit mancherley Kenntniſſen und KunſtTalenten ausgerüſtet hatte er die
-          früheren Jahre feiner Ruhezeit für</p>
+          ſeine eigenhändige Nachricht im </p>
         <fw>ſich</fw>
         <pb n="823"/>
         <p>fich und andere nüglich angewendet und feine Neigung andern zu dienen und Freude zu

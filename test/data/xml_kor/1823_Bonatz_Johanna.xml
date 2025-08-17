@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
   <teiHeader>
     <fileDesc>
@@ -69,11 +69,7 @@
               <placeName>Spree</placeName> unweit <placeName>Niesky</placeName> geboren wo mein
             Vater Krämer war.</s> Meinen Eltern welche erwedt waren lag es an ihre fünf Kinder ſo
           ſorgfältig als möglich zu erziehen; ſie beſuchten fo oft ſichs thun ließ die Gemein
-          Verſammlungen in <placeName>Niesky</placeName> erzählten uns viel Schönes von der
-          Brüdergemeine und prieſen diejenigen glüclich die fich dem Heiland ganz ergeben und nur
-          für Ihn in der Welt leben wollen.Was ſie uns gelegentlich von der Sittſamkeit der daſigen
-          Kinder von ihrem Gehorſam ihrem Fleiße und von ihrer zärtlichen Liebe zum Heiland ſagten
-          alles das machte be.</p>
+          Verſammlungen in </p>
         <fw>ſon-</fw>
         <pb n="212"/>
         <p>sondere Eindrücke auf uns und erregte in uns das lebe hafte Verlangen auch fo gut zu
@@ -90,12 +86,7 @@
           auf den Gedanken der Vater ſey uns darum entriſsen worden weil wir Kinder dieſes gewünſcht
           hatten. Ich weinte Tage lang faſt unaufhörlich meine Mutter redete mir zu, aber vergeblich
           da ich ihr den eigentlichen Grund meiner Troſtloſigkeit nicht darlegen wollte um ſie nicht
-          zu betrüben. Ein älterer Bruder wohnte damals in <placeName>Nieskyz</placeName> als er uns
-          nun besuchte, ſchüttete ich mein bekümmertes Herz vor ihm aus. Er verſicherte mich der
-          Heiland werde mir gern alles vergeben und fügte hinzu, ich möchte nicht bey jenem Gedanken
-          ſtehen bleiben; ſondern mir nur angelegen ſeyn laſſen von nun an gegen den Heiland und
-          unſre Mutter Gehorſam zu beweiſen. Als nicht lange darauf auch eine meiner Schweſtern an
-          den Blat-</p>
+          zu betrüben. Ein älterer Bruder wohnte damals in </p>
         <fw>tern.</fw>
         <pb n="213"/>
         <p>tern aus der Zeit ging wurde mein Inneres aufs neue tief erſchüttert und ich beſchloß nun
@@ -168,26 +159,10 @@
         <fw>Sorge</fw>
         <pb n="216"/>
         <p>Sorge für das Seelenheil ver Hottentotten und der Heiland ſegnete ihre Berufstreue zu
-          ihrer großen Beſchämung. Sie genoß einer guten Geſundheit bis ſie am <date>2ten October
-            1819</date> von so heftigen Bruſtbeklemmungen befallen wurde daß ſie kaum athmen konnte;
-          doch erholte fie ſich nach einer Adertäſſe bald wieder. Da ſich aber von Zeit zu Zeit
-          ähnliche Zufälle wieder einſtellten und noch andere Uebel dazu geſellten wurde ſie ſo
-          entkräftet daß ſie nur ſelten die Verſammlungen beſuchen konnte. Die Hoffnung zu ihrer
-          Wiedergeneſung ſchwand immer mehr; am <date>13ten Auguſt 1820</date> beſtellte ſie
-          gleichſam ihr Haus redete über alles was ihr am Herzen lag mit mir aus und genoß mit mir
-          das heilige Abendmahl auf ihrer Krankenſtube. Nach einigen Tagen wurde fie ſo ſchwach daß
-          fienicht mehr außer dem Bette ſeyn konnte. Ganz mit dem Gemüth auf ihren Heimgang
-          gerichtet wünſchte ſie nichts mehr als daß der Heiland bald kommen und ſie zu ſich nehmen
-          möchte; auch forderte ſie mich ſeibſt auf um die Verkürzung ihrer Leidenstage zu
-          ſtehen.</p>
-        <p>Am<date> 12ten September</date> verlor ſie die Sprache und da um Mitternacht ihr Ende
-          nicht mehr fern zu ſeyn ſchien ertheilte ich ihr in Beyſeyn unſrer Mitarbeiter und nach
-          einem mit Wehmuth begleiteten Gebet den Segen des Herrn zu ihrer Heimfahrt welche denn am
-            <date>13ten</date> früh erfolgte.</p>
+          ihrer großen Beſchämung. Sie genoß einer guten Geſundheit bis ſie am </p>
+        <p>Am</p>
         <p>Ihre Wallfahrt hat gewährt 44 Jahre und etwas über 4 Monat.</p>
-        <p>Am <date>15ten September</date> wurde ihre entſeelte Hütte zu ihrer Ruheſtätte gebracht
-          unter Begleitung eines zahlreichen Gefolges unſrer Hottentotten-Geſchwiſter in deren
-          Liebesandenken die Selige noch lange fortleben wird.</p>
+        <p>Am </p>
       </div>
     </body>
   </text>

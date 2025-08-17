@@ -1,0 +1,380 @@
+Genadendal
+Mamre
+Elim
+Wupperthal
+Enon
+Clarkson
+Elukhanyisweni
+Pella
+Kapstadt
+London
+Liverpool
+Bristol
+Hull
+Newcastle upon Tyne
+Southampton
+Plymouth
+Portsmouth
+Great Yarmouth
+Whitby
+Exeter
+Chatham
+Sheerness
+Dover
+Devonport
+Grimsby
+Fleetwood
+Scarborough
+Lowestoft
+Kingston upon Hull
+Deal
+Falmouth
+Tynemouth
+Yarmouth
+Lynn
+Ramsgate
+Dartmouth
+Bideford
+Mersey
+Wirral
+Harwich
+Isle of Wight
+King's Lynn
+Topsham
+Johannesburg
+Kapstadt
+Durban
+Pretoria
+Bloemfontein
+Port Elizabeth
+Stellenbosch
+George
+Nelspruit
+Kimberley
+Polokwane
+East London
+Pietermaritzburg
+Mthatha
+Mbombela
+Centurion
+Rustenburg
+Vereeniging
+Worcester
+Upington
+Paarl
+Bellville
+Klerksdorp
+Kuruman
+Oudtshoorn
+Knysna
+Richmond
+Oudtshoorn
+Beaufort West
+Gqeberha
+Hoedspruit
+Port Shepstone
+Saldanha
+George
+Tzaneen
+Emalahleni
+Vanderbijlpark
+Ceres
+Malmesbury
+Lydenburg
+Mount Edgecombe
+Queenstown
+Graaff-Reinet
+Caledon
+Harrismith
+Middelburg
+Kokstad
+Butterworth
+Gansbaai
+Barrydale
+De Aar
+Upington
+Pretoria North
+Stellenbosch
+Rustenburg
+Jacobsdal
+Steynsburg
+Scottburgh
+Thohoyandou
+Phalaborwa
+Aggeneys
+Windhoek
+Sabie
+Langebaan
+Boksburg
+Germiston
+Bloemhof
+Parys
+Modimolle
+Mookgophong
+Louis Trichardt
+Zastron
+Cradock
+Bethulie
+Doornpoort
+Malelane
+Cape St. Francis
+Hazyview
+Nieu-Bethesda
+Knysna
+Makhado
+Kalk Bay
+Ockert Park
+Port Alfred
+Albertinia
+Grootfontein
+Steinkopf
+Douglas
+Graaff-Reinet
+Hillcrest
+Touws River
+Vryburg
+Pretoria East
+Wolseley
+Sophiatown
+Modderfontein
+Groblersdal
+Hennenman
+Vredenburg
+New Castle
+Uitenhage
+Worcester
+Addo
+Albertinia
+Alexandria
+Aliwal North
+Arcadia
+Ashburton
+Bathurst
+Beaufort West
+Bellville
+Bredasdorp
+Bronkhorstspruit
+Calvinia
+Cape Town
+Colesberg
+Cradock
+Cullinan
+Delmas
+Deneysville
+Dullstroom
+East Rand
+Edenvale
+Elands Bay
+Ficksburg
+Ga-Rankuwa
+Grabouw
+Grotto Bay
+Groblersdal
+Guguletu
+Hazyview
+Heidelberg
+Herbertsdale
+Hermon
+Himeville
+Honeydew
+Hotazel
+Hougaard
+Inverroche
+Jacobsdal
+Jansenville
+Johannesburg South
+Kalk Bay
+Kamieskroon
+Kenilworth
+Klerksdorp
+Kleinbaai
+Knysna
+Komga
+Ladismith
+Lichtenburg
+Limpopo
+Lydenburg
+Malmesbury
+Mamelodi
+Makhado
+Mankweng
+Manenberg
+Margate
+Melkbosstrand
+Montagu
+Mossel Bay
+Mossel Bay
+Mount Road
+Mthatha
+Nelspruit
+Nieu-Bethesda
+Newlands
+Nyanga
+Olifantsfontein
+Paarl
+Parktown
+Port Elizabeth
+Port Shepstone
+Pretoria West
+Prince Albert
+Queenstown
+Randburg
+Rawsonville
+Robertson
+Roodepoort
+Rustenburg
+Saldanha Bay
+Salt Rock
+Sandton
+Sea Point
+Sekhukhune
+Senekal
+Sedgefield
+Somerset West
+Southbroom
+Stellenbosch
+Steytlerville
+Struisbaai
+Tembisa
+Thohoyandou
+Tongaat
+Tswhane
+Tzaneen
+Vanderbijlpark
+Victoria West
+Vryheid
+Wellington
+Windhoek
+Worcester
+Zeerust
+Zululand
+Zastron
+Uitenhage
+Upington
+Touws River
+Vredenburg
+Warrenton
+Upington
+Stutterheim
+Springbok
+Sophiatown
+Simon’s Town
+Rustenburg
+Rosebank
+Pretoria North
+Paarl
+Nelspruit
+New Castle
+Middelburg
+Malmesbury
+Lenasia
+Kommetjie
+Kempton Park
+Kariega
+Kalk Bay
+Kimbereley
+King William's Town
+Knysna
+Klerksdorp
+Kroonstad
+Kuruman
+Laingsburg
+Lichtenburg
+Lephalale
+Louis Trichardt
+Lydenburg
+Maitland
+Makhado
+Mamelodi
+Manenberg
+Mthatha
+Mount Edgecombe
+Muldersdrift
+Nigel
+Phalaborwa
+Plettenberg Bay
+Polokwane
+Port Alfred
+Queenstown
+Randfontein
+Reitz
+Roodepoort
+Rustenburg
+Saldanha
+Sasolburg
+Secunda
+Springs
+Stellenbosch
+Steynsburg
+Stilbaai
+Tembisa
+Thaba Nchu
+Thohoyandou
+Vaalwater
+Vryburg
+Westonaria
+Witbank
+Witklip
+Witrivier
+Woodstock
+Zwide
+Zululand
+Zastron
+Zeerust
+Bristol
+Liverpool
+London
+Hull
+Portsmouth
+Plymouth
+Southampton
+Exeter
+Chatham
+Grimsby
+Newcastle upon Tyne
+Scarborough
+Tynemouth
+Harwich
+Whitby
+Weymouth
+Dover
+Ipswich
+Falmouth
+Bideford
+Deal
+Margate
+Yarmouth
+Isle of Wight
+Merser
+Wirral
+Fleetswood
+Lowestoft
+King’s Lynn
+Woolwich
+Ramsgate
+Sheerness
+Portsmouth Dockyard
+Newlyn
+Dartmouth
+Sandwich
+Bournemouth
+Lerwick
+Shetland Islands
+Stornoway
+Hebrides
+Cork
+Dundee
+Aberdeen
+Greenock
+Wick
+Penzance
+Lymington
+Poole
+Arbroath
+Yarmouth
+Norfolk
+Barrow-in-Furness
+Bournemouth
+Bristol Channel Ports 
+Cardiff
+Swansea

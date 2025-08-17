@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="TEI">
+      <attribute name="version">
+        <data type="NMTOKEN"/>
+      </attribute>
+      <element name="teiHeader">
+        <element name="fileDesc">
+          <ref name="titleStmt"/>
+          <ref name="publicationStmt"/>
+          <element name="sourceDesc">
+            <element name="bibl">
+              <attribute name="type">
+                <data type="NCName"/>
+              </attribute>
+              <text/>
+            </element>
+            <element name="biblFull">
+              <ref name="titleStmt"/>
+              <element name="editionStmt">
+                <element name="edition">
+                  <text/>
+                </element>
+              </element>
+              <ref name="publicationStmt"/>
+              <element name="seriesStmt">
+                <ref name="title"/>
+                <oneOrMore>
+                  <element name="biblScope">
+                    <attribute name="unit">
+                      <data type="NCName"/>
+                    </attribute>
+                    <text/>
+                  </element>
+                </oneOrMore>
+              </element>
+              <element name="notesStmt">
+                <element name="note">
+                  <attribute name="type">
+                    <data type="NCName"/>
+                  </attribute>
+                  <text/>
+                </element>
+              </element>
+            </element>
+            <element name="msDesc">
+              <element name="msIdentifier">
+                <element name="repository">
+                  <text/>
+                </element>
+                <ref name="idno"/>
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+      <element name="text">
+        <element name="body">
+          <element name="div">
+            <oneOrMore>
+              <choice>
+                <ref name="p"/>
+                <element name="fw">
+                  <text/>
+                </element>
+                <element name="head">
+                  <oneOrMore>
+                    <choice>
+                      <text/>
+                      <ref name="date"/>
+                      <ref name="persName"/>
+                      <ref name="orgName"/>
+                      <ref name="placeName"/>
+                    </choice>
+                  </oneOrMore>
+                </element>
+                <element name="pb">
+                  <attribute name="n">
+                    <data type="integer"/>
+                  </attribute>
+                </element>
+              </choice>
+            </oneOrMore>
+          </element>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="titleStmt">
+    <element name="titleStmt">
+      <ref name="title"/>
+      <element name="author">
+        <text/>
+      </element>
+      <optional>
+        <element name="respStmt">
+          <element name="resp">
+            <text/>
+          </element>
+          <element name="name">
+            <text/>
+          </element>
+        </element>
+      </optional>
+    </element>
+  </define>
+  <define name="publicationStmt">
+    <element name="publicationStmt">
+      <element name="publisher">
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="orgName"/>
+          </choice>
+        </oneOrMore>
+      </element>
+      <optional>
+        <element name="pubPlace">
+          <text/>
+        </element>
+        <element name="availability">
+          <ref name="p"/>
+        </element>
+        <ref name="date"/>
+        <element name="ref">
+          <data type="anyURI"/>
+        </element>
+      </optional>
+    </element>
+  </define>
+  <define name="title">
+    <element name="title">
+      <optional>
+        <attribute name="level">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  <define name="idno">
+    <element name="idno">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="idno"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="p">
+    <element name="p">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="orgName"/>
+          <element name="s">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="date"/>
+                <ref name="orgName"/>
+                <ref name="persName"/>
+                <ref name="placeName"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="placeName">
+    <element name="placeName">
+      <data type="string"/>
+    </element>
+  </define>
+  <define name="persName">
+    <element name="persName">
+      <text/>
+    </element>
+  </define>
+  <define name="date">
+    <element name="date">
+      <text/>
+    </element>
+  </define>
+  <define name="orgName">
+    <element name="orgName">
+      <text/>
+    </element>
+  </define>
+</grammar>

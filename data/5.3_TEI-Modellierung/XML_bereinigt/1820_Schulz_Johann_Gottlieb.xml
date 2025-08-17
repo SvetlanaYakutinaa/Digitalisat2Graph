@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lebenslauf des am 25ſten Februar 1819 in Niesky heimgegangenen verwitweten Bruders
+          Johann Gottfried Schulz</title>
+        <author>Schulz Johann Gottfried</author>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <date>1820</date>
+        <ref>https://collections.mun.ca/digital/collection/nachrichten/id/23017/rec/11</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <biblScope unit="issue">1820</biblScope>
+            <biblScope unit="page">811-824</biblScope>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="811"/>
+        <head>Lebenslauf des am <date>25ſten Februar 1819</date> in <placeName>Niesky</placeName>
+          heimgegangenen verwitweten Bruders <persName>Johann Gottfried Schulz</persName>. </head>
+        <p>Er hat folgende eigenhändige Nachricht von ſich hinterlafien:.</p>
+        <p>Wenn ich am Ende meiner irdiſchen Laufbahn meis nen Gang durch dieſe Zeit im Lichte des
+          Geiſtes Gottes überdenfe; fo muß ich mit Schaam und Beugung ausrufen: Herr was iſt der
+          Menſch daß Du fein gedenkeſt und des Menſchen Kind daß Du Dich ſein annimmft?” Ah da ich
+          noch nicht geboren war da biſt Du mir geboren und haſt mich Dir zu eigen gar eh’ ich Dich
+          kannt" erkoren Lob Preis Ehre und Macht ſey Gott unſerm Herrn Hallelujah.</p>
+        <p><s>Ich bin zu <placeName>Görlig</placeName> den <date>4ten April 1734</date> geboren.</s>
+          <s>
+            Mein Vater war <persName>Johann Chriſtoph Schulz</persName>
+            Lehrer am daſigen Gymnaſium und meine Mutter
+            <persName>Chriſtiane Dorothee Hellwig</persName>.</s> Mein Vater hielt alle Abende mit
+          uns Kindern und den an.dern Hausgenoſſen eine Betſtunde in welcher befone ders in der
+          AdventsWeihnachtsund Paſſionszeit die alten kernhaften und der Bibelſprache angemeſſenen
+          Lieder manchmal einen Eindrucd auf mich machten den ich aber damals nicht verſtand und der
+          mir erſt in der Volge recht gejegnet und bleibend geworden iſt. Das</p>
+        <fw>Hhh 2 damit.</fw>
+        <pb n="812"/>
+        <p>damit verbundene Lefen der heiligen Schrift alten und neuen Teſtaments flößte mir
+          Ehrfurcht für dieſes heilige Buch als Gottes Wort ein welches mir denn auch in meinen
+          reifern Jahren gar oft Troſt Warnung und Unterricht zu meiner Erbauung verſchafft hat.In
+          meinen Kinderjahren bat ich manchmal den lieben Gott Gr möchte mich doch nicht.ſterben
+          laſſen ehe ich mit zum heiligen Abendmahl gegangen wäre Das that ich in Einfalt ob ich
+          gleich nicht verſtand was in dieſem hohen: Gute für Schäße der Gnade uns armen Menſchen
+          bereitet find.Als ich einmal an einem Charfreytage mit meiner Mutter welche durch die
+          Predigten des eifrigen Magiſter Schäfer und des ſanften und liebhabenden Magiſter Kramſd
+          erwedt worden in der Stube alleine war und fie weinen fahe; fo fragte ich fie warum fie
+          denn weine? Ach antwortete fie darauf ſollte ich nicht weinen mein Kind da der Herr Jeſus
+          fo viel um unfertwillen hat ausſtehen und leiden müſſen Ic ward darauf ſtill und fragte
+          nicht weiter.</p>
+        <p>Mein Vater nahm mich zeitig mit in ſeine Lehrſtunden die er zu halten hatte und
+          präparirte mich auch nebſt ſeinen andern Schülern bey reifern Jahren zum heiligen
+          Abendmahl.( Oeffentliche Confirmationen waren im Gymnaſio nicht eingeführt.) Seine
+          ernftlichen Ermahnungen das heilige Abendmahl nicht unwürdig zu genießen machten daß ich
+          beym erfſtmaligen Hinzunahen zum Tiſch des Herrn mit Ehrfurcht nnd Zittern hinzuging z
+          welches auch in der Folge</p>
+        <fw>mehr-</fw>
+        <pb n="813"/>
+        <p>mehrmals geſchah Ah daß ich Dich fo ſpät er: fennet Du hochgelobte Schönheit Du.</p>
+        <p>Ich ging denn in den folgenden Jahren alle Glaffen des Gymnafii duch.<s>Im Jahr
+              <date>1751</date> machte ich mit einem meiner Schulfameraden aus Schlefien eine Reiſe
+            in feine Heimath.</s> Auf derſelben bekam ich den erſten Gemeinort zu ſehen Dies war
+          Neufalz ehe derſelbe noch von den Ruſſen war verbrannt worden. Ich wohnte einem Vortrag
+          auf dem Saale bey welcher mir Reſpect für die Brüdergemeine einflößte ſo daß ich weiter
+          nicht auf die zu der Zeit gewöhnlichen Läſterungen über dieſelbe hörte. <s>Ehe ich mich im
+            Jahr <date>1754</date> auf die Univerſität Leipzig begab, um die Rechtsgelehrſamkeit zu
+            ſtudiren, beſuchte ich in <placeName>Herrnhut</placeName>.</s> Auf dem alten Saale
+          brachte mich eine an der Wand hinter dem Biß des Liturgen angebrachte Transparente mit den
+          Worten: Bis daß Er kommt zu einigem Nachdenken hierüber wobey mir die vorhergehenden
+          Worte: Ihr ſollt des Deren Tod verkündigen einftelen.</p>
+        <p>Bisher war ich vor Verſuchungen von andern Sculkameraden bewahrt geblieben weil ſie fih
+          an mich als den Sohn eines ihrer Lehrer nicht wagten ungeachtet fie wie ich hinten nach
+          erfuhr SündenEnechte waren.Aber das in mir wohnende Verderben fing nun an auch bey mir
+          aufzuwachenz jedoch er.hielt mich eine gewiſſe Schaam die von meiner ehrs: baren Erziehung
+          im väterlichen Haufe herrührte noch.lange äußerlich in einer Art von Unſchuld. Während </p>
+        <fw>meiner.</fw>
+        <pb n="814"/>
+        <p>meiner Univerfitätsjahre fiel mir doch auch manchmal ein mich zu fragen: Wo ſtehſt du und
+          wo willſt du hin? Das leßte Jahr aber achtete ich nicht mehr auf die Stimme des
+          unbeſtechlichen innern Richters; und hätte der allgemeine Sünderfreund nicht noch Seine
+          Gunadenhand über mich ausgeſtreckt ſo wäre ich zu meinem ewigen Unglück im Schlamme der
+          Sünden ſtecken geblieben.</p>
+        <p><s>Nach meinen Univerfitätsjahren (<date>von 1758 bis 1764</date>) brachte ich meine Zeit
+            auf dem Lande in der hieſigen Gegend noch ohne Chriſtum das iſt ohne Gott unter der ſo
+            genannten honetten Welt zu und lebte mit derſelben in Luſt und Freuden.</s>
+          <s>Gleich während des erſten Jahres dieſer Periode beſuchte ich öfters hier in
+              <placeName>Niesky</placeName>.</s> Ich kam nach und nach in Bekanntſchaft mit den
+          Brüdern im Pädagogio, beſuchte auch einigemal die Verſammlungen auf dem Gemeinſaal jedoch
+          ohne allen Eindrud. Mein Herz war verfchlofs ſen und ich lebte nur für Kunſt
+          Wiſſenſchaften und Sinnlichkeit. Wie lange muß Jeſus doch bey uns anklopfen eh’ unſre
+          Herzen offen ſtehn Auch in dieſen Jahren rettete mich der treue Helfer meines Les bens von
+          meinem augenfcheinlichen Verderben welched meinen verblendeten Augen ſich als Glück
+          darſtellte. Da das Ziel meiner Wünſche mir nicht näher kommen wollte ſo ſuchte ich
+          daſſelbe durch unverftäns diges Gebet gleichſam zu erzwingen; aber aus lauter Gnade und
+          Güte erhörte mich der barmherzige und mitleidige Honextiefter nicht O Gott wie theuer iſt
+          Deine Güte Nach dieſer ſiebenzährigen Ver-</p>
+        <fw>irrung</fw>
+        <pb n="815"/>
+        <p>irrung mußte ih mich num zu einer bürgerlichen Les bendart bequemen und hielt daher nach
+          dem Wunſche meines alten lieben Vaters wiewol ungern um eine Stelle bey dem Magiſtrat
+          meiner Vaterſtadt an.<s>Ich erhielt dieſelbe auch einſtimmig und wurde zum Mitgliede
+              der Deputation zu Verwaltung der milden Stiftungen verpflichtet.</s> Ich der ich
+          ſieben Jahre der Eitelkeit gedient hatte wurde aber in alle Gefellfchafs ten gezogen fo
+          daß mir nicht die gehörige Zeit mein Amt treu zu beſorgen übrig blieb.VWier Jahre
+          verrauſchten in dieſer gefährlichſten Lage meines Lebens Endlich ließ mich der ewige
+          Erbarmer einmal durch mein choleriſches Temperament fo fallen daß ich mich mit dem der
+          mich eigentlich in dieſes Labyrinth geführt hatte unwiederbringlich entzweyte.Ich dünkte
+          mich ſtark genug zu ſeyn eine andere Lebensart zu beginnen Stolz und Eigenliebe die im
+          menſchlichen Herzen tief vergrabene ſchlaue Feindin unſers innern Friedens bewogen mich
+          allen Geſellſchaften und Vergnügungen auch den an fich unſchuldigſten auf einmal
+          abzufagen. Ich war bisher wohl Sonntags nach väterlicher Weiſe in die Kirche gegangen und
+          dieſe Gewohnheit ſetzte ich fort aber immer noch nicht aus dem rechten Grunde. Bisher
+          hatte ich gewöhnliche Kanzelreden in der DreyeinigkeitsKirche an welcher Magiſter Schäfer
+          geſtanden hatte angehdret. Nun wurde der Ordinarius Sternberg an dieſer Kirche angeſtellt.
+          Ich wurde gleich Anfangs in ſeinen Predigten aufmerkſamer als ich ſonſt war.</p>
+        <p>Endlich ſchien alles für mich zu ſeyn was er ſagte. </p>
+        <fw>Es</fw>
+        <pb n="816"/>
+        <p>Es erfcholl in meiner Seele ein treffendes: Wache auf der du ſchläfeſt Aber das: ſo wird
+          dich Chriſtus erleuchten folgte nicht ſogleich darauf. Mein Herz war noch nicht
+          rechtſchaffen. Aber die Stimme des Blutes das von Ihm dem Verſöhner unſrer Sünden
+          gefloſſen die hörte nicht auf mir überall nachzuſchreyen z fie wurde endlich ſo ſtark daß
+          ich mich überreden ließ D großes ja gutes ja freundliches Weſen Du haft Dir was Schlechtes
+          zum Luſtſpiel erleſen. <s>Die Zeit die ich vorher fo unverantwortlich vergeudet hatte
+            wandte ich nun an die geſalbten und erbaulichen Predigten der treuen Diener des
+            Cvangelii des Paſtor <persName>Primarius Ruthel</persName> und des Arcchhidiaconus
+            Schulze die mir ehemals zuwider und ekelhaft waren zu beſuchen.</s> Ich kam dadurch in
+          eine perſönliche Bekanntſchaft mit denſelben die mir zu wahrem Segen gereichte. Nie werde
+          ich den Umgang mit dieſen Apoſteln meiner Vaterſtadt vergeſſen.<s>Bald darauf lernte ich
+            auch den Bruder <persName>Baumeiſter</persName> der meines in Ruheſtand verſeßten Vaters
+            Stelle im Gymnasio damals bekleidete kennen.</s>
+          <s>Er machte mich mit den in <placeName>Görlitz</placeName> befuchenden Brüdern aus
+              <placeName>Herrnhut</placeName> bekannt die nun auch mich beſuchten.</s>
+        </p>
+        <p><s>Im Jahre <date>1769</date> ging mein im Schuldienſte grau gewordener lieber Vater im
+            83ſten Jahre ſeines Alters aus der Zeit.</s>
+          <s>Nach ſeinem Begräbniß reiſete ich mit einem meiner redlichen und religiöſen Freunde zu
+            Ostern nach <placeName>Herrnhut</placeName></s> Die Oſterlitaney die Predigten die
+          Geſänge waren mir ſchmackhaft und in aller Stille genießbar ohne daß ich mich in
+          nähere</p>
+        <fw>Bekannt-</fw>
+        <pb n="817"/>
+        <p>Bekanntſchaft mit jemanden eingelaffen hätte. <s>Im <date>Februar 1771</date> ging meine
+            Mutter ſelig aus der Zeit.</s>
+          <s>Nach ihrer Beerdigung reiſte ich mit einem meinerbesten Freunde der damals auch über
+            ſich zu denken anfing und in der Folge in <placeName>Herrnhut</placeName> feinen
+            Laufſelig geendet hat zum Beſuch nach <placeName>Herrnhut</placeName>.</s> Die Predigt
+          des begabten Bruder Böhler über des Heilands Leiden am Oelberg machte einen tiefen
+          Eindruck auf mein Herz ingleichen der Bers: Er Er hat ausgelöſchet was mit ſich führt den
+          Tod. <s>Den <date>13ten Auguſt deſſelben Jahres</date> wiederholte ich den Beſuch in
+              <placeName>Herrnhut</placeName> lernte den ſeligen Bruder <persName>Gottfried
+              Clemens</persName> kennen und erhielt Erlaubniß beym heiligen Abendmahl in der
+              Derthelsdorfer Kirche zuzuſehen.</s></p>
+        <p>
+          <s><date>Das Oſterfeſt 1772</date> feyerte ich wieder in <placeName>Herrnhut</placeName>
+            fröhlich und vergnügt.</s> Seit dieſem Beſuch iſt mir der Vers: Es ſoll Dein Tod und
+          Leiden bis Leib und Seele ſcheiden mir ſtets in meinem Herzen ruhn unvergeßlich geblieben.
+            <s>In dem nemlichen Jahre reiſie ich in Geſellſchaft des Bruder
+              <persName>Baumeiſter</persName> zur Feyer des 50ojährigen Jubiläums den <date>17ten
+              Juny</date> wieder nach <placeName>Herrnhut</placeName>.</s> Dieſen ausgezeichneten
+          Segenstag werde ich nie vergeſſen. Alle an dieſem Feſte gehaltene Verſammlungen die Abends
+          ohne alle Störung von außen mit Geſang gehaltene Proceſſion und der Abendfegen auf dem
+          Plage ſtellen fich meinem Gemüthe noch heute als gegenwärtig dar. <s>Von dem Tage an
+            ſchloß ich mich auch immer näher an die Brüdergemeine an und beſuchte die Verſammlungen
+            der Societät in <placeName>Görliß</placeName> ohne Cheu.</s></p>
+        <fw>lungen</fw>
+        <pb n="818"/>
+        <p> Wie oft ich bey wiederholten Beſuchen in </p>
+        <p>Mit dankbarem Herzen werde ich auch nie vergeffen daß ich die theuern Männer Gottes
+          Spangenberg Clemens Layriz und Lieberkühn habe kennen gelernt.Legterer half mir einmal aus
+          der Verwirrung da ſich die Vernunft bey mir in Herzensſachen mengen wollte heraus; welches
+          ich ihm ſchon öfter verdankt habe.<s>Mit dem ſeligen ehrwürdigen Bruder
+              <persName>Spangenberg</persName> als er Provinzialhelfer der Dherlaufigifchen Gemeinen
+            war kam ich in eine ers freuliche Herzens Verbindung und als er wieder in
+              <placeName>Barby</placeName> war in einen Briefwechſel.</s> Ein von ihm erhaltenes
+          Schreiben ſah ich als einen Ruf an in <s>Daher
+            reiſte ich mit dem Bruder <persName>Baumeiſter</persName> der damals als Prediger in
+              <placeName>Taubenheim</placeName> im Amte ſtand im Jahr <date>1777</date> dahin.</s>
+          <s>Ich legte den ſämmtlichen Brüdern der Unitäts-Aelteſten-Conferenz meinen Sinn dar ein
+            Mitglied der Brüdergemeine zu werden und wie väterlich beſprach ſich Bruder
+              <persName>Spangenberg</persName> vor meiner Abreiſe nochmals mit mir über dieſes mein
+            Verlangen!</s>
+        </p>
+        <fw>Con-</fw>
+        <pb n="819"/>
+        <p> Aber was für ein troßig und verzagtes Ding das menſchliche Herz iſt mußte im auch noh in
+          der Zeit erfahren; ohnerachs ket mir der ſelige Bruder Kohler einmal rund here aus geſagt
+          hatte: Du gehörſt in die Gemeine; ich habe no keinen geſehen der verlaſſen Häuſer oder
+          Brüder oder Schweſtern um Seines Namens willen ders nicht hundertfältig genommen hätte und
+          das ewige Leben ererbet. Matth 19 29 Der Heiland erquicke ihn dafür vor Seinem Thron.</p>
+        <p><s>Im Jahr <date>1779</date> machte ich eine Reiſe nach <placeName>Gnas</placeName>
+            denfrey</s> Beym Abſchied daſelbſt den ich mit dem ſeligen Bruder
+            <s>Als ich wieder in <placeName>Görlig</placeName>
+            angekommen war hielt ich ſchriftlich bey der <orgName> Unitäts Aelteſten
+              Conferenz</orgName> um die Erlaubniß zur Gemeine an und ſchlug
+              <placeName>Niesky</placeName> dazu vor.</s>
+          <s>Im <date>April 1780</date> erhielt ich die geſuchte Erlaubniß und zwar hierher nach
+            Niesky.</s> Ich legte hierauf mein bisher gegen 16 Jahre verwaltetes Amt bey dem
+          Magiſtrat nieder verkaufte mein Haus um einen leichten Preis und machte mich von allem bis
+          auf die zu meiner künftigen Beſtimmung nöthige Geräthſchaft und Hausrath los.Meine
+          Schweſter die auch in </p>
+        <fw>Gemeine</fw>
+        <pb n="820"/>
+        <p>Gemeine angeſucht und dieſelbe erhalten hatte that das nemlihe Nachdem ich meine vielen
+          Adminiſtra tions Rechnungen zur Reviſion an die Behörde eingereiht hatte; ſo gingen wir
+          beyde aus unſrer Vaterſtadt und Freundſchaft froh und dankbar für alle bisher von unſerm
+          lieben Herrn erfahrne Gnade Durchhülfe und Leitung am 26ſten December deſſelben Jahres aus
+          und langten in unſerm lieben </p>
+        <p><s>Ich gewohnte im Brüderhauſe bald ein, bekam den Auftrag im
+              <orgName>Pädagogio</orgName> und in der Knäbchen Anſtalt alle Tage einige Stunden in
+            der Baukunſt und in Handzeichnungen Unterricht zu geben; an welche Zeit ich noch mit
+            Vergnügen gedenke.</s>
+          <s>Den <date>11ten März 1781</date> wurde ich in die Gemeine aufgenommen und den 21ſten
+            April darauf am grünen Donnerstage gelangte ich zum erſtmaligen Genuß des heiligen
+            Abendsmahls als Mitglied der Gemeine.</s>
+          <s>Mein vergnügter Aufenthalt im Brüderhauſe dauerte bis zum <date>19ten November
+              1782</date> da ich meinem Ruf zufolge nach <placeName>Herrnhut</placeName> zog und
+            daſelbſt zum Juſtitiarius verpflichtet und als Agent des
+              <orgName>Unitäts-Vorſteher-Collegii</orgName> eingewieſen wurde.</s>
+          <s>Auch hier wohnte ich noch einige Wochen im Brüderhaufe bis ich im <date>Februar
+              1783</date> mit der Vorſteherin des ledigey Schweſtern Chores in
+              <placeName>Kleinwelke</placeName> der Schweſter Henriette Erneſtine v.Seidliz zur
+            heiligen Ehe verbunden wurde.</s></p>
+        <p><s>Im <date>Jahr 1784</date> zog ich mit meiner Frau dem erhaltenen Auftrag zufolge nach
+              <placeName>Leichnam</placeName> um die Inſpection über dasige Güter nebſt Trebus und
+            Zubehör zu beſorgen</s></p>
+        <pb n="821"/>
+        <p>
+          <s>Wir wurden dadurch Mitglieder der <orgName>Kleinwelkifchen Gemeine</orgName> und unſer
+            Aufenthalt daſelbſt an Abendmahls- und Feſt-Tagen gereichte uns allemal zur wahren und
+            nöthigen Erholung.</s></p>
+        <p><s>Nun verbreitet ſich der Aufſaß unſers ſeligen Brite ders nog umſtändlich über feine
+            Dienſtzeit die ihm zulekt durch eine ſeinen abnehmenden Kräften und ſeinem geſchwächten
+            Geſundheitszuſtand nicht angemeſſene Erweiterung der Geſchäfte ſo wie durch bittere
+            Erfahrungen bey den Eriegerifchen Bewegungen der <date>Jahre 1793</date> und 1794 ſehr
+            erſchwert wurde Er bat das her um ſeine Entlaſſung und erhielt dieſelbe.</s><s>Den 14ten
+              <date>October 1794</date> traf er hier an dem ihm beſtimm? ten Ruheort ein wie er
+            bemerkt ; dankbar und vergnügt wieder in einer Gemeine die ſchönen Gottesdienſte
+            ununterbrochen genießen zu können Anfangs hielt er einige Vorleſungen im Seminario über
+            die bär" gerliche Baukunſt 3; ſeine zunehmende Kränklichkeit ndthigte ihn aber bald ſie
+            aufzugeben: Nun hatte er und feine Frau eine lange Prüfungszeit durch ſchwere
+            Körperleiden gegen welche der wiederholte Gebrauch des Töplizer Bades nur wenig
+            vermochte un.</s></p>
+        <p>Es heißt in ſeinem Aufſaß zuleßt:</p>
+        <p><s>Am <date>14ten Februar 1810</date> wurde meine Frau nach manchen Leiden ſelig
+            vollendet.</s>Was für ein Schmerz es für mich war ſie zu verlieren und mich in meinem
+          Alter auf einmal ihrer Pflege und Vorſorge: beraubt zu ſehen das kann niemand ſo empfinden
+          als welcher</p>
+        <fw>ähnliche</fw>
+        <pb n="822"/>
+        <p>ähnliche Erfahrungen gemacht hat. Mein Flehen iſt: Verlaß mich nicht Gott im Alter wenn
+          ich grau werde.Du Herr biſt meine Zuverſicht und meine Burg mein Gott auf den ich traue.
+          Ah ſtärke meinen Glauben und nimm mich wohl in Acht Herr Jeſu Deinen Händen befehl' ich
+          meinen Geiſt hilf mir ſelig vollenden ſo wies Dein Wort verheißt. Du wollſt den nicht
+          beſchämen der Dein bedürftig iſt und ihn einſt dahin nehmen wo Du o Jeiu biſt Mein Körper
+          mag indeſſen im ſtillen Grabe ruhnz Du wirſt ihn nicht vergeſſen nichts darf ihm Schaden
+          thun: Denn Herr durch &gt;Dein Begraben und ſiegreich Auferſteh" n ſoll ich ihn wieder haben
+          und Dich dann leiblich ſehn.</p>
+        <p>So weit er ſelbſt.</p>
+        <p>Die frohe Hoffnung Jeſum zu ſehn und zu Ihm zu gehen mit welcher unſer ſeliger Bruder
+          ſeine eigenhändige Nachricht im </p>
+        <fw>ſich</fw>
+        <pb n="823"/>
+        <p>fich und andere nüglich angewendet und feine Neigung andern zu dienen und Freude zu
+          machen in mancher Art lieblich ausgefprochen.Sein lebhaftes Gemüth nahm an den Welt
+          Ereigniſſen und SchiFſalen feines Vaterlandes ſo wie an den Erfahrungen der BrüderUnität
+          mit einer ſolchen Regſamkeit Theil daß ihm ſein feuriges Temperament wol auch im Alter
+          noch zuweilen eine Stunde unnöthiger Verlegenheit bereitete Doh alles dies wich am Abend
+          ſeiner Sage dem Gedanken an die heraneilende Feierſtunde – nur ſein inniges warmes Gefühl
+          für den Heiland die Kreuzes: Lehre und die freye Gnade im Blute Jeſu deren unshätzbarer
+          Werth ihm aus eigner Herzenserfahrung klar war erſchlaffte nicht während er für alles
+          andere erkaltete was ihm früherhin Lieblings Beſchäftigung war. Alles ſagte er einige Zeit
+          vor feinem Ende in dieſer Hinſicht alles habe ich dem Heiland hingegeben Er mache es wie
+          Er es will; aber das Wort für mich” begleite mich bis zum Ende; ach fände es doch lauter
+          gläubige Herzen auf Erden Gott iſt.offenbaret im Fleiſch Jeſus neigte Sein Haupt und
+          verſchied Sein Fleifh und Blut nährt mich zum ewigen Leben. Punktum Seine
+          Herzensäuſſerungen waren in der ihm eigenthümlichen Art kurz treffend kräftig und fhliht.
+          Da zulegt die zunehmende Entfräftung zuweilen feine Beſinnung zerſtreute; ſo war er doch
+          immer bey deutlichem Bewußtſeyn wenn ſein Mund von dem Wohlſeyn überfloß das ſein Herz aus
+          dem Tod und Verdienſte des Heilandes und den uns dadurch geöffneten Heilsfchägen ſchöpfte
+          Sich</p>
+        <fw>ihrer</fw>
+        <pb n="824"/>
+        <p>ihrer beym heiligen Abendmahf zu freuen war ihm ein ganz vorzüglich feſtlicher Genuß der
+          ihm für das Entbehren der Verſammlungen die er früherhin ſo gern und unausgeſetzt zu
+          beſuchen pflegte: eine ermunternde Entſchädigung darbot. Wie wird es erſt dann ſeyn vief
+          er einſt mit tiefbewegtem Gemüth und einem ehrwürdigen PatriarhenBli nach einer foldhen
+          Gnadenſtunde aus mie wird es erſt dann ſeyn wenn wir beym Heiland droben das Mahl halten
+          und ſo viele Freunde mit uns die uns vorangingen Ihren Schritten nacheilen zu dürfen war
+          nun der Inbegriff ſeiner Wünſche; oft ſeufzte er zum Heiland um feine "baldige
+          Vollendung.Ich kann mir.nichts denken warum der Heiland zögert ſagte :er wenig Tage vor
+          ſeinem Heimgangz aber Er weiß allein die rechte Zeit ich will ſtille ſeyn und warten; Er
+          wird einmal unverhofft kommen.So geſchah es auch.Am 25ſten Februar da er ſich fo eben
+          hatte durch die Stube führen: läſſen brach plößlich ſein Auge das Bewußtſeyn ſchwand und
+          ohne eine ſichtbare Bewegung des Körpers eilte feine Seele in die ewigen Friedenshütten um
+          Dank und Preis und Ruhm zu bringen Gott und dem Lamm.</p>
+        <p>Sein Alter hat.er gebracht auf 34 Jahr 10 Monate und 21 Tage.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
