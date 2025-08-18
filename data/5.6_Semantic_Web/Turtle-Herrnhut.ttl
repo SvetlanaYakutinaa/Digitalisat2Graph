@@ -1,0 +1,3670 @@
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q104219675 rdfs:label "Rosalie Bauer"@de ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 1 ] ;
+    wdt:P1971 1 .
+
+wd:Q114056537 rdfs:label "Br- Baumeister"@de ;
+    p:P106 [ pq:P585 "1777"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P585 "1777"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q432386 ] ;
+    p:P13188 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P13188 wd:Q130902239 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P13188 wd:Q130902239 ] ;
+    wdt:P106 wd:Q432386 ;
+    wdt:P13188 wd:Q130902239 .
+
+wd:Q117949352 rdfs:label "Br- Marsveld"@de ;
+    p:P937 [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q1501295 ] ;
+    wdt:P937 wd:Q1501295 .
+
+wd:Q122706238 rdfs:label "Br- Kühn"@de ;
+    p:P13188 [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ],
+        [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ] ;
+    wdt:P13188 wd:Q21415674 .
+
+wd:Q123150910 rdfs:label "Br- Roser"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q39631 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q39631 ] ;
+    wdt:P106 wd:Q39631 .
+
+wd:Q123456496 rdfs:label "Ezechiel Pfeiffer"@de ;
+    p:P1066 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P1066 wd:Q123456933 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P1066 wd:Q123456933 ] ;
+    wdt:P1066 wd:Q123456933 .
+
+wd:Q123463672 rdfs:label "Christian Ludwig Teutsch"@de ;
+    p:P570 [ pq:P585 "1852-07"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P570 "Juli 1852" ],
+        [ pq:P585 "1852-07"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P570 "Juli 1852" ] ;
+    wdt:P570 "Juli 1852" .
+
+wd:Q123464530 rdfs:label "Maria Elisabeth Hoffmann"@de ;
+    p:P19 [ pq:P585 "24-07-1790" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P19 wd:Q93225 ],
+        [ pq:P585 "24-07-1790" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P19 wd:Q93225 ] ;
+    p:P20 [ pq:P585 "29-06-1852" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P20 wd:Q159916 ],
+        [ pq:P585 "29-06-1852" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P20 wd:Q159916 ] ;
+    p:P463 [ pq:P585 "1812"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "1812"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "20-05-1829" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q125510124 ],
+        [ pq:P585 "1842"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "1842"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "20-05-1829" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q125510124 ],
+        [ pq:P580 "1820-08"^^xsd:gYearMonth ;
+            pq:P582 "1820-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P585 "1842"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1003342 ],
+        [ pq:P580 "24-07-1842" ;
+            pq:P582 "29-07-1842" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P585 "1842"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1003342 ],
+        [ pq:P580 "1820-08"^^xsd:gYearMonth ;
+            pq:P582 "1820-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P580 "24-07-1842" ;
+            pq:P582 "29-07-1842" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P551 wd:Q1501295 ] ;
+    p:P570 [ pq:P585 "29-06-1852" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P570 "29-06-1852" ],
+        [ pq:P585 "29-06-1852" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P570 "29-06-1852" ] ;
+    p:P937 [ pq:P585 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P585 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q159318 ] ;
+    wdt:P19 wd:Q93225 ;
+    wdt:P20 wd:Q159916 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q1003342,
+        wd:Q125510124,
+        wd:Q1501295,
+        wd:Q84 ;
+    wdt:P570 "29-06-1852" ;
+    wdt:P937 wd:Q159318,
+        wd:Q5379390 .
+
+wd:Q124709145 rdfs:label "Anton Martin August Clemens"@de ;
+    p:P20 [ pq:P585 "1836-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P20 wd:Q11142530 ],
+        [ pq:P585 "1836-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P20 wd:Q11142530 ] ;
+    wdt:P20 wd:Q11142530 .
+
+wd:Q131932979 rdfs:label "Johanne Christiane Beck"@de ;
+    p:P19 [ pq:P585 "29-09-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73935/rec/197> ;
+            ps:P19 wd:Q1731 ],
+        [ pq:P585 "29-09-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73935/rec/197> ;
+            ps:P19 wd:Q1731 ] ;
+    p:P20 [ pq:P585 "15-05-1862" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73935/rec/197> ;
+            ps:P20 wd:Q165140 ],
+        [ pq:P585 "15-05-1862" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73935/rec/197> ;
+            ps:P20 wd:Q165140 ] ;
+    wdt:P19 wd:Q1731 ;
+    wdt:P20 wd:Q165140 .
+
+wd:Q135294666 rdfs:label "Anna Louise Wünsche"@de ;
+    p:P570 [ pq:P585 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P570 1824 ],
+        [ pq:P585 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P570 1824 ] ;
+    wdt:P570 1824 .
+
+wd:Q135294870 rdfs:label "Immanuel Benjamin Küster"@de ;
+    p:P19 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P19 wd:Q12062 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P19 wd:Q12062 ] ;
+    p:P20 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P20 wd:Q12062 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P20 wd:Q12062 ] ;
+    p:P3373 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P3373 wd:Q122707229 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P3373 wd:Q122707229 ] ;
+    wdt:P19 wd:Q12062 ;
+    wdt:P20 wd:Q12062 ;
+    wdt:P3373 wd:Q122707229 .
+
+wd:Q135295019 rdfs:label "Wilhelm Küster"@de ;
+    p:P3373 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P3373 wd:Q122707229 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P3373 wd:Q122707229 ] ;
+    wdt:P3373 wd:Q122707229 .
+
+wd:Q135295083 rdfs:label "Johanna Christiane Fritsch (Hallbeck)"@de ;
+    p:P570 [ pq:P585 "10-11-1850" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P570 "10-11-1850" ],
+        [ pq:P585 "10-11-1850" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P570 "10-11-1850" ] ;
+    p:P937 [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q159318 ] ;
+    wdt:P570 "10-11-1850" ;
+    wdt:P937 wd:Q159318 .
+
+wd:Q135313989 rdfs:label "Gustav Ziegen"@de ;
+    p:P3373 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P3373 wd:Q123495084 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P3373 wd:Q123495084 ] ;
+    wdt:P3373 wd:Q123495084 .
+
+wd:Q205828 rdfs:label "Heinrich Rudolph Wullschlägel"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P13188 [ pq:P585 "20-04-1836" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P13188 wd:Q123463682 ],
+        [ pq:P585 "20-04-1836" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P13188 wd:Q123463682 ] ;
+    wdt:P106 wd:Q37226 ;
+    wdt:P13188 wd:Q123463682 .
+
+wd:Q21509659 rdfs:label "Peter Friedrich Curie"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q432386 ] ;
+    wdt:P106 wd:Q432386 .
+
+wd:Q55899303 rdfs:label "Gottlieb Martin Schneider"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q29182 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q29182 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P106 wd:Q29182 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P106 wd:Q29182 ] ;
+    wdt:P106 wd:Q29182 .
+
+wd:Q94794282 rdfs:label "Christian Friedrich Franke"@de ;
+    p:P13188 [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ],
+        [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ] ;
+    wdt:P13188 wd:Q21415674 .
+
+wdt:P106 rdfs:label "Tätigkeit"@de .
+
+wdt:P1066 rdfs:label "schüler_von"@de .
+
+wdt:P13188 rdfs:label "Treffen"@de .
+
+wdt:P1327 rdfs:label "Kollege(in)"@de .
+
+wdt:P1636 rdfs:label "Taufe"@de .
+
+wdt:P19 rdfs:label "Geburtsort"@de .
+
+wdt:P1971 rdfs:label "Mutter"@de,
+        "Vater"@de .
+
+wdt:P20 rdfs:label "Sterbeort"@de .
+
+wdt:P22 rdfs:label "Vater"@de .
+
+wdt:P25 rdfs:label "Mutter"@de .
+
+wdt:P26 rdfs:label "Ehepartner(in)"@de .
+
+wdt:P3001 rdfs:label "Ruhestand"@de .
+
+wdt:P3373 rdfs:label "Geschwister"@de .
+
+wdt:P40 rdfs:label "Kind"@de .
+
+wdt:P463 rdfs:label "Mitglied von"@de .
+
+wdt:P551 rdfs:label "Wohnsitz"@de .
+
+wdt:P569 rdfs:label "Geburtsdatum"@de .
+
+wdt:P570 rdfs:label "Sterbedatum"@de .
+
+wdt:P571 rdfs:label "Gründung"@de .
+
+wdt:P69 rdfs:label "besuchte Bildungseinrichtung"@de .
+
+wdt:P793 rdfs:label "Schlüsselereignis"@de .
+
+wdt:P937 rdfs:label "Wirkungsort"@de .
+
+wd:Q106402537 rdfs:label "Heidenheim"@de .
+
+wd:Q11085831 rdfs:label "Dolmetscherin"@de .
+
+wd:Q111161 rdfs:label "Synode"@de .
+
+wd:Q11972 rdfs:label "Kanton Aargau"@de .
+
+wd:Q123456916 rdfs:label "Daniel Schärf"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135317232 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135317232 ] ;
+    wdt:P26 wd:Q135317232 .
+
+wd:Q123456926 rdfs:label "Johann Gottlieb Schulz"@de ;
+    p:P26 [ pq:P585 "18-08-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P26 wd:Q124744576 ],
+        [ pq:P585 "18-08-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P26 wd:Q124744576 ] ;
+    wdt:P26 wd:Q124744576 .
+
+wd:Q123456933 rdfs:label "Johann Jürgen Friedrich Stein"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "1811"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "1811"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P106 wd:Q219477 ] ;
+    p:P19 [ pq:P585 "28-08-1783" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P19 wd:Q536781 ],
+        [ pq:P585 "28-08-1783" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P19 wd:Q536781 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P1971 7 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P1971 7 ] ;
+    p:P20 [ pq:P585 "27-07-1853" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P20 wd:Q165140 ],
+        [ pq:P585 "27-07-1853" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P20 wd:Q165140 ] ;
+    p:P463 [ pq:P585 "15-12-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "15-12-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q1630 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q1630 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P551 wd:Q11142530 ] ;
+    p:P937 [ pq:P580 "1822"^^xsd:gYear ;
+            pq:P582 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1711 ],
+        [ pq:P580 "1805-04"^^xsd:gYearMonth ;
+            pq:P582 "1805-05"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q165160 ],
+        [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P580 "1805-04"^^xsd:gYearMonth ;
+            pq:P582 "1805-05"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q165160 ],
+        [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1711 ],
+        [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P585 "1892"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q157200 ],
+        [ pq:P585 "1892"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q157200 ],
+        [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P580 "1822"^^xsd:gYear ;
+            pq:P582 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/64736/rec/190> ;
+            ps:P937 wd:Q1501295 ] ;
+    wdt:P106 wd:Q1162163,
+        wd:Q186360,
+        wd:Q219477 ;
+    wdt:P19 wd:Q536781 ;
+    wdt:P1971 7 ;
+    wdt:P20 wd:Q165140 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q1630,
+        wd:Q165140,
+        wd:Q84 ;
+    wdt:P937 wd:Q1501295,
+        wd:Q157200,
+        wd:Q165160,
+        wd:Q1711,
+        wd:Q258 .
+
+wd:Q123463891 rdfs:label "Elise Bonatz"@de,
+        "Elise Bonatz (Curie)"@de ;
+    p:P106 [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ] ;
+    p:P26 [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ],
+        [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ] ;
+    p:P551 [ pq:P585 "1860"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q13034496 ],
+        [ pq:P585 "1860"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q13034496 ] ;
+    wdt:P106 wd:Q159318 ;
+    wdt:P26 wd:Q123396429 ;
+    wdt:P551 wd:Q13034496,
+        wd:Q159916 .
+
+wd:Q123464335 rdfs:label "Johanna Christiane Hallbeck"@de ;
+    p:P26 [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123396697 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123396697 ] ;
+    wdt:P26 wd:Q123396697 .
+
+wd:Q123464538 rdfs:label "Bertha Emilie geb- Gregor"@de,
+        "Bertha Kölbing"@de ;
+    p:P26 [ pq:P585 "22-08-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P26 wd:Q55853813 ],
+        [ pq:P585 "22-08-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P26 wd:Q55853813 ] ;
+    wdt:P26 wd:Q55853813 .
+
+wd:Q123464547 rdfs:label "Justina Magdalena Küster (schlegel)"@de ;
+    p:P26 [ pq:P585 "09-09-1806" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P26 wd:Q122707229 ],
+        [ pq:P585 "09-09-1806" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P26 wd:Q122707229 ] ;
+    wdt:P26 wd:Q122707229 .
+
+wd:Q123494338 rdfs:label "Rosalie Bauer"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q123420356 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q123420356 ] ;
+    wdt:P26 wd:Q123420356 .
+
+wd:Q123495062 rdfs:label "Alice Schmitt (Hitson)"@de ;
+    p:P26 [ pq:P585 "16-01-1807" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P26 wd:Q123456921 ],
+        [ pq:P585 "16-01-1807" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P26 wd:Q123456921 ] ;
+    wdt:P26 wd:Q123456921 .
+
+wd:Q124804445 rdfs:label "Wilhelmine Stompjes"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q11085831 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q936969 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q11085831 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q936969 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135294768 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135294768 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q1501295 ] ;
+    wdt:P106 wd:Q11085831,
+        wd:Q936969 ;
+    wdt:P26 wd:Q135294768 ;
+    wdt:P551 wd:Q1501295 .
+
+wd:Q1265684 rdfs:label "Dunkelbeck im Hildesheimschen"@de .
+
+wd:Q135294768 rdfs:label "Carl Stompjes"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q124804445 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q124804445 ] ;
+    wdt:P26 wd:Q124804445 .
+
+wd:Q135294813 rdfs:label "Christiane Sophie Rudolf"@de ;
+    p:P26 [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ],
+        [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ] ;
+    wdt:P26 wd:Q123396429 .
+
+wd:Q135294819 rdfs:label "Christiane Dorothee Hellwig"@de ;
+    p:P25 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P25 wd:Q130902239 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P25 wd:Q130902239 ] ;
+    p:P570 [ pq:P585 "1771-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 "02-1771" ],
+        [ pq:P585 "1771-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 "02-1771" ] ;
+    wdt:P25 wd:Q130902239 ;
+    wdt:P570 "02-1771" .
+
+wd:Q135294835 rdfs:label "Ernst Krüger"@de ;
+    p:P106 [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q20746152 ] ;
+    p:P22 [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P22 wd:Q123495084 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P22 wd:Q123495084 ] ;
+    p:P570 [ pq:P585 "1817"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 1817 ],
+        [ pq:P585 "1817"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 1817 ] ;
+    wdt:P106 wd:Q20746152 ;
+    wdt:P22 wd:Q123495084 ;
+    wdt:P570 1817 .
+
+wd:Q135313894 rdfs:label "Pauline Bonatz"@de,
+        "Pauline Müller"@de ;
+    p:P20 [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q125510124 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q125510124 ] ;
+    p:P26 [ pq:P585 "1836"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ],
+        [ pq:P585 "1836"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123396429 ] ;
+    wdt:P20 wd:Q125510124 ;
+    wdt:P26 wd:Q123396429 .
+
+wd:Q135313956 rdfs:label "Gustav Baer"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q135313974 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q135313974 ] ;
+    wdt:P26 wd:Q135313974 .
+
+wd:Q135314390 rdfs:label "Matthäus Johann Mackh"@de ;
+    p:P22 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P22 wd:Q124744576 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P22 wd:Q124744576 ] ;
+    wdt:P22 wd:Q124744576 .
+
+wd:Q135314528 rdfs:label "Walburga Mackh (Dörner)"@de ;
+    p:P25 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P25 wd:Q124744576 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P25 wd:Q124744576 ] ;
+    wdt:P25 wd:Q124744576 .
+
+wd:Q135314827 rdfs:label "Marie Krüger"@de,
+        "Marie Krüger geb- Thorsen"@de ;
+    p:P106 [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q20746152 ] ;
+    p:P25 [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P25 wd:Q123495084 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P25 wd:Q123495084 ] ;
+    p:P570 [ pq:P585 "1817"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 1817 ],
+        [ pq:P585 "1817"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 1817 ] ;
+    wdt:P106 wd:Q20746152 ;
+    wdt:P25 wd:Q123495084 ;
+    wdt:P570 1817 .
+
+wd:Q135315040 rdfs:label "Heinrich Hauber"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135316688 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135316688 ] ;
+    wdt:P26 wd:Q135316688 .
+
+wd:Q135316688 rdfs:label "Luise Wedemann"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135315040 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135315040 ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q766 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q766 ] ;
+    wdt:P26 wd:Q135315040 ;
+    wdt:P937 wd:Q766 .
+
+wd:Q135316864 rdfs:label "Auguste Kölbing"@de,
+        "Auguste Kölbing (Plitt)"@de ;
+    p:P26 [ pq:P585 "14-06-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P26 wd:Q21517694 ],
+        [ pq:P585 "14-06-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P26 wd:Q21517694 ] ;
+    wdt:P26 wd:Q21517694 .
+
+wd:Q135317027 rdfs:label "Friederike Dorothea Erdmann"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q115345946 ] ;
+    wdt:P26 wd:Q115345946 .
+
+wd:Q135317111 rdfs:label "Friedrike Erdmann"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q2965351 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q2965351 ] ;
+    wdt:P26 wd:Q2965351 .
+
+wd:Q135317137 rdfs:label "Gerhard Kölbing"@de ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ] ;
+    wdt:P40 wd:Q21517694 .
+
+wd:Q135317232 rdfs:label "Gustava Hallbeck"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123456916 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123456916 ] ;
+    wdt:P26 wd:Q123456916 .
+
+wd:Q135317290 rdfs:label "Henriette Ernestine Schulz (v- Seidliz)"@de ;
+    p:P26 [ pq:P585 "1783-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P26 wd:Q130902239 ],
+        [ pq:P585 "1783-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P26 wd:Q130902239 ] ;
+    wdt:P26 wd:Q130902239 .
+
+wd:Q135317445 rdfs:label "Marie Kieschnick"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463682 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463682 ] ;
+    wdt:P26 wd:Q123463682 .
+
+wd:Q135317515 rdfs:label "Paul Kölbing"@de ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ] ;
+    p:P569 [ pq:P585 "21-10-1843" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P569 "21-10-1843" ],
+        [ pq:P585 "21-10-1843" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P569 "21-10-1843" ] ;
+    wdt:P40 wd:Q21517694 ;
+    wdt:P569 "21-10-1843" .
+
+wd:Q135899048 rdfs:label "stubenaufseber"@de .
+
+wd:Q14835 rdfs:label "Bautzen"@de .
+
+wd:Q152002 rdfs:label "Pastor"@de .
+
+wd:Q154804 rdfs:label "Universität Leipzig"@de .
+
+wd:Q1553447 rdfs:label "Zauchtenthal"@de .
+
+wd:Q157200 rdfs:label "Zittau"@de .
+
+wd:Q1630 rdfs:label "Altona"@de .
+
+wd:Q1639825 rdfs:label "Schmied"@de .
+
+wd:Q1711 rdfs:label "Potsdam"@de .
+
+wd:Q1731 rdfs:label "Dresden"@de .
+
+wd:Q1776834 rdfs:label "Knabenchor"@de .
+
+wd:Q1799686 rdfs:label "Lachen"@de .
+
+wd:Q192296 rdfs:label "Weberei"@de .
+
+wd:Q2090 rdfs:label "Nürnberg"@de .
+
+wd:Q2183679 rdfs:label "Tischlerei"@de .
+
+wd:Q22694308 rdfs:label "Thräna in Uhnst"@de .
+
+wd:Q22713629 rdfs:label "Mädchenschule"@de .
+
+wd:Q2309621 rdfs:label "Meister"@de .
+
+wd:Q2596569 rdfs:label "Haushälterin"@de .
+
+wd:Q3197288 rdfs:label "Christiansfeld"@de .
+
+wd:Q32204819 rdfs:label "Oederan"@de .
+
+wd:Q3566027 rdfs:label "Wanderschaft"@de .
+
+wd:Q35856 rdfs:label "Taufe"@de .
+
+wd:Q380307 rdfs:label "Labrador"@de .
+
+wd:Q3914 rdfs:label "Schule"@de .
+
+wd:Q39631 rdfs:label "Arzt"@de .
+
+wd:Q4077 rdfs:label "Görlitz"@de .
+
+wd:Q42603 rdfs:label "Presbyter"@de .
+
+wd:Q43164 rdfs:label "Küche"@de .
+
+wd:Q437512 rdfs:label "Leinwandweber"@de .
+
+wd:Q44500 rdfs:label "Weißenburg am sand"@de .
+
+wd:Q450726 rdfs:label "Alzey in der Unterpfalz"@de .
+
+wd:Q46 rdfs:label "Europa"@de .
+
+wd:Q536781 rdfs:label "Dömitz in Großherzogthum Mecklendurg"@de .
+
+wd:Q55 rdfs:label "Holland"@de .
+
+wd:Q55123804 rdfs:label "Gottfried Clemens"@de ;
+    p:P551 [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ] ;
+    wdt:P551 wd:Q84 .
+
+wd:Q556730 rdfs:label "Rockhausen"@de .
+
+wd:Q55853813 rdfs:label "Cart Rudolph Kölbing"@de ;
+    p:P106 [ pq:P585 "09-03-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "09-03-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "08-09-1842" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q161944 ],
+        [ pq:P585 "04-06-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q42603 ],
+        [ pq:P585 "04-06-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q42603 ],
+        [ pq:P585 "1852"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "1852"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "08-09-1842" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P106 wd:Q161944 ] ;
+    p:P13188 [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ],
+        [ pq:P585 "1853-10"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ] ;
+    p:P19 [ pq:P585 "02-07-1810" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P19 wd:Q165160 ],
+        [ pq:P585 "02-07-1810" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P19 wd:Q165160 ] ;
+    p:P1971 [ pq:P585 "1859-12"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 2 ],
+        [ pq:P585 "1855-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 3 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1855-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1859-12"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P1971 3 ] ;
+    p:P20 [ pq:P585 "28-12-1860" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P20 wd:Q1501295 ],
+        [ pq:P585 "28-12-1860" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P20 wd:Q1501295 ] ;
+    p:P26 [ pq:P585 "22-08-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P26 wd:Q123464538 ],
+        [ pq:P585 "22-08-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P26 wd:Q123464538 ] ;
+    p:P463 [ pq:P585 "02-03-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "02-03-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P580 "13-08-1827" ;
+            pq:P582 "17-08-1827" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q502553 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q21 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q740915 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q21 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q502553 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q740915 ],
+        [ pq:P580 "13-08-1827" ;
+            pq:P582 "17-08-1827" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P551 wd:Q165140 ] ;
+    p:P69 [ pq:P585 "01-09-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P69 wd:Q2120288 ],
+        [ pq:P585 "01-09-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P69 wd:Q2120288 ] ;
+    p:P793 [ pq:P585 "15-04-1824" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "15-04-1824" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "09-03-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P585 "09-03-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/78136/rec/196> ;
+            ps:P937 wd:Q258 ] ;
+    wdt:P106 wd:Q1162163,
+        wd:Q161944,
+        wd:Q219477,
+        wd:Q42603 ;
+    wdt:P13188 wd:Q21415674 ;
+    wdt:P19 wd:Q165160 ;
+    wdt:P1971 1,
+        2,
+        3 ;
+    wdt:P20 wd:Q1501295 ;
+    wdt:P26 wd:Q123464538 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q165140,
+        wd:Q21,
+        wd:Q502553,
+        wd:Q740915 ;
+    wdt:P69 wd:Q2120288 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q258 .
+
+wd:Q669037 rdfs:label "Bethanien"@de .
+
+wd:Q676689 rdfs:label "Gravesend"@de .
+
+wd:Q6869 rdfs:label "Brenz bei Heidenheim Würtembergischen"@de .
+
+wd:Q68978 rdfs:label "Thun"@de .
+
+wd:Q754867 rdfs:label "Unst"@de .
+
+wd:Q766 rdfs:label "Jamaika"@de .
+
+wd:Q833418 rdfs:label "Sttelmacher-Profession"@de .
+
+wd:Q897317 rdfs:label "Garten und bei der Weinlese"@de .
+
+wd:Q93225 rdfs:label "Nieder-Kunewalde bei Bautzen"@de .
+
+wd:Q936969 rdfs:label "Kindsmagd"@de .
+
+wd:Q94807583 rdfs:label "Johann Christoph Schulz"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P22 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P22 wd:Q130902239 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P22 wd:Q130902239 ] ;
+    p:P570 [ pq:P585 "1769"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 1769 ],
+        [ pq:P585 "1769"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 1769 ] ;
+    wdt:P106 wd:Q37226 ;
+    wdt:P22 wd:Q130902239 ;
+    wdt:P570 1769 .
+
+wd:Q94854997 rdfs:label "Wilhelm Kölbing"@de ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ] ;
+    wdt:P40 wd:Q21517694 .
+
+wd:Q9679 rdfs:label "Insel Wight"@de .
+
+wd:Q9920 rdfs:label "Haarlem"@de .
+
+wd:Q123463681 rdfs:label "Gustav Wedemann"@de ;
+    p:P26 [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135314780 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135314780 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135314780 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135314780 ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q258 ] ;
+    wdt:P26 wd:Q135314780 ;
+    wdt:P937 wd:Q258 .
+
+wd:Q135314780 rdfs:label "Marie Drexler"@de ;
+    p:P26 [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463681 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463681 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463681 ],
+        [ pq:P585 "23-10-1877" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q123463681 ] ;
+    wdt:P26 wd:Q123463681 .
+
+wd:Q1684 rdfs:label "Spree"@de,
+        "Spree bei Niesky"@de .
+
+wd:Q29182 rdfs:label "Bischof"@de .
+
+wd:Q352842 rdfs:label "Lehre in Baukunst und in Handzeichnungen"@de,
+        "Vorlesungen im seminario über die bärgerliche Baukunst"@de .
+
+wd:Q44494 rdfs:label "Mühle"@de .
+
+wd:Q498565 rdfs:label "Tangermünde"@de .
+
+wd:Q5465 rdfs:label "Kapstadt"@de .
+
+wd:Q1069495 rdfs:label "Ebersdorf"@de .
+
+wd:Q12062 rdfs:label "Torgau"@de .
+
+wd:Q123419925 rdfs:label "Friedrich Hoffmann"@de,
+        "Johannes Friedrich Hoffmann"@de ;
+    p:P106 [ pq:P585 "08-04-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "08-04-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P106 wd:Q219477 ] ;
+    p:P1327 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P1327 wd:Q123495049 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P1327 wd:Q123495049 ] ;
+    p:P19 [ pq:P585 "25-07-1783" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P19 wd:Q1265684 ],
+        [ pq:P585 "25-07-1783" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P19 wd:Q1265684 ] ;
+    p:P20 [ pq:P585 "03-07-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P20 wd:Q5379390 ],
+        [ pq:P585 "03-07-1841" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P20 wd:Q5379390 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P26 wd:Q94741320 ],
+        [ pq:P585 "13-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P26 wd:Q123495049 ],
+        [ pq:P585 "13-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P26 wd:Q123495049 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P26 wd:Q94741320 ] ;
+    p:P463 [ pq:P585 "02-09-1804" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "02-09-1804" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "1818-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "1818-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P582 "1823-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q5379390 ],
+        [ pq:P582 "1823-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q5379390 ] ;
+    p:P793 [ pq:P585 "1805-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "1805-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P937 wd:Q159318 ] ;
+    wdt:P106 wd:Q219477 ;
+    wdt:P1327 wd:Q123495049 ;
+    wdt:P19 wd:Q1265684 ;
+    wdt:P20 wd:Q5379390 ;
+    wdt:P26 wd:Q123495049,
+        wd:Q94741320 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q1501295,
+        wd:Q5379390 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q159318 .
+
+wd:Q123456940 rdfs:label "Daniel Wilhelm Suhl"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1840"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1840"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q3914 ],
+        [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1853"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q3914 ],
+        [ pq:P585 "1853"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P19 [ pq:P585 "01-04-1813" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P19 wd:Q1069495 ],
+        [ pq:P585 "01-04-1813" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P19 wd:Q1069495 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P1971 1 ] ;
+    p:P20 [ pq:P585 "30-04-1858" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P20 wd:Q1501295 ],
+        [ pq:P585 "30-04-1858" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P20 wd:Q1501295 ] ;
+    p:P22 [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P22 wd:Q135314873 ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P22 wd:Q135314873 ] ;
+    p:P26 [ pq:P585 "22-06-1845" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P26 wd:Q123495084 ],
+        [ pq:P585 "22-06-1845" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P26 wd:Q123495084 ] ;
+    p:P551 [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q740915 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q740915 ] ;
+    p:P570 [ pq:P585 "30-04-1858" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 "30-04-1858" ],
+        [ pq:P585 "30-04-1858" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P570 "30-04-1858" ] ;
+    p:P69 [ pq:P585 "1818-08"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P69 wd:Q2120288 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P69 wd:Q233324 ],
+        [ pq:P585 "1818-08"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P69 wd:Q2120288 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P69 wd:Q233324 ] ;
+    wdt:P106 wd:Q186360,
+        wd:Q219477,
+        wd:Q37226,
+        wd:Q3914 ;
+    wdt:P19 wd:Q1069495 ;
+    wdt:P1971 1 ;
+    wdt:P20 wd:Q1501295 ;
+    wdt:P22 wd:Q135314873 ;
+    wdt:P26 wd:Q123495084 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q740915,
+        wd:Q84 ;
+    wdt:P570 "30-04-1858" ;
+    wdt:P69 wd:Q2120288,
+        wd:Q233324 .
+
+wd:Q123463682 rdfs:label "Johann Friedrich Wedemann"@de ;
+    p:P106 [ pq:P585 "1837-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P585 "1837-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "20-04-1836" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "20-04-1836" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P106 wd:Q20746152 ] ;
+    p:P19 [ pq:P585 "11-07-1802" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P19 wd:Q556730 ],
+        [ pq:P585 "11-07-1802" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P19 wd:Q556730 ] ;
+    p:P1971 [ pq:P585 "24-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1839-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1839-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P1971 1 ],
+        [ pq:P585 "24-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P1971 1 ] ;
+    p:P20 [ pq:P585 "14-06-1882" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P20 wd:Q165140 ],
+        [ pq:P585 "14-06-1882" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P20 wd:Q165140 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135317445 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P26 wd:Q135317445 ] ;
+    p:P463 [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P580 "1859-07"^^xsd:gYearMonth ;
+            pq:P582 "1859-08"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q96251289 ],
+        [ pq:P580 "1859-07"^^xsd:gYearMonth ;
+            pq:P582 "1859-08"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q96251289 ],
+        [ pq:P585 "07-03-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q801238 ],
+        [ pq:P585 "1851-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q1003342 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q96251289 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q96251289 ],
+        [ pq:P585 "07-03-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q801238 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P585 "1851-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P551 wd:Q1003342 ] ;
+    p:P793 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P585 "13-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "13-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/2397/rec/224> ;
+            ps:P937 wd:Q258 ] ;
+    wdt:P106 wd:Q1162163,
+        wd:Q20746152,
+        wd:Q432386 ;
+    wdt:P19 wd:Q556730 ;
+    wdt:P1971 1 ;
+    wdt:P20 wd:Q165140 ;
+    wdt:P26 wd:Q135317445 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q1003342,
+        wd:Q10056,
+        wd:Q165140,
+        wd:Q688045,
+        wd:Q801238,
+        wd:Q84,
+        wd:Q96251289 ;
+    wdt:P793 wd:Q214802,
+        wd:Q66086 ;
+    wdt:P937 wd:Q258 .
+
+wd:Q123464336 rdfs:label "Johanne Eleonore Fritsch (Wirth)"@de ;
+    p:P26 [ pq:P585 "14-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123396697 ],
+        [ pq:P585 "14-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123396697 ] ;
+    p:P551 [ pq:P582 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P582 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q11142530 ] ;
+    p:P570 [ pq:P585 "19-09-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P570 "19-09-1838" ],
+        [ pq:P585 "19-09-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P570 "19-09-1838" ] ;
+    wdt:P26 wd:Q123396697 ;
+    wdt:P551 wd:Q11142530 ;
+    wdt:P570 "19-09-1838" .
+
+wd:Q123495049 rdfs:label "Maria Elirabeth Richter"@de ;
+    p:P26 [ pq:P585 "13-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P26 wd:Q123419925 ],
+        [ pq:P585 "13-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P26 wd:Q123419925 ] ;
+    p:P551 [ pq:P582 "1823-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q5379390 ],
+        [ pq:P582 "1823-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/45400/rec/182> ;
+            ps:P551 wd:Q5379390 ] ;
+    wdt:P26 wd:Q123419925 ;
+    wdt:P551 wd:Q5379390 .
+
+wd:Q13034496 rdfs:label "Clarkson"@de .
+
+wd:Q135294861 rdfs:label "Francis William Breutel"@de ;
+    p:P40 [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ] ;
+    p:P569 [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "24-06-1830" ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "24-06-1830" ] ;
+    p:P570 [ pq:P585 "1830"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P570 1830 ],
+        [ pq:P585 "1830"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P570 1830 ] ;
+    wdt:P40 wd:Q125843987,
+        wd:Q21415674 ;
+    wdt:P569 "24-06-1830" ;
+    wdt:P570 1830 .
+
+wd:Q135295145 rdfs:label "Justine Bonatz"@de ;
+    p:P20 [ pq:P585 "1830"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q159916 ],
+        [ pq:P585 "1830"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q159916 ] ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ] ;
+    p:P69 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P69 wd:Q20746152 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P69 wd:Q20746152 ] ;
+    wdt:P20 wd:Q159916 ;
+    wdt:P40 wd:Q115345946,
+        wd:Q123463892 ;
+    wdt:P69 wd:Q20746152 .
+
+wd:Q135314033 rdfs:label "John William Breutel"@de ;
+    p:P40 [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ] ;
+    p:P569 [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "11-11-1828" ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "11-11-1828" ] ;
+    wdt:P40 wd:Q125843987,
+        wd:Q21415674 ;
+    wdt:P569 "11-11-1828" .
+
+wd:Q135314873 rdfs:label "Maria Auguste Suhl"@de ;
+    p:P106 [ pq:P585 "1868"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P585 "1868"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P40 [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P40 wd:Q123495084 ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P40 wd:Q123456940 ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P40 wd:Q123495084 ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P40 wd:Q123456940 ] ;
+    p:P569 [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P569 "16-05-1848" ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P569 "16-05-1848" ] ;
+    wdt:P106 wd:Q37226 ;
+    wdt:P40 wd:Q123456940,
+        wd:Q123495084 ;
+    wdt:P569 "16-05-1848" .
+
+wd:Q135314907 rdfs:label "Amalie Schulz"@de ;
+    p:P40 [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q130902239 ],
+        [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q130902239 ],
+        [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q124744576 ],
+        [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q124744576 ] ;
+    wdt:P40 wd:Q124744576,
+        wd:Q130902239 .
+
+wd:Q135317247 rdfs:label "Heinrich Bonatz"@de ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ] ;
+    wdt:P40 wd:Q115345946,
+        wd:Q123463892 .
+
+wd:Q135317408 rdfs:label "Marianne Bonatz"@de ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ] ;
+    wdt:P40 wd:Q115345946,
+        wd:Q123463892 .
+
+wd:Q21 rdfs:label "England"@de .
+
+wd:Q2965351 rdfs:label "Christian Ignatius Latrobe"@de ;
+    p:P13188 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135317111 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135317111 ] ;
+    p:P551 [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "1815"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q1501295 ] ;
+    wdt:P13188 wd:Q21415674 ;
+    wdt:P26 wd:Q135317111 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q1501295,
+        wd:Q258 .
+
+wd:Q3967 rdfs:label "Neuwied"@de .
+
+wd:Q70975 rdfs:label "Königsfeld"@de .
+
+wd:Q740915 rdfs:label "Fulnek"@de .
+
+wd:Q801238 rdfs:label "Neudietendorf"@de .
+
+wd:Q94741320 rdfs:label "Maria Elisabeth Hoffmann"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P26 wd:Q123419925 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P26 wd:Q123419925 ] ;
+    wdt:P26 wd:Q123419925 .
+
+wd:Q511138 rdfs:label "Inspector der dort combinirten Unitäts - Anstalten"@de,
+        "Inspector der dortigen Knaben-Anstalt"@de,
+        "Inspector des seminariums"@de .
+
+wd:Q135294676 rdfs:label "Carl Julius Breutel"@de,
+        "Julius Breutel"@de ;
+    p:P13188 [ pq:P585 "22-10-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ],
+        [ pq:P585 "22-10-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q21415674 ] ;
+    p:P40 [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ] ;
+    p:P569 [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "06-08-1826" ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "06-08-1826" ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q9920 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q9920 ] ;
+    wdt:P13188 wd:Q21415674 ;
+    wdt:P40 wd:Q125843987,
+        wd:Q21415674 ;
+    wdt:P569 "06-08-1826" ;
+    wdt:P937 wd:Q9920 .
+
+wd:Q52316029 rdfs:label "Strumpfwirker-Meister"@de,
+        "strumpfwirker-Meister"@de .
+
+wd:Q96251289 rdfs:label "Gnadenberg"@de .
+
+wd:Q122707229 rdfs:label "Johann Adolph Küster"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q192296 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q43164 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P585 "1802-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P585 "1802-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q192296 ],
+        [ pq:P585 "1798"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q43164 ],
+        [ pq:P585 "1798"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P13188 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P13188 wd:Q123396697 ],
+        [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P13188 wd:Q123456921 ],
+        [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P13188 wd:Q123456921 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P13188 wd:Q123396697 ] ;
+    p:P19 [ pq:P585 "14-05-1775" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P19 wd:Q32204819 ],
+        [ pq:P585 "14-05-1775" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P19 wd:Q32204819 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 2 ],
+        [ pq:P585 "1817-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1819-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1817-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P585 "1819-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P1971 1 ] ;
+    p:P20 [ pq:P585 "27-12-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P20 wd:Q801238 ],
+        [ pq:P585 "27-12-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P20 wd:Q801238 ] ;
+    p:P26 [ pq:P585 "09-09-1806" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P26 wd:Q123464547 ],
+        [ pq:P585 "09-09-1806" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P26 wd:Q123464547 ] ;
+    p:P463 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "07-08-1796" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "14-03-1796" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "07-08-1796" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "14-03-1796" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "1817-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q55 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q5465 ],
+        [ pq:P585 "25-08-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q5465 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q5465 ],
+        [ pq:P585 "25-08-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q5465 ],
+        [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q55 ],
+        [ pq:P585 "1817-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P551 wd:Q165140 ] ;
+    p:P570 [ pq:P585 "27-12-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P570 "27-12-1833" ],
+        [ pq:P585 "27-12-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P570 "27-12-1833" ] ;
+    p:P571 [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P571 wd:Q20746152 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P571 wd:Q20746152 ] ;
+    p:P69 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P69 wd:Q437512 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P69 wd:Q437512 ] ;
+    p:P793 [ pq:P585 "13-04-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "13-04-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "1802-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q3197288 ],
+        [ pq:P585 "1802-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q3197288 ] ;
+    wdt:P106 wd:Q186360,
+        wd:Q192296,
+        wd:Q20746152,
+        wd:Q37226,
+        wd:Q43164 ;
+    wdt:P13188 wd:Q123396697,
+        wd:Q123456921 ;
+    wdt:P19 wd:Q32204819 ;
+    wdt:P1971 1,
+        2 ;
+    wdt:P20 wd:Q801238 ;
+    wdt:P26 wd:Q123464547 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q165140,
+        wd:Q5465,
+        wd:Q55 ;
+    wdt:P570 "27-12-1833" ;
+    wdt:P571 wd:Q20746152 ;
+    wdt:P69 wd:Q437512 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q3197288 .
+
+wd:Q123396697 rdfs:label "Johannes Fritsch"@de ;
+    p:P106 [ pq:P585 "24-04-1811" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "20-03-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q897317 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q152002 ],
+        [ pq:P585 "1801"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q2309621 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q22713629 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1812-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q44494 ],
+        [ pq:P585 "24-04-1811" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q1162163 ],
+        [ pq:P585 "1812-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q44494 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q44494 ],
+        [ pq:P585 "1801"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q2309621 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q152002 ],
+        [ pq:P585 "20-03-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q897317 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q22713629 ],
+        [ pq:P585 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q44494 ] ;
+    p:P13188 [ pq:P585 "15-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P13188 wd:Q94741320 ],
+        [ pq:P585 "24-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P13188 wd:Q123464336 ],
+        [ pq:P585 "24-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P13188 wd:Q123464336 ],
+        [ pq:P585 "15-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/65386/rec/190> ;
+            ps:P13188 wd:Q94741320 ] ;
+    p:P19 [ pq:P585 "25-07-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P19 wd:Q1553447 ],
+        [ pq:P585 "25-07-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P19 wd:Q1553447 ] ;
+    p:P20 [ pq:P585 "12-07-1856" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P20 wd:Q1501295 ],
+        [ pq:P585 "12-07-1856" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P20 wd:Q1501295 ] ;
+    p:P26 [ pq:P585 "14-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123464336 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123464335 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123464335 ],
+        [ pq:P585 "14-04-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P26 wd:Q123464336 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "20-03-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P582 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "20-03-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "01-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q96251289 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P580 "1832"^^xsd:gYear ;
+            pq:P582 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q125510124 ],
+        [ pq:P580 "1832"^^xsd:gYear ;
+            pq:P582 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q125510124 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P582 "1818"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "01-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P551 wd:Q96251289 ] ;
+    p:P793 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P793 wd:Q214802 ] ;
+    p:P937 [ pq:P585 "1851"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P585 "1851"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "09-01-1844" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P937 wd:Q159318 ] ;
+    wdt:P106 wd:Q1162163,
+        wd:Q152002,
+        wd:Q219477,
+        wd:Q22713629,
+        wd:Q2309621,
+        wd:Q44494,
+        wd:Q897317 ;
+    wdt:P13188 wd:Q123464336,
+        wd:Q94741320 ;
+    wdt:P19 wd:Q1553447 ;
+    wdt:P20 wd:Q1501295 ;
+    wdt:P26 wd:Q123464335,
+        wd:Q123464336 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q125510124,
+        wd:Q1501295,
+        wd:Q165140,
+        wd:Q96251289 ;
+    wdt:P793 wd:Q214802 ;
+    wdt:P937 wd:Q1501295,
+        wd:Q159318 .
+
+wd:Q123456921 rdfs:label "Joh- Heinrich Schmitt"@de,
+        "Johann Heinrich Schmitt"@de ;
+    p:P106 [ pq:P585 "1800-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "18-01-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q161944 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q20746152 ],
+        [ pq:P585 "1800-03"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P580 "1798"^^xsd:gYear ;
+            pq:P582 "1799"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P580 "1798"^^xsd:gYear ;
+            pq:P582 "1799"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "18-01-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q161944 ],
+        [ pq:P580 "1792"^^xsd:gYear ;
+            pq:P582 "1795"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q135899048 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P580 "1792"^^xsd:gYear ;
+            pq:P582 "1795"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P106 wd:Q135899048 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P106 wd:Q219477 ] ;
+    p:P13188 [ pq:P585 "1806-12"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P13188 wd:Q123456921 ],
+        [ pq:P585 "1806-12"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P13188 wd:Q123456921 ] ;
+    p:P19 [ pq:P585 "06-01-1766" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P19 wd:Q1799686 ],
+        [ pq:P585 "06-01-1766" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P19 wd:Q1799686 ] ;
+    p:P20 [ pq:P585 "01-01-1847" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P20 wd:Q1069495 ],
+        [ pq:P585 "01-01-1847" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P20 wd:Q1069495 ] ;
+    p:P26 [ pq:P585 "16-01-1807" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P26 wd:Q123495062 ],
+        [ pq:P585 "16-01-1807" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P26 wd:Q123495062 ] ;
+    p:P3001 [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P3001 wd:Q159318 ],
+        [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P3001 wd:Q159318 ] ;
+    p:P463 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "27-04-1788" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "27-04-1788" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "1797-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q676689 ],
+        [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P585 "1797-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q676689 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P580 "1824-10"^^xsd:gYearMonth ;
+            pq:P582 "1825-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P580 "1824-10"^^xsd:gYearMonth ;
+            pq:P582 "1825-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P551 wd:Q159318 ] ;
+    p:P69 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P69 wd:Q833418 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P69 wd:Q833418 ] ;
+    p:P793 [ pq:P585 "1779"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P585 "1779"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/43965/rec/171> ;
+            ps:P793 wd:Q214802 ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q380307 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/19859/rec/104> ;
+            ps:P937 wd:Q380307 ] ;
+    wdt:P106 wd:Q135899048,
+        wd:Q159318,
+        wd:Q161944,
+        wd:Q20746152,
+        wd:Q219477 ;
+    wdt:P13188 wd:Q123456921 ;
+    wdt:P19 wd:Q1799686 ;
+    wdt:P20 wd:Q1069495 ;
+    wdt:P26 wd:Q123495062 ;
+    wdt:P3001 wd:Q159318 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q1501295,
+        wd:Q159318,
+        wd:Q676689 ;
+    wdt:P69 wd:Q833418 ;
+    wdt:P793 wd:Q214802 ;
+    wdt:P937 wd:Q258,
+        wd:Q380307 .
+
+wd:Q135294826 rdfs:label "Emil Breutel"@de ;
+    p:P40 [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ] ;
+    p:P569 [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "17-05-1833" ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "17-05-1833" ] ;
+    wdt:P40 wd:Q125843987,
+        wd:Q21415674 ;
+    wdt:P569 "17-05-1833" .
+
+wd:Q135313974 rdfs:label "Marie Breutel"@de ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q135313956 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q135313956 ] ;
+    p:P40 [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q125843987 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P40 wd:Q21415674 ] ;
+    p:P569 [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "24-11-1835" ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P569 "24-11-1835" ] ;
+    wdt:P26 wd:Q135313956 ;
+    wdt:P40 wd:Q125843987,
+        wd:Q21415674 ;
+    wdt:P569 "24-11-1835" .
+
+wd:Q161944 rdfs:label "Diakonus der Brüder-Kirche"@de,
+        "Diakonus der Brüderkirche"@de .
+
+wd:Q123420356 rdfs:label "Carl August Lemmerz"@de ;
+    p:P13188 [ pq:P585 "26-05-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P13188 wd:Q115005136 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P13188 wd:Q115005136 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P13188 wd:Q115005136 ],
+        [ pq:P585 "26-05-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P13188 wd:Q115005136 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q123494338 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q123494338 ] ;
+    p:P40 [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P40 wd:Q123420358 ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P40 wd:Q123420358 ],
+        [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P40 wd:Q123420358 ],
+        [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P40 wd:Q123420358 ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P40 wd:Q115005136 ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P40 wd:Q115005136 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ] ;
+    p:P569 [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P569 "02-1817" ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P569 "02-1817" ] ;
+    wdt:P13188 wd:Q115005136 ;
+    wdt:P26 wd:Q123494338 ;
+    wdt:P40 wd:Q115005136,
+        wd:Q123420358 ;
+    wdt:P551 wd:Q159916 ;
+    wdt:P569 "02-1817" .
+
+wd:Q123420358 rdfs:label "Br- Lemmerz"@de,
+        "Johannes Friedrich Lemmerz"@de ;
+    p:P106 [ pq:P585 "1802"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q3566027 ],
+        [ pq:P585 "1836-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q52316029 ],
+        [ pq:P585 "1836-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1802"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q3566027 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q52316029 ],
+        [ pq:P585 "1809-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q52316029 ],
+        [ pq:P585 "1809-01"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P106 wd:Q52316029 ] ;
+    p:P19 [ pq:P585 "06-08-1784" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P19 wd:Q450726 ],
+        [ pq:P585 "06-08-1784" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P19 wd:Q450726 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 2 ] ;
+    p:P20 [ pq:P585 "06-05-1855" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P20 wd:Q159916 ],
+        [ pq:P585 "06-05-1855" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P20 wd:Q159916 ] ;
+    p:P22 [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P22 wd:Q123420356 ],
+        [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P22 wd:Q123420356 ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P22 wd:Q123420356 ],
+        [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P22 wd:Q123420356 ] ;
+    p:P26 [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P26 wd:Q115005136 ],
+        [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q115005136 ],
+        [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P26 wd:Q115005136 ],
+        [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P26 wd:Q115005136 ] ;
+    p:P463 [ pq:P585 "27-09-1870" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "27-09-1870" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q1501295 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P582 "30-09-1815" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P551 wd:Q84 ] ;
+    p:P570 [ pq:P585 "06-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P570 "06-05-" ],
+        [ pq:P585 "06-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P570 "06-05-" ] ;
+    p:P69 [ pq:P585 "1799"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P69 wd:Q52316029 ],
+        [ pq:P585 "1799"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P69 wd:Q52316029 ] ;
+    p:P793 [ pq:P585 "1797"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P585 "1797"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P793 wd:Q214802 ] ;
+    wdt:P106 wd:Q159318,
+        wd:Q3566027,
+        wd:Q52316029 ;
+    wdt:P19 wd:Q450726 ;
+    wdt:P1971 2 ;
+    wdt:P20 wd:Q159916 ;
+    wdt:P22 wd:Q123420356 ;
+    wdt:P26 wd:Q115005136 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q1501295,
+        wd:Q165140,
+        wd:Q688045,
+        wd:Q84 ;
+    wdt:P570 "06-05-" ;
+    wdt:P69 wd:Q52316029 ;
+    wdt:P793 wd:Q214802 .
+
+wd:Q233324 rdfs:label "Seminarium"@de,
+        "Seminariun in Gnadenfeld"@de .
+
+wd:Q1003342 rdfs:label "Elim"@de .
+
+wd:Q10056 rdfs:label "Zeist"@de .
+
+wd:Q1162163 rdfs:label "Leiter der Landwirthschaft"@de,
+        "Leiter der ersten Kinderstunde"@de,
+        "Leitung der station (Westindien)"@de,
+        "Leitung der südafricanischen Mission"@de .
+
+wd:Q124744576 rdfs:label "Juliana Barbara Schulz"@de,
+        "Juliane Barbara Schultz (Mackh)"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P106 wd:Q2596569 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P106 wd:Q2596569 ] ;
+    p:P19 [ pq:P585 "28-10-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P19 wd:Q6869 ],
+        [ pq:P585 "28-10-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P19 wd:Q6869 ] ;
+    p:P20 [ pq:P585 "29-12-1860" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P20 wd:Q159916 ],
+        [ pq:P585 "29-12-1860" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P20 wd:Q159916 ] ;
+    p:P25 [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P25 wd:Q135314907 ],
+        [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P25 wd:Q135314907 ] ;
+    p:P26 [ pq:P585 "18-08-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P26 wd:Q123456926 ],
+        [ pq:P585 "18-08-1822" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P26 wd:Q123456926 ] ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q135314390 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q135314528 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q135314390 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P40 wd:Q135314528 ] ;
+    p:P463 [ pq:P585 "15-10-1809" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "15-10-1809" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P580 "1834-02"^^xsd:gYearMonth ;
+            pq:P582 "1834-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P580 "1834-02"^^xsd:gYearMonth ;
+            pq:P582 "1834-04"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P580 "1795"^^xsd:gYear ;
+            pq:P582 "1796"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q2090 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P580 "1795"^^xsd:gYear ;
+            pq:P582 "1796"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q2090 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P551 wd:Q10056 ] ;
+    p:P570 [ pq:P585 "14-02-1810" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 "14-02-1810" ],
+        [ pq:P585 "14-02-1810" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P570 "14-02-1810" ] ;
+    p:P793 [ pq:P585 "1794"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P585 "1794"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P793 wd:Q214802 ] ;
+    p:P937 [ pq:P585 "04-xxxx-04" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1801"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q106402537 ],
+        [ pq:P585 "04-xxxx-04" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1801"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q106402537 ] ;
+    wdt:P106 wd:Q2596569 ;
+    wdt:P19 wd:Q6869 ;
+    wdt:P20 wd:Q159916 ;
+    wdt:P25 wd:Q135314907 ;
+    wdt:P26 wd:Q123456926 ;
+    wdt:P40 wd:Q135314390,
+        wd:Q135314528 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q10056,
+        wd:Q11142530,
+        wd:Q2090,
+        wd:Q84 ;
+    wdt:P570 "14-02-1810" ;
+    wdt:P793 wd:Q214802 ;
+    wdt:P937 wd:Q106402537,
+        wd:Q1501295 .
+
+wd:Q432386 rdfs:label "Gemeinhelfer und Prediger"@de,
+        "Prediger"@de,
+        "Prediger in Nisky"@de .
+
+wd:Q115005136 rdfs:label "Agnes Lemmerz"@de,
+        "Agnes Lemmerz (Jenke)"@de ;
+    p:P106 [ pq:P585 "1820"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1820"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P106 wd:Q159318 ] ;
+    p:P1636 [ pq:P585 "19-04-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P1636 wd:Q754867 ],
+        [ pq:P585 "19-04-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P1636 wd:Q754867 ] ;
+    p:P19 [ pq:P585 "18-04-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P19 wd:Q22694308 ],
+        [ pq:P585 "18-04-1777" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P19 wd:Q22694308 ] ;
+    p:P1971 [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 2 ],
+        [ pq:P585 "09-02-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P1971 1 ] ;
+    p:P20 [ pq:P585 "11-02-1851" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P20 wd:Q159916 ],
+        [ pq:P585 "11-02-1851" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P20 wd:Q159916 ] ;
+    p:P25 [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P25 wd:Q123420356 ],
+        [ pq:P585 "1817-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P25 wd:Q123420356 ] ;
+    p:P26 [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P26 wd:Q123420358 ],
+        [ pq:P585 "26-03-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P26 wd:Q123420358 ] ;
+    p:P463 [ pq:P585 "18-04-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "18-04-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q14835 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q14835 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P580 "1832"^^xsd:gYear ;
+            pq:P582 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q9679 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q9679 ],
+        [ pq:P580 "1832"^^xsd:gYear ;
+            pq:P582 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P551 wd:Q159916 ] ;
+    p:P570 [ pq:P585 "11-02-1851" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P570 "11-02-1851" ],
+        [ pq:P585 "11-02-1851" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/68219/rec/191> ;
+            ps:P570 "11-02-1851" ] ;
+    p:P793 [ pq:P585 "1790"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "13-08-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "1790"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "13-08-1797" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "1827"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q20746152 ],
+        [ pq:P585 "1820"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P585 "1839-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P585 "1845-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q125510124 ],
+        [ pq:P585 "1820"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q5379390 ],
+        [ pq:P585 "1827"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q20746152 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q11142530 ],
+        [ pq:P585 "1839-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1845-06"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73097/rec/197> ;
+            ps:P937 wd:Q125510124 ] ;
+    wdt:P106 wd:Q159318 ;
+    wdt:P1636 wd:Q754867 ;
+    wdt:P19 wd:Q22694308 ;
+    wdt:P1971 1,
+        2 ;
+    wdt:P20 wd:Q159916 ;
+    wdt:P25 wd:Q123420356 ;
+    wdt:P26 wd:Q123420358 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q14835,
+        wd:Q159916,
+        wd:Q165140,
+        wd:Q84,
+        wd:Q9679 ;
+    wdt:P570 "11-02-1851" ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q11142530,
+        wd:Q125510124,
+        wd:Q1501295,
+        wd:Q20746152,
+        wd:Q5379390 .
+
+wd:Q688045 rdfs:label "Gnadau"@de .
+
+wd:Q2120288 rdfs:label "Pädagogium"@de .
+
+wd:Q123396429 rdfs:label "Adolph Bonatz"@de,
+        "Johann Adolf Bonatz"@de ;
+    p:P106 [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1829"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q219477 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ] ;
+    p:P19 [ pq:P585 "29-09-1808" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q1501295 ],
+        [ pq:P585 "29-09-1808" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q1501295 ] ;
+    p:P20 [ pq:P585 "04-01-1893" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q70975 ],
+        [ pq:P585 "04-01-1893" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P20 wd:Q70975 ] ;
+    p:P26 [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135294813 ],
+        [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135294813 ],
+        [ pq:P585 "1836"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135313894 ],
+        [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123463891 ],
+        [ pq:P585 "1836"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q135313894 ],
+        [ pq:P585 "1844"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P26 wd:Q123463891 ] ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P40 wd:Q115345946 ] ;
+    p:P463 [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "1865"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q70975 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q21 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q13034496 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q21 ],
+        [ pq:P585 "1860"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P585 "1860"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159916 ],
+        [ pq:P585 "1859"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q13034496 ],
+        [ pq:P585 "1865"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q70975 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q46 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P551 wd:Q46 ] ;
+    p:P69 [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P69 wd:Q2183679 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P69 wd:Q2183679 ] ;
+    p:P793 [ pq:P585 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P793 wd:Q214802 ],
+        [ pq:P585 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P793 wd:Q214802 ] ;
+    p:P937 [ pq:P585 "1862"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q11972 ],
+        [ pq:P585 "1862"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q11972 ] ;
+    wdt:P106 wd:Q159318,
+        wd:Q219477,
+        wd:Q37226 ;
+    wdt:P19 wd:Q1501295 ;
+    wdt:P20 wd:Q70975 ;
+    wdt:P26 wd:Q123463891,
+        wd:Q135294813,
+        wd:Q135313894 ;
+    wdt:P40 wd:Q115345946,
+        wd:Q123463892 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q10056,
+        wd:Q13034496,
+        wd:Q159318,
+        wd:Q159916,
+        wd:Q165140,
+        wd:Q21,
+        wd:Q46,
+        wd:Q70975 ;
+    wdt:P69 wd:Q2183679 ;
+    wdt:P793 wd:Q214802 ;
+    wdt:P937 wd:Q11972 .
+
+wd:Q123495084 rdfs:label "Sophie Ernestina Suhl"@de ;
+    p:P106 [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P585 "1839"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P106 wd:Q37226 ] ;
+    p:P19 [ pq:P585 "09-05-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P19 wd:Q669037 ],
+        [ pq:P585 "09-05-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P19 wd:Q669037 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P1971 1 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P1971 1 ] ;
+    p:P20 [ pq:P585 "17-07-1884" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P20 wd:Q165140 ],
+        [ pq:P585 "17-07-1884" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P20 wd:Q165140 ] ;
+    p:P25 [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P25 wd:Q135314873 ],
+        [ pq:P585 "16-05-1848" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P25 wd:Q135314873 ] ;
+    p:P26 [ pq:P585 "22-06-1845" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P26 wd:Q123456940 ],
+        [ pq:P585 "22-06-1845" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P26 wd:Q123456940 ] ;
+    p:P40 [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P40 wd:Q135314827 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P40 wd:Q135314827 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P40 wd:Q135294835 ],
+        [ pq:P585 "17-07-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P40 wd:Q135294835 ] ;
+    p:P551 [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P580 "1820"^^xsd:gYear ;
+            pq:P582 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P551 wd:Q165160 ],
+        [ pq:P580 "1820"^^xsd:gYear ;
+            pq:P582 "1824"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P551 wd:Q165160 ],
+        [ pq:P585 "1845"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/72097/rec/195> ;
+            ps:P551 wd:Q11142530 ] ;
+    p:P793 [ pq:P585 "1817-05"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P793 wd:Q35856 ],
+        [ pq:P585 "1817-05"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/21031/rec/219> ;
+            ps:P793 wd:Q35856 ] ;
+    wdt:P106 wd:Q37226 ;
+    wdt:P19 wd:Q669037 ;
+    wdt:P1971 1 ;
+    wdt:P20 wd:Q165140 ;
+    wdt:P25 wd:Q135314873 ;
+    wdt:P26 wd:Q123456940 ;
+    wdt:P40 wd:Q135294835,
+        wd:Q135314827 ;
+    wdt:P551 wd:Q11142530,
+        wd:Q165160 ;
+    wdt:P793 wd:Q35856 .
+
+wd:Q125510124 rdfs:label "Silo"@de .
+
+wd:Q130902239 rdfs:label "Johann Gottfried Schulz"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q352842 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q352842 ],
+        [ pq:P585 "1794"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q352842 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q1639825 ],
+        [ pq:P585 "1794"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P106 wd:Q352842 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/51042/rec/194> ;
+            ps:P106 wd:Q1639825 ] ;
+    p:P13188 [ pq:P585 "13-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P13188 wd:Q55123804 ],
+        [ pq:P585 "13-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P13188 wd:Q55123804 ] ;
+    p:P19 [ pq:P585 "04-04-1734" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P19 wd:Q4077 ],
+        [ pq:P585 "04-04-1734" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P19 wd:Q4077 ] ;
+    p:P20 [ pq:P585 "25-02-1819" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P20 wd:Q165160 ],
+        [ pq:P585 "25-02-1819" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P20 wd:Q165160 ] ;
+    p:P22 [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P22 wd:Q135314907 ],
+        [ pq:P585 "10-11-1825" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P22 wd:Q135314907 ] ;
+    p:P26 [ pq:P585 "1783-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P26 wd:Q135317290 ],
+        [ pq:P585 "1783-02"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P26 wd:Q135317290 ] ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P40 wd:Q94807583 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P40 wd:Q94807583 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P40 wd:Q135294819 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P40 wd:Q135294819 ] ;
+    p:P463 [ pq:P585 "11-03-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "11-03-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P69 [ pq:P585 "1754"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P69 wd:Q154804 ],
+        [ pq:P585 "1754"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P69 wd:Q154804 ] ;
+    p:P793 [ pq:P585 "21-04-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "21-04-1781" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/23017/rec/11> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "04-xxxx-04" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "04-xxxx-04" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73619/rec/197> ;
+            ps:P937 wd:Q1501295 ] ;
+    wdt:P106 wd:Q1639825,
+        wd:Q352842 ;
+    wdt:P13188 wd:Q55123804 ;
+    wdt:P19 wd:Q4077 ;
+    wdt:P20 wd:Q165160 ;
+    wdt:P22 wd:Q135314907 ;
+    wdt:P26 wd:Q135317290 ;
+    wdt:P40 wd:Q135294819,
+        wd:Q94807583 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P69 wd:Q154804 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q1501295 .
+
+wd:Q186360 rdfs:label "Brüderpfleger und Mitprediger in Neusalz"@de,
+        "Krankenwärter"@de,
+        "Pfleger des ledigen Brüderchores"@de,
+        "Pfleger und Vorsteher der led- Brüder in Neuwied"@de .
+
+wd:Q123463892 rdfs:label "Johanna Dorothea Bonatz"@de,
+        "Johanna Dorothea Koch"@de ;
+    p:P106 [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ] ;
+    p:P19 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q1684 ],
+        [ pq:P585 "21-04-1776" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P19 wd:Q1684 ],
+        [ pq:P585 "21-04-1776" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P19 wd:Q1684 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q1684 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P1971 2 ] ;
+    p:P20 [ pq:P585 "13-09-1820" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P20 wd:Q1501295 ],
+        [ pq:P585 "13-09-1820" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P20 wd:Q1501295 ] ;
+    p:P25 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q123396429 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q123396429 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135317408 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135317247 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135317408 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135295145 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135295145 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P25 wd:Q135317247 ] ;
+    p:P26 [ pq:P585 "XX-09-XXXX" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q115345946 ],
+        [ pq:P585 "XX-09-XXXX" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q115345946 ],
+        [ pq:P585 "09-09-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P26 wd:Q115345946 ],
+        [ pq:P585 "09-09-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P26 wd:Q115345946 ] ;
+    p:P463 [ pq:P585 "06-12-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "06-12-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P570 [ pq:P585 "13-09-1820" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P570 "13-09-1820" ],
+        [ pq:P585 "13-09-1820" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P570 "13-09-1820" ] ;
+    p:P937 [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q1501295 ] ;
+    wdt:P106 wd:Q159318 ;
+    wdt:P19 wd:Q1684 ;
+    wdt:P1971 2 ;
+    wdt:P20 wd:Q1501295 ;
+    wdt:P25 wd:Q123396429,
+        wd:Q135295145,
+        wd:Q135317247,
+        wd:Q135317408 ;
+    wdt:P26 wd:Q115345946 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P570 "13-09-1820" ;
+    wdt:P937 wd:Q1501295 .
+
+wd:Q5379390 rdfs:label "Enon"@de .
+
+wd:Q125843987 rdfs:label "A- Sophie Röderer"@de,
+        "Sophie Breutel"@de ;
+    p:P25 [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294861 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294826 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294676 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135314033 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135313974 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135313974 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294676 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135314033 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294861 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P25 wd:Q135294826 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q21415674 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q21415674 ] ;
+    p:P551 [ pq:P585 "15-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q502553 ],
+        [ pq:P585 "15-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q502553 ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q502553 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q502553 ] ;
+    wdt:P25 wd:Q135294676,
+        wd:Q135294826,
+        wd:Q135294861,
+        wd:Q135313974,
+        wd:Q135314033 ;
+    wdt:P26 wd:Q21415674 ;
+    wdt:P551 wd:Q502553 ;
+    wdt:P937 wd:Q502553 .
+
+wd:Q165160 rdfs:label "Niesky"@de .
+
+wd:Q214802 rdfs:label "Konfirmation"@de .
+
+wd:Q21517694 rdfs:label "Friedrich Wilhelm Kölbing"@de ;
+    p:P106 [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q233324 ],
+        [ pq:P585 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q2120288 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q2120288 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q233324 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ],
+        [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q233324 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q233324 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ],
+        [ pq:P585 "1838"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q2120288 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1832"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q37226 ],
+        [ pq:P585 "1846"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q432386 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P585 "1841"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q2120288 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P106 wd:Q511138 ] ;
+    p:P19 [ pq:P585 "04-09-1803" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P19 wd:Q3967 ],
+        [ pq:P585 "04-09-1803" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P19 wd:Q3967 ] ;
+    p:P20 [ pq:P585 "24-05-1850" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P20 wd:Q502553 ],
+        [ pq:P585 "24-05-1850" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P20 wd:Q502553 ] ;
+    p:P22 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q135317137 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q135317515 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q135317515 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q94854997 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q94854997 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q21517694 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q135317137 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P22 wd:Q21517694 ] ;
+    p:P26 [ pq:P585 "14-06-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P26 wd:Q135316864 ],
+        [ pq:P585 "14-06-1838" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P26 wd:Q135316864 ] ;
+    p:P40 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P40 wd:Q21517694 ] ;
+    p:P463 [ pq:P585 "07-04-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "07-04-1817" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "1848-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P551 wd:Q502553 ],
+        [ pq:P585 "1848-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P551 wd:Q502553 ] ;
+    p:P69 [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q233324 ],
+        [ pq:P585 "1816-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q1776834 ],
+        [ pq:P585 "1816"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q2120288 ],
+        [ pq:P585 "1816"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q2120288 ],
+        [ pq:P585 "1822"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q233324 ],
+        [ pq:P585 "1816-09"^^xsd:gYearMonth ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P69 wd:Q1776834 ] ;
+    p:P793 [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "13-11-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P937 wd:Q165160 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/73981/rec/186> ;
+            ps:P937 wd:Q165160 ] ;
+    wdt:P106 wd:Q159318,
+        wd:Q186360,
+        wd:Q2120288,
+        wd:Q233324,
+        wd:Q37226,
+        wd:Q432386,
+        wd:Q511138 ;
+    wdt:P19 wd:Q3967 ;
+    wdt:P20 wd:Q502553 ;
+    wdt:P22 wd:Q135317137,
+        wd:Q135317515,
+        wd:Q21517694,
+        wd:Q94854997 ;
+    wdt:P26 wd:Q135316864 ;
+    wdt:P40 wd:Q21517694 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q502553 ;
+    wdt:P69 wd:Q1776834,
+        wd:Q2120288,
+        wd:Q233324 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q165160 .
+
+wd:Q502553 rdfs:label "Berthelsdorf"@de .
+
+wd:Q115345946 rdfs:label "Johann Gottlieb Bonatz"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P106 wd:Q161944 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P106 wd:Q161944 ],
+        [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ],
+        [ pq:P585 "1810"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P106 wd:Q159318 ] ;
+    p:P13188 [ pq:P585 "03-12-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P13188 wd:Q123420358 ],
+        [ pq:P585 "03-12-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P13188 wd:Q123420358 ] ;
+    p:P19 [ pq:P585 "15-02-1773" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P19 wd:Q498565 ],
+        [ pq:P585 "15-02-1773" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P19 wd:Q498565 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q498565 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P19 wd:Q498565 ] ;
+    p:P1971 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P1971 3 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P1971 5 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P1971 3 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P1971 2 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P1971 5 ] ;
+    p:P20 [ pq:P585 "16-12-1827" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P20 wd:Q1501295 ],
+        [ pq:P585 "16-12-1827" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P20 wd:Q1501295 ] ;
+    p:P22 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135317408 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135295145 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q123396429 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q123396429 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135295145 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135317247 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135317247 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P22 wd:Q135317408 ] ;
+    p:P26 [ pq:P585 "09-09-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P26 wd:Q123463892 ],
+        [ pq:P585 "09-09-1805" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/27861/rec/26> ;
+            ps:P26 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q135317027 ],
+        [ pq:P585 "XX-09-XXXX" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q123463892 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q135317027 ],
+        [ pq:P585 "XX-09-XXXX" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P26 wd:Q123463892 ] ;
+    p:P463 [ pq:P585 "24-02-1793" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P585 "24-02-1793" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P585 "20-07-1792" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P585 "1803"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q10056 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q688045 ],
+        [ pq:P585 "20-07-1792" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q159318 ],
+        [ pq:P585 "1803"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P551 wd:Q10056 ] ;
+    p:P793 [ pq:P585 "27-07-1793" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P793 wd:Q66086 ],
+        [ pq:P585 "27-07-1793" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P793 wd:Q66086 ] ;
+    p:P937 [ pq:P585 "1805"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P937 wd:Q1003342 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1814"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/55633/rec/240> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1805"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P937 wd:Q258 ],
+        [ pq:P585 "1823"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/30364/rec/67> ;
+            ps:P937 wd:Q1003342 ] ;
+    wdt:P106 wd:Q159318,
+        wd:Q161944 ;
+    wdt:P13188 wd:Q123420358 ;
+    wdt:P19 wd:Q498565 ;
+    wdt:P1971 2,
+        3,
+        5 ;
+    wdt:P20 wd:Q1501295 ;
+    wdt:P22 wd:Q123396429,
+        wd:Q135295145,
+        wd:Q135317247,
+        wd:Q135317408 ;
+    wdt:P26 wd:Q123463892,
+        wd:Q135317027 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q10056,
+        wd:Q159318,
+        wd:Q688045 ;
+    wdt:P793 wd:Q66086 ;
+    wdt:P937 wd:Q1003342,
+        wd:Q1501295,
+        wd:Q258 .
+
+wd:Q258 rdfs:label "Süd-Afrika"@de .
+
+wd:Q20746152 rdfs:label "Mission in Dänisch- Westindien"@de,
+        "Mission unter den Hottentotten"@de,
+        "Mission unter den Tambukkis im Kaffernlande"@de,
+        "Missionsanstalten"@de,
+        "Missionsdienst in Westindien"@de,
+        "Missionsposten zu Grünekloof"@de .
+
+wd:Q37226 rdfs:label "Lehrer"@de,
+        "Lehrer am dasigen Gymnasium"@de,
+        "Lehrer an der Gehülfen-Schule"@de,
+        "Lehrer an der Ortsanstalt in Niesky"@de,
+        "Lehrerin"@de,
+        "Lehrerin in Anstalt in Neufalz"@de .
+
+wd:Q219477 rdfs:label "Missionar"@de .
+
+wd:Q66086 rdfs:label "Abendmahl"@de .
+
+wd:Q159916 rdfs:label "Kleinwelka/Mały Wjelkow"@de .
+
+wd:Q84 rdfs:label "London"@de,
+        "london"@de .
+
+wd:Q21415674 rdfs:label "Johann Christian Breutel"@de ;
+    p:P106 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P106 wd:Q186360 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P106 wd:Q186360 ] ;
+    p:P13188 [ pq:P585 "22-10-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q135294826 ],
+        [ pq:P585 "24-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q2965351 ],
+        [ pq:P585 "24-08-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q2965351 ],
+        [ pq:P585 "22-10-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P13188 wd:Q135294826 ] ;
+    p:P19 [ pq:P585 "21-01-1788" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P19 wd:Q44500 ],
+        [ pq:P585 "21-01-1788" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P19 wd:Q44500 ] ;
+    p:P22 [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135314033 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294861 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294676 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294676 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294676 ],
+        [ pq:P585 "11-11-1828" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135314033 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294826 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135313974 ],
+        [ pq:P585 "06-08-1826" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294676 ],
+        [ pq:P585 "24-06-1830" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294861 ],
+        [ pq:P585 "17-05-1833" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135294826 ],
+        [ pq:P585 "24-11-1835" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P22 wd:Q135313974 ] ;
+    p:P26 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q125843987 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P26 wd:Q125843987 ] ;
+    p:P463 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P463 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P463 wd:Q159318 ] ;
+    p:P551 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q84 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q68978 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q111161 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q68978 ],
+        [ pq:P585 "1825"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q111161 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q11142530 ],
+        [ pq:P585 "15-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q502553 ],
+        [ pq:P585 "15-05-" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P551 wd:Q502553 ] ;
+    p:P570 [ pq:P585 "18-02-1875" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P570 "18-02-1875" ],
+        [ pq:P585 "18-02-1875" ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P570 "18-02-1875" ] ;
+    p:P937 [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q165160 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q165160 ],
+        [ pq:P585 "1805"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q3967 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q11142530 ],
+        [ pq:P585 "1805"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q3967 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q11142530 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q125510124 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q125510124 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q1003342 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q159318 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P585 "1808"^^xsd:gYear ;
+            pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q165140 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q1501295 ],
+        [ pq:P854 <https://collections-mun-ca/digital/collection/nachrichten/id/1119/rec/210> ;
+            ps:P937 wd:Q1003342 ] ;
+    wdt:P106 wd:Q186360 ;
+    wdt:P13188 wd:Q135294826,
+        wd:Q2965351 ;
+    wdt:P19 wd:Q44500 ;
+    wdt:P22 wd:Q135294676,
+        wd:Q135294826,
+        wd:Q135294861,
+        wd:Q135313974,
+        wd:Q135314033 ;
+    wdt:P26 wd:Q125843987 ;
+    wdt:P463 wd:Q159318 ;
+    wdt:P551 wd:Q111161,
+        wd:Q11142530,
+        wd:Q502553,
+        wd:Q68978,
+        wd:Q84 ;
+    wdt:P570 "18-02-1875" ;
+    wdt:P937 wd:Q1003342,
+        wd:Q11142530,
+        wd:Q125510124,
+        wd:Q1501295,
+        wd:Q159318,
+        wd:Q165140,
+        wd:Q165160,
+        wd:Q3967 .
+
+wd:Q11142530 rdfs:label "Groenekloof (Mamre)"@de .
+
+wd:Q165140 rdfs:label "Herrnhut"@de .
+
+wd:Q1501295 rdfs:label "Bavianökloof (Gnadenthal)"@de,
+        "Gnadenthal"@de .
+
+wd:Q159318 rdfs:label "Herrnhuter Brüdergemeine in Eberspdorf"@de,
+        "Herrnhuter Brüdergemeine in Niesky"@de,
+        "Herrnhuter Brüdergemine"@de,
+        "Herrnhuter Brüdergemine auf dem Saal"@de,
+        "Herrnhuter Brüdergemine in Eberspdorf"@de,
+        "Herrnhuter Brüdergemine in Elim"@de,
+        "Herrnhuter Brüdergemine in Fingu"@de,
+        "Herrnhuter Brüdergemine in Gnadenthal"@de,
+        "Herrnhuter Brüdergemine in Grönekloof"@de,
+        "Herrnhuter Brüdergemine in Grönekloof (Hottentotten)"@de,
+        "Herrnhuter Brüdergemine in Kleinwelke"@de,
+        "Herrnhuter Brüdergemine in Mamre (Groenekloof)"@de,
+        "Herrnhuter Brüdergemine in Mamre (Groenekloof),"@de,
+        "Herrnhuter Brüdergemine in Nisky"@de,
+        "Herrnhuter Brüdergemine in Ockbrook"@de .
+
