@@ -1,0 +1,899 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="../schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.8.1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lebenslauf des am 18. Febrnar 1875 heimgegangenen verwiiweten Bruders Johann
+          Chriſtian Breutel</title>
+        <author>Johann Chriſtian Breutel</author>
+        <respStmt>
+          <resp>XML-Modelling compiled by</resp>
+          <name>Svetlana Yakutina</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>Verlag der Unitäts-Buchhandlung</orgName>
+        </publisher>
+        <pubPlace>Gnadau (Germany)</pubPlace>
+        <availability>
+          <p>
+            <orgName>Memorial University of Newfoundland</orgName>
+          </p>
+        </availability>
+        <date>1875</date>
+        <ref>https://collections.mun.ca/digital/collection/nachrichten/id/1119/rec/210</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="j">Nachrichten aus der Brüder-Gemeine</bibl>
+        <biblFull>
+          <titleStmt>
+            <title>Nachrichten aus der Brüder-Gemeine</title>
+            <author>Unbekannt</author>
+          </titleStmt>
+          <editionStmt>
+            <edition>Digitale Ausgabe der Zeitschrift</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Verlag der Unitäts-Buchhandlung</publisher>
+          </publicationStmt>
+          <seriesStmt>
+            <title level="j" type="main">Nachrichten aus der Brüder-Gemeine</title>
+            <biblScope unit="volume">1856-1894</biblScope>
+            <biblScope unit="issue">1875</biblScope>
+            <biblScope unit="page">755-788</biblScope>
+          </seriesStmt>
+          <notesStmt>
+            <note type="fileFormat">application/pdf</note>
+          </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Memorial University of Newfoundland</repository>
+            <idno>
+              <idno type="URLCatalogue">https://dai.mun.ca/digital/nachrichten/</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="755" />
+        <head>Lebenslauf des amt <date>18 Febrnar 1875</date> Deimigegongenen verwiiweten Bruders
+            <persName>Johann Chriſtian Breutel</persName>.</head>
+        <p>Das iſt mir ſonnenklar, daß ih des Heilands war von meiner erſten Wiegen. Ich weiß es an
+          den Zügen, die ſich ſeit ſo viel Jahren an mir veroffen— baren. — Ich bin durch manche
+          Zeiten, wohl gar durch Ewigkeiten in meinem Geiſt gereiſt! Nichts hat mir's Herz genommen,
+          als da ich angekommen auf Golgatha, Gott ſei gepreiſt! — Ich war ein armes Weſen, an dem
+          kein gutes Haar; Sein Blut ließ mich geneſen zum Glied bei Seiner Schaar; ich habs noch im
+          Gedächtniß, mir dünkts noch heute ſchön, da ich mein Brautvermächtniß in Seiner Hand
+          geſehn.</p>
+        <p>In dieſen Verſen iſt mein Herzensgang ausge— ſprochen, und ih könnte damit ſchließen,
+          will es aber doch verſuchen, auch einiges von meinem Lebensgang aufzuzeichnen.</p>
+        <p><s>ich wurde geboren den <date>21. Januar 1788</date> in
+              <placeName>Weißenburg</placeName> am <placeName>Sand</placeName>.</s> Meine guten
+          treuen Eltern waren mit der Brüdergemeine nahe verbunden, mein Vater hielt die
+          Verſammlungen der dortigen Er— weckten. <s>Ihre 4 Kinder führte der Heiland in die
+              <orgName>Brüdergemeine</orgName>, <persName>mein Bruder</persName> ging in
+              <placeName>Suriname</placeName>, <persName>meine ältere Schweſter</persName> in
+              <placeName>Däniſch Weſtindien</placeName> und <persName>meine juͤngere</persName> in
+              <placeName>Ebersdorf</placeName> heim.</s> Schon in meiner frühen Kindheit fühlte ich
+          oft recht kräftige Gnadenzüge, eine tiefe innere Be— wegung, die ich mir nicht zu deuten
+          wußte. Auch</p>
+        <pb n="756" />
+        <p>viele Erhörungen meines kindlichen Gebetes durfte ich erfahren. Schon früh regte ſich in
+          mir eine tiefe Sehnſucht nach der ewigen Heimath, und dieſer Heim. wehzug hat mich, bei
+          allen Abwechſelungen, durch mein ganzes Leben begleitet. Dabei regte ſich aber auch recht
+          frühzeitig das ſündliche Verderben. Ob: gleich meine Eltern mich vor ſchlechtem Umgang zu
+          bewahren ſuchten, ſo konnten ſie es doch nicht ver⸗ hindern, daß ich viel Böſes. ſahe und
+          hörte, das leider in meinem verderbten Herzen empfänglichen Boden fand. <s>Der Heiland riß
+            mich heraus ; ich reiſte in meinem 11. Jahr mit meinen Eltern nach
+              <placeName>Ebersdorf</placeName> und bat ſehr dringend, da bleiben zu dürfen.</s>
+          Meine Annahme zur <orgName>Gemeine</orgName> hatte aber nicht die Genehmigung unſers
+          lieben Herrn, was mich ungemein betrübte. Ich ahnte nicht, welche Friedensabſichten der
+          Heiland dabei hatte, und wie groß der Einfluß für mein ganzes Leben ſein würde.</p>
+        <p>Er leitete es, daß ich in die Ebersdorfer Penſions⸗Anſtalt kam. Die in derſelben
+          verbrachten 2 Jahre gehören zu den glücklichſten und geſegnetſten meines Lebens, Gleich
+          nach dem Eintritt ließ mich - der Heiland einen tiefen Blick in mein Elend und Verderben
+          thun, ich weinte und betete, und die ſelige Stunde ſchlug, da Er auch mir zurief: deine
+          Sün— den ſind dir vergeben, ſiehe in dieſe Hände habe Ich dich gezeichnet, du biſt Mein!
+          Da kam eine ſchöne Zeit der erſten Liebe, mein Herz lebte in und mit dem Heiland, Er hörte
+          und erhórte meine kindlichen Gebete. Ich fand auch einige gleichgeſinnte Kame⸗ raden.
+            <s>Unter ihnen war beſonders einer, Namens <persName>Aſchenbach</persName>, mit dem ich
+            unzertrennlich verbunden blieb.</s> Meine treuen Lehrer und Erzieher ſind mir im
+          unvergeßlichen dankbar Andenken geblieben. </p>
+        <p>Mit dankbarem Herzen verließ ih die Anſtalt</p>
+        <pb n="757" />
+        <p>zu Oſtern 1801, um in die Beutlerei des Bruͤderhauſes als Lehrling
+          einzutreten. Es ging nun eine ſchwere Periode für mich an. Ich hatte Geſchmack an
+          wiſſenſchaftlicher Beſchäftigung gefunden, und das mechaniſche meiner Profeſſion wurde mir
+          zur Laſt. Dazu kam noch, daß der Verſuch in der freien Zeit das Gelernte fortzuſetzen,
+          nicht gern geſehen wurde, und viele Knaben ihre freie Zeit mit Nichtsthun und unnützem
+          Geſchwätz vergeudeten und manche in böſe Dinge hinein geriethen. Der Eindru&gt; wurde ein
+          blei- bender, wie wichtig die Knabenſtuben ſind, und wie es eine heilige Pflicht iſt,
+          ihnen alle nur mögliche Sorgfalt zu widmen. Die Arbeit an den Herzen iſt und bleibt die
+          Hauptſache, es muß aber noch mehr für ſie gethan werden. Auch ihr Geiſt muß beſchäftigt
+          werden, und man muß ſie dahin bringen, daß ſie auch ihre freie Zeit gut anwenden. O
+          möchten Alle, denen die Aufſicht und Pflege der Knaben anver— traut iſt, dieſen ihre ganze
+          Sorge und Liebe zu— wenden! Mit Dank und Liebe denke ich dennoch an unſre damaligen
+          Knabenbrüder zurück, ſie meinten es treu und gut, und hielten feſt an dem: „Chriſtum lieb
+          haben iſt beſſer, denn alles Wiſſen, und wäre dieſe Liebe immer kräftig und lebendig
+          geweſen, fo wäre es dennoch gut gegangen.</p>
+        <p><s>Mein Freund <persName>Aſchenbach</persName> war mir ins Knabenchor nachgekommen und
+            als Lehrling in die Apotheke eingetreten, durch ihn wurde eine mir gebliebene Liebe für
+            Naturwiſſenſchaft geweckt, und er füllte eine Lücke aus, die mir ohne ihn noch
+            ſchmerzlicher geweſen wäre.</s> Immer truͤber wurde es aber dennoch in mir, bis mich der
+          Heiland endlich in der vollen Ergebung Ruhe finden ließ. Ich ſtand damals auf dem Schei⸗
+          deweg und danke es nun der Gnade meines Heilan— des, die mich rettete. Auch mein Inneres
+          war zer—</p>
+        <pb n="758" />
+        <p>riſſen und geſpalten, Mein Herz hing bei Abwechſelungen doch am Heiland, in meinem
+          Verſtand: aber erwachten Zweifel aller Art. Dieſer Zwieſpalt zwiſchen Herz und Verſtand
+          iſt durch meine ganzen Knaben: und Jünglingsjahre hindurchgegangen. Ich habe viel und oft
+          mit Thränen um Wahrheit und Erkenntniß gebetet. Mein Herz blieb gläubig, aber mein
+          Verſtand legte ſich erſt ſpäter zum Ziel. O1 wie dankbar war ich dem Heiland, als dieſes
+          ſich durch ueberzeugung in die ihm geſteckten Grenzen fügte und in dem, was Herzensſache
+          iſt, dienende Magd wurde. — Alle dieſe angedeuteten Erfahrungen und der Kampf mit den
+          ſündlichen Reizungen meines verderbten Fleiſches und Blutes haben meiner Stim⸗ mung eine
+          Farbe beigemiſcht, die ſich wie ein grauer Faden durch mein Leben gezogen hat. Ich lernte
+          das Leben von einer zu ernſten Seite kennen und konnte nicht recht heimiſch in demſelben
+          werden. Es fehlte mir eine gewiſſe Leichtigkeit und Annehmlichkeit im umgang, was mir
+          drückend und andern beſchwerlich iſt. Es iſt ein Kreuz, das ich tragen, und Andere um
+          Geduld bitten muß. Auf die Gemeingnaden wartete ich mit großem Verlangen, hatte aber bei
+          der Confirmation und dem erſtmaligen Genuß des heiligen Abendmahls nicht den
+          ausgezeichneten Gegen, welchen ih erwartete. Es lag eben auh in dieſem Hoffen und Erwarten
+          zu viel unächtes, menſchliches.</p>
+        <p><s>Im Jahr <date>1804</date> wurde ich, da man mich für ein Jahr älter hielt, ins
+            Brüderchor aufgenommen.</s> Dieſer Irrthum hatte einen wichtigen Einfluß auf meine
+          weitere Führung. <s>Jm <date>Frühjahr 1805</date> bekam ich unerwartet den Antrag als
+            Beutlergeſell nach <placeName>Neuwied</placeName> zu gehen.</s> Ich nahm denſelben aus
+          Gehorſam an, und hatte ſpäter alle Urſache, darin die liebevolle Leitung des Herrn zu
+          erkennen, indem ich da Ge⸗</p>
+        <pb n="759" />
+        <p>legenheit fand, in meiner Profeſſion weiter zu kommen und auch mein gutes Auskommen
+          hatte. — <s>Sehr unerwartet kam mir im Jahr <date>1808</date> der Antrag als
+            Beutlermeiſter nach <placeName>Herrnhut</placeName> zu gehen.</s> Ich bat den Heiland
+          entſcheiden zu laſſen, und Er ſagte: Nein! Aber ſchon im Frühjahr des folgenden Jahres kam
+          ein gleicher Antrag nach Ebersdorf, und Er ſagte: Ja! — Mein Wunſch "und Trieb ging in die
+          Hei- denwelt, und es war mir daher nicht leicht, bei dem Geräth zu bleiben und eine
+          Meiſterſchaft zu über⸗ nehmen.</p>
+        <p><s>Nach einer durch die Hitze ziemlich mühſeligen Fußreiſe fam ich am <date>5.
+              Auguſt</date> in <placeName>Ebersdorf</placeName> an und hatte die Freude, dort wieder
+            meine geliebte Schweſter und meinen Freund <persName>Aſcheubach</persName> zu
+            finden.</s> Bald wurde mir das Inpentarium der Beutlerei und damit eine mir nicht
+          leichte Laſt übergeben, Ich kam mir vor wie ein Kind und flehte unabläſſig zum Heiland,
+          daß Er, durchhelfen wolle. Da er wachte ich an einem Morgen mit dem Ruf im Her⸗ zen: Der
+          Heiland ſelbſt will der Meiſter ſein. Er hat Sein Wort gehalten. Ex war mein Vormund, und
+          bald wurde der Abſatz ſo bedeutend, daß ich nicht Waare genug liefern konnte.</p>
+        <p>Später kam eine Prüfungszeit. Im Jahre 1812 | wurden alle Abſatz⸗Wege
+          geſperrt, und dies brachte mich in ſolche Noth, daß auch meine Geſundheit zu leiden
+          anfing. Als mein Kummer den höchſten Grad erreichte, ging ih auf eine Kammer, fiel auf
+          mein Angeſicht und erhielt die Zuſicherung, der Heiland werde helfen. Doch ſogleich
+          geſchah es nicht, es kam ſo weit, daß ich glaubte, der Heiland fordere von mir, hauſiren
+          mit meinen Waaren gehen zu müſſen. Als ich mit ſchwerem Herzen Anſtalten dazu machte,</p>
+        <pb n="760" />
+        <p>gehen zu müſſen, immer den nöthigen Abſatz. Da bar rühme ich es der Treue und Liebe
+          meines Her nach: Ihm iſt nichts zu viel und nichts zu wen was man braucht, warum man
+          weint. Er erhö Gebet! Er hat in den Handwerksſtand beſond Segen gelegt, Er ſelbſt war ja
+          ein Zimmermann!</p>
+        <p><s>Mein Miſſionstrieb war indeß immer wach geblieben, und es kam mir daher ſehr
+            unerwartet, als ich im Jahr <date>1814</date> einen Ruf als Vorſteher des led.
+            Brüder⸗Chores in <placeName>Gnadenfrei</placeName> erhielt, am <date>5. Mai</date> kam
+            ich daſelbſt an.</s> Die damalige Lage der <orgName>Brüd-Diakonie</orgName> war eine
+          ſehr bedrängte, es begann fu mich eine ſchwere Zeit, bis der Heiland auch da zeigt daß Er
+          der Mann iſt, der helfen kann. Dieſe Wah heit hat auh unſre ganze
+            <orgName>Brüder-Unität</orgName>, die dama unter einer erdrückenden Schuldenlaſt
+          ſeufzte, auf ei anbetungswerthe Weiſe erfahren. Es war eine ernſt ja recht ſchwere Zeit,
+          an die ich aber doch gern un mit Dank und Liebe zuruͤckdenke. Doch iſt mir a tief
+          eingedrückt geblieben, wie es auh in den äußer Dingen eine heilige Pflicht iſt, treu und
+          wachſam z ſein und um die Klarheit zu bitten, die kindlich Glauben nicht mit Sorgloſigkeit
+          verwechſelt.</p>
+        <p><s>Am <date>31. Januar 1819</date> wurde ich durch <persName>Br. v. Albertini</persName>
+            zu einem <orgName>Diakonus der Brüderkirche</orgName> ordinirt und erhielt bald darauf
+            einen Ruf als Pfleger und Vorſteher der led. Brüder in
+            <placeName>Neuwied</placeName>.</s>
+          <s>Am <date>1. Juni</date> trat ich meine Wanderung dahin an.</s> Die Reiſe wurde mir, da
+          es ſehr heiß war, ziemlich ſauer, hatte aber dabei den Segen, daß ich mich recht ungeſtört
+          mit dem Heiland über Vergangenheit und Zukunft unterhalten und auch meine alten würdigen
+          Eltern in Weißenburg beſuchen konnte. Als ich von Coblenz in dem ſchönen Reinthal am
+          herrlichen Morgen dahin wanderte, überfiel mich eine große Angſt, da ich das</p>
+        <pb n="760" />
+        <p>mir ſonſt ſo liebe Neuwied erblickte, ſo daß ich hin— ter einem
+          Strauch auf meine Kniee fiel und den Heiland recht brünſtig um Seine Durchhülfe bat.</p>
+        <p>War es eine Ahnung? ih weiß es nicht; ge— wiß aber iſt, es wartete meiner eine ſchwere
+          Zeit. Es zeigte ſich bei der Uebernahme der Diakonie ein Schaden, der anſtrengende Arbeit,
+          Sorge und Kum⸗ mer zut Folge hatte. Der Heiland zeigte auch da, daß Er hinein, aber auch
+          wieder hinausführt. Doch fühlte ich immer mehr, daß meine ſchwache Kraft der fortgehenden
+          Anſtrengung nicht gewachſen ſei. Mein Miſſionstrieb blieb immer lebendig, und ich hoffte,
+          der Heiland wird mich auf dieſem Wege heraus— führen, wenn Er ſieht, daß meine Kräfte in
+          der ge— genwärtigen Lage unterliegen ſollten. Der Heiland aber hatte es anders
+          beſchloſſen, Er zeigte mir, daß ich auch dieſen Trieb Ihm hinzugeben habe, und ich that es
+          unter vielen Thränen. <s>Die Folgen der über meine Kräfte gehenden Anſtrengung zeigten
+            ſich in einer gewiſſen Ueberreizung, die den Schein von Geiſteskraft und Munterkeit gab,
+            und ſo kam es, daß <persName>mir</persName> im Jahre <date>1823</date> noch das Vicariat
+            als Gemeinvorſteher übertragen wurde.</s> Während demſelben ſtarb der Gemeinlogis⸗Wirth,
+          und es wurde auch dadurch Arbeit und Sorge vermehrt. Ich mußte mich nun auch dieſes
+          Geſchäfts, mit dem eine bedeutende Brau— erei verbunden war, ſpeciell annehmen, und dies
+          hatte die Folge, daß mir der Antrag gemacht wurde, die Führung deſselben ganz zu
+          übernehmen. Die Ueber⸗ zeugung, dass ich in meiner gegenwärtigen Lage bald unterliegen
+          werde, machte mich zur Annahme geneigt, bald aber wurde mir klar, daß dies nicht der
+          rechte Grund ſei. Ich flehte zum Heiland, und bekam von Ihm in meinem Innern die
+          Erlaubniß, es Seiner Entſcheidung anheim ſtellen zu dürfen. Nie werde</p>
+        <pb n="762" />
+        <p>ich die da gemachten Erfahrungen vergeſſen! Er ver ſicherte mich Seiner vollen Vergebung,
+          und ih wußte daß Er nun frei über mich entſcheiden könne. wurde ſtille in mir, und es hieß
+          in meinem Herzen Ich habe mich unterwunden mit dem Herrn zu re den. — Er ſagte: Nein! Ich
+          blieb in meiner Lagi So dankbar ich dem Heiland- für dieſe Seine Leitun war, ſo fühlte ich
+          doch bald eine Kraftloſigkeit, d mit den Anforderungen meiner Pflichten im ſchn denden
+          Widerſpruch ſtanden. Schlafloſigkeit war ſch lange mein Leiden, ſie vermehrte ſich, die
+          Arbeit wm mir immer ſchwerer, und ſo kam es, daß ich e 23. November bei dem
+          Herausgehen aus dem Che ſaal zuſammenbrach und auf meine Stube gebra wurde. Die Ruhe that
+          mir wohl, und es regte die Hoffnung, daß ein Ruheplätzchen für die Ew keit daraus werden
+          könne. Aber ih war noch n reif dazu, die Lauge des Wäſchers und das Feu des Goldſchmidts
+          ſollten über mich kommen. Er ze mir, wie viel ſündliches in meinem Eifer gelegen, n
+          Kleinglaube, Mangel an kindlicher Einfalt und vieles Andere, das Er mir nah und nach
+          aufdeckt allein die Schuld an meiner Niederlage ſei. Er nal mir Alles, war aber dabei ſo
+          gnädig, mir in Zeiten des ſchwerſten Gemüths⸗ und Nervenleid die feſte Zuverſicht zu
+          erhalten, daß Seine Gn denſonne nicht untergegangen ift, wenn auch düſtert Wolken ſie
+          verdecken. Ich habe da erfahren, was es heißt: „Nicht ſehen, niht fühlen, nicht haben,
+          und. doch glauben.“ Das feſte Anhalten an den nackten Glauben, das mir der Heiland aus
+          Gnaden bewahrte, blieb mein Rettungsanker. Der Heiland ruhte nicht, bis Er mir die volle
+          Ergebung in alle Seine Wege, ſelbſt wenn ich für immer unbrauchbar bleiben ſollte, :
+          ſchenken konnte. Jeder Anſpruch ſank dahin. Es kam `</p>
+        <pb n="763" />
+        <p>mir zu Statten, daß ich früher mit ähnlich Leiden⸗ den zu thun hatte, und mir ſolche
+          Zuſtände niht un- bekannt waren. Da nur meine Gefühlsnerven ſo verſtimmt waren, mein
+          Denkvermögen aber ganz klar blieb, ſuchte ich ſorgfältig zu beobachten, wie Geiſt und
+          Körper auf einander wirken, aber die Grenzen ſchwammen in einander, ich fand eine
+          Wechſelwirkung, die eine klare Sonderung nicht geſtattete. Der Geiſt hat da die Aufgabe
+          „auf einem verſtimmten In— ſtrument möglichſt rein zu ſpielen“ und er kann das durch Gebet
+          und treue Wachſamkeit, wird aber der Nerven-Auftuhr zu groß, ſo kann er überwältigt und
+          gebunden werden. Ich war einmal an dieſer Grenze, unter Gebet und Flehen ging der Sturm
+          vorüber. Es war mir wie einem Reiter, deſſen Pferd ſich bäumt, der den Zügel feſt hält,
+          aber nicht weiß, wie lang er es noch im Zaume halten kann. Die von vielen Seiten mir
+          geſchenkte liebevolle und hülfreiche Theilnahme bleibt mir im unvergeßlich dank“ baren
+          Andenken. Endlich nahte der Frühling und mit - ihm die Zeit, da ich auf den Schweizer
+          Bergen meine Geneſung finden ſollte. <s>ich reiſte am <date>9. Mai 1824</date> mit meinem
+            Reiſegefährten, <persName>Br. Röderer</persName> ab, machte mit ihm einen angenehmen
+            Beſuch in <placeName>Montmirail</placeName> und durchwanderte mit ihm die
+              <placeName>Alpen</placeName>.</s> Da fühlte ich wieder neuen Lebensmuth! <s>In
+              <placeName>Thun</placeName> fanden wir Briefe, und einer derſelben enthielt den Ruf an
+            mich, der <orgName>Gemeine</orgName> in <placeName>Nisky</placeName> als Vorſteher zu
+            dienen.</s> Nun wurde mir klar, warum der Heiland die Hingabe meines Miſſionstriebes
+          gefordert hatte, und es war mir gleich ausgemacht, daß ich demſelben zu folgen habe.
+            <s>Bei der mir nicht leichten Ueberlegung, wen ich zu meiner künftigen Lebensgefährtin
+            vorzuſchlagen habe, erhörte der Heiland mein Gebet und führte mir die led. Schweſter
+              <persName>A. Sophie Röderer</persName> zu mit der ich am <date>31. Auguſt</date>
+            verlobt und am <date>16. Septbr.</date> zur heil. Ehe verbunden wurde.</s></p>
+        <pb n="764" />
+        <p>
+          <s>Am <date>27. Septbr</date> trate wir, begleitet von den guten Eltern, nach einem
+            bewegten Abſchied in <placeName>Montabaur</placeName>, unſere Reiſe nach
+              <placeName>Nisky</placeName> an.</s> Wir nahmen’ unſern Weg über Weißen burg, um
+          meinem würdigen Vater ſeine Schwieg tochter vorzuſtellen. Der liebe Greis lebte ganz vo
+          Neuem auf und gab uns ſeinen Segen. <s>In <placeName>Berthelsdorf</placeName> wurde
+              <persName>meine gute Frau</persName> zur Akoluthie an genommen.</s>
+          <s>In <placeName>Königshain</placeName> beſuchten wir unſere Verwandten, <persName>v.
+              Heynitzen's</persName>, mit denen wir auf eine Glaubensgrund ruhend, gleich ſo
+            zuſammenfloſſen, da dieſe Verbindung eine reiche Quelle des Segens für uns geblieben
+            iſt.</s>
+        </p>
+        <p><s>Am <date>15. Oktober</date> wurden wir in <placeName>Nisky</placeName> mit Liebe
+            aufgenommen, und ich fand gleich volle Be ſchäftigung, da mein Vorgänger, der ſel.
+              <persName>Br. Goldmann</persName>, lang krank und im <date>Mai</date> heimgegangen
+            war.</s></p>
+        <p><s>Im Jahr <date>1825</date> wohnte ich einem Theil der <orgName>Synode</orgName> bei,
+            indem ich zu einem Mitglied der ökonomiſchen Commitee berufen wurde.</s> Die Synode un
+          terſuchte alle Zweige unſers ökonomiſchen Verbandes und es lag ihr beſonders an, nach
+          Möglichkeit künfligen Schäden vorzubeugen, das Gleichgewicht in un ſerm Haushalt
+          herzuſtellen und einen Tilgungsfon zur Abtragung der unbedeckten Schuld zuſammenzu
+          bringen. Da zeigte unſer lieber Herr, welche Kraft Er in die Verbundenheit gelegt hat! Es
+          war eine geſegnete Zeit!</p>
+        <p><s>Am <date>6. Auguſt 1826</date> wurde unſer erſter Sohn <persName>Carl
+              Julius</persName>, am <date>11. November 1828</date> unſer zweiter, <persName>John
+              William</persName> und am <date>24. Juni 1830</date> unſer dritter, <persName>Francis
+              William</persName> geboren; Letztere gingen im noch nicht vollendeten erſten
+            Lebensjahr heim.</s></p>
+        <p>Unſre l. Eltern waren am 4. Juni 1826 von</p>
+        <pb n="765" />
+
+        <p>
+          Neuwied zu uns gezogen, und wir hatten das Gläck, bis zum Jahr
+            1832 mit ihnen zuſammen zu wohnen. - <s>Ganz unerwartet erhielt ich am
+              <date>25. Jan. 1832</date> einen Ruf in das <orgName>Vorſteher-Departement</orgName>
+            in der <orgName>Unit.-Aelt.-Conferenz</orgName>.</s> Meine Stimmung dabei iſt in dem
+          Vers ausgedrückt: „Da iſt die Hand, ach wärs doch nicht vergebens! Wie oft hab ich ſie dir
+          ſchon hingereicht, wie oft die beſte Hoffnung ſchon gezeigt! Und doch iſt noch kein Ziel
+          des fremden Lebens! Al— lein ich bitte dich, ſo ſehr ich kann: Sprich doch zu meiner Seel:
+          fangs wieder an!“ — Mit dem in— nigſten Dank für ſo viele Durchhülfen und mit Beu— gung
+          über ſo viele Verſehen, Mängel und Gebrechen beſchloß ich meinen Dienſt in Nisky.</p>
+        <p><s>Am <date>15. Mai</date> zogen wir in <placeName>Berthelsdorf</placeName> ein und
+            wurden mit Liebe empfangen.</s> Beſonders angenehm! war es mir, an meinen l. Collegen im
+            <orgName>Vorſteher⸗Departement</orgName> Freunde zu finden, mit denen ich ſo techt in
+          einem Sinn und Geiſt an einem Joch ziehen konnte. Bei dem tieferen Blik in die inneren und
+          äußeren Verhält- niſſe unſerer Brüder-unität wurde es mir recht klar, wie der Heiland es
+          iſt, der das Schifflein unſrer Brüder⸗Unitat alleih als Meiſter an dem Ruder durch Klippen
+          und Wellen hindurchſteuern kann. Da mir auh die Aufſicht über die Güterverwaltung über⸗
+          tragen wurde, ſo fand ich bald volle Beſchäftigung und habe dabei manches Schwere, aber
+          auch viele Durch— hülfen unſers Herrn erfahren. <s>Jm Jahr <date>1835</date> wurde
+              <persName>mir</persName> ein Beſuch in ökonomiſchen Angelegenheiten in den
+              <orgName>Gemeinen Ebersdorf</orgName>, <orgName>Neudietendorf</orgName>,
+              <orgName>Gnadau</orgName>, <orgName>Chriſtiansfeld</orgName> und in der
+              <orgName>Societät in Kopenhagen</orgName> aufgetragen.</s> An allen dieſen Orten kam
+          mir Liebe und unverdientes Zutrauen entgegen, wodurch manches Schwere erleichtert wurde.
+            <s>Nach einer Abweſenheit von 15 Wochen hatte ich die Freude, <persName>meine l.
+              Frau</persName>, unſern <persName>Julius</persName> und unſern kleinen
+              <persName>Emil</persName>, den uns der Herr am <date>17. Mai 1833</date> geſchenkt
+            hatte, wieder meine Arme ſchließen zu können.</s></p>
+        <pb n="766" />
+        <p />
+        <p>Das Jahr 1836 war ein ſehr bewegtes. Di in demſelben gehaltene
+            <orgName>Synode</orgName> zeichnete ſich du beſondere Gründlichkeit aus. Es mußte tief
+          in d Gründe des ehrwürdigen Gebäudes hinabgeſtieg werden, wobei es ſich zeigte, daß es auf
+          Ihn, den Fels gegründet iſt, Bei der Wahl der neuen <orgName>Unit,
+            Aelt.-Conferenz</orgName> hatte ih die Stimme für das
+            <orgName>Vorsteher⸗Departement</orgName>, aber nicht die Genehmigung unſ lieben Herrn.
+          Mir ganz unerwartet wurde ich das Miſſionsdepartement gewählt, der Heiland gab dazu Sein
+          Ja! So wollte er den alten Wunſch meines Herzens jetzt noch erfüllen, Der Abſchi von
+          meinen l. Collegen im <orgName>Vorſteher-Departeme</orgName> wurde mir aber doch ſchwer,
+          und ich wurde inne, daß ih anhänglicher an unſer gemeinſames Oekonomikur geworden war, als
+          ich dachte. Bald wurde ich abe immer heimiſcher im Miſſions⸗Gebier, und dieſer Béruf mir
+          ſo groß und wichtig, daß ich denſelben ſchwer mit einem andern vertauſchen würde. -</p>
+        <p><s>Im <date>April 1840</date> erhielt ich den Auftrag zu einem Viſitakions Beſuch auf den
+              <placeName>Däniſch - Weſtindiſchen Inſeln</placeName>, wohin mich <persName>meine gute
+              Frau</persName> begleitete.</s> Ich fühlte meine Untüchtigkeit, auch der Abs. ſchied
+          von den Kindern wollte uns ſchwer werden; Doch war es uns zugleich ausgemacht, daß wir
+          dem: Ruf zu folgen haben. <s>Unſre kleine <persName>Marie</persName>, geboren - den
+              <date>24. Nov. 1835</date>, nahmen unſere lieben <persName>v. Heynitzens</persName> in
+            treue Pflege, <persName>Emil</persName> brachten wir in die
+              <orgName>Unit.⸗Anſtalt</orgName> nach <placeName>Nisky</placeName>, wo ſich unſer
+              <persName>Julius</persName> bereits befand.</s>
+          <s>Unter den herzlichſten Segenswünſchen von Geſchwiſtern und Freunden traten wir am
+              <date>21. Sept.</date> unſere Reiſe nach <placeName>Altona</placeName> an.</s>
+        </p>
+        <pb n="767" />
+        <p><s>Das Schiff, Johann Julius, ging erſt am <date>21. Okt.</date> ab.</s> Der unerwartet
+          lange Aufenthalt wurde uns ſo angenehm als möglich gemacht, der Heiland wußte, daß wir der
+          Stärkung bedurften. In der Nordſee und im Canal hatten wir faſt unausgeſetzt widrige Winde
+          und Stürme, auch die Kälte war recht empfindlich. Am 13. November wurde der
+          Sturm ſo heftig, daß der Kapitän das Schiff den tobenden Wellen überlaſſen mußte und uns
+          ankündigte, daß unſer Schiff ſcheitern werde, wenn der Sturm noch eine Stunde anhalte. Er
+          tobte noch die ganze Nacht hindurch, und unſer l. Herr ſelbſt führte das Schiff durch
+          Sturm und Wellen und ließ uns am Morgen auf der Inſel Wight eine
+          ſichere Zuflucht finden. Ich habe da wieder erfahren, daß der Heiland nicht im Vor⸗ rath,
+          aber zur rechten Stunde giebt. Ich hatte mich | oft geprüft, ob ich auch ruhig und ergeben
+          | bleiben würde, wenn ich auch einmal in Gefahr kommen - ſollte, zu ſcheitern; jetzt, da,
+          ſelbſt unſer erfahrener Kapitän in unſrer Kajüte unruhig und ſeufzend von einem Platz zum
+          andern ging, hieß es im Herzen: „Der Herr kann uns wohl erretten, und wenn Er es nicht
+          thun will, ſo ſinken wir auch im Meer in Seine Arme!“ — Mit einem unausſprechlichen Dank⸗
+          gefühl traten wir ans Land, und wie erquickte uns Thee und eine warme Stube! Am 19.
+            Novb. lichtete unſer Schiff wieder die Anker, bald erhob ſich aber ein neuer
+          heftiger Sturm, der uns aber ſtatt wie die früheren, zurück, — vorwärts trieb und uns, da
+          wir wieder uns erholt hatten, wenig ſtörte, ſo daß uns die weitere Reiſe auf dem
+          atlantiſchen Ocean wie eine wahre Spazierfahrt vorkam. <s>Am <date>18. December</date>
+            landeten wir in dem Hafen von <placeName>St. Thomas</placeName>.</s> Die herrliche Natur
+          und noch weit mehr der Dank gegen den Heiland erhoben unſre Herzen, und wir</p>
+        <pb n="768" />
+        <p>werden dieſe Stunde nie vergeſſen. Aber noch hatten wir das Schiff nicht verlaſſen, als
+          uns die ſchmerz liche Nachricht gebracht wurde, daß die Schweſtern
+            Wied und Köſter heimgegangen ſeien. Was ſich hier in
+          einer Stunde zuſammen drängte, Freude und Schmerz, das haben wir auch während unſers 7
+          monatlichen Aufenthaltes in Weſtindien erfahren. D herrliche
+          tropiſche Natur gewährte reichen Genuß, unt noch höheren die Negergemeinen, beſonders bei
+          d heil. Abendmahl. Ich kannte die Runzeln und t Makeln derſelben, fühlte aber auch auf
+          unausſpr liche Weiſe die Kraft des Blutes Chriſti, die e ſündige Gemeine dennoch zu einer
+          Braut des L mes machen kann. - Unvergeßlich bleibt mir auch t Eintritt in die Schule, Als
+          ich beim Gebet mit d lieben ſchwarzen Kindern auf den Knieen lag, w es mir, als hörte ich
+          den Zuruf des Heilandes Weide meine Lämmer!</p>
+        <p><s>Der General⸗Gouverneur <persName>v. Scholten</persName> hatte auf <placeName>St.
+              Croix</placeName> 8 ſchöne Schulhäuſer erbaut, aber erſt einem war die Schule
+            angefangen, es fehlte an Lerern; da galt es, nicht ſehen und doch glauben und der
+            Heiland half wunderbar.</s></p>
+        <p>Alles, was ich über die Ausrichtung unſe Auftrages auf den
+            Däniſch⸗Weſtindiſchen Inſel ſagen könnte, iſt bereits in den
+          damals gegeben Berichten enthalten, und ich darf nur hinzufügen, daß der Heiland durch
+          Schwierigkeiten und Schwächen hindurch half; doch habe ich kaum je meine Unzu⸗
+          länglichkeit tiefer gefühlt, als bei dieſem Beſuch. <s>Am <date>3. Juni</date> schlug die
+            Abſchieds ſtunde, die <persName>Brüder Staude</persName> und
+              <persName>Freitag</persName> begleiteten uns auf das Dampfſchiff, das uns am <date>6.
+              Juni</date> nach <placeName>St. Kitts</placeName> brachte.</s> Auch dort kamen uns die
+          Geſchwiſter auf allen Stationen mit Liebe entgegen, beſonders in
+            Baſſeterre, wo wir uns des regen Miſſionslebens recht freuen
+          konnten.</p>
+        <pb n="769" />
+        <p>
+          <s><placeName>St. Kitts</placeName> iſt die ſchönſte von den weſtindiſchen Inſeln, die wir
+            beſucht haben.</s> Der Mount Miſery erhebt ſich nahe an 4000 Fuß, und ih machte mit
+          einigen Brüdern eine höchſt intereſſante Excurſion auf dieſen Berg. Es iſt ein erloſchener
+          Vulkan, in deſſen Krater es noch raucht. Die Ausſicht von dem Gipfel in das weite Meer mit
+          den vielen kleinen Inſeln iſt ſo reizend, daß nichts fehlte, als unſre lieben Freunde,
+          denen ich fo gern dieſe Herrlichkeiten gezeigt hätte. Eine reiche tropiſche Flora bedeckt
+          den Berg bis in ten Krater, in welchen wir ſtiegen und mit reicher botaniſcher Ausbeute
+          zurückkehrten. <s>Mit warmen Dank ſchieden wir und fuhren am <date>23. Juni</date> mit dem
+            Dampfſchiff nach <placeName>Antigua</placeName>, wo wir am <date>23. Juni</date>
+            landeten.</s>
+          <s>In <placeName>Gracehill</placeName> wurden wir von den <persName>Geſchw.
+              Zetſche</persName> und von <persName>Br. Gardin</persName> freundlich empfangen.</s>
+          <s>Am 25. holte uns <persName>Br. Hartwig</persName> nach <placeName>St. Johns</placeName>
+            ab, von wo aus wir alle unſre Stationen beſuchten.</s> Es herrſchte ein reges Leben in
+          Kirchen und Schulen, und fehlt es auch da nicht an Gebrechen, ſo bleibt doch der Dank für
+          die reichen Segen vorwaltend.</p>
+        <p>Wir ſchieden in herzlicher Liebe und mit innigem Dank von allen unſern Geſchwiſtern in
+          Weſtindien. Sie haben alles gethan, unſern Aufenthalt angenehm zu machen und das Schwere
+          zu erleichtern. Ein jedes meinte es treu in ſeinem Theil, wenn auch zuweilen die Anſichten
+          auseinander gingen, und der Geiſt Gottes bewirkte in den Herzen, was ein armer Menſch wie
+          ich, nicht im Stande war. — Der Miſſionsberuf iſt ein köſtlicher, es gehört aber dazu ein
+          ganzes, von Liebe zum Heiland und Seinen Erlöſten durchdrun— genes, demüthiges Herz, eine
+          gänzliche Hingabe des Leibes und der Seele. <s>Am <date>13 Juli</date> verabſchiedeten wir
+            uns mit unſern lieben Geſchwiſtern in <placeName>St. Johns</placeName> viele unſrer
+            Geſchwiſter begleiteten uns, und von allen Seiten reichten uns Schwarze und Braune die
+            Hände.</s></p>
+        <pb n="770" />
+        <p>
+          <s>Unſer l. <persName>Br. Hartwig</persName> hatte für alles Nöthige auf dem Schiffe
+            William Alfred, das mit Zucker befrachtet war, geſorgt, und <persName>Br.
+              Harwey</persName> ordnete in unſrer kleinen Kajüte alles ſo gut, daß wir mit unſrer
+            kleinen Zöllner, die wir mitnahmen, uns bald heimiſch fühlten.</s> Zu Nachbarn hatten
+          wir eine chriſtliche Mulattenfamilie mit 4 Kindern, der Steward wax ein Neger. Während auf
+          den däniſchen Inſeln die ſchwarze und braune Farbe noch verachtet war, if ſie hier die
+          bevorzugte, was uns aber nicht ſtörte, uns die ſchwarze Farbe lieb geworden, und wir m der
+          braunen Familie in ſehr freundſchaftlichem Um gang ſtanden.</p>
+        <p>Die Sclaven-Emancipation hat ihre geſegne Folgen, daß aber auch der Landwerth ſich heben
+          werd iſt eine Täuſchung, er wird ſinken. — War un Fahrt nach Weſtindien eine ſehr
+          ſtürmiſche, ſo w unſere Rückreiſe eine faſt zu ruhige. Es liegt etw entmuthigendes darin,
+          wenn das Schiff Tage lar hin und her wiegt und nicht weiter kommt. W hatten leider nur
+          einen ſehr mäßigen Vorrath vi ſchlechtem, übelriechendem Waſſer, mit dem ſehr g ſpart
+          werden mußte, was mir, da ih viel Wafi trinke, nicht leicht war. Ich kam mir vd wie ein
+          König, als ich mich nach der Reiſe wied an friſchem Waſſer laben und ſatt trinken konnte
+          Im Canal waren wir in Gefahr von einem Schiff übergeſegelt zu werden; das Schiff wurde
+          aber no im rechten Augenblicke gewendet, und wir kamen mit einem nur unbedeutenden Schaden
+          davon. <s>Am <date>24. Auguſt</date> landete unſer Schiff im
+              <placeName>London-Dock</placeName>.</s> <s>wir wurden von unſern l. <persName>Brüdern
+                Mallalieu</persName> und <persName>La Trobe</persName> aufs freundlichſte
+              aufgenommen und unſer Aufenthalt wurde uns auch von andern Freunden angenehm
+              gemacht.</s></p>
+        <pb n="771" />
+        <p> Der Heiland ſegne ſie. <s>Am <date>11 Septr.</date> reiſten wir mit <persName>Br. La
+              Trobe</persName> noch bis <placeName>Sale</placeName> zu unſeren Verwandten
+            Foſter.</s>
+          <s>Leider mußten wir eilen, da wir noch mehrere <orgName>Gemeinen</orgName>, die auf
+            unſerm Weg nach <placeName>Hulllagen</placeName>, beſuchen wollten. </s> Ueberall kam
+          uns brüderliche Liebe entgegen, und man fühlte bei allen Verſchiedenheiten, daß wir ein
+          Volk, ja ich möchte noch lieber ſagen eine Familie ſind. <s>Am <date>18. September</date>
+            Abends gingen wir in <placeName>Hull</placeName> auf das Dampfſchiff Rob Roy, das uns am
+              <date>21.</date> nach <placeName>Hamburg</placeName> brachte, von dem uns
+              <persName>Br. Hamel</persName> abholte; in dem <orgName>Societäts-Haus</orgName>
+            wurden wir wieder von den l. <persName>Geſchw. Garve</persName> auf das liebevollſte
+            aufgenommen.</s> Gern wären wir auf dem geradeſten Weg nach Hauſe geeilt, aber bei dem
+          großen Intereſſe, das der König und die Königin von Dänemark an den in Däniſch-Weſtindien
+          eingerichteten Schulen nahmen, ſollte ich noch in Kopenhagen
+          Bericht abſtatten. <s>wir reiſten zunächſt nach <placeName>Chriſtiansfeld</placeName> und
+            von da mit <persName>Br. Röntgen</persName> nach <placeName>Odenſe</placeName>, wo ſich
+            die Königliche Familie gerade aufhielt.</s> Wir erhielten bald“ Audienz, erſt bei dem
+          König, und dann bei der Kö— nigin, die ſich ſehr gnädig ausſprachen, und. denen ich unſer
+          ganzes Miſſionswerk empfehlen konnte. <s>Wie den Tag vorher fuhren wir wieder um
+            Mitternacht über den kleinen Belt, und kamen Morgens den <date>7. Oktober</date> nach
+              <placeName>Chriſtiansfeld</placeName> zurück.</s> Nun hinderte nichts mehr, und wir
+          eilten über Berlin der Heimath entgegen. <s>Am <date>22. Oktober</date> kamen wir nach
+              <placeName>Nisky</placeName> und fanden unſern <persName>Julius</persName> und
+              <persName>Emil</persName> munter und wohl.</s> Solche Momente bleiben unvergeßlich!
+              <s><date>Am 23.</date> fuhren wir mit unſern beiden Knaben nach
+              <placeName>Königshain</placeName>.</s> Das Herz pochte, als wir in den be- kannten Hof
+          einfuhren; lauter. Jubel empfing uns</p>
+        <pb n="772" />
+        <p>Solche Stunden werden durch keine überſtandene Noth zu theuer erkauft! Am 24. Oktober
+          zogen wir mil dem Ausruf: Wie ſollen wir Dir, Herr, vergelten alle Barmherzigkeit und
+          Treue, die Du an uns be wieſen haſt, wieder in unſere Wohnung in dem I Berthelsdorf
+          ein.</p>
+        <p>Das Jahr 1848 war durch die politiſchen Unruhen ein bewegtes. Es galt da,
+          ſich ernſt die Fra vorzulegen, ob man mit Wahrheit ſagen kann „Wenn ich nur Dich habe, ſo
+          frage ich nichts n Himmel und Erde!“ Für unſere <orgName>Brüder⸗Unität</orgName> w es
+          wichtig durch die gehaltene Synode. Ich wur auf derſelben wieder zu einem Mitglied des
+          Miſſion Departements gewählt und von unſerm lieben He beſtätigt.</p>
+        <p><s>Unſre 1. Geſchwiſter in <placeName>Süd-Afrika</placeName> hatten Jahr
+              <date>1853</date> um einen Beſuch aus der<orgName> Unit.-Aelta Conferenz</orgName>
+            gebeten, der mir aufgetragen wurde, meine treue Lebensgefährtin ſollte mich
+            begleiten.</s>
+          <s>Am <date>11. Juli</date> verließen wir unſer l. <placeName>Berthelsdorf</placeName>,
+            begleitet von den Segenswünſchen unſerer l. Geſchwiſter und Freunde, und reiſten über
+              <placeName>Neuwied</placeName> nach <placeName>London</placeName>, wo wir bei
+              <persName>Br. Mallalieu</persName> wieder freundliche Aufsnahme fanden und
+              <persName>Br. La Trobe</persName> uns viele Liebe bewies.</s>
+          <s>Dankbar für alle genoſſene Liebe reiſten wir am <date>13. Auguſt</date> nach
+              <placeName>Southampton</placeName>, und quartirten uns am <date>14.</date> auf der
+            Queen of the South ein, auf der ſich ohngefähr 200 Menſchen befanden.</s> Ein buntes
+          Gemiſch von Europäern, Malabaren, Malayen und Afrikanern. Es iſt eine kleine Welt, in der
+          man ſich aber bald zurecht findet. Im Anfang fühlt - man ſich fremd, nach und nach
+          gruppirt ſich die Ge⸗ ſellſchaft, auch wir fanden Freunde, Wir hatten 4 engliſche
+          Geiſtliche an Bord, als Paſſagiere, die uns viel Liebe und Aufmerkſamkeit ſchenkten. Sie
+          hielten</p>
+        <pb n="773" />
+        <p>jeden Morgen engliſche Gebetsliturgie und Sonntag Vormittags und Abends Predigt; auch
+          einmal das heil. Abendmahl, wozu ſie auch uns einluden. Um unſerer
+            <orgName>Brüderkirche</orgName> als einer biſchöflichen ihre Udh ` tung zu beweiſen,
+          wurde mir, obwohl ih mich mitten unter die Gäſte geſetzt hatte, Brod und Wein zuerſt
+          gereiht. — An ſchönen Abenden wurde von der jungen Welt auf dem Verdeck getanzt. So leicht
+          unſere Reiſe an ſich war, da wir keine Stürme hatten, 10° fehlte es doch nicht an Prüfung.
+          Widrige Winde verzögerten unſere Fahrt, die Kohlen waren verbraucht, wir waren nun ganz in
+          der Lage eines Segelſchiffes und hatten nur noch auf 2 Tage Waſſer. Da öffnete unſer
+          lieber Herr uns in der Saldanha⸗ bay eine Zuflucht, von wo zwei Schiffs⸗Offiziere nach der
+          Kapſtadt ritten und nach 3 Tagen mit einem Kohlenſchiff zurückkamen. Hier betrat ich zum
+          erſten⸗ mal Afrika's öden Strand, geſchmückt mit den ſchönſten Blumen. Ich fiel auf meine
+          Kniee, und es iſt dem Heiland allein bekannt, welche Gefühle mein Herz durchdrangen und
+          was ich Ihm da zu ſagen hatte,</p>
+        <p><s>Am <date>1. Oktober</date> ließ unſer Schiff in der <placeName>Tafelbai</placeName>
+            die Anker fallen.</s>
+          <s><persName>Herr Juritz</persName>, die <persName>Brüder Kölbing</persName>,
+              <persName>Kühn</persName> und <persName>Franke</persName> kamen aufs Deck und
+            begrüßten uns mit einer Liebe und Freude, die nicht beſchrieben werden kann.</s> Es muß
+          erfahren ſein, wie wohl es thut, wenn man nach einer langen Reiſe zur See das Ziel
+          erreicht hat, beſonders, wenn man, wie dies bei meiner Frau der Fall war, fortwährend von
+          der Seekrankheit zu leiden hat. Auf Robben⸗ Island empfingen uns
+          die Lazarus⸗Kranken an der Kirche mit ſchönem Geſang. Es waren die Krüp⸗ pel und Lahmen,
+          zu denen wir gleich eine ganz be— ſondere Liebe fühlten. Bei dem Beſuch in den La⸗
+          zarethen ſchauderte zuweilen das menſchliche Gefühl</p>
+        <pb n="774" />
+        <p>vor den zerfreſſenen Geichtern zurüF. an wende nur das Auge nicht von dem Elend ab, dann
+          wan- delt fich Die Scheu in Mitleid und Liebe, und man findet auch in dem Verſtümmelten
+          Gottes Ebenbild, und es wird einem dies um jo eyrwürdiger, je mehr die Gnade in dem Herzen
+          gewirkt hat.</p>
+        <p><s>Nach einem dankvaren Abſchied von unlern l. <persName>Geſchw. Wedemanun</persName>
+            kehrten wir von ihrem <placeName>Patmos</placeName> nach der
+              <placeName>Capſtadt</placeName> zurück und fuhren, begleitet von <persName>Br.
+              Ghriftenfen</persName> mit dem Ochſenwagen nach <placeName>Groenekloof</placeName>,
+            ist <placeName>Mamre</placeName>.</s> Unfer eres Nachtquartier im Freien gefiel uns gutz
+          unt den auflodernden Feuer ſtiegen aub Geſang und Geber empor. Die Geschwister von
+            Groenekloof (Mamre) kamen uns bis zur Jacobs-Kapelle entgegen und
+          empfingen uns mit warmer Liebe. Als unſers Ochfonwagen ſich wieder in Bewegung geſeßt
+          hatten, wurden wir auch bald von dem größten Theil der Gemeine mit dem er fang: Nun Danket
+          alle Gott x, begrü Auf gleiche Weiſe wurden wir in der Folge von alten unſern
+          Wiffiong-Stationen empfangen. Zuerſt kommen ger wöhnlich dio Reitenden dann, di bulfinder
+          und jungen Leute, ſpäter die älteren, und im Ort die Alten und Schwachen. Ein folder
+          Empfang erwarret alte nou ankommenden Geſchwiſter. Sch bin nicht im Stande, es
+          aniezuſprechen, wie einem zu Muthe iſt, wenn Menſchen vor anderen Rarden und Sprachen wir
+          folder Liepe entgegenkommen, da zeigt es ſich, weich umfaſſendes und mächtiges Band die
+          Bruder ſiebe iſt. Aehnlich id auch der Adſchied. Die Gemeine veriammelt fich auf dem
+          Platz, ſimgt Segensverſe und begleitet zum Theil foweit, daß man bitten muß umzukehren.
+          --- <s>Nach einem lieblichen und geſegneten Aufenthalt in <placeName>Mamre</placeName>
+            fuhren wir am <date>28 Oktober</date> mit <persName>Geſchw. Kühn</persName> und ihren
+            Kindern im Ochſenwagen nach <placeName>Gnadenthal</placeName> ab und wurden am
+              <date>31.</date> auf die bereits beſchriebene Art ſehr liebevoll empfangen.</s>
+        </p>
+        <pb n="775" />
+        <p> Da, wo ehedem Paviane und andere wilde Thiere hauſten, blüht jezt ein ſchöner
+          Gottesgarten, und über 3900 Seelen ſchmecken und erfahren, wie freundlich der Herr iſt. In
+          der Gehülfenſchule wer⸗ den Jünglinge zum Miſſions- und Schuldienſt er- zogen. Dieſes
+          Inſtitut hatte Anfangs mit Schwie— rigkeiten zu kämpfenſ und war ein rechtes Glaubens⸗
+          werk, der Heiland hat aber wunderbar durchgeholfen und daſſelbe nicht nur für unſere,
+          ſondern auh an⸗ dere Orte zu einem Segen werden laſſen. — <s>Am <date>26. November</date>
+            trat ich mit <persName>Br. Kölbing</persName> die Reiſe nach unſern unterländiſchen
+              <orgName>Gemeinen</orgName>: <placeName>Clarkſon</placeName>,
+              <placeName>Enon</placeName>, <placeName>Silo</placeName> und dem abgebrannten
+              <placeName>Goſen</placeName> an.</s> Zwei brave Hottentottenbruͤder führten unſer
+          Geſpann, das aus 10 Mauleſeln beſtand. Abends wurde das Zelt auf⸗ geſpannt, in welchem wir
+          ſchliefen. Die Unbequem⸗ lichkeiten einer ſolchen Reiſe werden durch das Leben in der
+          ſchönen freien Natur reichlich erſetzt. Das frugale Mahl ſchmeckt herrlich, und man fühlt
+          ſich recht heimiſch in der Wüſte. Wol kann einem ein wenig fröſteln, wenn im Regen und
+          Sturm ‘die dünne Matratze auf dem naſſen Boden ausgebreitet wird, auf der man ſchläft. So
+          wie aber das Feuer lodert und das Zelt aufgeſchlagen iſt, wird es | heimiſch. Wenn dann
+          der Kaffe oder Thee fertig war und Abel, unſer Koch und Fuhrmann, zuweilen auch noh
+          Waſſerklöſe hinzufügte, kam man ſich vor, wie ein König in der Wüſte. Eine ſolche Fahrt in
+          der Einöde hat auch ihre beſonderen inneren Segen. Der Heiland iſt einem in der Einöde auf
+          eine eigenthümliche Weiſe nah, und man ahnet dabei etwas von den Offenbarungen, deren die
+          Erzväter ge⸗ würdigt wurden. Viele Stellen der ‘heiligen Schrift</p>
+        <pb n="776" />
+        <p>werden einem da recht verſtändlich. Man lernt den Schatten erſt recht ſchätzen, wenn die
+          heiße Sonne: am Mittag auf den Scheitel herabbrennt, und das Waſſer, wenn alles dürr und
+          nur an den Waſſer⸗ bächen grün iſt. | Der Spruch: Du verbirgſt mich heimlich in Deinem
+          Gezelt 2c. wurde mir erſt recht lebendig, wenn wir im zelt lagen und es draußen regnete
+          und ſtürmte, Da habe ich unvergeßlich ſelige Stunden durchlebt.</p>
+        <p>Was mir bei meiner abgemeſſenen Zeit manch⸗ mal ſchwer wurde, iſt die Langſamkeit der
+          Reiſe und die vielen unfreiwilligen Aufenthalte. Die Thiere werden matt oder haben ſich
+          verlaufen, ein Rivier - (Bach) iſt angeſchwollen, und man muß Tage lang warten, bis man
+          hindurch kann, es regnet, und Die: Ochſen ſtehen am Berge und können nicht weiter. . Dem
+          Afrikaner macht das nichts, er bleibt ruhig in oder unter ſeinem Wagen liegen, aber
+          unſerer Eiſen⸗ bahn-Gewöhnung wird das ſchwer. Auch wir em⸗ pfingen unſern Antheil an
+          ſolcher Geduldsprüfung.“ Aber jedesmal, wenn ich ganz ergeben dem Heiland ſagen konnte: Es
+          iſt Deine Sache, du brauchſt mich | nicht, ging es wieder vorwärts. So erfuhren wir ` es
+          ſhon auf dem Wege nach Clarkſon, ſo daß Br.
+            Kölbing auf meine Frage: wenn werden wir nach Clarkſon
+          kommen ? antwortete: werden wir überhaupt - hinkommen? Die Eſel ſind matt, und 2 können
+          nicht mehr fort. Wie groß war unſere Freude, als ein ` Gespann Ochſen kam, das
+            Br. Küſter uns entgegenſchite und bald ſelbſt mit Br.
+            Schärf zu Pferde nachkam. Die Ochſen zogen rüſtig den Wagen über ` den Berg,
+          warfen aber um, und es war gut, daß * wir ausgeſtiegen waren. und ſo erreichten wir am `
+            14. Dec. glücklich das ſchöne Clarkſon, wo wir mit .
+          Liebe aufgenommen wurden.</p>
+
+        <pb n="777" />
+        <p>Das im Jahr 1839 angefangene Clarkſon iſt ein
+          liebliches Gnadendörflein geworden, das ſein Haupt an den Kooksboſch anlehnt und feine
+          Füße in zwei Häuſerreihen nach der See ausſtreckt, durchſtrömt von einem klaren Bach, der
+          eine Mühle treibt und das Land bewäſſert. Hier kamen wir in die erſte Fingu- Gemeine, und
+          ich kroch mit beſonderer Liebe in die bienenkorbartigen, reinlichen Hütten. Sprache und |
+          Geſang der Kaffern iſt wohlklingend, es iſt ein kräf— tiges Volk. Aufs innigſte verbunden
+          mit unſern Geſchwiſtern und weit begleitet, traten wir am 27.
+            Decbr. die Weiterreiſe nach Enon an. Am Champtos⸗Rivier mußten wir einen
+          ganzen Tag nutzlos liegen bleiben, weil die Fähre nicht in Ord⸗ nung war und ſehr froh
+          ſein, daß wir am folgen— den Tag hinüber kamen. Die Worte des Lehrtertes: Geduld iſt euch
+          Noth! fanden, wie ſo oft, ihre An— wendung. Die herrliche Gegend und der ſchöne Abend
+          entſchädigten uns reichlich. Vaillant gefiel es einſt da | ſo gut, daß er Monate lang
+          verweilte, Elephanten erlegte, Vögel ſchoß und mit den Kaffern lebte. Am 31. Dechr. kamen
+          wir nach Enon und beſchloſſen das fuͤr mich ſo denkwürdige Jahr mit dieſer Gemeine. Dieſe
+          durch Kaffernkriege, Hitze und Dürre vielfach heim⸗ geſuchte Hottentotten⸗Station iſt arm,
+          fängt aber an ſich zu erholen, und wir genoſſen viel Liebe und Segen.</p>
+        <p>Am 23. Januar 1854 fuhren wir mit einem Geſpann von 12 kräftigen Ochſen ab,
+          in Begleitung der für Silo beſtimmten Schullehrer
+            Nakin und Mazwi. Auf unſerm Weg begegneten wir
+          vielen Zerſtörungen durch den Kaffernkrieg. In Grahamstown machten wir dem Gouverneur
+          unſte Aufwartung, um ihm unſere Miſſion zu empfehlen und auch meh⸗ rere Angelegenheiten
+          demſelben vorzutragen. Am 20. Januar hofften wir nach
+            Silo zu kommen,</p>
+
+        <pb n="778" />
+        <p>allein der Kattrivier-Berg gebot Halt! es hatte ge⸗ regnet, und der Weg war ſchlüpferig
+          gew orden. Br. Bonatz hat einmal hier 6 Tage gelegen, ſagte Br.
+            Kölbing ganz ruhig und es galt wieder ſeine Seele in Geduld zu faſſen.</p>
+        <p>In der Nacht wurde aber der Himmel klar, die Sterne funkelten, und die Sonne ging auf am
+            21. in voller Pracht. Es war mein Geburtstag, und ih werde dieſen Morgen
+          nie vergeſſen! Geſang und Gebet ſtiegen auf im Angeſicht von 6—7000 Fuß hohen, herrlichen
+          Bergen. Gegen Mittag waren die Wege ſoweit abgetrocknet, daß wir aufbrechen konnten. Wir
+          ſpannten mit einem Fingu zuſammen, 24 Ochſen zogen den Wagen über den Berg hin— über.
+          Jenſeits bewillkommten uns die l. Brüder Gyſin und
+            Kſchieſchang. Wir übernachteten am Heiz nen Klipplaat und zogen am
+            22. Januar in Silo, dem entfernteſten Ziel unſrer
+          Reiſe ein.</p>
+        <p>Auch hier empfing. uns Liebe, aber auth Schmerz, indem das Kindlein unſrer l.
+            Geſchw. Bonatz im Sterben lag. Das im Kaffernkrieg zerſtörte Wohn-
+          haus lag noch da als Ruine, und ès knüpften ſich auch daran ernſte Erinnerungen. Noch
+          ſchmerz⸗ licher war der Schaden, den dieſer Krieg auch in- : nerlich in der Gemeine
+          angerichtet hatte. Aber man fühlte auh ſhon ein neues Wehen der ‘Gnade! Un⸗ vergeßlich
+          bleibt mir ein Sonntag, da wir das heil. Abendmahl feierten, zu welchem viele, bisher
+          Ausgeſchloſſene readmittirt worden waren. Bei dem vorhergehenden Sprechen floſſen viele
+          Sünderthränen, und ich konnte getroſt und freudig ſagen: Gehet hin in Frieden! Von
+            Silo aus beſuchten wir das zer⸗ ſtörte Goſen und verbrachten an
+          den Mauern des abgebrannten Hauſes eine Nacht, in der ich wenig ſchlief, der nicht
+          reichliche Waſſerzufluß machte mir</p>
+        <pb n="779" />
+        <p>Sorge. Doch wurde es mir gewiß, daß auch aus dieſem abgehauenen Stamm ein Reis
+          hervorbrechen, und aus dieſer Oede ein Garten Gottes werden würde. </p>
+        <p><s>Am <date>15. Februar</date> verließen wir das zwar arme, aber gerade dadurch uns ſo
+            werth gewordene <placeName>Silo</placeName>, nach einem bewegten Abſchied von unſern
+            weißen und farbigen Geſchwiſtern, begleitet von <persName>Geſchw.
+              Kſchieſchang's</persName> bis <placeName>Enon</placeName>.</s></p>
+        <p>Wir nahmen unſern Weg über King Williams— Town und machten einen
+          großen Bogen ' nach Oſten in das Kafferngebiet hinein. Man begegnete Trupps von Kaffern in
+          ihrem Naturzuſtand, mit ihren Aſſa⸗ geien, die friedlich vorüberzogen: in der Nähe eines
+          Kraals übernachteten wir, und hörten ihren Geſang, hggleitet von der großen Trommel. In
+          Friedenszeiten kann man ohne alle Sorge in ihrem Lande reiſen. — In Enon und ſpäter in
+          Clarkſon machten wir den letzten Abſchied; mit bewegtem Herzen ging nun - wieder der
+          Heimath entgegen. <s>Unſere Eſel hätten in <placeName>Clarkſon</placeName> gut ausgeruht;
+            wurden aber gegen das Ende der Reiſe wieder recht matt, ſo daß uns die von
+              <placeName>Kopjes</placeName> aus entgegen geſendeten Pferde am <date>4. Mai</date>
+            ſehr willkommen waren</s>. Am 6. April hatten wir die uuausſprechliche
+          Freude, unſere Lieben, die uns entgegen gekommen waren, zu umarmen, Br.
+            Kölbing, ſeine l. Frau und Kinder, und ich meine l.
+            Sophie. <s>wir übernachteten in <placeName>Copjes</placeName> und
+            kamen am <date>7. April</date> voll Lob und Dank, begleitet von ‘den Schülern des
+            Gehülfeninſtituts und vielen Gemeingliedern, die uns entgegen gekommen waren, nach
+              <placeName>Gnadenthal</placeName> zurück.</s></p>
+        <p>Auch einige Stationen anderer Miſſionsgeſell⸗ ſchaften hatten wir auf unſerer 19 Wochen
+          währen⸗ den Reiſe beſucht, und wurden überall mit Liebe auf-</p>
+        <pb n="780" />
+        <p>genommen, namentlich in Bethel, wo wir uns ganz zu Hauſe fühlten. — <s>Am <date>10.
+              April</date> reiſte ich mit <persName>meiner l. Frau</persName>, begleitet von
+              <persName>Br. Suhl</persName>, nach <placeName>Elim</placeName>, wo wir beſonders in
+            der Charwoche und dem Oſterfeſt viele Segen genoſſen.</s> Dieſe gut angelegte Sta- tion
+          mit ihrer ſchönen Kirche erinnerte uns an Nisky. <s>In naher
+            Verbundenheit ſchieden wir auch dort von unſern l. Geſchwiſtern, und kamen am <date>1.
+              Mai</date>, begleite von <persName>Geſchw. Nauhaus</persName>, nach
+              <placeName>Gnadenthal</placeName> zurück.</s></p>
+        <p>Nachdem ich nun eine genauere Kenntniß von allen dortigen Verhältniſſen erlangt hatte,
+          ſollten die Schlußberathungen der <orgName>Helfer-Conferenz</orgName> recht eifrig ihren
+          Anfang nehmen. Der Heiland wollt« mich aber erſt in die Stille führen. Schwindel-An—
+          fälle, an denen ich ſchon ſeit Jahren litt, nahmen ſo bedenklich zu, daß mir alle
+          Thätigkeit unterſagt wurde. Zwei Verſe von dem ſel. Spangenberg, aus dem Liede: Heil'ge
+          Einfalt, Gnadenwunder 2c. wurden mir da beſonders wichtig:</p>
+        <p>Laß den Heiland Fuhrmannn bleiben, Er kennt Seine Sache wohl, Er weiß, wenn Er ſtark ſoll
+          treiben, Wenn es ſachte gehen ſoll. Geht es über Stock und Steine, Sitz nur ſtill, es wird
+          ſchon gehn! Hilf Ihm nicht, Er macht's alleine, Doch du magſt wohl um dich ſehn.</p>
+        <p>Nach einiger Ruhe konnte ich wieder in die Arbeit gehen, und am 18. Juni den Schluß
+          machen mit tief gebeugtem Dank gegen den Heiland und die I. Geſchwiſter; der Heiland ſegne
+          ſie und ihre lieben Kinder! Br. Kölbing war mir ein angenehmer und
+          erfahrener Begleiter auf unſrer Reiſe ins Unterland, was ich noch mit beſonderem Dank zu
+          erwähnen mich gedrungen fühle. Am 19. Juni verbanden wir</p>
+        <pb n="781" />
+        <p>uns bei bem Genuß des Verbindungskelches, alle Kräfte dem ſeligen Dienſt des Heilandes zu
+          widmen. In der Abendverſammlung empfahl uns Br. Kölbing in einem
+          warmen Gebet dem Heiland und ermahnte die Gemeine, die an ſie gerichteten Worte nicht zu
+          vergeſſen.</p>
+        <p><s>Am <date>22. Juni</date> ſchieden wir von dem l. <placeName>Gnadenthal</placeName>,
+            die auf dem Platz verſammelte <orgName>Gemeine</orgName> ſang Segensverſe und begleitete
+            uns bis an die Brücke.</s>
+          <s><persName>Br. Suhl</persName> reiſte mit uns bis <placeName>Groenekloof
+              (Mamre)</placeName> wo wir, da wir mit Pferden fuhren, ſchon am <date>24.</date>
+            ankamen und am <date>25</date>, in die Miſſionsarbeit hineingingen.</s> Es war uns
+          beſonders gemüthlich unter den dortigen Miſſionsgeſchwiſtern, und auch ein Beſuch in dem
+          ſchönen Goedverwacht bleibt uns im lieb— lichen Andenken. <s>Mit gebeugtem Dank konnte ich
+            am <date>11. Juli</date> auch hier meine Arbeit zu den Füßen des Heilandes beſchließen,
+            ſo daß nichts zurückbleiben mußte, und ich auch die aufgetragenen Ordinationen zu
+            Presbytern und Diakonen in <placeName>Gnadenthal</placeName>,
+              <placeName>Silo</placeName>, <placeName>Elim</placeName> und
+              <placeName>Mamre</placeName> habe halten können.</s> Nie habe ich aber die menſchliche
+          Unvollkommenheit und vor allen die meinige in ſo hohem Grade erfahren, als bei dieſem
+          Beſuch.</p>
+        <p>Nun war aber auch meine Zeit aus. Erneuerte Schwindelanfälle brachten mich ſo herunter,
+          daß die Rückkehr nach Europa zweifelhaft wurde. Der Heiland
+          ſchenkte uns aber die Gewißheit, daß wir getroſt den uns vorgezeichneten Weg gehen und Ihm
+          alles Weitere überlaſſen dürften. <s>Unſere Abreiſe nach der
+              <placeName>Capſtadt</placeName> mußte bis auf den <date>17. Juli</date> aufgeſchoben
+            werden, <persName>Br. Franke</persName> war uns ein treuer, ſehr lieber Begleiter.</s>
+          <s>Abends kamen wir an, und am andern Morgen kam der den Brüdern befreundete
+              Arzt,<persName> Dr. Piccard</persName>, der mir jede geiſtige Anſtrengung
+            unterſagte.</s> Dennoch erneuerten ſich die Schwindel—</p>
+        <pb n="782" />
+        <p>anfällo, Die Auefidt auf die Seereiſe wühte ſich, der Heiland. fergle aber auf eine
+          beſondere Weiſe, daß wir einen aufen Plaß auf dem Dampfſ&lt;hiff ber kamen.
+              <s><persName>Herr Juritz</persName>, in dessen Haus wir viel Pflege und Thetinahme
+            geneſtey, und die <persName>Brüder Kühn</persName>, <persName>Franke</persName> und
+              <persName>Hartmann</persName> begleiteten uns auf unſern Argo.</s> Liebe hatte uns
+          voriges Jahr hier in der Kapſtadt empfangen, jeßt Tellten wir 1
+          einem unvergeßlihen Abfedzied wieder allein ehen. Meine gute Frau mußte ſich bald legen,
+          mich überficl der Schwindel, und der Schiffsarzt brachte mich vom Berbick ins Bott. Da
+          lagen wir Beide, aber mit jeften Werträuen, Heiland werde helfen. Er hots amd legte ma cin
+          anderes Kreuz auf, das im gern. trug. Als Ableitung hatte der Arzt auf meinem Rüden eine
+          offene Wunde erhä ten, Die "zu einer tiefen wurde und erſt am Schluß der Reiſe heilte.
+            <s>Am <date>6 September</date> nahmen wir in <placeName>Southampton</placeName> von
+            unſerm Argo Abſchied und wurden in <placeName>London</placeName> mit Yiete
+            aufgenommen.</s> Mit naher Sheil- nahme vernahmen wir, daß Schw. va Irove vom Schlag
+          gerühbtt war, und noc&lt; To mancdes andete, das Herz und Gmb bewegte. Ze findet der
+          Reiſende, wo er hinkommt? Leiden und Noth, aber and Ihn, den Helfer und Sröfter. <s>Nach
+            einem sehr angenehmen Aufenthalt in <placeName>London</placeName> führen wir am <date>16
+              September</date> mit dem Dampfschiff nach <placeName>Rotterdam</placeName> und von da
+            nach <placeName>Zeiſt</placeName>, wo uns die rege Theilnahme an unſerm Miſſfionswerk,
+            namentlich in <placeName>Süd- Afrika</placeName>, ungemein ermunternd war.</s>
+          <s>Am <date>26 Septbr.</date> verließen wir das uns ſo lieb gewordene
+              <placeName>Zeiſt</placeName> und reiſten wach <placeName>Neuwied</placeName>, wo wir
+            schöne Tage, reich an genuß für Leib und Seel verlepten.</s></p>
+        <p><s>Am <date>14 Oktover</date> zogen wir wieder mit Dank gegen unſern treuen Herrn in
+            unſere Wohnung ein, auſs freundlichſte von unſern Geſchwiſtern in
+              <placeName>Berthelsdorf</placeName> begrüßt.</s></p>
+        <pb n="783" />
+        <p>
+          <s>Unſere l. <persName>Geſchw Juit</persName> waren mit unſrer <persName>Marie</persName>
+            bis <placeName>Löbau</placeName> entgegen gekemmen, die Freude war groß</s>! Sie hatten
+          unfere Tochter als ue, liebevollen Eireen bei fich aufgenenmen, der Kelland wolle es ihnen
+          nen. </p>
+        <p>Ich ging nun um ſo dankbarer wieder in die Arbeit hinein, da nach früherem ärztlichen
+          Ausſpruch ich nie wieder zur Arbeit fähig werden ſollte. Die Schwindelanfälle ſtellten
+          ſich zwar wieder ein, waren aber zu überwinden. Später wurde mir dieſes ſchwerer, ſie
+          hinterließen eine Kraftloſigkeit, die mir öfters die Arbeit faſt unmöglich machte. Damit
+          ver— band ſich eine geſteigerte Sorglichkeit, namentlich bei den Bewegungen, welche der
+          Synode vorangingen, und während der <orgName>Synode</orgName> ſelbſt. Es wurde mir gewiß,
+          daß es beſſer iſt, wenn -eine jüngere Kraft an meine Stelle tritt, und ich bat daher bei
+          der Wahl der neuen <orgName>Unit.-Aelt.-Conf.</orgName> nicht auf mich zu reflectiren. In
+            Herrnhut fanden wir das “gewünſchte | Ruheplähzchen. Ich ſitze
+          nun auf dem letzten Schulbänkchen und danke dem Heiland, daß Er mir dieſe Lection leichter
+          machte, als ich dachte. Ich weiß, Er yat mir viel zu vergeben, ſelbſt ſcheinbar Gutes,
+          denn auch das war mit Sünde befleckt. Aber, wenn Er Alles nimmt, giebt Er auch Beſſeres
+          wieder! ſtatt des elenden eigenen Kleides, das Kleid Seiner Ge— rechtigkeit. Ich komme als
+          ein armer Sünder, der feinen Ehrenplatz erwartet, aber auch gewiß iſt, daß der Heiland ihm
+          Seine Gnadenthüre nicht verſchließen wird. == Nur eins bitte ich, daß ih ſein darf, wo Er
+          iſt, denn. ohne Ihn wäre mir der Himmel Fein Himmel! Ich weiß, daß Er auch dort ſich zu
+          dem Geringſten herabneigt! —</p>
+        <p>(Fortſetzung im Auguſt 1866.)</p>
+        <p>Ich hatte gehofft, daß meinem irdiſchen bald</p>
+        <pb n="784" />
+        <p>der Sabbath folgen werde, da wir Jeſum leiblich ſehen. Der Heiland hat aber anderes im
+          Sinn. - Ich ſoll noch mehr vorbereitet und geläutert werden. Ein organiſches Herzleiden
+          bildete ſich bei meiner y guten ſeligen Frau immer weiter aus und wurde für | ſie, und
+          damit auch für uns, eine lange oft recht. beängſtigende Leidensſchule, bis ſie am
+            10. September 1863 die ſo oft erbetene Erlaubniß bekam, zu - Ihm zu gehen,
+          den ſie ſo oft flehentlich bat: Ach i komm doch, komm! Was ſie mir war, bleibe im ſtillen
+          Herzen bewahrt, iM verlor an ihr meine“ beſſere Hälfte, und der Heimwehzug nach Oben wurde
+          um ſo mächtiger. Verlaſſen war ih aber nicht; meine liebe Tochter
+            Marie war bei mir und be⸗ ſorgte auch den äußeren Haushalt ſo gut,
+          daß ich mich um nichts zu kümmern brauchte. — <s>Auch eine Freude ſchenkte mir der
+            Heiland, indem mein Sohn <persName>Julius</persName> einen Ruf als Arbeiter des
+            Gemeinleins in <placeName>Haarlem</placeName> erhielt, und die ſelige Mutter noch die
+            Freude hatte, ihn mit ſeiner Gattin, geborenen <persName>Raillard</persName>, noch vor
+            ihrem Ende zu ſehen</s>. <s>Im folgenden Jahr <date>1864</date> machte <persName>ich mit
+              meiner Tochter</persName> eine ſehr angenehme Reiſe über
+              <placeName>Neuwied</placeName> und <placeName>Zeiſt</placeName> nach
+              <placeName>Haarlem</placeName>, und auf dem Rückweg über <placeName>Baſel</placeName>,
+            wo wir bei den Eltern meiner lieben Schwiegertochter ſehr angenehme Wochen verbrachten
+            und mit ihnen auch eine kleine Reiſe in die <placeName>Schweizer Thäler</placeName>
+            machten.</s>
+          <s>Im folgenden Jahr <date>1865</date> beſuchten wir meinen Sohn
+            <persName>Emil</persName>, der in einem großen chemiſchen Geſchäft ſeit 6 Jahren
+            angeſtellt iſt.</s></p>
+        <p>Das Jahr 1866 fing mit truͤben Ausſichten an, am politiſchen Horizont
+          bildeten ſich dunkle Wolken, denen ein blutiger Zuſammenſtoß folgte. <s>Gerade in dieſer
+            ernſten Zeit kam ein Antrag des verwitweten <persName>Br. Guſtav Baer</persName> an
+            meine Tochter <persName>Marie</persName>, mit ihm in die Ehe zu treten und Mutter ſeiner
+            beiden verwaiſten Kinder zu werden.</s></p>
+        <pb n="785" />
+        <p> Mir war beſonders in Beziehung auf ſie der Vers immer beſonders wichtig: „Was Jedes in
+          der Zeit ſoll werden, heißen, haben 2c.“ und das auch, daß Br. Baer
+          mit Gebet und Flehen in die wichtige Ueber⸗ legung wegen ſeiner Wiederverheirathung
+          hineinge⸗ gangen war, und ſo konnte ich, nachdem auch Marie überzeugt war: ‘es kommt vom
+          Herrn! mit Freudigkeit meine Zuſtimmung geben. Ich fatte zwar nicht gedacht, daß mir meine
+          Tochter in dem Grad fehlen würde, als ich es jetzt erfahte; dennoch freue ich mich von
+          ganzem Herzen über dieſe Ver— bindung und über den ſchönen Beruf, den ihr der Herr
+          angewieſen hat.</p>
+        <p>Für mih wird die vermehrte Einſamkeit em⸗ pfindlicher, da ich wegen verſchlechtertem
+          Gehör noh mehr auf mich ſelbſt beſchränkt bin und auf dem Saal nur den negativen Genuß
+          habe, mit der <orgName>Gemeine</orgName> im Gotteshauſe mich verſammelt zu ſehen; aber der
+          Heiland weiß auch dieſem Mangel zu Hülfe p zu kommen. Ich bin bei Ihm im Armenrecht, Er |
+          giebt mir nie im Voraus, ich muß Bettler bleiben, aber Er giebts zur Stunde.</p>
+        <p>Fortſetzung zu Ende des Jahres 1867.</p>
+        <p>Es war ein ſtilles Jahr von Außen, doch innerlich viel bewegtes. Meine Einſamkeit iſt mir
+          durch fort— gehende Abnahme meines Gehörs, die mir den Ge— nuß an unſern ſchönen
+          Verſammlungen günzlich ver⸗ ſagt und auch den Umgang mit den Meinigen und Freunden
+          erſchwert, noch fühlbarer geworden. Dazu kommt noch eine bemerkbare Abnahme meines Ge⸗
+          ſichts, ſo daß die Sehnſucht nach der Heimath, die droben iſt, ſich oft mächtig regt, und
+          ich den Heiland oft bitten muß um die ſelige Ergebung, die allein in Seinem Willen ruht.
+          Er ſchließt die Sinnen—</p>
+        <pb n="786" />
+        <p>Shore zu, und ich bitte Ihn um To angelegeatlicher, daß der ſtille verborgene Umgang. mit
+          Ihm, um jo mehr mein Steit und meine Weido ſein andae, Doch ſcpentr der Heiland sed manche
+          ſen" Freude, namentlich an dem kleinen Gnfelfehe, mit welchem der Heiland die Ehe meiner
+          Tochter geſegnet yar. Wenn ich das fir Kind ſo weranigt in jenem Born tiegen ſche, fo ſagt
+          das mir: „Tyu als ein Kind und lege dieb In deines Heilands Armo!". </p>
+        <p>Nun, mein Heiland, id empfehle dir meine Kinder und Enkel. Ic bitte nicht, daß du ſie von
+          der Weit nehmeſt, aver um fe angelegentlicher, daß du fie bewahreſt vor dem Argen. DI
+          möchte auch ich zu den Seligen geboren, die emft fagen können: „Derr, hier bin ich und die
+          du mir gegeben vaſt, wir haben keines verloren.“. </p>
+        <p>Auch nnſero <orgName>Brüder-Unität</orgName> iege ich an Dein Dez. Sollen
+          Leidonsſtündiein ſchlagen, ? Deine nach 8 gt fich ſchwer treues Jofus-H ſo Du willſt, nur
+          immer 1. leiht zu Tragen, ſeitfigemachiv Gicht, das wir m jeder Notty ez und Auge ſehen
+          und gewiß fein können, fe kommt ven Dir! Aber auc? da, we wir unſre Schuld bekennen
+          müſſen, verlaß uns nicht, und wulf et, auch da, wo wir irre geben. Gieße ein rechts volles
+          Maaß Deines Geiſtes aus über Tone RKixebe und laß div gunze Erde voll werden von Dein
+          Erkenntntß, Ach ſte iſt onerb ſehr vol Nacht, und aän&lt; da, wo Dein Wort voin und lauter
+          verkündigt wird, ſind noch Te viele Seelen, die Dir den Eingang wehren, O ruhe nicht,
+          rüttle an ihres Herzens Ihür; ad möchte koines verloren gehen? Und mich, Dom armes Kind,
+          dem Du von Kindheit an, une YViebe und Ervanmen nachgegangen biſt, leite an Deiner teh
+          Hand dis zu dem ſeiigen Ziel, nad; dem fich mein Harz. </p>
+        <pb n="787" />
+        <p>ſehnt. Ja! ich wilt, wenn iG zu Dir komm, nicht venfon mehr an aut oder fror vn, da Fommr
+          ein Zünder ber, der gern aus Gnaden |; wär? Amen ja, Hort Jeſu! tomm, bleib nicbt. lange,
+          warte Deiner, mir bange, am komm doch koma! Pie. </p>
+        <p>Die. ſor. mſchcs unferes artiet feinem Heiland ‚ lang hinaus er ihm 7 Jahre lang Dei
+          Schwäche Alters eine Abnahme der äußeren Sine auferlegte, Wir können aber mit dem Lieben
+          Seligen die gebende, tragende Hand ſeines Heilandos nicht. genug preiſen. E ihm fiets
+          nahe, machte ihm Altes Schwere erträglich und fehentte ihm innerlich wie Enßerlich manche
+          Lie tbticke, Wie viel er durch die zunehwende Augenfcheäche und nos natelange, gänzliche
+          Tanbpoit entbehren mußte, iſt nicht auszufpreden, aber es wurde ihm geſchenkt, es mit der
+          Geduld und Ergebung zu tragen, die allein ter Herr geben kann. Im ſtillen Umgang mit
+          ſeinem beiten Freund fand or and ſtets den Troſt und die Erquidung, die er bedurfte, um in
+          ſeinem immer bins fälliger werdenden Zuſtand nicht die Liebos-Abiichten ſeines
+          Seeſenarztes zu verkennen. Mir weicher Treue er das Miffiousiwerk, die ganze Gemeine, oft
+          einzelne Glieder dexſelden, vor Allem aber ſeine Kinder und Enkel dem Heiland ans Herz
+          legte, wiſſen Alle, die ihm nahe ſtanden.. </p>
+        <p>Dieſes Getragemverden durch ſein Geber it uns, ſeinen Kindern, ſehr fchmerzlich, nun zu
+          entbehren, doch ſoil uns dieſes Gefühl nicht die Freude über die Seligkeit, die der theure
+          Entſchlafene jeht ge- nießen darf, wüben. Dex Hert allein kann ihm feine Baterliebe
+          vergelten, und daß Er das auf unſere Bitte than wird, glauben wir zuverſichtlich.</p>
+        <pb n="788" />
+        <p>Seine Bitte: „Mein Gott, id; bitt dur Chriſt! Blut, mob Dus mic meinem Ende gut" bat ibm
+          fein Heiland auf liebliche Woiſo erfüllt und ihn nur 3 Jago aufs Kranfenlager gelegt.
+          Nacktem ihm am Sonntag Nackmittag ein Schlaganfail betroffen hatte und Bieter eintrat,
+          glaubten wir, dev Deiland. eile mir Seinem treuen Ker, fotaf ihm der S des Herin zu feiner
+          Senf umgeben, ortheilt warde, weft ei vernebmlid dankte, Als ſich am Dienſtag, ſein
+          Zuffand ein wenig beſſerte, fürchteten wir eine längere Leidenszeit, dem der Ruf feines
+          Herrn : „Gehe ein zu deines Heren Freude, erging an ihn, und nacßdem er die leßten Lebens-
+          ſtunden bewußtlos vert t hatte, holte der treue Hirte Sein müdes harrendes Schäflein auf
+          dieſanfreſte Weiſe heim. </p>
+        <p>Wir woll'n beim Kien er einigemal arf ſeinem Krankenlager. </p>
+        <p>Dazu gebe der Herr uns Glauven und Kraft, und erfülle des themen Vaters ſehnlichtien
+          Wunſch, mit uns vereint Die ewige Schigkeir- zu genießen.. </p>
+        <p>Seine irdiſche Walkfahrt hat gewahrt 87 Jahr 28 Jage. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

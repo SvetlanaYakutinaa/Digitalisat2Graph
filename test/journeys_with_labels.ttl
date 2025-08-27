@@ -1,0 +1,340 @@
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+wd:Q123464547 rdfs:label "Justine Magdalena Küster"@de .
+
+wd:Q123464550 rdfs:label "Justine Magdalena Küster"@de .
+
+wd:Q115005136 rdfs:label "Agnes Lemmerz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q115345946 rdfs:label "Johann Gottlieb Bonatz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q122707229 rdfs:label "Johann Adolph Küster"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123396429 rdfs:label "Johann Adolf Bonatz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123396697 rdfs:label "Johannes Fritsch"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123419925 rdfs:label "Johannes Friedrich Hoffmann"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123419926 rdfs:label "Br. Hornig"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123420358 rdfs:label "Johannes Friedrich Lemmerz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123456933 rdfs:label "Johann Jürgen Friedrich Stein"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123456940 rdfs:label "Daniel Wilhelm Suhl"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123463682 rdfs:label "Johann Friedrich Wedemann"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123464530 rdfs:label "Maria Elisabeth Hoffmann"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123464538 rdfs:label "Bertha Kölbing"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123464549 rdfs:label "Justine Magdalena Küster"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q124744576 rdfs:label "Juliana Barbara Schulz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q130902239 rdfs:label "Johann Gottfried Schulz"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q131932979 rdfs:label "Johanne Christiane Beck"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q135875239 rdfs:label "Weg zum Missionsort (Labrador)"@de ;
+    p:P3342 [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q7081733 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q1055,
+                wd:Q380307,
+                wd:Q3967 ;
+            ps:P3342 wd:Q123456921 ] .
+
+wd:Q135902282 rdfs:label "Weg zum Missonsort (Westindien)"@de ;
+    p:P3342 [ pq:P1427 wd:Q165160 ;
+            pq:P1444 wd:Q204989 ;
+            pq:P1545 "1",
+                "2" ;
+            pq:P3712 wd:Q1630,
+                wd:Q2078072 ;
+            ps:P3342 wd:Q21415674 ] .
+
+wd:Q159916 rdfs:label "Kleinwelka/Mały Wjelkow"@de .
+
+wd:Q204989 rdfs:label "St. Kitts"@de .
+
+wd:Q2078072 rdfs:label "St. Thomas"@de .
+
+wd:Q21159 rdfs:label "Husum"@de .
+
+wd:Q2936 rdfs:label "Oldenburg"@de .
+
+wd:Q2965351 rdfs:label "Christian Ignatius Latrobe"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q3038 rdfs:label "Insel Helgoland"@de .
+
+wd:Q31084 rdfs:label "Jever"@de .
+
+wd:Q502553 rdfs:label "Berthelsdorf"@de .
+
+wd:Q55123804 rdfs:label "Gottfried Clemens"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q55853813 rdfs:label "Cart Rudolph Kölbing"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q688045 rdfs:label "Gnadau"@de .
+
+wd:Q7081733 rdfs:label "Okak"@de .
+
+wd:Q70975 rdfs:label "Königsfeld"@de .
+
+wd:Q720388 rdfs:label "Nain"@de .
+
+wd:Q79848 rdfs:label "Southampton"@de .
+
+wd:Q123456921 rdfs:label "Johann Heinrich Schmitt"@de ;
+    wdt:P793 wd:Q135874728,
+        wd:Q135875239 .
+
+wd:Q123463892 rdfs:label "Johanna Dorothea Bonatz"@de,
+        "Johanna Dorothea Koch"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q123495084 rdfs:label "Sophie Ernestina Suhl"@de ;
+    wdt:P793 wd:Q135874728 .
+
+wd:Q21 rdfs:label "England"@de .
+
+wd:Q21415674 rdfs:label "Johann Christian Breutel"@de ;
+    wdt:P793 wd:Q135874728,
+        wd:Q135902282 .
+
+wd:Q24879 rdfs:label "Bremen"@de .
+
+wd:Q26253 rdfs:label "Madeira"@de .
+
+wd:Q531909 rdfs:label "Tafelbucht"@de .
+
+wd:Q10056 rdfs:label "Zeist"@de .
+
+wd:Q1055 rdfs:label "Hamburg"@de .
+
+wd:Q1748 rdfs:label "Copenhagen"@de .
+
+wd:Q380307 rdfs:label "Labrador"@de .
+
+wd:Q165160 rdfs:label "Niesky"@de .
+
+wd:Q3967 rdfs:label "Neuwied"@de .
+
+wd:Q1630 rdfs:label "Altona"@de .
+
+wd:Q1501295 rdfs:label "Gnadenthal"@de .
+
+wd:Q11142530 rdfs:label "Groenekloof (Mamre)"@de .
+
+wd:Q165140 rdfs:label "Herrnhut"@de .
+
+wd:Q84 rdfs:label "London"@de .
+
+wd:Q5465 rdfs:label "Kapstadt"@de .
+
+wd:Q135874728 rdfs:label "Weg zum Missonsort (Südafrika)"@de ;
+    p:P3342 [ pq:P1427 wd:Q21 ;
+            pq:P1444 wd:Q5465 ;
+            ps:P3342 wd:Q55853813 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q1630 ;
+            ps:P3342 wd:Q123464549 ],
+        [ pq:P1427 wd:Q10056 ;
+            pq:P1444 wd:Q5465 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q165140,
+                wd:Q26253,
+                wd:Q84 ;
+            ps:P3342 wd:Q130902239 ],
+        [ pq:P1427 wd:Q502553 ;
+            pq:P1444 wd:Q5465 ;
+            pq:P1545 "1",
+                "2",
+                "3",
+                "4" ;
+            pq:P3712 wd:Q3967,
+                wd:Q531909,
+                wd:Q79848,
+                wd:Q84 ;
+            ps:P3342 wd:Q21415674 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q1748 ;
+            ps:P3342 wd:Q123463892 ],
+        [ pq:P1427 wd:Q84 ;
+            pq:P1444 wd:Q5465 ;
+            ps:P3342 wd:Q123495084 ],
+        [ pq:P1427 wd:Q70975 ;
+            pq:P1444 wd:Q5465 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q10056,
+                wd:Q3967,
+                wd:Q84 ;
+            ps:P3342 wd:Q124744576 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1",
+                "2" ;
+            pq:P3712 wd:Q5465,
+                wd:Q84 ;
+            ps:P3342 wd:Q123420358 ],
+        [ pq:P1427 wd:Q1630 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1",
+                "2" ;
+            pq:P3712 wd:Q5465,
+                wd:Q84 ;
+            ps:P3342 wd:Q123419926 ],
+        [ pq:P1444 wd:Q11142530,
+                wd:Q5465 ;
+            ps:P3342 wd:Q2965351 ],
+        [ pq:P1427 wd:Q84 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q5465 ;
+            ps:P3342 wd:Q123464538 ],
+        [ pq:P1427 wd:Q24879 ;
+            pq:P1545 "1",
+                "2",
+                "3",
+                "4",
+                "5" ;
+            pq:P3712 wd:Q11142530,
+                wd:Q26253,
+                wd:Q2936,
+                wd:Q31084,
+                wd:Q688045,
+                wd:Q84 ;
+            ps:P3342 wd:Q123396697 ],
+        [ pq:P1427 wd:Q84 ;
+            pq:P1444 wd:Q5465 ;
+            ps:P3342 wd:Q123495084 ],
+        [ pq:P1427 wd:Q1055 ;
+            pq:P1444 wd:Q720388 ;
+            pq:P1545 "1",
+                "2",
+                "3",
+                "4" ;
+            pq:P3712 wd:Q1501295,
+                wd:Q380307,
+                wd:Q5465,
+                wd:Q84 ;
+            ps:P3342 wd:Q123456921 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1",
+                "2",
+                "3",
+                "4" ;
+            pq:P3712 wd:Q1630,
+                wd:Q21159,
+                wd:Q3038,
+                wd:Q84 ;
+            ps:P3342 wd:Q122707229 ],
+        [ pq:P1427 wd:Q165160 ;
+            pq:P1444 wd:Q380307 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q84 ;
+            ps:P3342 wd:Q131932979 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q1630,
+                wd:Q5465,
+                wd:Q84 ;
+            ps:P3342 wd:Q123419925 ],
+        [ pq:P1427 wd:Q159916 ;
+            pq:P1444 wd:Q5465 ;
+            pq:P1545 "1",
+                "2" ;
+            pq:P3712 wd:Q11142530,
+                wd:Q84 ;
+            ps:P3342 wd:Q115005136 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q165160,
+                wd:Q531909,
+                wd:Q5465 ;
+            ps:P3342 wd:Q123396429 ],
+        [ pq:P1427 wd:Q24879 ;
+            pq:P1444 wd:Q5465 ;
+            ps:P3342 wd:Q123463682 ],
+        [ pq:P1427 wd:Q165160 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1",
+                "2",
+                "3" ;
+            pq:P3712 wd:Q10056,
+                wd:Q21,
+                wd:Q3967 ;
+            ps:P3342 wd:Q123456940 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q5465 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q84 ;
+            ps:P3342 wd:Q123456933 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q1748 ;
+            ps:P3342 wd:Q123463892 ],
+        [ pq:P1427 wd:Q84 ;
+            pq:P1444 wd:Q11142530 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q5465 ;
+            ps:P3342 wd:Q55123804 ],
+        [ pq:P1427 wd:Q165140 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1" ;
+            pq:P3712 wd:Q1748 ;
+            ps:P3342 wd:Q115345946 ],
+        [ pq:P1427 wd:Q1055 ;
+            pq:P1444 wd:Q1501295 ;
+            pq:P1545 "1",
+                "2" ;
+            pq:P3712 wd:Q5465,
+                wd:Q84 ;
+            ps:P3342 wd:Q123464530 ] .
+
