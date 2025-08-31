@@ -33,48 +33,50 @@ Nach unſerer Rückkehr nach Gnadenthal wurde dann eine Miſſions Conferenz geh
 (wir, Rückkehr nach, Gnadenthal)    FN
 
 Von den zehn Kindern mit welchen ünſere Ehe geſegnet wurde ſind noch ſechs Leben und befinden ſich in der Gemeine.
-(die Ehe, geſegnet, die zehn Kindern)
-(die zehn Kindern, leben, sich)
-(die zehn Kindern, finden sich, in der Gemeine)
+(die Ehe, geſegnet, die zehn Kindern) FN
+(die zehn Kindern, leben, sich) TP
+(die zehn Kindern, finden sich, in der Gemeine) TP
 
 Im November 1848 erhielt unſre jüngſte Tochter einen Ruf als Pflegerin der led. Schwn. nach Berlin.
-(unſre jüngſte Tochter, erhielt, Ruf als Pflegerin der led. Schwn.)
+(unſre jüngſte Tochter, erhielt, Ruf als Pflegerin der led. Schwn.) TP
 
 Im Auguſt deſſelben Jahres trat ih denn in das Pädagogium ein mit dem Vorſatz, meine Zeit gut anzuwenden und meinen Vorgeſeßten zur Freude zu fein; ich war dabei ziemlich vergnügt, zumal da mich im Herbſt deſſelben Jahres meine lieben Eltern von Königsfeld aus, wohin fie 1819 aus der Schweiz gekommen waren, zum erſtenmal nach einer Trennung von acht und einem halben Jahr beſuchten.
-(ich, trat in, Pädagogium)
-(ich, wohnt, Königsfeld)
-(meine l. Frau, besuchten, Königsfeld)
-(meine Eltern, kamen aus, Schweiz)
+(ich, trat in, Pädagogium) TP
+(ich, wohnt, Königsfeld) FN
+(meine l. Frau, besuchten, Königsfeld) FN
+(meine Eltern, kamen aus, Schweiz) TP
+(meine Eltern, wohnen, in Königsfeld) FN
 
-Nachdem ich auf den Wunſch meines Mannes die Miſſions - Geſchwiſter herbeis gerufen hatte, um ihm den Segen des Herrn zu ſeiner Heimfahrt zu ertheilen, änderte ſich ſein Zuſtand unerwartet dergeſtalt, daß er noch einige Wochen faſt beſtändig ſchlummernd verbrachte, bis am 3 Juli 1841 der ſelige Moment erſchien, da ſeine Seele Erlaubniß dekam, einzugehen in die Wohnungen des Friedens nach einer Wallfahrt hienieden von 58 Jahren.
-(er, herbeis gerufen, Miſſions - Geſchwiſter)
-(er, sich änderte, sein Zuſtand)
-(er, einzugehen, die Wohnungen des Friedens)
-(er, ankommen, 3 Juli 1841)
+Nachdem ich auf den Wunſch meines Mannes die Miſſions - Geſchwiſter herbeis gerufen hatte, um ihm den Segen des Herrn zu ſeiner Heimfahrt zu ertheilen, änderte ſich ſein Zuſtand unerwartet dergeſtalt, daß er noch einige Wochen faſt beſtändig ſchlummernd verbrachte, bis am 3 Juli 1841 der ſelige Moment erſchien, da ſeine Seele Erlaubniß bekam, einzugehen in die Wohnungen des Friedens nach einer Wallfahrt hienieden von 58 Jahren.
+(er, herbeis gerufen, Miſſions - Geſchwiſter) FP
+(er, sich änderte, sein Zuſtand) FP
+(er, einzugehen, die Wohnungen des Friedens) FN
+(er, ankommen, 3 Juli 1841) FN
+(er, gestorben, 3 Juli 1841) FN
 
-ch meldete mich zur Aufnahme in die Gemeine, wie es früher noch Sitte war, und gelangte dazu am 13 November deſſelben Jahres.
-(ich, meldete mich zur Aufnahme in die Gemeine, Gemeine)
+Ich meldete mich zur Aufnahme in die Gemeine, wie es früher noch Sitte war, und gelangte dazu am 13 November deſſelben Jahres.
+(ich, meldete mich zur Aufnahme in die Gemeine, Gemeine) TP
 
 Um so dankbarer waren wir, als wir glücklich bei der Capſtadt landeten, nachdem wir 16 Wochen auf dem Schiffe verbracht hatten.
-(wir, landen, Capſtadt)
+(wir, landen, Capſtadt) TP
 
 Im April 1780 erhielt ich die geſuchte Erlaubniß und zwar hierher nach Niesky.
-(ich, erhielt, die geſuchte Erlaubniß)
-(ich, erhielt, Niesky)
+(ich, erhielt, die geſuchte Erlaubniß) FP
+(ich, erhielt, Niesky) FN
 
 Unſere Trauung daſelbſt fand mit der des led, Br. Adolf Küſter zuſammen ſtatt, welcher mit ſeiner Braut von Clarkson nach Enon gekommen war.
-(Br. Adolf Küſter, trauung, dieser led)
-(Br. Adolf Küſter, mit, seiner Braut)
-(Br. Adolf Küſter, kommen, von Clarkson nach Enon)
+(Br. Adolf Küſter, trauung, dieser led) FN
+(Br. Adolf Küſter, mit, seiner Braut) FN
+(Br. Adolf Küſter, kommen, von Clarkson nach Enon) FN
 
 Nach ſeinem Begräbniß reiſete ich mit einem meiner redlichen und religiöſen Freunde zu Ostern nach Herrnhut
-(ich, reisen, Herrnhut)
+(ich, reisen, Herrnhut) TP
 
 Das Schiff, Johann Julius, ging erſt am 21. Okt. ab.
-(Johann Julius, ging, Schiff)
+(Johann Julius, ging, Schiff) FN
 
 Am 10. November 1825 wurden wir durch die Geburt einer Tochter erfreut, die wir in der Taufe dem Herrn zum ewigen Eigenthum weihten.
-(wir, werden, einer Tochter)
+(wir, werden, einer Tochter) 
 
 Schon am folgenden Nachmittag, den 20 Juni, traten wir unſre Abreiſe an mit dem Fuhrwerk des Bruders Hauſchild in Gnadau, der ſchon manche Missionsgeschwister bis nach Gnadau gebracht, und der zur Zeit gerade in Herrnhut anweſend war.
 (Bruders Hauſchild, tätig, Gnadau)
