@@ -1,0 +1,5 @@
+streamlit>=1.46
+pandas
+networkx
+pyvis
+openpyxl
