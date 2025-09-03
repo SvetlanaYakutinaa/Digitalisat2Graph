@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>pydeck</title>
+        <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <script src='https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~9.0.*/dist/index.js'></script>
+    <style>
+    body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#deck-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+#deck-container canvas {
+  z-index: 1;
+  background: none;
+}
+    </style>
+  </head>
+  <body>
+    <div id="deck-container">
+    </div>
+  </body>
+  <script>
+    const container = document.getElementById('deck-container');
+    const jsonInput = {
+  "initialViewState": {
+    "latitude": 51.0,
+    "longitude": 10.0,
+    "zoom": 5
+  },
+  "layers": [
+    {
+      "@@type": "ScatterplotLayer",
+      "data": [
+        {
+          "color": [
+            70,
+            120,
+            200
+          ],
+          "id": 1,
+          "lat": 52.52,
+          "lon": 13.4,
+          "mutter_id": NaN,
+          "name": "Vater A",
+          "rolle": "Vater",
+          "vater_id": NaN
+        },
+        {
+          "color": [
+            200,
+            120,
+            180
+          ],
+          "id": 2,
+          "lat": 48.14,
+          "lon": 11.58,
+          "mutter_id": NaN,
+          "name": "Mutter A",
+          "rolle": "Mutter",
+          "vater_id": NaN
+        },
+        {
+          "color": [
+            120,
+            200,
+            120
+          ],
+          "id": 3,
+          "lat": 50.94,
+          "lon": 6.95,
+          "mutter_id": 2.0,
+          "name": "Kind A",
+          "rolle": "Kind",
+          "vater_id": 1.0
+        },
+        {
+          "color": [
+            70,
+            120,
+            200
+          ],
+          "id": 4,
+          "lat": 53.55,
+          "lon": 10.0,
+          "mutter_id": NaN,
+          "name": "Vater B",
+          "rolle": "Vater",
+          "vater_id": NaN
+        },
+        {
+          "color": [
+            200,
+            120,
+            180
+          ],
+          "id": 5,
+          "lat": 50.11,
+          "lon": 8.68,
+          "mutter_id": NaN,
+          "name": "Mutter B",
+          "rolle": "Mutter",
+          "vater_id": NaN
+        },
+        {
+          "color": [
+            120,
+            200,
+            120
+          ],
+          "id": 6,
+          "lat": 51.34,
+          "lon": 12.37,
+          "mutter_id": 5.0,
+          "name": "Kind B",
+          "rolle": "Kind",
+          "vater_id": 4.0
+        }
+      ],
+      "getFillColor": "@@=color",
+      "getPosition": "@@=[lon, lat]",
+      "getRadius": 10000,
+      "id": "5c17af7a-65d7-4a3b-85b4-8fbc4f108a07",
+      "pickable": true
+    },
+    {
+      "@@type": "ArcLayer",
+      "data": [
+        {
+          "color": [
+            70,
+            120,
+            200,
+            160
+          ],
+          "from": [
+            13.4,
+            52.52
+          ],
+          "to": [
+            6.95,
+            50.94
+          ]
+        },
+        {
+          "color": [
+            200,
+            120,
+            180,
+            160
+          ],
+          "from": [
+            11.58,
+            48.14
+          ],
+          "to": [
+            6.95,
+            50.94
+          ]
+        },
+        {
+          "color": [
+            70,
+            120,
+            200,
+            160
+          ],
+          "from": [
+            10.0,
+            53.55
+          ],
+          "to": [
+            12.37,
+            51.34
+          ]
+        },
+        {
+          "color": [
+            200,
+            120,
+            180,
+            160
+          ],
+          "from": [
+            8.68,
+            50.11
+          ],
+          "to": [
+            12.37,
+            51.34
+          ]
+        }
+      ],
+      "getSourceColor": "@@=color",
+      "getSourcePosition": "@@=from",
+      "getTargetColor": "@@=color",
+      "getTargetPosition": "@@=to",
+      "getWidth": 2,
+      "id": "7928871b-ac3a-4fe9-a053-df36309c1c66"
+    }
+  ],
+  "mapProvider": "carto",
+  "mapStyle": "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+  "views": [
+    {
+      "@@type": "MapView",
+      "controller": true
+    }
+  ]
+};
+    const tooltip = {'text': '{name} ({rolle})'};
+    const customLibraries = null;
+    const configuration = null;
+
+    const deckInstance = createDeck({
+                  container,
+      jsonInput,
+      tooltip,
+      customLibraries,
+      configuration
+    });
+
+  </script>
+</html>

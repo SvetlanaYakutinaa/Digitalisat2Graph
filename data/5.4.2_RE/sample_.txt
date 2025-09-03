@@ -76,279 +76,282 @@ Das Schiff, Johann Julius, ging erſt am 21. Okt. ab.
 (Johann Julius, ging, Schiff) FN
 
 Am 10. November 1825 wurden wir durch die Geburt einer Tochter erfreut, die wir in der Taufe dem Herrn zum ewigen Eigenthum weihten.
-(wir, werden, einer Tochter) 
+(wir, werden, einer Tochter) FN
 
 Schon am folgenden Nachmittag, den 20 Juni, traten wir unſre Abreiſe an mit dem Fuhrwerk des Bruders Hauſchild in Gnadau, der ſchon manche Missionsgeschwister bis nach Gnadau gebracht, und der zur Zeit gerade in Herrnhut anweſend war.
-(Bruders Hauſchild, tätig, Gnadau)
-(Bruders Hauſchild, tätig, Herrnhut)
+(Bruders Hauſchild, tätig, Gnadau) FN
+(Bruders Hauſchild, tätig, Herrnhut) FN
 
 Am 30 April 1858 wurde er, der mit ſo reichen Gaben ausgerüſtete Diener ſeines Herrn, erſt 45 Jahr alt, durch einen Herzſchlag ganz plößlich ſeiner geſegneten Thätigkeit entriſſen.
-(er, gestorben, None)
+(er, gestorben, None) TP
 
-Am 16 September ging Bruder Fritſch mit Geſchwiſter Leitner und Bruder Schulz an Bord, fie legten am 19 October bei Madeira an, um friſchen Proviant einzunehmen, und langten den 26 December glücklich in der Capstadt an.
-(Bruder Fritſch, ankommen, Capstadt)
-(Bruder Fritſch, ankommen, Madeira)
-(Bruder Fritſch, reisen, Capstadt)
+Am 16 September ging Bruder Fritſch mit Geſchwiſter Leitner und Bruder Schulz an Bord, sie legten am 19 October bei Madeira an, um friſchen Proviant einzunehmen, und langten den 26 December glücklich in der Capstadt an.
+(Bruder Fritſch, ankommen, Capstadt) TP
+(Bruder Fritſch, ankommen, Madeira) FN
+(Bruder Fritſch, reisen, Capstadt) TP
+(Geſchwiſter Leitner und Bruder Schulz, ankommen, Madeira) FN
+(Geſchwiſter Leitner und Bruder Schulz, ankommen, Capstadt) FN
 
 Im März 1823 traf er hier in Gnadenthal ein und im folgenden Jahr erhielt er den Auftrag dem neuen Miſſionsplaß in Elim vorzuſtehen welchen Auftrag er mit Herzenslust und Freudigkeit annahm.
-(er, ankommen, Gnadenthal)
-(er, vorstellen, Elim)
+(er, ankommen, Gnadenthal) TP
+(er, vorstellen, Elim) FN
 
 Anfang September kam Br. Ignatius Latrobe zu einem Beſuch nach Ockbrook, und da nun auch die Nachricht von der Anfunft der Geſchw. Genth angefangt war und wir nach London zurücfehren ſollten, jo hielt Br. Latrobe noch an dem letzen Abend eine Gemeinſtunde über den Tert: Wie das Teil derjenigen, die in den Streit hinabgezogen find, jo soll auch das Zeil derjenigen jein, die beim Gerät geblieben ſind.
-(Br. Ignatius Latrobe, kam, Ockbrook)
-(Br. Ignatius Latrobe, hielt, Gemeinſtunde)
-(Geſchw. Genth, ankommen, None)
+(Br. Ignatius Latrobe, kam, Ockbrook) TP
+(Br. Ignatius Latrobe, hielt, Gemeinſtunde) FN
+(Geſchw. Genth, ankommen, None) TP
 
 Diese Geſchicklichkeit hatte er ſich, ehe er Herrnhut verließ, bei dem damaligen Doctor Maſſalien angeeignet, und es war ihm Gnade, auch mit dieſer Gabe dem Herrn und der Miſſion zu dienen.
-(er, hatte angeeignet, dem damaligen Doctor Maſſalien)
+(er, hatte angeeignet, dem damaligen Doctor Maſſalien) FN
 
 Br. Buch (wein Vorgänger) nahm sich unſer treulich an und degleitete uns bei den Beſuchen der Geſchwiſter im Dorfe.
-(Br. Buch, nahm sich unſer treulich an, uns)
-(Br. Buch, degleitete uns bei den Beſuchen der Geſchwiſter im Dorfe, Geſchwiſter im Dorfe)
+(Br. Buch, nahm sich unſer treulich an, uns) FN
+(Br. Buch, degleitete uns bei den Beſuchen der Geſchwiſter im Dorfe, Geſchwiſter im Dorfe) FN
 
 Nun verbreitet ſich der Aufſaß unſers ſeligen Brite ders nog umſtändlich über feine Dienſtzeit die ihm zulekt durch eine ſeinen abnehmenden Kräften und ſeinem geſchwächten Geſundheitszuſtand nicht angemeſſene Erweiterung der Geſchäfte ſo wie durch bittere Erfahrungen bey den Eriegerifchen Bewegungen der Jahre 1793 und 1794 ſehr erſchwert wurde Er bat das her um ſeine Entlaſſung und erhielt dieſelbe.
-(seliger Bruder, bat, Entlaſſung)
-(seliger Bruder, erhielt, Entlaſſung)
+(seliger Bruder, bat, Entlaſſung) FN
+(seliger Bruder, erhielt, Entlaſſung) FN
 
 Nach einer glücklichen Fahrt von 10 Wochen langten wir am 17 April in London an, und am 26 Mai trafen wir in Kleinwelke ein, wo ich die Freude hatte meine 2. leiblichen Schweſtern und unſern Sohn Auguſt wieder zu ſehen.
-(ich, ankommen, London)
-(ich, ankommen, Kleinwelke)
-(Auguſt, sehen, meine 2. leiblichen Schweſtern und unſern Sohn Auguſt)
+(ich, ankommen, London) TP
+(ich, ankommen, Kleinwelke) TP
+(Auguſt, sehen, meine 2. leiblichen Schweſtern und unſern Sohn Auguſt) FN
 
 Aus ſeiner erſten Ehe hat er fünf Kinder gehabt von welchen ihm drey in die Ewigkeit vorangegangen die zwey andern aber in der Pflege der Gemeine ſind Seine zweyte Ehe war mit drey Kindern geſegnet welche noch am Leben ſind.
-(er, hat, fünf Kinder)
-(er, gehabt, drey in die Ewigkeit)
-(er, sind, zwey andern)
-(er, hat, zweite Ehe)
-(er, ist geſegnet, drey Kindern)
+(er, hat, fünf Kinder) FP
+(er, gehabt, drey in die Ewigkeit) FN
+(er, sind, zwey andern) FN
+(er, hat, zweite Ehe) FP
+(er, ist geſegnet, drey Kindern) FN
 
 Wir begaben uns zuertt nach Gnadenthal wo die dortigen Miſſionare meinen feligen Mann erſuchten noch einige Monate zu verweilen um einſtweilen die Geſchäfte des Bruders Hallbeck während ſeiner Reife in das Tambukkiland zu beſorgen.
-(meiner Mann, wurde erſucht, Gnadenthal)
-(meiner Mann, wurde erſucht, Tambukkiland)
-(Bruder Hallbeck, war tätig, in das Tambukkiland)
+(meiner Mann, wurde erſucht, Gnadenthal) FN
+(meiner Mann, wurde erſucht, Tambukkiland) FN
+(Bruder Hallbeck, war tätig, in das Tambukkiland) FN
 
 In meinem 14ten Jahr wurde ich von einem der obgedachten Prediger confirmirt, und genaß dann zu Pfingſten zum erſten Mal das heilige Abendmahl mit Furcht und Zittern.
-(ich, confirmirt, Prediger)
+(ich, confirmirt, Prediger) FN
 
 Unſre Abreife nach Enon traten wir am 2ten Januar 1839 an, bei ſehr heißer und ſchwüler Witterung, die ſich aber durch ein Gewitter ſo abkühlte, daß wir unſre wärmſten Winterkleider hervorſuchen mußten.
-(wir, traten, Enon)
+(wir, traten, Enon) TP
 
 Am 4 Juni 1830 kam ich in das Chor der größeren Mädchen und zog nun, auf Veranlaſſung der Geſchw. Sießen, wieder nach Niesky.
-(ich, kam, Chor der größeren Mädchen)
-(Geſchw. Sießen, veranlaufen, Niesky)
+(ich, kam, Chor der größeren Mädchen) FN
+(Geſchw. Sießen, veranlaufen, Niesky) FN
 
-Ein Dampfſchiff brachte uns, da der Wind nachließ, in drei Tagen nach London, wo wir an meinem Geburtötag, den 24 Juli, glücklich ans langtenz und da die Gemeine an dieſem Tage das heilige Abendmahl beging, fo konnten auch wir an der Feier deſſelben Theil nehmen, und unſre Dankgefühle dem Heiland gemeinſchaftlich ausfprechen.
-(uns, ankommen, London)
-(uns, nehmen, heilige Abendmahl)
-(uns, ausfprechen, Dankgefühlen)
+Ein Dampfſchiff brachte uns, da der Wind nachließ, in drei Tagen nach London, wo wir an meinem Geburtötag, den 24 Juli, glücklich ans langtenz und da die Gemeine an dieſem Tage das heilige Abendmahl beging, so konnten auch wir an der Feier deſſelben Theil nehmen, und unſre Dankgefühle dem Heiland gemeinſchaftlich ausfprechen.
+(uns, ankommen, London) TP
+(uns, nehmen, heilige Abendmahl) FP
+(uns, ausfprechen, Dankgefühlen) FN
 
 Von dem Tage an ſchloß ich mich auch immer näher an die Brüdergemeine an und beſuchte die Verſammlungen der Societät in Görliß ohne Cheu.
-(ich, besuchen, Görliß)
+(ich, besuchen, Görliß) TP
 
 Nicht lange darauf begab ich mich mit Geſchw. Genth auf die lange Reiſe nach Enon, nach einem herzlichen Abſchied von den zurübleibeuden Geſchwiſtern.
-(ich, begab mich, Geſchw. Genth)
-(ich, gehe auf die lange Reise nach, Enon)
+(ich, begab mich, Geſchw. Genth) FN
+(ich, gehe auf die lange Reise nach, Enon) TP
 
-Im Jahr 1781 fügte es Gott daß ein Diaſpora Bruder in Geſchäften zu einem Bürger Namens Freitag nach Lachen kam und dieſen Mann der um ſeine Seligkeit bekümmert war auf das vollgültige Verdienſt Chriſti hinwies welches man im Glauben ergreifen müſſe denn nur damit könne man vor Gott befichen wenn er davon noch mehr zu hören wünſche fo möchte er die Predigten und Verfamniuagen des Pfarrers Dielemann in Speier beſuchen.
-(Diaſpora Bruder, kam, Lachen)
-(Freitag, wurde besucht, Pfarrer Dielemann)
-(Freitag, bekümmert war, um seine Seligkeit)
+Im Jahr 1781 fügte es Gott daß ein Diaſpora Bruder in Geſchäften zu einem Bürger Namens Freitag nach Lachen kam und dieſen Mann der um ſeine Seligkeit bekümmert war auf das vollgültige Verdienſt Chriſti hinwies welches man im Glauben ergreifen müſſe denn nur damit könne man vor Gott befichen wenn er davon noch mehr zu hören wünſche fo möchte er die Predigten und Versamniuagen des Pfarrers Dielemann in Speier beſuchen.
+(Diaſpora Bruder, kam, Lachen) FP
+(Freitag, wurde besucht, Pfarrer Dielemann) FN
+(Freitag, bekümmert war, um seine Seligkeit) FN
 
 Am 1. Juni trat ich meine Wanderung dahin an.
-(ich, trat, Wanderung)
+(ich, trat, Wanderung) TP
 
 Am 11 Septr. reiſten wir mit Br. La Trobe noch bis Sale zu unſeren Verwandten Foſter.
-(wir, reiſten, Br. La Trobe)
-(wir, reiſten, Sale)
+(wir, reiſten, Br. La Trobe) FN
+(wir, reiſten, Sale) TP
 
 Zu Ende dieſes Jahres machten wir eine Reiſe nach Enon mit Geſchw. Schärf, welche nach Gnadenthal berufen waren.
-(Geſchw. Schärf, reisen, Enon)
-(Geſchw. Schärf, wohnhaft, Gnadenthal)
+(Geſchw. Schärf, reisen, Enon) TP
+(Geſchw. Schärf, wohnhaft, Gnadenthal) TP
 
 Am 31 December 1824 kam ich daſelbſt an und trat bei den lieben Geſchw. Carl von Foreſtier in Dient, die mich mit vieler Liebe und Freundlichkeit aufnahmen.
-(ich, ankommen, daſelbſt)
-(ich, trat bei, lieben Geſchw. Carl von Foreſtier)
+(ich, ankommen, daſelbſt) FN
+(ich, trat bei, lieben Geſchw. Carl von Foreſtier) TP
 
 Am 31.Mai gingen wir zu Schiffe um die Reiſe nach Labrador anzutreten mufiten aber drei Wochen ins Gravesend liegen bleiben da der größte Theil der Mannſchaft auf der im Ausfluß der Themse liegenden Flotte ſich empört hatte.
-(wir, reisen, Labrador)
-(die Mannſchaft, aufenthalt, Gravesend)
+(wir, reisen, Labrador) TP
+(die Mannſchaft, aufenthalt, Gravesend) FN
 
 Am 27. Febrpar 1827 ſchreibt ſeine hinterlaſſene Witwe verließen wir unfer liebes Enon in einem wirklich blühenden Zuſtand.
-(meine l. Frau, verließen, Enon)
+(meine l. Frau, verließen, Enon) FN
 
 Zu meiner Freude fand ich an einem meiner Mitgesellen einen Herrnhuter Bruder, der mich dem dortigen Sociestäts - Arbeiter, Bruder Adler, vorſtellte.
-(Bruder Adler, vorſtellte, dem dortigen Sociestäts - Arbeiter)
+(Bruder Adler, vorſtellte, dem dortigen Sociestäts - Arbeiter) FN
 
 Ihre 4 Kinder führte der Heiland in die Brüdergemeine, mein Bruder ging in Suriname, meine ältere Schweſter in Däniſch Weſtindien und meine juͤngere in Ebersdorf heim.
-(mein Bruder, ging, Suriname)
-(meine ältere Schweſter, ging, Däniſch Weſtindien)
-(meine juͤngere, ging, Ebersdorf)
-(Ihre 4 Kinder, führte, Brüdergemeine)
+(mein Bruder, ging, Suriname) TP
+(meine ältere Schweſter, ging, Däniſch Weſtindien) TP
+(meine juͤngere, ging, Ebersdorf) TP
+(Ihre 4 Kinder, führte, Brüdergemeine) FN
 
 In meinem 14ten Jahre wurde ich confirmirt; mein Vater war ſchon zwei Jahre vorher aus der Zeit gegangen, hatte aber das Schulgeld für mich vorausvezahlt.
-(ich, confirmirt, None)
-(Vater, war, aus der Zeit)
+(ich, confirmirt, None) TP
+(Vater, war, aus der Zeit) FN 
 
 Gegen Ende 1830 ging meine Schweſter Juſtine in Kleinwelke an der Auszehrung heim.
-(Juſtine, wirkt, Kleinwelke)
+(Juſtine, wirkt, Kleinwelke) FN
 
 Im folgenden Jahr 1865 beſuchten wir meinen Sohn Emil, der in einem großen chemiſchen Geſchäft ſeit 6 Jahren angeſtellt iſt.
-(Emil, besuchen, meiner Sohn)
+(Emil, besuchen, meiner Sohn) FN
 
 Im Jahr 1812 hielt ich um Erlanbniß zur Gemeine an, und erhielt dieſelbe nach Nisky.
-(ich, hielt an, Gemeine)
+(ich, hielt an, Gemeine) FN
 
 Am 26. November trat ich mit Br. Kölbing die Reiſe nach unſern unterländiſchen Gemeinen: Clarkſon, Enon, Silo und dem abgebrannten Goſen an.
-(ich, trat, Reiſe nach unſern unterländiſchen Gemeinen)
-(Br. Kölbing, trat, Reiſe nach unſern unterländiſchen Gemeinen)
-(Br. Kölbing, die, Clarkſon, Enon, Silo und dem abgebrannten Goſen an)
+(ich, trat, Reiſe nach unſern unterländiſchen Gemeinen) TP
+(Br. Kölbing, trat, Reiſe nach unſern unterländiſchen Gemeinen) TP
+(Br. Kölbing, die, Clarkſon, Enon, Silo und dem abgebrannten Goſen an) FN
 
 St. Kitts iſt die ſchönſte von den weſtindiſchen Inſeln, die wir beſucht haben.
-(wir, besuchen, St. Kitts)
+(wir, besuchen, St. Kitts) TP
 
 Unſre 1. Geſchwiſter in Süd-Afrika hatten Jahr 1853 um einen Beſuch aus der Unit.-Aelta Conferenz gebeten, der mir aufgetragen wurde, meine treue Lebensgefährtin ſollte mich begleiten.
-(meine treue Lebensgefährtin, begleiten, mich)
-(Unſre 1. Geſchwiſter, haben, Süd-Afrika)
-(Unſre 1. Geſchwiſter, haben, Unit.-Aelta Conferenz)
-(mich, sollte, begleiten)
+(meine treue Lebensgefährtin, begleiten, mich) FN
+(Unſre 1. Geſchwiſter, haben, Süd-Afrika) FN
+(Unſre 1. Geſchwiſter, haben, Unit.-Aelta Conferenz) FN
+(mich, sollte, begleiten) FN
 
 Herr Juritz, in dessen Haus wir viel Pflege und Thetinahme geneſtey, und die Brüder Kühn, Franke und Hartmann begleiteten uns auf unſern Argo.
-(Herr Juritz, wurde besucht, die Brüder Kühn, Franke und Hartmann)
-(die Brüder Kühn, Franke und Hartmann, begleiteten, uns)
+(Herr Juritz, wurde besucht, die Brüder Kühn, Franke und Hartmann) TP
+(die Brüder Kühn, Franke und Hartmann, begleiteten, uns) TP
 
 Ich ging daher zu Br. Wullſchlägel, welcher damals Lehrer an der Ortsanſtalt in Niesky war, und erſuchte ihn, mir einige lateiniſche Bücher zu leihen.
-(Ich, ging, zu Br. Wullſchlägel)
-(Br. Wullſchlägel, war, Lehrer an der Ortsanſtalt in Niesky)
+(Ich, ging, zu Br. Wullſchlägel) TP
+(Br. Wullſchlägel, war, Lehrer an der Ortsanſtalt in Niesky) FP
 
 Sie ſprach, als geborne Kafferin, obgleich sie viele Jahre in Gnadenthal gewohnt hatte, ohne Kafferiſch zu hören, ihre Mutterſprache gut und richtig, und was das beſte war, sie hatte ein ganzes Herz für den Heiland, und die Bekehrung ihres Volkes lag ihr ſehr am Herzen.
-(Sie, geboren, Kafferin)
-(Sie, None, Gnadenthal)
+(Sie, geboren, Kafferin) FP
+(Sie, None, Gnadenthal) FN
 
 Unter ihnen war beſonders einer, Namens Aſchenbach, mit dem ich unzertrennlich verbunden blieb.
-(ich, verbunden, Aſchenbach)
+(ich, verbunden, Aſchenbach) TP
 
 Indeſſen kam uns Mr. Tylkden mit großer Freundlichfeit entgegen, Tier gleich zwei ſeiner jeigenen Pferde ſatteln anſtelle unſerer von dem langen Ritt ermüdeten Tiere und begleitete uns ſelbſt nach Silo.
-(Mr. Tylkden, begleitete, uns)
-(Mr. Tylkden, None, Tiere)
-(uns, begleitete, Mr. Tylkden)
-(uns, selbst, nach Silo)
+(Mr. Tylkden, begleitete, uns) FN
+(Mr. Tylkden, None, Tiere) FN
+(uns, begleitete, Mr. Tylkden) FN
+(uns, selbst, nach Silo) FN
 
 Am Oſtertag war die Confirmation, nachher Predigt, und dann wurde das heilige Abendmahl ausgetheilt.
-(das heilige Abendmahl, ausgetheilt, None)
+(das heilige Abendmahl, ausgetheilt, None) FN
 
-Am 20 März 1815 erhielt ich in Gnadenthal, wo ich mich für einige Zeit aufhielt, um Bruder Swin im Garten und bei der Weinleſe zur Hülfe zu fein, die Nachricht, daß Geſchwiſter Beinbrecht mit den beiden led.
-(ich, aufhielt, Gnadenthal)
-(Bruder Swin, im Garten und bei der Weinleſe zur Hülfe zu fein, )
+Am 20 März 1815 erhielt ich in Gnadenthal, wo ich mich für einige Zeit aufhielt, um Bruder Swin im Garten und bei der Weinleſe zur Hülfe zu sein, die Nachricht, daß Geſchwiſter Beinbrecht mit den beiden led.
+(ich, aufhielt, Gnadenthal) TP
+(Bruder Swin, im Garten und bei der Weinleſe zur Hülfe zu sein, ) FN
 
-Daß Silo zum Teil ein Raub der Flam men geworden, hatten wir ſchon in Kamoeftowne, einer engliſchen Miſſionsfration gehört.
-(Silo, wohnhaft, Kamoeftowne)
+Daß Silo zum Teil ein Raub der Flammen geworden, hatten wir ſchon in Kamoeftowne, einer engliſchen Miſſionsfration gehört.
+(Silo, wohnhaft, Kamoeftowne) FN
 
 Im Jahr 1840 erhielt er einen Ruf als Brüderpfleger und Mitprediger in Neuſalz, und da Bruder Kohlmeister, welcher die Diaspora in der dortigen Umgegend zu bedienen hakte, bei ſeinem hohen Alter die Beſuche nicht mehr, oder doch nur ſeiten zu machen im Stande war, wurde ihm auch dieſer Auftrag zuertheilt.
-(Bruder Kohlmeister, war, Mitprediger in Neuſalz)
-(Bruder Kohlmeister, war, Brüderpfleger in Neuſalz)
+(Bruder Kohlmeister, war, Mitprediger in Neuſalz) TP
+(Bruder Kohlmeister, war, Brüderpfleger in Neuſalz) TP
 
 In Thun fanden wir Briefe, und einer derſelben enthielt den Ruf an mich, der Gemeine in Nisky als Vorſteher zu dienen.
-(ich, wohnhaft, Thun)
+(ich, wohnhaft, Thun) TP
 
 Zufolge einer erhaltenen Weisung reiſten wir dann im Mai über Neuwied und Ebersdorf nach Herrnhut wo wir von den Eltern meiner Frau und andern Geſchwiſtern herzlich ber willfomme wurden.
-(wir, reisen, Herrnhut)
-(wir, wohnhaft, Ebersdorf)
-(wir, reisen, Neuwied)
+(wir, reisen, Herrnhut) TP
+(wir, wohnhaft, Ebersdorf) FN
+(wir, reisen, Neuwied) TP
 
 Während unſers Aufenthaltes in Herrnhut war uns im Januar 1817 ein Sohn dann in Neuwied im Januar 1819 eine Tochter geboren worden und in Meudierendorf wurden wir abermals durch die Geburt eines Sohnes und einer Tochter erfreut.
-(unsere Familie, geboren, Sohn)
-(unsere Familie, geboren, Tochter)
-(unsere Familie, geboren, Sohn und Tochter)
+(unsere Familie, geboren, Sohn) TP
+(unsere Familie, geboren, Tochter) TP
+(unsere Familie, geboren, Sohn und Tochter) TP
 
 Von den Segenswünſchen Aller begleitet, reiſten wir, Dr. Lees und ih und 9 Kinder, Mitte Februar 1834 von Gnadenthal ab.
-(Dr. Lees, reiſten, Gnadenthal)
-(Dr. Lees, reiſten, 9 Kinder)
+(Dr. Lees, reiſten, Gnadenthal) TP
+(Dr. Lees, reiſten, 9 Kinder) FP
 
 Tages darauf kam ein Societäts - Bruder aus leßtgenanntem Ort und holte uns, Bruder Kaltofen und mich, ab.
-(Bruder Kaltofen, holte ab, uns)
-(ihr, holte ab, uns)
+(Bruder Kaltofen, holte ab, uns) TP
+(ihr, holte ab, uns) FN
 
 Im folgenden Jahr 1864 machte ich mit meiner Tochter eine ſehr angenehme Reiſe über Neuwied und Zeiſt nach Haarlem, und auf dem Rückweg über Baſel, wo wir bei den Eltern meiner lieben Schwiegertochter ſehr angenehme Wochen verbrachten und mit ihnen auch eine kleine Reiſe in die Schweizer Thäler machten.
-(ich, reisen, Schweizer Thäler)
-(ich, aufenthalt, Baſel)
-(ich, reisen, Haarlem)
-(ich, reisen, Neuwied)
-(my Tochter, reisen, Schweizer Thäler)
+(ich, reisen, Schweizer Thäler) TP
+(ich, aufenthalt, Baſel) TP
+(ich, reisen, Haarlem) TP
+(ich, reisen, Neuwied) TP
+(my Tochter, reisen, Schweizer Thäler) TP
 
 Am 12 Auguſt kam er wieder in Ebersdorf an, und am 22ſten wurden wir durch meinen gel. Vater zur heil. Ehe verbunden, wobei derſelbe ſehr eindringlich über die Worte ſprach: Ich gehe einher in der Kraft des Herin.
-(er, kommen, Ebersdorf)
-(wir, werden, heil. Ehe)
+(er, kommen, Ebersdorf) TP
+(wir, werden, heil. Ehe) TP
 
 Am 7 März 1822 verließ ich nun im Namen des Herrn, und nachdem meine lieben Eltern im innigen Gebet mid dem Heren empfohlen, und ich des Vaters Segen empfangen hatte, das elterliche Haus, um nach Neudietendorf zu ziehen.
-(ich, verlassen, elterliche Haus)
+(ich, verlassen, elterliche Haus) FP
 
 Am 31. Januar 1819 wurde ich durch Br. v. Albertini zu einem Diakonus der Brüderkirche ordinirt und erhielt bald darauf einen Ruf als Pfleger und Vorſteher der led. Brüder in Neuwied.
-(ich, ordinirt, Diakonus der Brüderkirche)
-(ich, erhielt, Ruf als Pfleger und Vorſteher der led. Brüder in Neuwied)
-(Br. v. Albertini, wurde, ich)
+(ich, ordinirt, Diakonus der Brüderkirche) TP
+(ich, erhielt, Ruf als Pfleger und Vorſteher der led. Brüder in Neuwied) FP
+(Br. v. Albertini, wurde, ich) FN
 
 Ich bin den 14. Mai 1775 zu Dederan im ſächſiſchen Erzgebirge geboren.
-(ich, geboren, Dederan)
+(ich, geboren, Dederan) TP
 
 Derfelbe war ein beſonderer Freund der Brüdergemeine und ſtand mit dem Prediger in Neudietendorf, Br. Trautevetter, in naher Verbindung.
-(Derfelbe, stand in naher Verbindung, Br. Trautevetter)
-(Derfelbe, war ein beſonderer Freund der, Brüdergemeine)
+(Derfelbe, stand in naher Verbindung, Br. Trautevetter) FN
+(Derfelbe, war ein beſonderer Freund der, Brüdergemeine) FN
 
 Während meines Aufenthaltes daselbſt wurde ich von den an diesem Orte grassierenden Maſern befallen: nachdem ich mit Gottes Hilfe diefe Krankheit glücklich überstanden hatte, kehrte ich im Juli mit meiner l. Frau wieder nach Silo zurück.
-(ich, wurde befallen, Maſern)
-(ich, kehrte zurück, Silo)
+(ich, wurde befallen, Maſern) FN
+(ich, kehrte zurück, Silo) TP
 
 Mit regem Eifer begann ich die mir zum Theil noch ungewohnten mir obliegenden Arbeiten und verbrachte die zwei Jahre 1798 und 1799 froh und ſelig im räglichen Genuß der Nähe Jeſu.
-(ich, begann, Arbeiten)
-(ich, wohnte, räglichen Genuß der Nähe Jeſu)
+(ich, begann, Arbeiten) FP
+(ich, wohnte, räglichen Genuß der Nähe Jeſu) FN
 
 Unter den herzlichſten Segenswünſchen von Geſchwiſtern und Freunden traten wir am 21. Sept. unſere Reiſe nach Altona an.
-(wir, traten, Reiſe nach Altona)
+(wir, traten, Reiſe nach Altona) TP
 
 Daſelbſt bekam ich einſt ein Buch in die Hände, in welchem viel von don Brüder-Miſſionaren in Suriname erzählt wurde.
-(ich, bekam, ein Buch)
-(Brüder-Miſſionaren in Suriname, erzählt, viel)
+(ich, bekam, ein Buch) FN
+(Brüder-Miſſionaren in Suriname, erzählt, viel) FN
 
 Sehr viel Vergnügen machte mir die Beſchäftigung mit der Botanik, wozu Br. Cürie, damals Prediger in Nisky, Anregung und Anleitung zu geben die Güte hatte.
-(Cürie, Anregung und Anleitung zu geben die Güte hatte, mir)
-(Cürie, Anregung und Anleitung zu geben die Güte hatte, Nisky)
+(Cürie, Anregung und Anleitung zu geben die Güte hatte, mir) NF
+(Cürie, Anregung und Anleitung zu geben die Güte hatte, Nisky) NF
 
 Der 18. Auguſt war der Tag unſrer Trauung.
-(unsere, trauung, unsere Trauung)
+(unsere, trauung, unsere Trauung) TP
 
 Glücklich gelangten wir nach Helgoland und von da zum Paderboot mit welchem wir dann abfuhren.
-(wir, ankommen, Helgoland)
-(wir, aufenthalt, Paderboot)
+(wir, ankommen, Helgoland) TP
+(wir, aufenthalt, Paderboot) TP
 
 Der General⸗Gouverneur v. Scholten hatte auf St. Croix 8 ſchöne Schulhäuſer erbaut, aber erſt einem war die Schule angefangen, es fehlte an Lerern; da galt es, nicht ſehen und doch glauben und der Heiland half wunderbar.
-(v. Scholten, hatte, St. Croix)
-(v. Scholten, erbaut, Schulhäuser)
+(v. Scholten, hatte, St. Croix) FN
+(v. Scholten, erbaut, Schulhäuser) FN
 
 Und Lob und Dank ſei ihm! ich habe bis heute, nah mehr als 41 Jahren, keine Veranlaſſung gehabt, seine Leitung zu bereuen, nach welcher er mir die ledige Schweſter Marie Kieſchnick in Gnadenberg zugeführt hat.
-(ich, hatte, Marie Kieſchnick)
-(er, hat mir, Gnadenberg)
+(ich, hatte, Marie Kieſchnick) FN
+(er, hat mir, Gnadenberg) FN
 
 Als einmal die Aeltejten-Conferenz verſammelt war wurde es mir ſo in meinem Herzen der Heiland werde mir jetz die Gnade ſchenken in die Gemeine aufgenommen zu werden.
-(ich, wurde mir die Gnade ſchenken, die Gemeine)
-(ich, wurde in meinem Herzen der Heiland werde, in meinem Herzen)
-(ich, wurde in die Gemeine aufgenommen zu werden, die Gemeine)
-(Aeltejten-Conferenz, wurſammelt war, sich)
+(ich, wurde mir die Gnade ſchenken, die Gemeine) FN
+(ich, wurde in meinem Herzen der Heiland werde, in meinem Herzen) FN
+(ich, wurde in die Gemeine aufgenommen zu werden, die Gemeine) FN
+(Aeltejten-Conferenz, wurſammelt war, sich) FN
 
 Die Seekrankheit ausgenommen, befanden wir uns Alle wohl, und am 14 Juli langten wir nach einer Reiſe von 8 Wochen und 2 Tagen, in London an.
-(wir, ankommen, London)
+(wir, ankommen, London) TP
 
 Nach Vollendung der zwei Seminariumejahre erhielt ich einen Ruf in Die Unitäts- Anſtalt nach Nisky, den ich um ſo lieber annahm, da meine l. Eltern in der Nähe in Bertheisdorf wohnten und mir dadurch die Gelegenheit zum öfteren Umgang mit ihnen geboten wurde.
-(ich, wohnen, Bertheisdorf)
-(ich, tätig, Unitäts- Anſtalt)
+(ich, wohnen, Bertheisdorf) FN
+(ich, tätig, Unitäts- Anſtalt) TP
 
 Vorher aber ſollte ich mid noch einige Monate in England zur Erlernung der engliſchen Sprache aufhalten.
-(ich, aufhalten, England)
+(ich, aufhalten, England) TP
 
 Mein Freund Aſchenbach war mir ins Knabenchor nachgekommen und als Lehrling in die Apotheke eingetreten, durch ihn wurde eine mir gebliebene Liebe für Naturwiſſenſchaft geweckt, und er füllte eine Lücke aus, die mir ohne ihn noch ſchmerzlicher geweſen wäre.
-(Aſchenbach, Lehrling in die Apotheke eingetreten, Apotheke)
-(ich, hatte eine Lücke aus, die mir ohne ihn noch ſchmerzlicher geweſen wäre, Aſchenbach)
-(ich, wurde eine mir gebliebene Liebe für Naturwiſſenſchaft geweckt, Naturwiſſenſchaft)
+(Aſchenbach, Lehrling in die Apotheke eingetreten, Apotheke) FP
+(ich, hatte eine Lücke aus, die mir ohne ihn noch ſchmerzlicher geweſen wäre, Aſchenbach) FN
+(ich, wurde eine mir gebliebene Liebe für Naturwiſſenſchaft geweckt, Naturwiſſenſchaft) FN
 
 Dahin reiſte ich ab, und langte am 8 April 1805, am Montag nach Palmarum, dort an.
-(ich, reiſte, Palmarum)
+(ich, reiſte, Palmarum) FN
+
 
