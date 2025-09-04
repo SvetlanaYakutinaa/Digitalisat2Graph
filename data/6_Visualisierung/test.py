@@ -35,7 +35,7 @@ section[data-testid="stSidebar"] div[data-baseweb="tag"] { max-width: 100% !impo
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="hyphenate" lang="de"><h1>Visualisierung</h1></div>', unsafe_allow_html=True)
-st.divider()
+st.divider() 
 
 # ---------- Daten laden ----------
 BASE = os.path.dirname(os.path.abspath(__file__))
