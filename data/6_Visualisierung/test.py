@@ -20,6 +20,7 @@ h2 { font-size: 28px !important; font-weight: 600 !important; line-height: 1.25;
 h3 { font-size: 26px !important; font-weight: 600 !important; line-height: 1.3; margin-top: 1rem; }
 .hyphenate { hyphens: auto; -webkit-hyphens: auto; -ms-hyphens: auto; }
 p { font-size: 1.05rem; }
+
 /* Sidebar sichtbar breiter machen */
 section[data-testid="stSidebar"] { width: 420px !important; }
 div[data-testid="stSidebarContent"] { width: 420px !important; }
@@ -57,7 +58,7 @@ def load_df(path):
 df = load_df(XLSX)
 
 # ---------- Prüfen, ob nötige Spalten existieren ----------
-required_cols = {"objekt_type", "lat", "lon", "prädikat"}
+required_cols = {"objekt_type", "lat", "lon", "prädikat", "subjekt"}
 missing = [c for c in required_cols if c not in df.columns]
 if missing:
     st.error(f"Fehlende Spalten: {', '.join(missing)}")
@@ -104,6 +105,23 @@ if not selected:
 
 locs_f = locs[locs["__cat"].isin(selected)].copy()
 
+# 3a) Personen pro Ort zusammenfassen (falls mehrere Zeilen je Koordinate)
+def normalize_subject(x):
+    s = str(x).strip()
+    return s if s and s.lower() not in {"nan", "none"} else None
+
+locs_f["subjekt_norm"] = locs_f["subjekt"].map(normalize_subject)
+
+grouped = (
+    locs_f.groupby(["lat", "lon", "__cat"], as_index=False)
+          .agg(
+              subjekt_list=("subjekt_norm", lambda s: sorted({v for v in s if v})),
+              objekt_type=("objekt_type", "first")
+          )
+)
+grouped["__color"] = grouped["__cat"].map(color_map)
+grouped["person_count"] = grouped["subjekt_list"].apply(len)
+
 # 4) Karte bauen
 center = [float(locs_f["lat"].median()), float(locs_f["lon"].median())]
 m = folium.Map(
@@ -117,14 +135,23 @@ m = folium.Map(
 
 cluster = MarkerCluster(name="Orte").add_to(m)
 
-# 5) Marker erzeugen
-popup_cols = [c for c in ["prädikat", "objekt_type"] if c in locs_f.columns]
-
-for _, row in locs_f.iterrows():
-    tooltip = f"{row.get('prädikat', '—')}"
-    html_info = "<b>Info</b><br>" + "<br>".join(
-        f"<b>{c}:</b> {row.get(c, '')}" for c in popup_cols
+# 5) Marker erzeugen (mit Personenliste im Popup)
+for _, row in grouped.iterrows():
+    persons = row["subjekt_list"]
+    persons_html = (
+        "<i>keine Person angegeben</i>" if not persons
+        else "<br>".join(f"• {p}" for p in persons)
     )
+
+    tooltip = f"{row['__cat']} — {row['person_count']} Person(en)"
+    html_info = f"""
+    <b>Info</b><br>
+    <b>prädikat:</b> {row['__cat']}<br>
+    <b>objekt_type:</b> {row['objekt_type']}<br>
+    <b>Person(en):</b><br>
+    {persons_html}
+    """
+
     folium.CircleMarker(
         location=[row["lat"], row["lon"]],
         radius=6,
@@ -134,7 +161,7 @@ for _, row in locs_f.iterrows():
         color=row["__color"],
         fill_color=row["__color"],
         tooltip=tooltip,
-        popup=folium.Popup(html_info, max_width=300),
+        popup=folium.Popup(html_info, max_width=320),
     ).add_to(cluster)
 
 # 6) Legende (nur ausgewählte Kategorien anzeigen, Farben bleiben stabil)
@@ -153,4 +180,4 @@ m.get_root().html.add_child(folium.Element(legend_html.format(items=items)))
 map_html = m.get_root().render()
 html(map_html, height=650, scrolling=False)
 
-st.caption(f"{len(locs_f):,} Orte dargestellt • {len(selected)} ausgewählte Kategorie(n)")
+st.caption(f"{len(grouped):,} Orte dargestellt • {len(selected)} ausgewählte Kategorie(n) • Personen aggregiert pro Koordinate")
