@@ -189,3 +189,13 @@ for u, v, edata in G.edges(data=True):
 # ---------- Rendern ----------
 html = net.generate_html()
 st.components.v1.html(html, height=viz_h, scrolling=True)
+
+# Download in der Sidebar
+st.sidebar.download_button(
+    "Graph als HTML herunterladen",
+    data=html,                      
+    file_name="graph.html",
+    mime="text/html"
+)
+
+
