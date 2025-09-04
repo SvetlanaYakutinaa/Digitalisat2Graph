@@ -4,8 +4,9 @@ st.set_page_config(layout="wide", page_title="Visualisierung")
 import pandas as pd
 import networkx as nx
 from pyvis.network import Network
-from collections import defaultdict 
+from collections import defaultdict
 import os
+import time
 
 # ---------- Styles ----------
 st.markdown("""
@@ -50,11 +51,23 @@ if not os.path.exists(XLSX):
         st.write(f"Konnte Ordner nicht lesen: {e}")
     st.stop()
 
+# --- Cache an die Datei-Änderungszeit binden (Cache-Key = (path, mtime)) ---
 @st.cache_data(show_spinner=False)
-def load_df(path):
+def load_df(path: str, mtime: float) -> pd.DataFrame:
     return pd.read_excel(path)
 
-df = load_df(XLSX)
+mtime = os.path.getmtime(XLSX)
+df = load_df(XLSX, mtime)
+
+# Sichtbare Quelle + Zeitstempel
+st.sidebar.caption(
+    f"Quelle: {os.path.abspath(XLSX)} — Stand: {time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(mtime))}"
+)
+
+# Manueller Reload-Button
+if st.sidebar.button("Daten neu laden"):
+    st.cache_data.clear()
+    st.rerun()
 
 # ---------- Spalten robust ermitteln ----------
 needed = {"subjekt", "subjekt_type", "prädikat", "objekt", "objekt_type"}
@@ -135,7 +148,7 @@ COLOR_PRESET = {
     "location":     "#59a14f",
     "weg":          "#e15759",
     "event":        "#edc948",
-    "datum":        "#b07aa1",   # korrekt: 'datum'
+    "datum":        "#b07aa1",
     "tätigkeit":    "#76b7b2",
     "gemischt":     "#9e9e9e",
     "unbekannt":    "#bab0ac",
@@ -188,9 +201,9 @@ net.set_options(f"""
 }}
 """)
 
-# --- Knoten & Kanten nur einmal hinzufügen; KEIN color= am Knoten ---
+# --- Knoten & Kanten hinzufügen; Farbe kommt aus "group" ---
 for n in G.nodes():
-    g = group_for(n)  # z. B. "datum", "person", ...
+    g = group_for(n)  # z. B. "datum", "person", "weg", ...
     net.add_node(n, label=n, title=tooltip_for(n), group=g)
 
 for u, v, edata in G.edges(data=True):
@@ -203,9 +216,7 @@ st.components.v1.html(html, height=viz_h, scrolling=True)
 # Download in der Sidebar
 st.sidebar.download_button(
     "Graph als HTML herunterladen",
-    data=html,                      
+    data=html,
     file_name="graph.html",
     mime="text/html"
 )
-
-
