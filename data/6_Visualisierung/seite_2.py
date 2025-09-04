@@ -4,7 +4,7 @@ st.set_page_config(layout="wide", page_title="Visualisierung")
 import pandas as pd
 import networkx as nx
 from pyvis.network import Network
-from collections import defaultdict
+from collections import defaultdict 
 import os
 
 # ---------- Styles ----------
