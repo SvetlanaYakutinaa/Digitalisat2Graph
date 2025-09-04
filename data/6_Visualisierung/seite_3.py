@@ -54,7 +54,7 @@ if not os.path.exists(XLSX):
 def load_df(path):
     return pd.read_excel(path)
 
-df = load_df(XLSX)
+df = load_df(XLSX) 
 
 # ---------- Prüfen, ob nötige Spalten existieren ----------
 required_cols = {"objekt_type", "lat", "lon", "prädikat"}
