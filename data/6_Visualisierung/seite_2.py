@@ -20,6 +20,16 @@ h2 { font-size: 28px !important; font-weight: 600 !important; line-height: 1.25;
 h3 { font-size: 26px !important; font-weight: 600 !important; line-height: 1.3; margin-top: 1rem; }
 .hyphenate { hyphens: auto; -webkit-hyphens: auto; -ms-hyphens: auto; }
 p { font-size: 1.05rem; }
+/* Sidebar sichtbar breiter machen */
+section[data-testid="stSidebar"] { width: 420px !important; }
+div[data-testid="stSidebarContent"] { width: 420px !important; }
+
+/* In der Sidebar: Schrift minimal kleiner für bessere Sichtbarkeit */
+section[data-testid="stSidebar"] * { font-size: 18px !important; }
+
+/* Multiselect in der Sidebar: volle Breite nutzen, Tags nicht zu stark abschneiden */
+section[data-testid="stSidebar"] div[data-baseweb="select"] { min-width: 100% !important; }
+section[data-testid="stSidebar"] div[data-baseweb="tag"] { max-width: 100% !important; }
 </style>
 """, unsafe_allow_html=True)
 
