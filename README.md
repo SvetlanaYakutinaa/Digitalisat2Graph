@@ -4,7 +4,7 @@
 *Von Digitalisaten zu Wissensgraphen: Eine automatisierte Extraktion und semantische Modellierung biographischer Daten am Beispiel von Lebensbeschreibungen der Herrnhuter Brüdergemeine*
 
 ## Kurzbeschreibung
-Dieses Repository enthält den Python-Code zum Projekt **Digitalisat2Graph**, das im Rahmen der oben genannten Masterarbeit entstanden ist. Untersucht wird die automatisierte Überführung biographischer Texte der Herrnhuter Brüdergemeine in **strukturierte Wissensgraph-Repräsentationen**. Als Arbeitsmaterial dient ein Korpus aus **20 Lebensbeschreibungen (Primärdigitalisate)**.
+Dieses Repository enthält den Python-Code zum Projekt *Digitalisat2Graph*, das im Rahmen der oben genannten Masterarbeit entstanden ist. Untersucht wird die automatisierte Überführung biographischer Texte der Herrnhuter Brüdergemeine in strukturierte Wissensgraph-Repräsentationen. Als Arbeitsmaterial dient ein Korpus aus 20 Lebensbeschreibungen (Primärdigitalisate).
 
 Methodisch wird eine Pipeline realisiert:
 1. **Texterkennung (OCR)**
