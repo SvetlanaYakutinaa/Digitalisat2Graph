@@ -16,7 +16,7 @@ Das resultierende Knoten-Kanten-Modell ermöglicht die semantische Analyse, Verk
 
 ## Aufbau
 
-**Datenablage**  (data)
+**Datenablage** 
 Der Ordner `data/` enthält die für die Pipeline relevanten Materialien (z. B. Primärdigitalisate, OCR-Ausgaben sowie kuratierte Zwischenergebnisse). Für Nachvollziehbarkeit und Reproduzierbarkeit gilt folgende Unterstruktur:
 
 - [5.2_OCR-Erkennung/jpg](data/5.2_OCR-Erkennung/jpg) – Primärdigitalisate als Seitenbilder (JPG).
@@ -38,3 +38,16 @@ Der Ordner `data/` enthält die für die Pipeline relevanten Materialien (z. B. 
 **Arbeitsweise**  
 - **Notebook-getriebene Experimente:** [`script.ipynb`](script.ipynb) dokumentiert exemplarisch die Ausführung einzelner Pipeline-Schritte (OCR → NER → RE → EL) sowie explorative Analysen.
 
+
+## Lizenz
+
+- **Code**: MIT-Lizenz (permissiv).  
+  SPDX: `MIT` – siehe Datei **LICENSE**
+
+- **Daten, Modelle & Dokumentation** (README, Notebooks): CC0 1.0 (Public Domain).  
+  SPDX: `CC0-1.0` – siehe Datei **LICENSE-DATA**
+
+## Datenquelle
+Die verwendeten Digitalisate der Zeitschrift *Nachrichten aus der Brüder-Gemeine* sind **frei zugänglich** über die **Digital Archives Initiative (DAI)** der **Memorial University of Newfoundland**:  
+[dai.mun.ca/digital/nachrichten](https://dai.mun.ca/digital/nachrichten)  
+Für die einzelnen Jahrgänge/Ausgaben stehen direkte **PDF-Downloads** bereit.
