@@ -24,7 +24,7 @@ Der Ordner `data/` enthält die für die Pipeline relevanten Materialien (z. B. 
 - [5.3_TEI-Modellierung](data/5.3_TEI-Modellierung) – TEI-XML (roh und bereinigt); bereinigte Dateien unter  
   [5.3_TEI_bereinigt](data/5.3_TEI-Modellierung/5.3_TEI_bereinigt/).
 - [5.4.1_NER](data/5.4.1_NER) – NER-Modell und Trainingsressourcen  
-  - [Skript zur Erstellung der Trainingsdaten](data/5.4.1_NER/ML_Trainingdaten.ipynb)  
+  - [Script zur Erstellung der Trainingsdaten](data/5.4.1_NER/ML_Trainingdaten.ipynb)  
   - [Trainingsdaten (JSONL)](data/5.4.1_NER/training_data.jsonl)  
   - [Feinabgestimmtes spaCy-Modell](data/5.4.1_NER/output/model-best/)
 - [5.4.2_RE](data/5.4.2_RE) – Ergebnisse der Relationsextraktion.
