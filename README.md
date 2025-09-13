@@ -16,7 +16,7 @@ Das resultierende Knoten-Kanten-Modell ermöglicht die semantische Analyse, Verk
 
 ## Aufbau
 
-**Datenablage (`data/`)**  
+**Datenablage (data)**  
 Der Ordner `data/` enthält die für die Pipeline relevanten Materialien (z. B. Primärdigitalisate, OCR-Ausgaben sowie kuratierte Zwischenergebnisse). Für Nachvollziehbarkeit und Reproduzierbarkeit gilt folgende Unterstruktur:
 
 - [5.2_OCR-Erkennung/jpg](data/5.2_OCR-Erkennung/jpg) – Primärdigitalisate als Seitenbilder (JPG).
