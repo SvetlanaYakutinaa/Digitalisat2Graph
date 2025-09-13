@@ -8,9 +8,9 @@ Dieses Repository enthält den Python-Code zum Projekt **Digitalisat2Graph**, da
 
 Methodisch wird eine Pipeline realisiert:
 1. **Texterkennung (OCR)**
-2. **Erkennung benannter Entitäten (NER)** mit **spaCy**; das Modell wurde domänenspezifisch **erweitert** und auf **synthetisch erzeugten Trainingsdaten** nachtrainiert
-3. **Relationsextraktion (RE)** mit **Llama 3**
-4. **Entity Linking (EL)** gegen **Wikidata**
+2. **Erkennung benannter Entitäten (NER)** mit spaCy; das Modell wurde domänenspezifisch erweitert und auf synthetisch erzeugten Trainingsdaten nachtrainiert
+3. **Relationsextraktion (RE)** mit Llama 3
+4. **Entity Linking (EL)** mit Wikidata
 
 Das resultierende Knoten-Kanten-Modell ermöglicht die semantische Analyse, Verknüpfung und Nachnutzung der biographischen Informationen.
 
@@ -27,19 +27,19 @@ Der Ordner `data/` enthält die für die Pipeline relevanten Materialien (z. B. 
   - [Skript zur Erstellung der Trainingsdaten](data/5.4.1_NER/ML_Trainingdaten.ipynb)  
   - [Trainingsdaten (JSONL)](data/5.4.1_NER/training_data.jsonl)  
   - [Feinabgestimmtes spaCy-Modell](data/5.4.1_NER/output/model-best/)
-- [5.4.2_RE](data/5.4.2_RE) – **Ergebnisse der Relationsextraktion**.
-- [5.4.3_EL](data/5.4.3_EL) – **Entity-Linking-Ergebnisse** (Wikidata-IDs, Mappings).
+- [5.4.2_RE](data/5.4.2_RE) – Ergebnisse der Relationsextraktion.
+- [5.4.3_EL](data/5.4.3_EL) – Entity-Linking-Ergebnisse (Wikidata-IDs, Mappings).
 
 **Hinweise zur Ablage**  
 - **Codebasis:** Der ausführbare Projektcode befindet sich primär im Notebook [`script.ipynb`](script.ipynb).  
-- **Trainingsressourcen (NER):** **Trainingsmodell** und **Trainingsdaten** liegen gebündelt unter [`data/5.4.1_NER`](data/5.4.1_NER) (siehe Links oben).  
-- **Ergebnisdateien und Zwischenstände:** Die **weiteren Unterordner** in `data/` enthalten Dateien, die **im Verlauf der Arbeit entstanden** sind (z. B. OCR-Outputs, bereinigte TEI-XML, Ergebnisse der Relationsextraktion und des Entity Linkings).
+- **Trainingsressourcen (NER):**
+  **Trainingsmodell** und **Trainingsdaten** liegen gebündelt unter [`data/5.4.1_NER`](data/5.4.1_NER) (siehe Links oben).  
+- **Ergebnisdateien und Zwischenstände:** Die weiteren Unterordner in `data/` enthalten Dateien, die im Verlauf der Arbeit entstanden sind (z. B. OCR-Outputs, bereinigte TEI-XML, Ergebnisse der Relationsextraktion und des Entity Linkings).
 
 **Arbeitsweise**  
 - **Notebook-getriebene Experimente:** [`script.ipynb`](script.ipynb) dokumentiert exemplarisch die Ausführung einzelner Pipeline-Schritte (OCR → NER → RE → EL) sowie explorative Analysen.
 
 
 ## Datenquelle
-Die verwendeten Digitalisate der Zeitschrift *Nachrichten aus der Brüder-Gemeine* sind **frei zugänglich** über die **Digital Archives Initiative (DAI)** der **Memorial University of Newfoundland**:  
-[dai.mun.ca/digital/nachrichten](https://dai.mun.ca/digital/nachrichten)  
-Für die einzelnen Jahrgänge/Ausgaben stehen direkte **PDF-Downloads** bereit.
+Die verwendeten Digitalisate der Zeitschrift *Nachrichten aus der Brüder-Gemeine* sind frei zugänglich über die **Digital Archives Initiative (DAI)** der [Memorial University of Newfoundland](https://dai.mun.ca/digital/nachrichten)  
+Für die einzelnen Jahrgänge/Ausgaben stehen direkte PDF-Downloads bereit.
