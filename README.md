@@ -1,7 +1,5 @@
 # Digitalisat2Graph
 
-# Digitalisat2Graph
-
 ## Thema der Masterarbeit
 *Von Digitalisaten zu Wissensgraphen: Eine automatisierte Extraktion und semantische Modellierung biographischer Daten am Beispiel von Lebensbeschreibungen der Herrnhuter Brüdergemeine*
 
