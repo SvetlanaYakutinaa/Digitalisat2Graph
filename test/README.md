@@ -1,2 +1,0 @@
-# Digitalisat2Graph
-
